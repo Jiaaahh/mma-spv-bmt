@@ -1,0 +1,42 @@
+[
+  {
+    "label": "C1 字形缓存",
+    "package_path": "assets/local_only/C1_glyphs.npz",
+    "sha256": "7919f63ee4c9b17d627eac6ffdfa009d73c18a1a7c53dc88f26a29f2c9e6d01c",
+    "bytes": 1035982,
+    "status": "copied_hash_matches_historical_record",
+    "redistribution": "pending_rights_review",
+    "public_candidate_included": false,
+    "public_candidate_reason": "font-derived glyph cache excluded; original local status retained as provenance"
+  },
+  {
+    "label": "冻结训练字形",
+    "package_path": "assets/local_only/train_glyphs.npz",
+    "sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582",
+    "bytes": 3929566,
+    "status": "copied_hash_matches_historical_record",
+    "redistribution": "pending_rights_review",
+    "public_candidate_included": false,
+    "public_candidate_reason": "font-derived glyph cache excluded; original local status retained as provenance"
+  },
+  {
+    "label": "E1 字形缓存",
+    "package_path": "assets/local_only/E1_glyphs.npz",
+    "sha256": "7929a011905fd12a173b9671d2d31b7becad792bf28008f7bde3562440b8933d",
+    "bytes": 2015756,
+    "status": "copied_hash_matches_historical_record",
+    "redistribution": "pending_rights_review",
+    "public_candidate_included": false,
+    "public_candidate_reason": "font-derived glyph cache excluded; original local status retained as provenance"
+  },
+  {
+    "label": "StudyB 字形缓存",
+    "package_path": "assets/local_only/StudyB_glyphs.npz",
+    "sha256": "e799efb025d8df2424e471acab37c5c30a9f20821ed8e0e5ce64cc817d50a29f",
+    "bytes": 1859468,
+    "status": "copied_hash_matches_historical_record",
+    "redistribution": "pending_rights_review",
+    "public_candidate_included": false,
+    "public_candidate_reason": "font-derived glyph cache excluded; original local status retained as provenance"
+  }
+]

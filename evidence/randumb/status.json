@@ -1,0 +1,9 @@
+{
+  "stage": "COMPLETE_AUDITED",
+  "development_fits": 156,
+  "prediction_rows": 118800,
+  "completed_utc": "2026-09-28T06:39:17.558564+00:00",
+  "pending_work": [],
+  "results": "结果解读与论文建议.md",
+  "audit_sha256": "a2279987e0ad7e5713bf669115c462ac8866bad25ae91956aacbf9d69b199192"
+}

@@ -1,0 +1,7 @@
+# CPython 3.12.7; direct pins, not a transitive lock.
+numpy==1.26.4
+scipy==1.13.1
+scikit-image==0.25.0
+scikit-learn==1.5.1
+PyYAML==6.0.1
+threadpoolctl==3.5.0

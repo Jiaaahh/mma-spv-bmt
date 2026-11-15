@@ -1,0 +1,17 @@
+{
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_threads": 16,
+  "ram_total": 14877257728,
+  "ram_available_start": 5478789120,
+  "blas_threads": 2,
+  "source_hashes": {
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\metadata.npz": "d158110d9d26e2773e8e64dc77e745a56daa58d2a3550c76ddf9e71846bcc72e",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\ideal_images.npy": "f285b9e7d79bcb753525d335668cd1048eb91bfe9ac1ae34e3f8808052284df1",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2026_images.npy": "4685ff88fc85d557933062d5afd01986612451d3afc348e9f84822d14c808959",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2027_images.npy": "a0cc845eca4358515f4eec84800dc7c3af630cd101e9bd4e9bdb60785f2bee29",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2028_images.npy": "223b28f6ff6606c5ee09eec5a8c4bb607162282cfc924366d9818cd0fde903d7",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2029_images.npy": "4e07866f9d452367fab741c00dbe8271986a1ffca89ffe419324c19a1470c4b0"
+  },
+  "core_sha256": "f3264f0488a6903662269df7f051378c1af181908ee166c80d1c96f4af79cf10"
+}

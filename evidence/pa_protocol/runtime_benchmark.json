@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "device": "cpu",
+  "torch": "2.6.0+cpu",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "threads": 2,
+  "batch": 8,
+  "warmup_images": 16,
+  "timed_images": 256,
+  "seconds": 21.747288300015498,
+  "images_per_second": 11.771582574725768,
+  "projected_16200_image_hours": 0.3822765521487099,
+  "peak_process_rss_bytes": 1215717376,
+  "available_ram_at_start_bytes": 5326389248,
+  "text_seconds": 55.56742410000879,
+  "inference_only": true,
+  "recognition_accuracy_computed": false,
+  "panels_accessed": [
+    "training_only"
+  ],
+  "preprocess": "Compose(\n    Resize(size=224, interpolation=bicubic, max_size=None, antialias=True)\n    CenterCrop(size=(224, 224))\n    <function _convert_image_to_rgb at 0x00000237172BDB20>\n    ToTensor()\n    Normalize(mean=(0.48145466, 0.4578275, 0.40821073), std=(0.26862954, 0.26130258, 0.27577711))\n)",
+  "batch_vs_single_max_abs_feature_error": 1.7136335372924805e-07,
+  "conversion": "float32 SPV / per-image positive maximum -> round(255*x) uint8 RGB -> official CLIP RN50 preprocessing",
+  "script_sha256": "f93a53e354371f57e85d5a4b6163df7d5ebfa9783cbdf76e1d93ea2164371dfc"
+}

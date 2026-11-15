@@ -1,0 +1,177 @@
+[
+  {
+    "condition": "mild",
+    "mapping_id": "e1_mild_seed3101",
+    "mapping_seed": 3101,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "mild",
+    "mapping_id": "e1_mild_seed3102",
+    "mapping_seed": 3102,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "mild",
+    "mapping_id": "e1_mild_seed3103",
+    "mapping_seed": 3103,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "mild",
+    "mapping_id": "e1_mild_seed3104",
+    "mapping_seed": 3104,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "mild",
+    "mapping_id": "e1_mild_seed3105",
+    "mapping_seed": 3105,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "moderate",
+    "mapping_id": "e1_moderate_seed3101",
+    "mapping_seed": 3101,
+    "method_count": 9,
+    "prediction_rows_committed_in_memory": 6480
+  },
+  {
+    "condition": "moderate",
+    "mapping_id": "e1_moderate_seed3102",
+    "mapping_seed": 3102,
+    "method_count": 9,
+    "prediction_rows_committed_in_memory": 6480
+  },
+  {
+    "condition": "moderate",
+    "mapping_id": "e1_moderate_seed3103",
+    "mapping_seed": 3103,
+    "method_count": 9,
+    "prediction_rows_committed_in_memory": 6480
+  },
+  {
+    "condition": "moderate",
+    "mapping_id": "e1_moderate_seed3104",
+    "mapping_seed": 3104,
+    "method_count": 9,
+    "prediction_rows_committed_in_memory": 6480
+  },
+  {
+    "condition": "moderate",
+    "mapping_id": "e1_moderate_seed3105",
+    "mapping_seed": 3105,
+    "method_count": 9,
+    "prediction_rows_committed_in_memory": 6480
+  },
+  {
+    "condition": "severe",
+    "mapping_id": "e1_severe_seed3101",
+    "mapping_seed": 3101,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "severe",
+    "mapping_id": "e1_severe_seed3102",
+    "mapping_seed": 3102,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "severe",
+    "mapping_id": "e1_severe_seed3103",
+    "mapping_seed": 3103,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "severe",
+    "mapping_id": "e1_severe_seed3104",
+    "mapping_seed": 3104,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "severe",
+    "mapping_id": "e1_severe_seed3105",
+    "mapping_seed": 3105,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "position_only",
+    "mapping_id": "e1_position_only_seed3101",
+    "mapping_seed": 3101,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "position_only",
+    "mapping_id": "e1_position_only_seed3102",
+    "mapping_seed": 3102,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "position_only",
+    "mapping_id": "e1_position_only_seed3103",
+    "mapping_seed": 3103,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "position_only",
+    "mapping_id": "e1_position_only_seed3104",
+    "mapping_seed": 3104,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "position_only",
+    "mapping_id": "e1_position_only_seed3105",
+    "mapping_seed": 3105,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "scale_only",
+    "mapping_id": "e1_scale_only_seed3101",
+    "mapping_seed": 3101,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "scale_only",
+    "mapping_id": "e1_scale_only_seed3102",
+    "mapping_seed": 3102,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "scale_only",
+    "mapping_id": "e1_scale_only_seed3103",
+    "mapping_seed": 3103,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "scale_only",
+    "mapping_id": "e1_scale_only_seed3104",
+    "mapping_seed": 3104,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  },
+  {
+    "condition": "scale_only",
+    "mapping_id": "e1_scale_only_seed3105",
+    "mapping_seed": 3105,
+    "method_count": 6,
+    "prediction_rows_committed_in_memory": 4320
+  }
+]

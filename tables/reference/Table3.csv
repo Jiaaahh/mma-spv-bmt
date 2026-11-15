@@ -1,0 +1,6 @@
+﻿Configuration,"Accuracy, %","MMA minus control, pp",Conditional 95 % CI
+Ideal baseline,37.33,+10.91,"[8.81, 13.06]"
+Ideal + 4 affine copies,35.26,+12.98,"[10.61, 15.39]"
+Mean scores,45.59,+2.65,"[1.78, 3.56]"
+Max scores,42.31,+5.93,"[4.98, 6.89]"
+MMA original group,48.24,—,—

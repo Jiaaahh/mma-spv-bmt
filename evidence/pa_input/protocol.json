@@ -1,0 +1,22 @@
+{
+  "purpose": "Bounded post-hoc input adaptation screen, not replacement of 180-class main experiment",
+  "seed": 26093060,
+  "class_count": 60,
+  "class_selection": "sorted numpy default_rng(seed).choice(180,60,replace=False), before scores",
+  "fonts": "all six existing training fonts; leave one font out",
+  "train_maps": ["ideal", "moderate_seed2026", "moderate_seed2027", "moderate_seed2028", "moderate_seed2029"],
+  "selection_maps": ["moderate_seed5301", "moderate_seed5302", "moderate_seed5303"],
+  "confirmation_maps": ["moderate_seed5304", "moderate_seed5305"],
+  "variants": ["original", "inverted", "sqrt_brightened"],
+  "original": "u=clip(image/image.max(),0,1); RGB uint8 round(255*u)",
+  "inverted": "255-original_uint8; tests display polarity only; not a physically different SPV simulation",
+  "sqrt_brightened": "RGB uint8 round(255*sqrt(u)); fixed gamma=0.5, no other gamma search; increases faint phosphene visibility",
+  "unchanged": "CLIP RN50 weights, 7 Chinese prompts, prototype core and alpha grid from prior frozen protocol",
+  "selection": "Choose PA0 and PA1 alpha separately on 3 selection maps using existing choose function. Choose display by PA1 selection accuracy; tie order original,inverted,sqrt_brightened. Save decision before scoring confirmation maps.",
+  "confirmation": "Score all predeclared variants for transparency, but never change selected display from confirmation scores",
+  "engineering_followup_gate": "Selected non-original PA1 must improve both selection and confirmation by at least 5 percentage points vs original PA1, with confirmation accuracy >=20 percent, to recommend a full 180-class DEV verification. These are resource triage thresholds, not statistical significance.",
+  "forbidden": "Do not load E1/C1 images, features, predictions, or use their scores; do not change encoder/core, add more candidates, or retune on confirmation",
+  "scope_limits": "Historical DEV data, post-hoc analysis; not fresh blinded holdout. 60-way feature-column normalization and class difficulty differ from 180-way; no cross-task ranking.",
+  "threads": 2,
+  "batch": 8
+}

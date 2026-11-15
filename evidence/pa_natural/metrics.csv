@@ -1,0 +1,13 @@
+﻿split,method,n,correct,accuracy_percent
+support,TEXT,160,148,92.5
+support,PLAIN,160,159,99.375
+support,PA_VISUAL,160,159,99.375
+support,PA_FULL,160,157,98.125
+validation,TEXT,80,75,93.75
+validation,PLAIN,80,77,96.25
+validation,PA_VISUAL,80,77,96.25
+validation,PA_FULL,80,79,98.75
+test,TEXT,320,299,93.4375
+test,PLAIN,320,288,90.0
+test,PA_VISUAL,320,301,94.0625
+test,PA_FULL,320,314,98.125

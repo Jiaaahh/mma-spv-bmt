@@ -1,0 +1,153 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "tag": "ideal",
+      "n": 1080,
+      "input_sha256": "f285b9e7d79bcb753525d335668cd1048eb91bfe9ac1ae34e3f8808052284df1",
+      "feature_sha256": "062991046817e2d72ccaea9a90f7ed38f29274077e4f31977a421eb4666dbefb",
+      "seconds": 133.19850420003058,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed2026",
+      "n": 1080,
+      "input_sha256": "4685ff88fc85d557933062d5afd01986612451d3afc348e9f84822d14c808959",
+      "feature_sha256": "e7927d106260b17c368b81a7a3acb45a97113645c105ecacd09f2cfe89c50d65",
+      "seconds": 135.0108184000128,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed2027",
+      "n": 1080,
+      "input_sha256": "a0cc845eca4358515f4eec84800dc7c3af630cd101e9bd4e9bdb60785f2bee29",
+      "feature_sha256": "e777411b7a1c6304cca952c879c049d30ebe3cdfe04771bb91349d258f22a682",
+      "seconds": 111.0534639999969,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed2028",
+      "n": 1080,
+      "input_sha256": "223b28f6ff6606c5ee09eec5a8c4bb607162282cfc924366d9818cd0fde903d7",
+      "feature_sha256": "3535c2f77e63bdd7ad899a604bf03313b54bf199710f79ad3da38d71f47581ec",
+      "seconds": 88.54959050001344,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed2029",
+      "n": 1080,
+      "input_sha256": "4e07866f9d452367fab741c00dbe8271986a1ffca89ffe419324c19a1470c4b0",
+      "feature_sha256": "72ab8b360d4ddea475139d0daa35f663a20bf8e23b198309d779d095036706c1",
+      "seconds": 89.04548669996439,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed5301",
+      "n": 1080,
+      "input_sha256": "1d8544e21afabd666228708290c548d848d6e32b2b6f074f5f439cea36b55529",
+      "feature_sha256": "79370d4e885178b0a3bc8c172df22942b9d13b82843d3d9d91bf96b6e3ab17df",
+      "seconds": 123.0384632999776,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed5302",
+      "n": 1080,
+      "input_sha256": "37ef0c6d06621a97b9aa9b5ce6b6e7cc823f8a7117cf66468b0557132c6c6b1d",
+      "feature_sha256": "d08ea3e85124cab16450c0f92048183bb7c5d63df585a26b475f8ffdbe9d84a3",
+      "seconds": 95.04534840001725,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed5303",
+      "n": 1080,
+      "input_sha256": "1117322d421b76e07092cf8a3782339eaebb06bda5063b0319f793c5ac14bac4",
+      "feature_sha256": "fac0561d506811e954365fbc6c4eb8ca537a4b4f026336a90daed875e19f7dd3",
+      "seconds": 131.26598530000774,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed5304",
+      "n": 1080,
+      "input_sha256": "105f1d6e5da7b7490107f39cdfccc1b3685b6502acadf05000b0a2c141a9f403",
+      "feature_sha256": "c782cc1ef20a29d73e5a864c9ffd13e2587bc51903bb75b1cdac93b86180af00",
+      "seconds": 133.34632469998905,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "moderate_seed5305",
+      "n": 1080,
+      "input_sha256": "f308fe961c6ef529ca856ef2a0bec618c5a82b42bc04e35e94552e00153c3a4f",
+      "feature_sha256": "bbfe7ab9d74ec00c055da9cd66c351afd43b942c33baab5beaa6c9097debeae8",
+      "seconds": 132.21596080000745,
+      "dtype": "float32",
+      "shape": [
+        1080,
+        1024
+      ]
+    },
+    {
+      "tag": "E1",
+      "n": 3600,
+      "input_sha256": "cf168478d3ac676947f7cfbaaccf4e5be9e433b5096e71c9243eb3e785f3185a",
+      "feature_sha256": "71b57927725eb5d0b5548f7d6d5ab35df9ef9a7d9fb7cf069e1ebe6d184b72f9",
+      "seconds": 476.0799216000014,
+      "dtype": "float32",
+      "shape": [
+        3600,
+        1024
+      ]
+    },
+    {
+      "tag": "C1",
+      "n": 1800,
+      "input_sha256": "6789c9dc1434d3a8de0ffb144b2fdd4690483b4eaaba07d071dea6748e7c5e9c",
+      "feature_sha256": "4d0a508539bebf64b300e1e48ae9c5415c3719b18fe3dde657bf611524e5547f",
+      "seconds": 218.01172379998025,
+      "dtype": "float32",
+      "shape": [
+        1800,
+        1024
+      ]
+    }
+  ],
+  "total_images": 16200,
+  "unit_norm": true,
+  "preflight_256_features_replayed": true,
+  "accuracy_computed": false
+}

@@ -1,0 +1,7 @@
+﻿Rule and training,"Development accuracy, %",Development macro-F1,"Extended accuracy, %",Extended macro-F1,"Basic accuracy, %",Basic macro-F1
+Class mean then L2: ideal,37.33,0.3341,64.00,0.6452,49.56,0.5266
+Class mean then L2: multi-map (MMA),48.24,0.4379,79.06,0.7841,64.72,0.6524
+Sample L2 then mean: ideal,37.24,0.3330,64.06,0.6453,49.44,0.5259
+Sample L2 then mean: multi-map,48.04,0.4355,79.06,0.7843,64.56,0.6502
+Add column L2: ideal (PA-HOG),25.93,0.2134,48.08,0.4741,39.17,0.4067
+Add column L2: multi-map (PA-HOG),30.54,0.2545,54.75,0.5394,44.50,0.4661

@@ -1,0 +1,38 @@
+﻿Configuration,Correct,Predictions,"Accuracy, %"
+Ideal baseline,2016,5400,37.33
+Affine augmentation,1904,5400,35.26
+MMA (map group 1),2605,5400,48.24
+Mean scores (map group 1),2462,5400,45.59
+Max scores (map group 1),2285,5400,42.31
+Ideal + map (seed 2026),2502,5400,46.33
+Ideal + map (seed 2027),2529,5400,46.83
+Ideal + map (seed 2028),2449,5400,45.35
+Ideal + map (seed 2029),2504,5400,46.37
+MMA (map group 2),2647,5400,49.02
+Mean scores (map group 2),2539,5400,47.02
+Max scores (map group 2),2329,5400,43.13
+Ideal + map (seed 5201),2527,5400,46.80
+Ideal + map (seed 5202),2551,5400,47.24
+Ideal + map (seed 5203),2533,5400,46.91
+Ideal + map (seed 5204),2481,5400,45.94
+MMA (map group 3),2655,5400,49.17
+Mean scores (map group 3),2538,5400,47.00
+Max scores (map group 3),2374,5400,43.96
+Ideal + map (seed 5205),2523,5400,46.72
+Ideal + map (seed 5206),2510,5400,46.48
+Ideal + map (seed 5207),2504,5400,46.37
+Ideal + map (seed 5208),2543,5400,47.09
+MMA (map group 4),2651,5400,49.09
+Mean scores (map group 4),2530,5400,46.85
+Max scores (map group 4),2342,5400,43.37
+Ideal + map (seed 5209),2518,5400,46.63
+Ideal + map (seed 5210),2541,5400,47.06
+Ideal + map (seed 5211),2494,5400,46.19
+Ideal + map (seed 5212),2545,5400,47.13
+MMA (map group 5),2685,5400,49.72
+Mean scores (map group 5),2565,5400,47.50
+Max scores (map group 5),2419,5400,44.80
+Ideal + map (seed 5213),2541,5400,47.06
+Ideal + map (seed 5214),2533,5400,46.91
+Ideal + map (seed 5215),2540,5400,47.04
+Ideal + map (seed 5216),2503,5400,46.35

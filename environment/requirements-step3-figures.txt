@@ -1,0 +1,5 @@
+# Separate figure runtime; full inventory: checks/environment/figures.json
+numpy==2.3.5
+Pillow==13.0.0
+reportlab==4.4.9
+pypdfium2==5.13.0

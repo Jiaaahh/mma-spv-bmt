@@ -1,0 +1,2 @@
+# For the two lightweight prediction-check commands only. Tested with CPython 3.12.7.
+numpy==1.26.4

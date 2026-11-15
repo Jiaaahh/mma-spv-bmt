@@ -1,0 +1,511 @@
+{
+  "status": "PASS",
+  "checked_predictions": 21600,
+  "old_dev_prediction_sha256": "3d670102d6915a574fd307e17bad67fc7ae2775c338c0a0660a355e10070cb0d",
+  "details": [
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H0",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H0",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H0",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H0",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H0",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H1",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H1",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H1",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H1",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "liu_jian_mao_cao",
+      "method": "H1",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H0",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H0",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H0",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H0",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H0",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H1",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H1",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H1",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H1",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "ma_shan_zheng",
+      "method": "H1",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H0",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H0",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H0",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H0",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H0",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H1",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H1",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H1",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H1",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_sans_sc_thin",
+      "method": "H1",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H0",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H0",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H0",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H0",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H0",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H1",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H1",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H1",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H1",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "noto_serif_sc_extralight",
+      "method": "H1",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H0",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H0",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H0",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H0",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H0",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H1",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H1",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H1",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H1",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_kuaile",
+      "method": "H1",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H0",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H0",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H0",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H0",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H0",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H1",
+      "mapping": 5301,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H1",
+      "mapping": 5302,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H1",
+      "mapping": 5303,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H1",
+      "mapping": 5304,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "DEV",
+      "font": "zcool_qingke_huangyou",
+      "method": "H1",
+      "mapping": 5305,
+      "n": 180,
+      "mismatches": 0
+    },
+    {
+      "panel": "E1",
+      "method": "H0",
+      "n": 3600,
+      "mismatches": 0
+    },
+    {
+      "panel": "C1",
+      "method": "H0",
+      "n": 1800,
+      "mismatches": 0
+    },
+    {
+      "panel": "E1",
+      "method": "H1",
+      "n": 3600,
+      "mismatches": 0
+    },
+    {
+      "panel": "C1",
+      "method": "H1",
+      "n": 1800,
+      "mismatches": 0
+    }
+  ]
+}

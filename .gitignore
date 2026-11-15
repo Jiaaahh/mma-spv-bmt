@@ -1,0 +1,10 @@
+checks/
+__pycache__/
+*.py[cod]
+.venv/
+assets/local_only/
+*.pt
+*.pth
+*.ttf
+*.otf
+*.ttc

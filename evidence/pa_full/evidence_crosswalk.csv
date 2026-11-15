@@ -1,0 +1,3 @@
+﻿experiment,raw_evidence,summary,manuscript,supplement,status
+Full-core training-free Proto-Adapter SPV adaptation,features/; prototypes/; predictions.csv; selected_alpha.json,metrics.csv; paired_comparisons.json; stratified_metrics.csv,same-task frozen-RN50 comparison; pending integration,all diagnostics/search/protocol deviations; pending integration,all outcomes retained
+Existing MMA / Point-SPV / XDomainMix / RanDumb / PA-HOG,existing experiment directories and evidence manifests,not replaced or removed,retain protocol differences and positive/negative outcomes,crosscheck all prior experiments when editing manuscript,no Word edits in this turn

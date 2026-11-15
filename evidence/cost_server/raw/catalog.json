@@ -1,0 +1,1016 @@
+[
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip",
+    "name": "mma_cost_step1_result.zip",
+    "bytes": 11292,
+    "sha256": "3bbc6a871fc75b6f7ae40992aab420783a0758584c35e6d9cc6e8c748f00c0f4"
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip!mma_cost_step1_result.zip",
+    "name": "preflight_report.json",
+    "bytes": 45631
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip!mma_cost_step1_result.zip",
+    "name": "SUMMARY.md",
+    "bytes": 270
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip!mma_cost_step1_result.zip",
+    "name": "RETURN_MANIFEST.json",
+    "bytes": 181
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip",
+    "name": "mma_cost_step1_result.zip.sha256.txt",
+    "bytes": 92
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip",
+    "name": "AGENT_结果与解读.md",
+    "bytes": 4630
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip",
+    "name": "README_发给Codex.md",
+    "bytes": 11614
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip",
+    "name": "COVER_本次发送说明.md",
+    "bytes": 1801
+  },
+  {
+    "chain": "SEND_mma_cost_step1_preflight_20260930T102214Z.zip",
+    "name": "SEND_MANIFEST.json",
+    "bytes": 572
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip",
+    "name": "SEND_mma_cost_step2_20260930T104056Z.zip",
+    "bytes": 267326,
+    "sha256": "12fcbdc54c001ed9db00b38ca184dcf92cddcd678aeb04fd3d9022c89c1e33dd"
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/RETURN_MANIFEST.json",
+    "bytes": 2310
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/artifacts.json",
+    "bytes": 1499
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/export_17_cpu.json",
+    "bytes": 1168
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/export_17_cpu.log",
+    "bytes": 0
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/hog_17_cpu.json",
+    "bytes": 23593
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/hog_17_cpu.log",
+    "bytes": 0
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_17_cpu.json",
+    "bytes": 17550
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_17_cpu.log",
+    "bytes": 1191
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_17_cpu_outputs.npz",
+    "bytes": 41519
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_17_cuda.json",
+    "bytes": 17551
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_17_cuda.log",
+    "bytes": 1251
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_17_cuda_outputs.npz",
+    "bytes": 41514
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_29_cpu.json",
+    "bytes": 17550
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_29_cpu.log",
+    "bytes": 1191
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_29_cpu_outputs.npz",
+    "bytes": 41525
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_29_cuda.json",
+    "bytes": 17551
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_29_cuda.log",
+    "bytes": 1251
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_29_cuda_outputs.npz",
+    "bytes": 41525
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_43_cpu.json",
+    "bytes": 17550
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_43_cpu.log",
+    "bytes": 1191
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_43_cpu_outputs.npz",
+    "bytes": 41464
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_43_cuda.json",
+    "bytes": 17551
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_43_cuda.log",
+    "bytes": 1251
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/point_43_cuda_outputs.npz",
+    "bytes": 41448
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/samples.json",
+    "bytes": 1593
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip!SEND_mma_cost_step2_20260930T104056Z.zip",
+    "name": "reports/step2_report.json",
+    "bytes": 24688
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip",
+    "name": "SEND_mma_cost_step2_20260930T104056Z.zip.sha256.txt",
+    "bytes": 107
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip",
+    "name": "AGENT_结果与解读.md",
+    "bytes": 5387
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip",
+    "name": "README_发给Codex.md",
+    "bytes": 12724
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip",
+    "name": "COVER_本次发送说明.md",
+    "bytes": 1848
+  },
+  {
+    "chain": "SEND_mma_cost_step2_summary_20260930T104509Z.zip",
+    "name": "SEND_MANIFEST.json",
+    "bytes": 602
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip",
+    "name": "SEND_mma_cost_step3_20260930T135805Z.zip",
+    "bytes": 24776863,
+    "sha256": "7a1462b914403dd1e9737e5c1538fb158d924816a354d744becadf5c6c1c6bce"
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/RETURN_MANIFEST.json",
+    "bytes": 2300
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_17_cpu.json",
+    "bytes": 1452
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_17_cpu.log",
+    "bytes": 1287
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_17_cpu.npz",
+    "bytes": 2493941
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_17_cuda.json",
+    "bytes": 1450
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_17_cuda.log",
+    "bytes": 1317
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_17_cuda.npz",
+    "bytes": 2493935
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_29_cpu.json",
+    "bytes": 1452
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_29_cpu.log",
+    "bytes": 1287
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_29_cpu.npz",
+    "bytes": 2499156
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_29_cuda.json",
+    "bytes": 1455
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_29_cuda.log",
+    "bytes": 1317
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_29_cuda.npz",
+    "bytes": 2498953
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_43_cpu.json",
+    "bytes": 1456
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_43_cpu.log",
+    "bytes": 1287
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_43_cpu.npz",
+    "bytes": 2505037
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_43_cuda.json",
+    "bytes": 1454
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_43_cuda.log",
+    "bytes": 1317
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/point_43_cuda.npz",
+    "bytes": 2504982
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/skeleton_ideal_cpu.json",
+    "bytes": 1461
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/skeleton_ideal_cpu.log",
+    "bytes": 1467
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/skeleton_ideal_cpu.npz",
+    "bytes": 4896480
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/skeleton_mma_cpu.json",
+    "bytes": 1458
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/skeleton_mma_cpu.log",
+    "bytes": 1407
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/skeleton_mma_cpu.npz",
+    "bytes": 4872443
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip!SEND_mma_cost_step3_20260930T135805Z.zip",
+    "name": "reports/step3_report.json",
+    "bytes": 24730
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip",
+    "name": "SEND_mma_cost_step3_20260930T135805Z.zip.sha256.txt",
+    "bytes": 107
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip",
+    "name": "AGENT_结果与解读.md",
+    "bytes": 4620
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip",
+    "name": "README_发给Codex.md",
+    "bytes": 13994
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip",
+    "name": "COVER_本次发送说明.md",
+    "bytes": 1869
+  },
+  {
+    "chain": "SEND_mma_cost_step3_summary_20260930T140014Z.zip",
+    "name": "SEND_MANIFEST.json",
+    "bytes": 602
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip",
+    "name": "SEND_mma_cost_step4_20260930T155718Z.zip",
+    "bytes": 1233918,
+    "sha256": "1abcf93e78cf265d7d036fc3b69d41b103d0431f49ae8a0f6d9da3299c5ea025"
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/RETURN_MANIFEST.json",
+    "bytes": 12587
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_17_cpu.json",
+    "bytes": 2559
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_17_cpu.log",
+    "bytes": 373
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_17_cpu.npz",
+    "bytes": 52956
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_17_cuda.json",
+    "bytes": 2749
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_17_cuda.log",
+    "bytes": 383
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_17_cuda.npz",
+    "bytes": 48613
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_29_cpu.json",
+    "bytes": 2561
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_29_cpu.log",
+    "bytes": 373
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_29_cpu.npz",
+    "bytes": 52791
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_29_cuda.json",
+    "bytes": 2751
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_29_cuda.log",
+    "bytes": 383
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_29_cuda.npz",
+    "bytes": 48436
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_43_cpu.json",
+    "bytes": 2562
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_43_cpu.log",
+    "bytes": 373
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_43_cpu.npz",
+    "bytes": 52727
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_43_cuda.json",
+    "bytes": 2752
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_43_cuda.log",
+    "bytes": 383
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_point_43_cuda.npz",
+    "bytes": 48465
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_skeleton_ideal_cpu.json",
+    "bytes": 2741
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_skeleton_ideal_cpu.log",
+    "bytes": 433
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_skeleton_ideal_cpu.npz",
+    "bytes": 48751
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_skeleton_mma_cpu.json",
+    "bytes": 2737
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_skeleton_mma_cpu.log",
+    "bytes": 413
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/components_r0_skeleton_mma_cpu.npz",
+    "bytes": 49840
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/cost_summary.json",
+    "bytes": 41175
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_17_cpu.json",
+    "bytes": 2490
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_17_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_17_cpu.npz",
+    "bytes": 27980
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_17_cuda.json",
+    "bytes": 2688
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_17_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_17_cuda.npz",
+    "bytes": 26887
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_29_cpu.json",
+    "bytes": 2489
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_29_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_29_cpu.npz",
+    "bytes": 27992
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_29_cuda.json",
+    "bytes": 2688
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_29_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_29_cuda.npz",
+    "bytes": 26728
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_43_cpu.json",
+    "bytes": 2491
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_43_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_43_cpu.npz",
+    "bytes": 27896
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_43_cuda.json",
+    "bytes": 2690
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_43_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_point_43_cuda.npz",
+    "bytes": 26648
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_skeleton_ideal_cpu.json",
+    "bytes": 2674
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_skeleton_ideal_cpu.log",
+    "bytes": 403
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_skeleton_ideal_cpu.npz",
+    "bytes": 25419
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_skeleton_mma_cpu.json",
+    "bytes": 2675
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_skeleton_mma_cpu.log",
+    "bytes": 383
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r0_skeleton_mma_cpu.npz",
+    "bytes": 26500
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_17_cpu.json",
+    "bytes": 2489
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_17_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_17_cpu.npz",
+    "bytes": 27980
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_17_cuda.json",
+    "bytes": 2688
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_17_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_17_cuda.npz",
+    "bytes": 26403
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_29_cpu.json",
+    "bytes": 2488
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_29_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_29_cpu.npz",
+    "bytes": 28108
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_29_cuda.json",
+    "bytes": 2686
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_29_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_29_cuda.npz",
+    "bytes": 26648
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_43_cpu.json",
+    "bytes": 2491
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_43_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_43_cpu.npz",
+    "bytes": 27884
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_43_cuda.json",
+    "bytes": 2690
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_43_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_point_43_cuda.npz",
+    "bytes": 26806
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_skeleton_ideal_cpu.json",
+    "bytes": 2673
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_skeleton_ideal_cpu.log",
+    "bytes": 403
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_skeleton_ideal_cpu.npz",
+    "bytes": 25323
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_skeleton_mma_cpu.json",
+    "bytes": 2675
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_skeleton_mma_cpu.log",
+    "bytes": 383
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r1_skeleton_mma_cpu.npz",
+    "bytes": 26572
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_17_cpu.json",
+    "bytes": 2491
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_17_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_17_cpu.npz",
+    "bytes": 27916
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_17_cuda.json",
+    "bytes": 2687
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_17_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_17_cuda.npz",
+    "bytes": 26690
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_29_cpu.json",
+    "bytes": 2497
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_29_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_29_cpu.npz",
+    "bytes": 27979
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_29_cuda.json",
+    "bytes": 2688
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_29_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_29_cuda.npz",
+    "bytes": 27006
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_43_cpu.json",
+    "bytes": 2497
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_43_cpu.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_43_cpu.npz",
+    "bytes": 27889
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_43_cuda.json",
+    "bytes": 2681
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_43_cuda.log",
+    "bytes": 353
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_point_43_cuda.npz",
+    "bytes": 26553
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_skeleton_ideal_cpu.json",
+    "bytes": 2680
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_skeleton_ideal_cpu.log",
+    "bytes": 403
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_skeleton_ideal_cpu.npz",
+    "bytes": 25523
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_skeleton_mma_cpu.json",
+    "bytes": 2677
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_skeleton_mma_cpu.log",
+    "bytes": 383
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/latency_r2_skeleton_mma_cpu.npz",
+    "bytes": 26273
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_17_cpu.json",
+    "bytes": 5363
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_17_cpu.log",
+    "bytes": 333
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_17_cpu.npz",
+    "bytes": 14295
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_17_cuda.json",
+    "bytes": 5614
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_17_cuda.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_17_cuda.npz",
+    "bytes": 14295
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_29_cpu.json",
+    "bytes": 5363
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_29_cpu.log",
+    "bytes": 333
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_29_cpu.npz",
+    "bytes": 14366
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_29_cuda.json",
+    "bytes": 5614
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_29_cuda.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_29_cuda.npz",
+    "bytes": 14366
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_43_cpu.json",
+    "bytes": 5364
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_43_cpu.log",
+    "bytes": 333
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_43_cpu.npz",
+    "bytes": 14203
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_43_cuda.json",
+    "bytes": 5614
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_43_cuda.log",
+    "bytes": 343
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_point_43_cuda.npz",
+    "bytes": 14203
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_skeleton_ideal_cpu.json",
+    "bytes": 5547
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_skeleton_ideal_cpu.log",
+    "bytes": 393
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_skeleton_ideal_cpu.npz",
+    "bytes": 13129
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_skeleton_mma_cpu.json",
+    "bytes": 5543
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_skeleton_mma_cpu.log",
+    "bytes": 373
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/memory_r0_skeleton_mma_cpu.npz",
+    "bytes": 14333
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip!SEND_mma_cost_step4_20260930T155718Z.zip",
+    "name": "reports/step4_report.json",
+    "bytes": 89225
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip",
+    "name": "SEND_mma_cost_step4_20260930T155718Z.zip.sha256.txt",
+    "bytes": 107
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip",
+    "name": "AGENT_结果与解读.md",
+    "bytes": 6480
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip",
+    "name": "README_发给Codex.md",
+    "bytes": 15478
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip",
+    "name": "COVER_本次发送说明.md",
+    "bytes": 1998
+  },
+  {
+    "chain": "SEND_mma_cost_step4_summary_20260930T160005Z.zip",
+    "name": "SEND_MANIFEST.json",
+    "bytes": 602
+  }
+]

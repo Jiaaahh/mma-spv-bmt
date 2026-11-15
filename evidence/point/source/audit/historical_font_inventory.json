@@ -1,0 +1,179 @@
+{
+  "accuracy_read": false,
+  "candidate_rule": {
+    "candidate_extensions": [
+      ".ttf",
+      ".otf",
+      ".ttc"
+    ],
+    "duplicate_file_rule": "retain_lowest_face_index",
+    "eligibility": [
+      "historical_family_lineage_not_used",
+      "historical_file_sha256_not_used",
+      "subfamily_regular",
+      "fonttools_cmap_180_of_180",
+      "pillow_missing_glyphs_zero",
+      "raw_glyph_fingerprints_180_unique",
+      "normalized_glyphs_180_unique"
+    ],
+    "inventory_root": "/historical/Windows\\Fonts",
+    "order": "complete_file_sha256_then_absolute_path_casefold_then_face_index",
+    "selection_count": 4
+  },
+  "eligible_candidate_count": 16,
+  "eligible_candidates_in_frozen_order": [
+    {
+      "family_id": "STCaiyun",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STCAIYUN.TTF",
+      "file_sha256": "13b3f397619a1bd2a3dc56b09007114645a3103a171949e36c0f4603c7c44136",
+      "font_id": "MB_F01",
+      "selected": true
+    },
+    {
+      "family_id": "SimSun",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\simsun.ttc",
+      "file_sha256": "1526ac24375f51f6eb73bc2d3f8072dbe4a80a3a65217677c9d9a84f67dab2ab",
+      "font_id": "MB_F02",
+      "selected": true
+    },
+    {
+      "family_id": "Microsoft JhengHei",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\msjh.ttc",
+      "file_sha256": "1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac",
+      "font_id": "MB_F03",
+      "selected": true
+    },
+    {
+      "family_id": "FZYaoTi",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\FZYTK.TTF",
+      "file_sha256": "4065a23df6823c8e2b69a0e76d02f02a6470b8774a5e91086609701ad95cc33f",
+      "font_id": "MB_F04",
+      "selected": true
+    },
+    {
+      "family_id": "STHupo",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STHUPO.TTF",
+      "file_sha256": "7426907130588efde1b8c5037f1e245c2a23ee30f9a2d60f863c4264d5a06890",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STXinwei",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STXINWEI.TTF",
+      "file_sha256": "7f2fb3442bec38afecc78e1548a9d154cc225d4cfd9cbc0f8c469311ab43e36a",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STXingkai",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STXINGKA.TTF",
+      "file_sha256": "7f901dfb0526d542740264fb5ba8dfe483293ad060270d273593e2f04a69d080",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STKaiti",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STKAITI.TTF",
+      "file_sha256": "a29c99c161fc43ce6aba2d7c152065359c2cb3019be4ae6248171178cb7d04d5",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STSong",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STSONG.TTF",
+      "file_sha256": "c5cc2ed5e2c0e6385013fe82d950eee6960d805bd602b86c53ff454783f382c4",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STLiti",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STLITI.TTF",
+      "file_sha256": "cf135c073d731ef7e7ae86e715b7efccad41fe915d620bff393a07d70a190865",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "FZCuHeiSongS-B-GB",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\方正粗黑宋简体.ttf",
+      "file_sha256": "d079420c50edc7d18bb0425967725e4ab3f71027e682658866623e42e25b188f",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "Microsoft YaHei",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\msyh.ttc",
+      "file_sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "LiSu",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\SIMLI.TTF",
+      "file_sha256": "e5a3a1e2e2cb6fee66d1e7f821b5c04f3ad7792f1e5b3cac545c2e52173e908d",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STFangsong",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STFANGSO.TTF",
+      "file_sha256": "e6326459e8e60e436c7d60e34d273bda3ba4eea2d2a5b309ff8f1b73200f2e38",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STZhongsong",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STZHONGS.TTF",
+      "file_sha256": "e822a3f2859a6cc982f04c6ad1eabc18371ce26d6874b710188a30c35dced0f1",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STXihei",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STXIHEI.TTF",
+      "file_sha256": "f4ccbf1caf92f38ee8f8d63edf7cf78856fdf964982d719632ef3f6960ab9fea",
+      "font_id": null,
+      "selected": false
+    }
+  ],
+  "historical_exclusion_file_count": 14,
+  "historical_exclusion_sources": [
+    "benchmark_all_8_fonts",
+    "c1_2_fonts",
+    "e1_4_fonts"
+  ],
+  "license_boundary": {
+    "font_binaries_copied": false,
+    "font_redistribution_permitted": false,
+    "glyph_archive_distribution": "LOCAL_RESEARCH_ONLY_PENDING_SEPARATE_RIGHTS_REVIEW",
+    "public_reproduction_requirement": "separately_preregister_four_new_redistributable_fonts"
+  },
+  "performance_selection": false,
+  "prediction_executed": false,
+  "quality_control_for_every_eligible_candidate": {
+    "fonttools_cmap_covered_characters": 180,
+    "missing_character_count": 0,
+    "unique_normalized_glyphs": 180,
+    "unique_raw_glyph_fingerprints": 180
+  },
+  "schema": "mma-multibudget-font-selection-audit-v1",
+  "schema_version": 1,
+  "status": "PASS_BLINDED_FONT_SELECTION_FROZEN",
+  "study_id": "mma_multibudget_v1",
+  "validation_date": "2026-08-29"
+}

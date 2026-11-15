@@ -1,0 +1,11 @@
+{
+  "README_远端AI执行说明.md": "e56bfdfeadf27649ea631aa5e716233d01e3a1b19a34e745ba67bf357d129e80",
+  "accepted_artifacts.json": "67ddc22ea8670aa80af135969780a8d7498eff8fafdf41f1e70b32bc2d7b29c2",
+  "accepted_step3_review.json": "4e56cfe2164949bc41767bf45a581bd00ff71a7fd2e0d6ed554b6caf872e8539",
+  "deployment.py": "e2dabdaf7375340501dca0a7c919870b44120b39e23109469c35f5732f3c3297",
+  "evaluation_contract.npz": "647ae98609eb41eb413f91c52934f0d6f37ca7aa194fb15d4452087541ff3012",
+  "expected_assets.json": "d54ec71c7fd441b9a623aee3d078252b0e1a61bff1a24de11ce05d71621f146d",
+  "measure.py": "799cc6219d3f3d019a8ea4917f27a6c388fd369b3f469f337226e4b2f407c0df",
+  "measurement_protocol.json": "966f62962f9c454e835ff648db9d223cc4b7bc6eabfe4c448cac1c8ac0e16c23",
+  "run_step4.py": "06ae36619be73588640b9acbe7860ed0d048bb3ab629ffee7d0959283b37d00a"
+}

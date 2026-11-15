@@ -1,0 +1,328 @@
+{
+  "checks": {
+    "step2": {
+      "hashes_verified": 25,
+      "not_extracted": [],
+      "hash_mismatches": []
+    },
+    "step3": {
+      "hashes_verified": 25,
+      "not_extracted": [],
+      "hash_mismatches": []
+    },
+    "step4": {
+      "hashes_verified": 122,
+      "not_extracted": [],
+      "hash_mismatches": []
+    }
+  },
+  "raw_latency": {
+    "latency_r0_point_17_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 77.681085,
+      "p95_ms": 82.58783695,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_point_17_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.151325999999997,
+      "p95_ms": 19.57618544999999,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_point_29_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 78.29497549999999,
+      "p95_ms": 82.9686996,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_point_29_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.459981,
+      "p95_ms": 17.921346899999996,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_point_43_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 78.2256405,
+      "p95_ms": 83.0335015,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_point_43_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.287051499999997,
+      "p95_ms": 19.82214255,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_skeleton_ideal_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 7.5121415,
+      "p95_ms": 19.9712883,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r0_skeleton_mma_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 7.5170345,
+      "p95_ms": 9.30316629999999,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_point_17_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 78.385225,
+      "p95_ms": 83.3274373,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_point_17_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.177095,
+      "p95_ms": 17.2581651,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_point_29_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 77.76898249999999,
+      "p95_ms": 82.8598583,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_point_29_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.60734,
+      "p95_ms": 19.56322085,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_point_43_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 78.0476845,
+      "p95_ms": 83.3478502,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_point_43_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.2943395,
+      "p95_ms": 20.095995399999996,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_skeleton_ideal_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 7.459019,
+      "p95_ms": 19.8451983,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r1_skeleton_mma_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 7.498886000000001,
+      "p95_ms": 19.7324486,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_point_17_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 77.62177750000001,
+      "p95_ms": 82.42224055,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_point_17_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.258631,
+      "p95_ms": 19.81666145,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_point_29_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 78.5541945,
+      "p95_ms": 83.57521735,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_point_29_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.165596,
+      "p95_ms": 18.22694705,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_point_43_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 77.7013375,
+      "p95_ms": 82.82239709999999,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_point_43_cuda": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 16.221639000000003,
+      "p95_ms": 19.29453285,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_skeleton_ideal_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 7.5003744999999995,
+      "p95_ms": 9.858493999999991,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    },
+    "latency_r2_skeleton_mma_cpu": {
+      "n": 3600,
+      "unique_order": 3600,
+      "order_is_permutation": true,
+      "median_ms": 7.6653994999999995,
+      "p95_ms": 19.9509402,
+      "all_positive": true,
+      "prediction_length": 3600,
+      "matches_report": true
+    }
+  },
+  "aggregate": {
+    "point_17_cpu": {
+      "median_of_round_medians_ms": 77.681085,
+      "matches_summary": true,
+      "peak_rss_mib": 898.36328125,
+      "model_file_mib": 232.51959991455078
+    },
+    "point_17_cuda": {
+      "median_of_round_medians_ms": 16.177095,
+      "matches_summary": true,
+      "peak_rss_mib": 1109.4140625,
+      "model_file_mib": 232.51959991455078
+    },
+    "point_29_cpu": {
+      "median_of_round_medians_ms": 78.29497549999999,
+      "matches_summary": true,
+      "peak_rss_mib": 898.67578125,
+      "model_file_mib": 232.51959991455078
+    },
+    "point_29_cuda": {
+      "median_of_round_medians_ms": 16.459981,
+      "matches_summary": true,
+      "peak_rss_mib": 1109.0625,
+      "model_file_mib": 232.51959991455078
+    },
+    "point_43_cpu": {
+      "median_of_round_medians_ms": 78.0476845,
+      "matches_summary": true,
+      "peak_rss_mib": 898.49609375,
+      "model_file_mib": 232.51959991455078
+    },
+    "point_43_cuda": {
+      "median_of_round_medians_ms": 16.287051499999997,
+      "matches_summary": true,
+      "peak_rss_mib": 1109.328125,
+      "model_file_mib": 232.51959991455078
+    },
+    "skeleton_ideal_cpu": {
+      "median_of_round_medians_ms": 7.5003744999999995,
+      "matches_summary": true,
+      "peak_rss_mib": 455.24609375,
+      "model_file_mib": 5.982177734375
+    },
+    "skeleton_mma_cpu": {
+      "median_of_round_medians_ms": 7.5170345,
+      "matches_summary": true,
+      "peak_rss_mib": 455.40234375,
+      "model_file_mib": 5.982177734375
+    }
+  },
+  "cpu_ratios": [
+    10.334006715015075,
+    10.415673295100612,
+    10.406449577955241,
+    10.452915939780922,
+    10.370738066960877,
+    10.407903853985777,
+    10.126253367485937,
+    10.247893081110776,
+    10.136632474276128
+  ],
+  "ratio_minmax": [
+    10.126253367485937,
+    10.452915939780922
+  ],
+  "latency_rows": 86400,
+  "note": "Archive-derived arithmetic/hash audit, not new hardware runs or independent timing-code verification."
+}

@@ -1,0 +1,137 @@
+{
+  "config_path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\configs\\mb_replay_c1_b064_formal_gate.yaml",
+  "config_sha256": "e42046894210e7722e2b4f3f0e9b751b0b770297f09e0700f147c3ae2381334e",
+  "preflight_without_lock": {
+    "budget": 64,
+    "completion_exists": false,
+    "confirmation_output_exists": false,
+    "environment": {
+      "implementation": "CPython",
+      "packages": {
+        "PyYAML": "6.0.1",
+        "numpy": "1.26.4",
+        "scikit-image": "0.25.0",
+        "scikit-learn": "1.5.1",
+        "scipy": "1.13.1",
+        "threadpoolctl": "3.5.0"
+      },
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.7"
+    },
+    "experiment_id": "mb_replay_c1_b064_formal_gate",
+    "lock_path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\locks\\mb_replay_c1_b064_formal_gate.lock.json",
+    "lock_sha256": null,
+    "methods": [
+      "ideal_only",
+      "single_moderate",
+      "multi4",
+      "ideal_plus_multi4",
+      "oracle_matched"
+    ],
+    "output_root": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\outputs\\mb_replay_c1_b064_formal_gate",
+    "primary_comparison": "ideal_plus_multi4-ideal_only",
+    "test_fonts": [
+      "dengxian_regular",
+      "fzshuti_regular"
+    ],
+    "test_mapping_seeds": [
+      2031,
+      2032,
+      2033,
+      2034,
+      2035
+    ],
+    "train_fonts": [
+      "noto_sans_sc_thin",
+      "noto_serif_sc_extralight",
+      "ma_shan_zheng",
+      "zcool_qingke_huangyou",
+      "zcool_kuaile",
+      "liu_jian_mao_cao"
+    ],
+    "train_mapping_seeds": [
+      2026,
+      2027,
+      2028,
+      2029
+    ]
+  },
+  "protocol_binding": {
+    "bootstrap": {
+      "iterations": 100000,
+      "seed": 20260825,
+      "unit": "character_cluster"
+    },
+    "budget": 64,
+    "classifier": "multimapping_cosine_prototype",
+    "encoder": "ideal_skeleton_topk",
+    "expected_environment": {
+      "PyYAML": "6.0.1",
+      "numpy": "1.26.4",
+      "python": "3.12.7",
+      "scikit-image": "0.25.0",
+      "scikit-learn": "1.5.1",
+      "scipy": "1.13.1",
+      "threadpoolctl": "3.5.0"
+    },
+    "experiment_id": "mb_replay_c1_b064_formal_gate",
+    "feature": {
+      "block_norm": "L2-Hys",
+      "cells_per_block": [
+        2,
+        2
+      ],
+      "orientations": 9,
+      "pixels_per_cell": [
+        8,
+        8
+      ]
+    },
+    "ideal_mapping_sha256": "267cd5ebfaa9ff4093f950fbe6df66442cf3f5115419c677808c1db34c617d5a",
+    "methods": [
+      "ideal_only",
+      "single_moderate",
+      "multi4",
+      "ideal_plus_multi4",
+      "oracle_matched"
+    ],
+    "output_root": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\outputs\\mb_replay_c1_b064_formal_gate",
+    "parameter_search": false,
+    "primary_baseline": "ideal_only",
+    "primary_method": "ideal_plus_multi4",
+    "selection_budget_prefix": 64,
+    "selection_order_budget": 128,
+    "single_moderate_seed": 2026,
+    "test_asset_manifest_sha256": "e61ce3ba3ef2a7fbb3db9598ddd835eccf08c78ea222a952faa170abd8f7c521",
+    "test_dataset_sha256": "7919f63ee4c9b17d627eac6ffdfa009d73c18a1a7c53dc88f26a29f2c9e6d01c",
+    "test_fonts": [
+      "dengxian_regular",
+      "fzshuti_regular"
+    ],
+    "test_mapping_sha256": {
+      "2031": "0dd89d73c1e80df9aaff1b5f5e40981c88f8c11f45493597b0f6f1ece3d05f51",
+      "2032": "e4e0b9e244cef6afbe3206656cf93fbe8437e8ef90c65c531ca2b804ace299bd",
+      "2033": "7a83b396d7e86625f53e62fb3d3373f3bacc915804c1039549851fd49ef6f1a2",
+      "2034": "76d7032860c22d85dbcfeb3354295a883733c760e7620bb2583ec667730b07ca",
+      "2035": "51b70c8df2bccac8e434b6e22d4ab1bd3376e65c308634ae1fc18db53cfcd1aa"
+    },
+    "train_dataset_sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582",
+    "train_fonts": [
+      "noto_sans_sc_thin",
+      "noto_serif_sc_extralight",
+      "ma_shan_zheng",
+      "zcool_qingke_huangyou",
+      "zcool_kuaile",
+      "liu_jian_mao_cao"
+    ],
+    "train_mapping_sha256": {
+      "2026": "46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62",
+      "2027": "b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd",
+      "2028": "30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92",
+      "2029": "4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925"
+    }
+  },
+  "schema_version": 1,
+  "source_tree_sha256": "749c8cb20f971dc8d08de53481540e4da87c9cb05ed7b77c34513f6afef7587d",
+  "status": "FROZEN_AWAITING_ONE_SHOT_CONFIRMATION"
+}

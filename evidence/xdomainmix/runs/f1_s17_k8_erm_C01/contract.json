@@ -1,0 +1,161 @@
+{
+  "schema": 2,
+  "scope": "TRAINING_CANDIDATE",
+  "method": "erm",
+  "fold": 1,
+  "seed": 17,
+  "k": 8,
+  "total_batch": 40,
+  "training_target": 5000,
+  "sampler": "torch_cpu_generator_170909_distinct_class_randperm_then_one_of_four_font_randint_v1",
+  "preprocessing": "SPV float32 *10, clamp[0,1], whole-image bilinear resize224 align_corners=False antialias=True, replicateRGB, ImageNet V1 channel normalization; no fitted/test statistics, crop, flip or color augmentation",
+  "bn_running_stats_frozen_affine_trainable": true,
+  "optimizer": {
+    "name": "Adam",
+    "backbone_lr": 1e-06,
+    "head_lr": 2e-05,
+    "weight_decay": 0.0,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "foreach": false,
+    "domain_lr_candidate": 1e-06,
+    "domain_weight_decay_candidate": 0.0,
+    "param_group_plan": [
+      {
+        "index": 0,
+        "role": "backbone_and_other_trainable",
+        "lr": 1e-06,
+        "weight_decay": 0.0
+      },
+      {
+        "index": 1,
+        "role": "classification_head_fc",
+        "lr": 2e-05,
+        "weight_decay": 0.0
+      }
+    ],
+    "weight_decay_semantics": "Adam L2 on every parameter of every existing group (head, bias, trainable BN affine); no exemption rules"
+  },
+  "xdm_hparams": {
+    "resnet18": false,
+    "resnet_dropout": 0.0,
+    "batch_size": 8,
+    "lr": 1e-06,
+    "weight_decay": 0.0,
+    "warmup_step": 3000,
+    "threshold": 0.9,
+    "threshold_lower_bound": 0.5,
+    "value_to_change": 0.1,
+    "step_to_change": 100,
+    "probability_to_discard": 0.2
+  },
+  "original_protocol_sha256": "41d59378db74aa110c93b8a3801403c42049fbcdd1ecf6f1bbc4382d93afdd33",
+  "weight_sha256": "0676ba61b6795bbe1773cffd859882e5e297624d384b6993f7c9e683e722fb8a",
+  "warm_head_sha256": "a9138e3dd51a17270d6aa1c1a43661de529b3b1c9d115eb038419082f8123c93",
+  "author_sources": {
+    "algorithms.py": "bc613277ce4faa19903a1d88356199f58558356a0fa686fee45b31ff1e671da8",
+    "networks.py": "81fc315b536c8ff6c3efaa206c7dd766cc97b7b622a6eab14c43642424eac898",
+    "mixup_module.py": "92f0e1e505705795546a110e39a877c7346a73c84430a333eb9051f16f77f870"
+  },
+  "source_hashes": {
+    "core.py": "0b209af30d28d9cf74e3c75e5b5baa2f6e5f6971ac617d18d623d4c7b2f82c50",
+    "runner.py": "d03b9a360a66ef86867ec8fecc666fa4ecdbfb931ad96b14ffce71f7929544ab",
+    "evaluate.py": "e9e622f210d1a6fbd89963329a928afe86323810ca85c4095f739f65caa96384"
+  },
+  "data_hashes": {
+    "metadata.npz": "d158110d9d26e2773e8e64dc77e745a56daa58d2a3550c76ddf9e71846bcc72e",
+    "ideal_images.npy": "f285b9e7d79bcb753525d335668cd1048eb91bfe9ac1ae34e3f8808052284df1",
+    "ideal_hog.npy": "0e3189e7b48991c1a2ca3dba2ce2fa4afb572f17437982ca220b0e08bd122515",
+    "moderate_seed2026_images.npy": "4685ff88fc85d557933062d5afd01986612451d3afc348e9f84822d14c808959",
+    "moderate_seed2026_hog.npy": "3f65c24d37692454d4226a58606ef9798e14d3de0a961c106e4b01ae9c47a2a5",
+    "moderate_seed2027_images.npy": "a0cc845eca4358515f4eec84800dc7c3af630cd101e9bd4e9bdb60785f2bee29",
+    "moderate_seed2027_hog.npy": "fd5cb12494e3ac7dc3e389be4820b0ca269e52f01b443861d76b67d4c393fe3c",
+    "moderate_seed2028_images.npy": "223b28f6ff6606c5ee09eec5a8c4bb607162282cfc924366d9818cd0fde903d7",
+    "moderate_seed2028_hog.npy": "a7857433975fc916c1f4f8cc5e689030acdcd25bee97776b773c2bf2204a6830",
+    "moderate_seed2029_images.npy": "4e07866f9d452367fab741c00dbe8271986a1ffca89ffe419324c19a1470c4b0",
+    "moderate_seed2029_hog.npy": "b40f765fb40964f7ea1c313c60189d8946640396c2b50aeba15ece55372a4b54",
+    "moderate_seed5301_images.npy": "1d8544e21afabd666228708290c548d848d6e32b2b6f074f5f439cea36b55529",
+    "moderate_seed5301_hog.npy": "641430efee10e95a28fdc9b6a954386b1401aee5e9e0722a7111a8d7d3bfde01",
+    "moderate_seed5302_images.npy": "37ef0c6d06621a97b9aa9b5ce6b6e7cc823f8a7117cf66468b0557132c6c6b1d",
+    "moderate_seed5302_hog.npy": "1c858576d5c0ce834bf75dec0b89834baf236066864caa3234acbe91ac9762f9",
+    "moderate_seed5303_images.npy": "1117322d421b76e07092cf8a3782339eaebb06bda5063b0319f793c5ac14bac4",
+    "moderate_seed5303_hog.npy": "367c6f6cf3eefdecaa0ab98750fa401b66184826eacf9142f682eded0591923d",
+    "moderate_seed5304_images.npy": "105f1d6e5da7b7490107f39cdfccc1b3685b6502acadf05000b0a2c141a9f403",
+    "moderate_seed5304_hog.npy": "9e6242878ae70b47eaa7bc478349b96b06389595c54dbcf025c54171132a2a0b",
+    "moderate_seed5305_images.npy": "f308fe961c6ef529ca856ef2a0bec618c5a82b42bc04e35e94552e00153c3a4f",
+    "moderate_seed5305_hog.npy": "d94c3be0942679f24ecbebffc26096b3799179abdf3e111774c378f54b56fd59"
+  },
+  "manifest_inputs_verified": true,
+  "runtime": {
+    "python": "3.10.8",
+    "torch": "2.6.0+cu124",
+    "torchvision": "0.21.0+cu124",
+    "numpy": "1.26.4",
+    "device": "cuda",
+    "threads": 4,
+    "cuda": "12.4",
+    "cudnn": 90100,
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "deterministic_algorithms": true,
+    "tf32": false,
+    "precision": "float32",
+    "platform": "Linux-5.15.0-78-generic-x86_64-with-glibc2.35",
+    "cublas_workspace": ":4096:8"
+  },
+  "interpretation": "G09 finite hyper-parameter search around the executed v1 anchor (C03), not a full optimum claim; all candidates restart from step0 of the same ImageNetV1 + fold warm head; the 5000-step inner validation is the only candidate-selection input; two fonts remain development data.",
+  "protocol_id": "G09_SYMMETRIC_DEV_V1",
+  "candidate_id": "C01",
+  "candidate": {
+    "backbone_lr": 1e-06,
+    "head_lr": 2e-05,
+    "weight_decay": 0.0,
+    "xdm_domain_lr": 1e-06,
+    "xdm_domain_weight_decay": 0.0
+  },
+  "inner_diagnostic_steps": [
+    1000,
+    2000,
+    3000
+  ],
+  "inner_selection_step": 5000,
+  "selection_rule_id": "G09_SELECT_V1__CORRECT_DESC__CE_FLOAT64_RHE8_ASC__CANDIDATE_ID_ASC",
+  "overridden_legacy_fields": [
+    "optimizer.backbone_lr",
+    "optimizer.head_lr",
+    "optimizer.weight_decay",
+    "optimizer.domain_lr_candidate",
+    "xdm_hparams.lr",
+    "xdm_hparams.weight_decay",
+    "inner_selection_step(用途：5000 步 inner 作为唯一候选选择输入)"
+  ],
+  "g09_source_hashes": {
+    "g09_v1/g09_audit.py": "4322880df757d91b9cc21a138ad4fa211e8ec9ac87ba8ff65bbe390f0e0b47b3",
+    "g09_v1/g09_compare.py": "d773b74f9fc7f081fdf3e6412272288363d86582e5029e0bfc346ee1c7d30b11",
+    "g09_v1/g09_config.py": "0be551d86a72033a4579a3fc5ed9c4b1f798fcc849504862772ed6f0ef75dde1",
+    "g09_v1/g09_core.py": "e682e82e847993b23c220ca1d405b5c6e738d8fa7bf0574b2f4dff9a48b7ddc3",
+    "g09_v1/g09_evaluate.py": "60ff09f44c21b0dfa0d7339998bf8db4e332be2db81f2ca3dbbf9b137f0160ea",
+    "g09_v1/g09_gate.py": "37af1038b1c895ff04cbe78774580a24d09bf0b62662426e1ca907ef866a9421",
+    "g09_v1/g09_make_manifest.py": "346039c1d6b8fdc7de0cc088184d324388e2fd6fc7a826341bab2f20c96457da",
+    "g09_v1/g09_old_asset_guard.py": "608ccd910e39aaab610cef02275e1eb18bc220510e114ace9dda77c7565ad495",
+    "g09_v1/g09_runner.py": "3d8518d45435ab3ddb80c16f788dadac4e95e09dabfede77f157d02eeffd3918",
+    "g09_v1/g09_select.py": "cf9aaaad8f11239f60003609d89b0fa5d482d88fbdc2f6fe933afdb7731ab9d6",
+    "g09_v1/g09_static_precheck.py": "d0fd844b3d211613f6c8ec39a7831f967bf46b5d24ab9a31b82ae3c79139a781",
+    "g09_v1/g09_validation.py": "2beba9540866bea246622f5018bc454e3b95d20732776a55b003a4fdad6e4e5e",
+    "g09_v1/make_g09_a_package.py": "9a531fd362c5bf16c22f4c0ad7163659d676b498dbb3fec09cde5a5392bdbecd",
+    "g09_v1/tests/capture_cli_evidence.py": "f5bf47a001370f5c3bae5acb74af7c7d4ccf848413970ccef13c17ca8fa750a9",
+    "g09_v1/tests/engineering_kit.py": "c1bcde5e218d7928ef957dd02230f3338d79e60f71e53f4b0848239e2121576e",
+    "g09_v1/tests/fixtures.py": "12b73727dcfedc255e5fd5d5d05bc4cb339bc360b09722e67384e50ec2f3cb11",
+    "g09_v1/tests/run_all_tests.py": "c8280dcd0c095f6119263efac5c26fdb3cac48ac32b651f3d1c2643727a6901b",
+    "g09_v1/tests/test_a2_regression.py": "64ecf901e512b208b4e81ff33318217525dd2b0b798e0e8875d845e498f7c386",
+    "g09_v1/tests/test_selector_gate_compare.py": "0ab4a2d7e1451bc68158fdb3ea06e8a52d38fd10cdd141dcb563d5cba70ff27c",
+    "g09_v1/tests/test_unit.py": "e81769c3a01780f0e9ffae075dad2f00f018f078b93ad4b95dfe5a0a2b2dd3fa"
+  },
+  "g09_protocol_sha256": "b494f62db7431d8a0b24f2e48637833e26df96854f7f4d28e9df18e2ffe4f770",
+  "g09_candidate_table_sha256": "b494f62db7431d8a0b24f2e48637833e26df96854f7f4d28e9df18e2ffe4f770",
+  "g09_run_matrix_sha256": "5161ba54bcb13d927da8ef1153f25244bf700018c7b330c93f4d27578afb8b57",
+  "g09_handover_sha256": "93eb7516da3e12833bb32bab67fec0462f96a8eca39b9b0b20c05d32240f89c1",
+  "original_manifest_sha256": "11d0ef4651ce6d3d438d00d1e7a7236499cc623e1f8092ffadc9153cf9eb5e78"
+}

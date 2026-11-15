@@ -1,0 +1,9 @@
+﻿Diagnostic,Condition,Result,Interpretation
+Support-set classification,Multi-map full PA / visual / plain prototype,5.56 % / 5.98 % / 11.13 %,Low support-set accuracy too; not only unseen-map generalization
+Leave-one-font-out map diagnostic,PA visual-only: Same mapping / mixed mappings,5.04 % / 2.54 %,Same-map uses known query mapping; diagnostic only
+Leave-one-font-out map diagnostic,Plain CLIP prototype: Same mapping / mixed mappings,14.02 % / 6.17 %,Does not replace the main protocol
+Feature dispersion decomposition,Mapping / class / font / residual and interactions,42.05 % / 7.67 % / 3.22 % / 47.06 %,Descriptive geometric decomposition; not causal or an information bound
+Natural-image function check,Text / plain prototype / PA visual / full PA,93.44 % / 90.00 % / 94.06 % / 98.13 %,"20 classes, 320 tests; core-function check only"
+60-class display screening,Original: selection / confirmation,5.37 % / 3.75 %,Historical development panel; not the 180-class main comparison
+60-class display screening,Inverted: selection / confirmation,6.11 % / 4.31 %,Selected on selection set; confirmation gain only +0.56 pp
+60-class display screening,Square root: selection / confirmation,3.70 % / 4.17 %,Fixed display transform; physical simulation unchanged

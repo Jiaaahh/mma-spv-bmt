@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "source_and_protocol_hashes": true,
+  "independent_predictions": 2240,
+  "visual_support_preview": "reviewed",
+  "original_SPV_protocol_changed": false,
+  "original_SPV_test_rescored": false
+}

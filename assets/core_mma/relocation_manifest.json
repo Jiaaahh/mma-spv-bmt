@@ -1,0 +1,35 @@
+{
+  "reason": "Five frozen training mappings were not included in Step 1; copied from original disk paths only after SHA-256 matching.",
+  "files": [
+    {
+      "source_path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\ideal_mapping.npz",
+      "package_path": "assets/core_mma/mappings/ideal_mapping.npz",
+      "sha256": "267cd5ebfaa9ff4093f950fbe6df66442cf3f5115419c677808c1db34c617d5a",
+      "matches_original_config": true
+    },
+    {
+      "source_path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2026.npz",
+      "package_path": "assets/core_mma/mappings/moderate_seed_2026.npz",
+      "sha256": "46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62",
+      "matches_original_config": true
+    },
+    {
+      "source_path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2027.npz",
+      "package_path": "assets/core_mma/mappings/moderate_seed_2027.npz",
+      "sha256": "b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd",
+      "matches_original_config": true
+    },
+    {
+      "source_path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2028.npz",
+      "package_path": "assets/core_mma/mappings/moderate_seed_2028.npz",
+      "sha256": "30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92",
+      "matches_original_config": true
+    },
+    {
+      "source_path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2029.npz",
+      "package_path": "assets/core_mma/mappings/moderate_seed_2029.npz",
+      "sha256": "4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925",
+      "matches_original_config": true
+    }
+  ]
+}

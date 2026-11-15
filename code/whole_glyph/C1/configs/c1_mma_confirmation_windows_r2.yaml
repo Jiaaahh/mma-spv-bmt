@@ -1,0 +1,59 @@
+schema_version: 1
+experiment_id: c1_mma_confirmation_windows_r2
+
+training:
+  glyphs_npz: '/historical/deepseek\hanzi-spv-benchmark\data\processed\benchmark\glyphs.npz'
+  sha256: 8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582
+  fonts:
+    - noto_sans_sc_thin
+    - noto_serif_sc_extralight
+    - ma_shan_zheng
+    - zcool_qingke_huangyou
+    - zcool_kuaile
+    - liu_jian_mao_cao
+  ideal_mapping:
+    path: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\ideal_mapping.npz'
+    sha256: 267cd5ebfaa9ff4093f950fbe6df66442cf3f5115419c677808c1db34c617d5a
+  moderate_mappings:
+    2026: {path: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2026.npz', sha256: 46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62}
+    2027: {path: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2027.npz', sha256: b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd}
+    2028: {path: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2028.npz', sha256: 30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92}
+    2029: {path: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2029.npz', sha256: 4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925}
+
+confirmation:
+  asset_dir: data/mma_confirmation
+  asset_manifest: assets_manifest.json
+  asset_manifest_sha256: e61ce3ba3ef2a7fbb3db9598ddd835eccf08c78ea222a952faa170abd8f7c521
+  glyphs_npz: glyphs_confirmation.npz
+  glyphs_sha256: 7919f63ee4c9b17d627eac6ffdfa009d73c18a1a7c53dc88f26a29f2c9e6d01c
+  fonts: [dengxian_regular, fzshuti_regular]
+  moderate_mappings:
+    2031: {path: mappings/moderate_seed_2031.npz, sha256: 0dd89d73c1e80df9aaff1b5f5e40981c88f8c11f45493597b0f6f1ece3d05f51}
+    2032: {path: mappings/moderate_seed_2032.npz, sha256: e4e0b9e244cef6afbe3206656cf93fbe8437e8ef90c65c531ca2b804ace299bd}
+    2033: {path: mappings/moderate_seed_2033.npz, sha256: 7a83b396d7e86625f53e62fb3d3373f3bacc915804c1039549851fd49ef6f1a2}
+    2034: {path: mappings/moderate_seed_2034.npz, sha256: 76d7032860c22d85dbcfeb3354295a883733c760e7620bb2583ec667730b07ca}
+    2035: {path: mappings/moderate_seed_2035.npz, sha256: 51b70c8df2bccac8e434b6e22d4ab1bd3376e65c308634ae1fc18db53cfcd1aa}
+
+budget: 64
+confirmation_lock: locks/c1_mma_confirmation_windows_r2.lock.json
+output_root: outputs/c1_mma_confirmation_windows_r2
+
+feature:
+  orientations: 9
+  pixels_per_cell: [8, 8]
+  cells_per_block: [2, 2]
+  block_norm: L2-Hys
+
+bootstrap:
+  iterations: 100000
+  seed: 20260825
+
+environment:
+  python: 3.12.7
+  packages:
+    numpy: 1.26.4
+    scipy: 1.13.1
+    scikit-image: 0.25.0
+    scikit-learn: 1.5.1
+    PyYAML: 6.0.1
+    threadpoolctl: 3.5.0

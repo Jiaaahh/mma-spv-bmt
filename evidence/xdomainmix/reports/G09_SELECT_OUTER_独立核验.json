@@ -1,0 +1,114 @@
+{
+  "verdict": "G09_SELECT_OUTER_ACCEPTED",
+  "completed_training_runs": 24,
+  "training_updates": 120000,
+  "new_updates": 0,
+  "inner_rankings_recomputed": 24,
+  "outer_evaluations_verified": 4,
+  "outer_csv_rows_checked": 3600,
+  "bootstrap_replicates": 20000,
+  "independent_mma_hog_reconstruction": true,
+  "prior_run_files_preserved": true,
+  "protected_asset_count": 692,
+  "summary": {
+    "0": {
+      "font": "liu_jian_mao_cao",
+      "methods": {
+        "ERM": {
+          "correct": 55,
+          "total": 900,
+          "accuracy_percent": 6.111111111111111
+        },
+        "XDM": {
+          "correct": 46,
+          "total": 900,
+          "accuracy_percent": 5.111111111111112
+        },
+        "MMA": {
+          "correct": 64,
+          "total": 900,
+          "accuracy_percent": 7.111111111111111
+        }
+      },
+      "paired_comparisons": {
+        "MMA_minus_ERM": {
+          "difference_pp": 1.0,
+          "conditional_character_95ci_pp": [
+            -1.8888888888888888,
+            3.8888888888888893
+          ]
+        },
+        "MMA_minus_XDM": {
+          "difference_pp": 2.0,
+          "conditional_character_95ci_pp": [
+            -0.44444444444444453,
+            4.555555555555555
+          ]
+        },
+        "XDM_minus_ERM": {
+          "difference_pp": -1.0,
+          "conditional_character_95ci_pp": [
+            -3.4444444444444446,
+            1.3333333333333335
+          ]
+        }
+      },
+      "candidate_ids": {
+        "ERM": "C06",
+        "XDM": "C05"
+      }
+    },
+    "1": {
+      "font": "ma_shan_zheng",
+      "methods": {
+        "ERM": {
+          "correct": 189,
+          "total": 900,
+          "accuracy_percent": 21.0
+        },
+        "XDM": {
+          "correct": 201,
+          "total": 900,
+          "accuracy_percent": 22.333333333333332
+        },
+        "MMA": {
+          "correct": 197,
+          "total": 900,
+          "accuracy_percent": 21.88888888888889
+        }
+      },
+      "paired_comparisons": {
+        "MMA_minus_ERM": {
+          "difference_pp": 0.8888888888888888,
+          "conditional_character_95ci_pp": [
+            -3.7777777777777777,
+            5.555555555555555
+          ]
+        },
+        "MMA_minus_XDM": {
+          "difference_pp": -0.4444444444444444,
+          "conditional_character_95ci_pp": [
+            -5.444444444444445,
+            4.4444444444444455
+          ]
+        },
+        "XDM_minus_ERM": {
+          "difference_pp": 1.3333333333333333,
+          "conditional_character_95ci_pp": [
+            -2.2222222222222223,
+            4.888888888888889
+          ]
+        }
+      },
+      "candidate_ids": {
+        "ERM": "C05",
+        "XDM": "C05"
+      }
+    }
+  },
+  "limitations": [
+    "No checkpoint entities in return ZIP; no local CNN inference rerun.",
+    "Two development fonts and one seed; conditional CIs do not establish cross-font or cross-seed superiority."
+  ],
+  "comparison_csvs_independently_checked": true
+}

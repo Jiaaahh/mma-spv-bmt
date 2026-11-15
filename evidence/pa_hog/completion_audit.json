@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "prediction_rows": 64800,
+  "unique_keys": 64800,
+  "prototype_matrices": 42,
+  "all_six_methods_all_panels": true,
+  "prototype_save_reload_equal": true,
+  "csv_correct_counts_independently_rechecked": true,
+  "delta_sign_and_unrounded_arithmetic_checked": true,
+  "baseline_replay": "PASS",
+  "no_selection": true,
+  "independent_audit_status": "PASS",
+  "report_present": true
+}

@@ -1,0 +1,10 @@
+{
+  "selection_hash": "8578989ff86167dd1f5a49e226f2278f04aa82d6935762e47d488eed80b6aa37",
+  "external_manifest_hash": "b110279f8600aa5dc83bd2999998966cae1efda6be382743fa7d2dd02d25777a",
+  "evaluator_hash": "9e4bd661d7adaaa46e40745ee43dd27af1bf6c539303394d6bad5994c8a3e1c4",
+  "core_hash": "f3264f0488a6903662269df7f051378c1af181908ee166c80d1c96f4af79cf10",
+  "bootstrap_seed": 20260928,
+  "bootstrap_repetitions": 100000,
+  "primary": "H1 minus R1 mean seed accuracy on E1",
+  "dtype": "float64"
+}

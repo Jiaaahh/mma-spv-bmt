@@ -1,0 +1,13 @@
+{
+  "study": "MMA supplementary development experiments 2026-09-08",
+  "status": "DEVELOPMENT_ONLY_NOT_NEW_CONFIRMATION",
+  "budget": 64,
+  "training_mapping_groups": [[2026,2027,2028,2029],[5201,5202,5203,5204],[5205,5206,5207,5208],[5209,5210,5211,5212],[5213,5214,5215,5216]],
+  "development_evaluation_mapping_seeds": [5301,5302,5303,5304,5305],
+  "ordinary_augmentation": {"seed": 20260908, "replicas": 4, "translation_std_px": 1.8, "translation_clip_px": 3.6, "scale_uniform": [0.9,1.1], "stage": "after ideal SPV rendering", "interpolation_order": 1},
+  "font_validation": "leave one of six development fonts out; no historical test fonts",
+  "bootstrap_replicates": 100000,
+  "bootstrap_seed": 20260909,
+  "neural_pilot": {"methods": ["erm_ideal", "erm_multi5", "xdomainmix_multi5"], "training_mapping_group": 0, "initialization_seeds": [17,29,43], "epochs": 40, "batch_classes": 12, "learning_rate": 0.001, "weight_decay": 0.0001, "warmup_epochs": 10, "checkpoint_rule": "final epoch only, no development-score checkpoint selection", "backbone": "SmallCNN 16-32-64, no pretraining, 96x96 input, 4x4 pooled feature", "threads": 4},
+  "interpretation": "All evaluations in this extension are exploratory development comparisons; no claims of beating original-paper benchmarks. External algorithm adapted to common small CPU CNN."
+}

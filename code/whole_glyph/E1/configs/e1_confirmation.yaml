@@ -1,0 +1,95 @@
+schema_version: 1
+experiment_id: e1_supplemental_confirmation
+
+training:
+  glyphs_npz: '/historical/deepseek\hanzi-spv-benchmark\data\processed\benchmark\glyphs.npz'
+  fonts:
+    - noto_sans_sc_thin
+    - noto_serif_sc_extralight
+    - ma_shan_zheng
+    - zcool_qingke_huangyou
+    - zcool_kuaile
+    - liu_jian_mao_cao
+  ideal_mapping: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\ideal_mapping.npz'
+  moderate_mappings:
+    2026: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2026.npz'
+    2027: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2027.npz'
+    2028: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2028.npz'
+    2029: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2029.npz'
+
+assets:
+  asset_dir: data/e1_assets
+  manifest: manifest.json
+
+confirmation:
+  asset_dir: data/e1_assets
+  glyphs_npz: glyphs_e1_fonts.npz
+  selected_c_file: outputs/d3_svc_selection/selected_c.json
+  conditions: [mild, moderate, severe, position_only, scale_only]
+  mapping_seeds: [3101, 3102, 3103, 3104, 3105]
+  budget: 64
+  lock: locks/e1_confirmation.lock.json
+  output_dir: outputs/e1_confirmation
+
+feature:
+  orientations: 9
+  pixels_per_cell: [8, 8]
+  cells_per_block: [2, 2]
+  block_norm: L2-Hys
+
+statistics:
+  primary_condition: moderate
+  primary_method: proto_skeleton_ideal_plus_multi4
+  primary_reference: proto_skeleton_ideal_only
+  cluster_unit: character
+  bootstrap_iterations: 100000
+  bootstrap_seed: 20260826
+
+runtime:
+  selection_workers: 4
+
+external_inputs:
+  source_training_glyphs: '/historical/deepseek\hanzi-spv-benchmark\data\processed\benchmark\glyphs.npz'
+  development_config: configs/d3_svc.yaml
+  development_summary: outputs/d3_svc_selection/summary.json
+  development_fold_metrics: outputs/d3_svc_selection/fold_metrics.csv
+  training_mappings:
+    ideal: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\ideal_mapping.npz'
+    moderate_2026: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2026.npz'
+    moderate_2027: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2027.npz'
+    moderate_2028: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2028.npz'
+    moderate_2029: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2029.npz'
+    validation_2030: '/historical/deepseek\hanzi-spv-benchmark\data\mappings\formal\moderate_seed_2030.npz'
+  development_selected_c: outputs/d3_svc_selection/selected_c.json
+  e1_glyphs: data/e1_assets/glyphs_e1_fonts.npz
+  e1_mappings:
+    mild:
+      3101: data/e1_assets/mappings/e1_mild_seed3101.npz
+      3102: data/e1_assets/mappings/e1_mild_seed3102.npz
+      3103: data/e1_assets/mappings/e1_mild_seed3103.npz
+      3104: data/e1_assets/mappings/e1_mild_seed3104.npz
+      3105: data/e1_assets/mappings/e1_mild_seed3105.npz
+    moderate:
+      3101: data/e1_assets/mappings/e1_moderate_seed3101.npz
+      3102: data/e1_assets/mappings/e1_moderate_seed3102.npz
+      3103: data/e1_assets/mappings/e1_moderate_seed3103.npz
+      3104: data/e1_assets/mappings/e1_moderate_seed3104.npz
+      3105: data/e1_assets/mappings/e1_moderate_seed3105.npz
+    severe:
+      3101: data/e1_assets/mappings/e1_severe_seed3101.npz
+      3102: data/e1_assets/mappings/e1_severe_seed3102.npz
+      3103: data/e1_assets/mappings/e1_severe_seed3103.npz
+      3104: data/e1_assets/mappings/e1_severe_seed3104.npz
+      3105: data/e1_assets/mappings/e1_severe_seed3105.npz
+    position_only:
+      3101: data/e1_assets/mappings/e1_position_only_seed3101.npz
+      3102: data/e1_assets/mappings/e1_position_only_seed3102.npz
+      3103: data/e1_assets/mappings/e1_position_only_seed3103.npz
+      3104: data/e1_assets/mappings/e1_position_only_seed3104.npz
+      3105: data/e1_assets/mappings/e1_position_only_seed3105.npz
+    scale_only:
+      3101: data/e1_assets/mappings/e1_scale_only_seed3101.npz
+      3102: data/e1_assets/mappings/e1_scale_only_seed3102.npz
+      3103: data/e1_assets/mappings/e1_scale_only_seed3103.npz
+      3104: data/e1_assets/mappings/e1_scale_only_seed3104.npz
+      3105: data/e1_assets/mappings/e1_scale_only_seed3105.npz

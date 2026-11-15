@@ -1,0 +1,897 @@
+{
+  "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+  "bootstrap": {
+    "interval": "two-sided percentile 95%",
+    "iterations_per_scheme": 100000,
+    "scheme_seeds": {
+      "character": 20260826,
+      "crossed_character_font_mapping_seed": 20260829,
+      "font": 20260827,
+      "mapping_seed": 20260828
+    },
+    "shared_resamples_across_comparisons_within_scheme": true
+  },
+  "comparisons": [
+    {
+      "comparison_id": "primary_multi4_vs_ideal",
+      "label": "Ideal + four moderate mappings vs ideal only",
+      "method": "proto_skeleton_ideal_plus_multi4",
+      "reference_method": "proto_skeleton_ideal_only",
+      "resampling_results": [
+        {
+          "analysis_status": "RECOMPUTATION_OF_PREREGISTERED_PRIMARY",
+          "ci95_pp": [
+            12.055555555555555,
+            18.194444444444443
+          ],
+          "description": "Resample 180 character clusters; retain all 4 fonts x 5 mapping seeds within each sampled character.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 15.055555555555555,
+          "resampled_level_count": 180,
+          "scheme": "character",
+          "seed": 20260826
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            12.333333333333332,
+            17.277777777777775
+          ],
+          "description": "Resample 4 font clusters; retain all 180 characters x 5 mapping seeds within each sampled font.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 15.055555555555555,
+          "resampled_level_count": 4,
+          "scheme": "font",
+          "seed": 20260827
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            12.944444444444445,
+            17.027777777777782
+          ],
+          "description": "Resample 5 mapping-seed clusters; retain all 180 characters x 4 fonts within each sampled mapping seed.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 15.055555555555555,
+          "resampled_level_count": 5,
+          "scheme": "mapping_seed",
+          "seed": 20260828
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            9.944444444444445,
+            20.194444444444446
+          ],
+          "description": "Independently resample characters, fonts, and mapping seeds, then average the Cartesian product of the sampled levels (crossed multiway bootstrap).",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 15.055555555555555,
+          "resampled_level_count": null,
+          "scheme": "crossed_character_font_mapping_seed",
+          "seed": 20260829
+        }
+      ],
+      "role": "primary"
+    },
+    {
+      "comparison_id": "single1_vs_ideal",
+      "label": "Ideal + one moderate mapping vs ideal only",
+      "method": "proto_skeleton_ideal_plus_moderate1",
+      "reference_method": "proto_skeleton_ideal_only",
+      "resampling_results": [
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            10.27777777777778,
+            15.194444444444446
+          ],
+          "description": "Resample 180 character clusters; retain all 4 fonts x 5 mapping seeds within each sampled character.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 12.694444444444445,
+          "resampled_level_count": 180,
+          "scheme": "character",
+          "seed": 20260826
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            10.166666666666666,
+            14.249999999999998
+          ],
+          "description": "Resample 4 font clusters; retain all 180 characters x 5 mapping seeds within each sampled font.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 12.694444444444445,
+          "resampled_level_count": 4,
+          "scheme": "font",
+          "seed": 20260827
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            11.38888888888889,
+            14.416666666666666
+          ],
+          "description": "Resample 5 mapping-seed clusters; retain all 180 characters x 4 fonts within each sampled mapping seed.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 12.694444444444445,
+          "resampled_level_count": 5,
+          "scheme": "mapping_seed",
+          "seed": 20260828
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            8.61111111111111,
+            16.944444444444446
+          ],
+          "description": "Independently resample characters, fonts, and mapping seeds, then average the Cartesian product of the sampled levels (crossed multiway bootstrap).",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 12.694444444444445,
+          "resampled_level_count": null,
+          "scheme": "crossed_character_font_mapping_seed",
+          "seed": 20260829
+        }
+      ],
+      "role": "exploratory_ablation"
+    },
+    {
+      "comparison_id": "multi2_vs_single1",
+      "label": "Ideal + two moderate mappings vs ideal + one",
+      "method": "proto_skeleton_ideal_plus_moderate2",
+      "reference_method": "proto_skeleton_ideal_plus_moderate1",
+      "resampling_results": [
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.33333333333333337,
+            2.527777777777778
+          ],
+          "description": "Resample 180 character clusters; retain all 4 fonts x 5 mapping seeds within each sampled character.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 1.4444444444444444,
+          "resampled_level_count": 180,
+          "scheme": "character",
+          "seed": 20260826
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.27777777777777773,
+            2.2222222222222223
+          ],
+          "description": "Resample 4 font clusters; retain all 180 characters x 5 mapping seeds within each sampled font.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 1.4444444444444444,
+          "resampled_level_count": 4,
+          "scheme": "font",
+          "seed": 20260827
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.6388888888888888,
+            1.972222222222222
+          ],
+          "description": "Resample 5 mapping-seed clusters; retain all 180 characters x 4 fonts within each sampled mapping seed.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 1.4444444444444444,
+          "resampled_level_count": 5,
+          "scheme": "mapping_seed",
+          "seed": 20260828
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            -0.8333333333333334,
+            3.4444444444444446
+          ],
+          "description": "Independently resample characters, fonts, and mapping seeds, then average the Cartesian product of the sampled levels (crossed multiway bootstrap).",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 1.4444444444444444,
+          "resampled_level_count": null,
+          "scheme": "crossed_character_font_mapping_seed",
+          "seed": 20260829
+        }
+      ],
+      "role": "exploratory_ablation"
+    },
+    {
+      "comparison_id": "multi4_vs_multi2",
+      "label": "Ideal + four moderate mappings vs ideal + two",
+      "method": "proto_skeleton_ideal_plus_multi4",
+      "reference_method": "proto_skeleton_ideal_plus_moderate2",
+      "resampling_results": [
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.16666666666666666,
+            1.6944444444444442
+          ],
+          "description": "Resample 180 character clusters; retain all 4 fonts x 5 mapping seeds within each sampled character.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 0.9166666666666666,
+          "resampled_level_count": 180,
+          "scheme": "character",
+          "seed": 20260826
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.4444444444444444,
+            1.3888888888888888
+          ],
+          "description": "Resample 4 font clusters; retain all 180 characters x 5 mapping seeds within each sampled font.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 0.9166666666666666,
+          "resampled_level_count": 4,
+          "scheme": "font",
+          "seed": 20260827
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.3888888888888889,
+            1.4444444444444444
+          ],
+          "description": "Resample 5 mapping-seed clusters; retain all 180 characters x 4 fonts within each sampled mapping seed.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 0.9166666666666666,
+          "resampled_level_count": 5,
+          "scheme": "mapping_seed",
+          "seed": 20260828
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            -0.5555555555555556,
+            2.5
+          ],
+          "description": "Independently resample characters, fonts, and mapping seeds, then average the Cartesian product of the sampled levels (crossed multiway bootstrap).",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 0.9166666666666666,
+          "resampled_level_count": null,
+          "scheme": "crossed_character_font_mapping_seed",
+          "seed": 20260829
+        }
+      ],
+      "role": "exploratory_ablation"
+    },
+    {
+      "comparison_id": "multi4_vs_single1",
+      "label": "Ideal + four moderate mappings vs ideal + one",
+      "method": "proto_skeleton_ideal_plus_multi4",
+      "reference_method": "proto_skeleton_ideal_plus_moderate1",
+      "resampling_results": [
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            1.0277777777777777,
+            3.7222222222222228
+          ],
+          "description": "Resample 180 character clusters; retain all 4 fonts x 5 mapping seeds within each sampled character.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.361111111111111,
+          "resampled_level_count": 180,
+          "scheme": "character",
+          "seed": 20260826
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            1.5,
+            3.2222222222222223
+          ],
+          "description": "Resample 4 font clusters; retain all 180 characters x 5 mapping seeds within each sampled font.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.361111111111111,
+          "resampled_level_count": 4,
+          "scheme": "font",
+          "seed": 20260827
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            1.0833333333333335,
+            3.138888888888889
+          ],
+          "description": "Resample 5 mapping-seed clusters; retain all 180 characters x 4 fonts within each sampled mapping seed.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.361111111111111,
+          "resampled_level_count": 5,
+          "scheme": "mapping_seed",
+          "seed": 20260828
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            -0.33333333333333337,
+            4.777777777777778
+          ],
+          "description": "Independently resample characters, fonts, and mapping seeds, then average the Cartesian product of the sampled levels (crossed multiway bootstrap).",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.361111111111111,
+          "resampled_level_count": null,
+          "scheme": "crossed_character_font_mapping_seed",
+          "seed": 20260829
+        }
+      ],
+      "role": "exploratory_ablation"
+    },
+    {
+      "comparison_id": "ideal_multi4_vs_multi4_noideal",
+      "label": "Ideal + four moderate mappings vs four mappings without ideal",
+      "method": "proto_skeleton_ideal_plus_multi4",
+      "reference_method": "proto_skeleton_multi4_no_ideal",
+      "resampling_results": [
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            1.5277777777777777,
+            2.944444444444444
+          ],
+          "description": "Resample 180 character clusters; retain all 4 fonts x 5 mapping seeds within each sampled character.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.2222222222222223,
+          "resampled_level_count": 180,
+          "scheme": "character",
+          "seed": 20260826
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            1.4166666666666667,
+            3.138888888888889
+          ],
+          "description": "Resample 4 font clusters; retain all 180 characters x 5 mapping seeds within each sampled font.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.2222222222222223,
+          "resampled_level_count": 4,
+          "scheme": "font",
+          "seed": 20260827
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            1.8333333333333333,
+            2.5555555555555554
+          ],
+          "description": "Resample 5 mapping-seed clusters; retain all 180 characters x 4 fonts within each sampled mapping seed.",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.2222222222222223,
+          "resampled_level_count": 5,
+          "scheme": "mapping_seed",
+          "seed": 20260828
+        },
+        {
+          "analysis_status": "POST_HOC_NOT_PREREGISTERED",
+          "ci95_pp": [
+            0.8055555555555556,
+            3.888888888888889
+          ],
+          "description": "Independently resample characters, fonts, and mapping seeds, then average the Cartesian product of the sampled levels (crossed multiway bootstrap).",
+          "iterations": 100000,
+          "level_counts": {
+            "characters": 180,
+            "fonts": 4,
+            "mapping_seeds": 5
+          },
+          "mean_accuracy_difference_pp": 2.2222222222222223,
+          "resampled_level_count": null,
+          "scheme": "crossed_character_font_mapping_seed",
+          "seed": 20260829
+        }
+      ],
+      "role": "exploratory_ablation"
+    }
+  ],
+  "design": {
+    "characters_in_formal_cluster_order": [
+      "一",
+      "上",
+      "下",
+      "不",
+      "个",
+      "中",
+      "为",
+      "么",
+      "之",
+      "也",
+      "了",
+      "事",
+      "些",
+      "人",
+      "什",
+      "从",
+      "他",
+      "以",
+      "们",
+      "会",
+      "但",
+      "作",
+      "你",
+      "信",
+      "候",
+      "做",
+      "像",
+      "儿",
+      "先",
+      "克",
+      "全",
+      "关",
+      "再",
+      "出",
+      "分",
+      "别",
+      "到",
+      "前",
+      "动",
+      "去",
+      "发",
+      "只",
+      "可",
+      "后",
+      "吗",
+      "吧",
+      "听",
+      "告",
+      "呢",
+      "和",
+      "哦",
+      "哪",
+      "啊",
+      "喜",
+      "回",
+      "因",
+      "在",
+      "地",
+      "多",
+      "大",
+      "天",
+      "太",
+      "头",
+      "女",
+      "她",
+      "好",
+      "如",
+      "妈",
+      "子",
+      "孩",
+      "它",
+      "定",
+      "实",
+      "家",
+      "对",
+      "小",
+      "就",
+      "己",
+      "已",
+      "帮",
+      "常",
+      "干",
+      "年",
+      "应",
+      "开",
+      "当",
+      "很",
+      "得",
+      "心",
+      "快",
+      "怎",
+      "情",
+      "想",
+      "意",
+      "感",
+      "成",
+      "我",
+      "所",
+      "手",
+      "才",
+      "打",
+      "找",
+      "把",
+      "放",
+      "斯",
+      "方",
+      "无",
+      "时",
+      "明",
+      "是",
+      "晚",
+      "最",
+      "有",
+      "机",
+      "杀",
+      "来",
+      "果",
+      "样",
+      "次",
+      "欢",
+      "正",
+      "死",
+      "比",
+      "没",
+      "法",
+      "点",
+      "然",
+      "爱",
+      "爸",
+      "特",
+      "现",
+      "生",
+      "用",
+      "电",
+      "的",
+      "直",
+      "相",
+      "看",
+      "真",
+      "着",
+      "知",
+      "等",
+      "经",
+      "给",
+      "美",
+      "老",
+      "而",
+      "能",
+      "自",
+      "行",
+      "被",
+      "西",
+      "要",
+      "见",
+      "觉",
+      "认",
+      "让",
+      "诉",
+      "话",
+      "该",
+      "说",
+      "谁",
+      "谢",
+      "走",
+      "起",
+      "跟",
+      "车",
+      "过",
+      "还",
+      "这",
+      "进",
+      "道",
+      "那",
+      "都",
+      "里",
+      "错",
+      "问",
+      "间",
+      "需",
+      "面"
+    ],
+    "condition": "moderate",
+    "fonts": [
+      "E1_F01",
+      "E1_F02",
+      "E1_F03",
+      "E1_F04"
+    ],
+    "mapping_seeds": [
+      3101,
+      3102,
+      3103,
+      3104,
+      3105
+    ],
+    "paired_cells_per_comparison": 3600,
+    "true_labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179
+    ]
+  },
+  "interpretation_limits": [
+    "The character-only interval conditions on the four fonts and five mapping seeds observed in E1.",
+    "The crossed interval treats characters, fonts, and mapping seeds as sampled factors, but only four fonts and five seeds are available.",
+    "The +1/+2/+4 representations form one frozen nested mapping sequence; mapping count is therefore confounded with mapping identity and order.",
+    "The ideal-anchor comparison also changes the number of training representations (five vs four), so it does not isolate anchor identity."
+  ],
+  "source": {
+    "expected_sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8",
+    "formal_artifacts_modified": false,
+    "observed_sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8",
+    "predictions_path": "outputs/e1_confirmation/predictions.csv"
+  },
+  "status": "POST_HOC_SENSITIVITY_ANALYSIS_COMPLETE",
+  "warning": "This sensitivity package was generated after the formal E1 analysis. Except for recomputing the preregistered primary character-cluster bootstrap, these intervals and ablation contrasts are post hoc and must not be presented as preregistered confirmatory tests."
+}

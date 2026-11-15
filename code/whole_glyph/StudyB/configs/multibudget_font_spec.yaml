@@ -1,0 +1,45 @@
+schema: mma-multibudget-font-spec-v1
+schema_version: 1
+study_id: mma_multibudget_v1
+source_dataset: '/historical/deepseek\hanzi-spv-benchmark\data\processed\benchmark\glyphs.npz'
+
+selection:
+  status: FROZEN_BLINDED_TECHNICAL_SELECTION_NO_PERFORMANCE_ACCESS
+  inventory_root: '/historical/Windows\Fonts'
+  inventory_extensions: [.ttf, .otf, .ttc]
+  fixed_character_sequence_sha256: 570f754fc4182ef4010472c7ac13867db86a058ce031f3c6fbad7a393a294936
+  historical_font_file_count: 14
+  eligible_candidate_count: 16
+  order_rule: complete_file_sha256_then_absolute_path_casefold_then_face_index
+  duplicate_file_rule: retain_lowest_face_index
+  required_style: Regular
+  required_cmap_coverage: 180/180
+  required_unique_raw_glyphs: 180
+  required_unique_normalized_glyphs: 180
+  performance_selection: false
+  prediction_executed: false
+  accuracy_read: false
+
+# Formal identifiers remain blinded.  Real family names are retained here only
+# for the technical asset lock and must not be used to select or tune a method.
+fonts:
+  - font_id: MB_F01
+    family_id: STCaiyun
+    path: '/historical/Windows\Fonts\STCAIYUN.TTF'
+    face_index: 0
+    file_sha256: 13b3f397619a1bd2a3dc56b09007114645a3103a171949e36c0f4603c7c44136
+  - font_id: MB_F02
+    family_id: SimSun
+    path: '/historical/Windows\Fonts\simsun.ttc'
+    face_index: 0
+    file_sha256: 1526ac24375f51f6eb73bc2d3f8072dbe4a80a3a65217677c9d9a84f67dab2ab
+  - font_id: MB_F03
+    family_id: Microsoft JhengHei
+    path: '/historical/Windows\Fonts\msjh.ttc'
+    face_index: 0
+    file_sha256: 1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac
+  - font_id: MB_F04
+    family_id: FZYaoTi
+    path: '/historical/Windows\Fonts\FZYTK.TTF'
+    face_index: 0
+    file_sha256: 4065a23df6823c8e2b69a0e76d02f02a6470b8774a5e91086609701ad95cc33f

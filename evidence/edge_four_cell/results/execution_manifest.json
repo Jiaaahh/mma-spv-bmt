@@ -1,0 +1,11 @@
+{
+  "protocol_sha256": "92feeba94557d2a21f30a4e1ab6845f58b0a153b67f34c51452a53f734204e0b",
+  "run_sha256": "a981439f54b415f5ad8d1e4caaa41e33415f4a54e11267421e1bf8ae73397379",
+  "python": "3.12.7",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit-image": "0.25.0",
+    "threadpoolctl": "3.5.0"
+  }
+}

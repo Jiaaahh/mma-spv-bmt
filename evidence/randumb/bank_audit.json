@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "original_glyph_sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582",
+  "renders": [
+    {
+      "name": "ideal",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed2026",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed2027",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed2028",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed2029",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed5301",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed5302",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed5303",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed5304",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    },
+    {
+      "name": "moderate_seed5305",
+      "n": 1080,
+      "max_abs_render_error": 0.0,
+      "hog_hash_match": true
+    }
+  ],
+  "old_development_prediction_matches": {
+    "ideal_only": true,
+    "mma_g0": true
+  }
+}

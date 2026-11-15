@@ -1,0 +1,17 @@
+item,evidence,status,manuscript_placement
+source_method,http/historical/www.mdpi.com/1424-8220/24/11/3624,sections_2.2.1_3.1_3.4_checked,pending
+input_images,input_audit.json,PASS_16200_images,pending
+class_order,classes.json,PASS_180_classes,pending
+environment,environment.json,CPU_runtime_checked_CLIP_missing,pending
+protocol,第一步核对与比较协议.md,DRAFT_runtime_QA_pending,pending
+runtime_gate,readiness.json,PENDING,pending
+existing_PA_HOG,../proto_adapter_B_run_20260928/evidence_crosswalk.csv,separate_experiment_retained,pending
+new_external_predictions,,NOT_RUN,pending
+new_statistics,,NOT_RUN,pending
+source_and_weight,clip_source_manifest.json,PASS,pending
+installed_source,installed_source_audit.json,PASS,pending
+text_encoder,text_audit.json,PASS,pending
+math,math_audit.json,PASS,pending
+input_preview,visual_input_audit.json,PASS,pending
+runtime,runtime_benchmark.json,PASS,pending
+frozen_protocol,frozen_protocol.json,FROZEN_BEFORE_NEW_ACCURACY,pending

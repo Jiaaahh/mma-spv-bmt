@@ -1,0 +1,27 @@
+{
+  "status": "COMPLETE",
+  "files": {
+    "completion_audit.json": "f0bb1d07e85c4c9476017c1666370cc4044456bf15944b55a8cf5f6f3f927c1a",
+    "console.log": "37f9246112f285b079608c5aca7d46e1e3bc823746ca5cc5b739c806754aa187",
+    "dataset_source.json": "486d0b9cbd2d24aadf9e54b90f8a09c57f061b6a54fb9c21c7ccb3218783dc43",
+    "download.py": "f7802367b318773786fc1add30e0a758de973b9e0f1d9c22fa50c4400bd15c8a",
+    "engineering_log.md": "f1ef6849b3a399949a178e790222324c73d8b9b7516bd1d4b713a314dfedb67a",
+    "finalize.py": "47953a13279c43ef573ce9ef40db2e557302b46a28a7250d2d6c314bfd357fd6",
+    "image_features.npy": "3415f1137a67ab7454d8a902e781e1231f41402fdf4cb216c42ccd611394ee6c",
+    "implementation_manifest.json": "16950885ce15b3f2e287f6ff9673f2822db5707e4735ce2e0aa3d2962923ca03",
+    "metrics.csv": "7ef82235445a7464ba18b874cf7c08a7d1979aedb7c9afe1eb06eb44019471ef",
+    "pa_prototypes.npy": "cf343a132c25fee79d96f746a658a80e424f87f6f13e47bacedee8e0b986d2b3",
+    "plain_prototypes.npy": "cff454332eb04bb1653775fefb542639146d84ef0c072076354f45ca1f16f706",
+    "predictions.csv": "9051139ffe6ab184622ca0901fde98392fbe7fcc6c03a871be400d395e8cfd6f",
+    "prompts.json": "39c62edb657e7072692cd8ef9076bbbf7ba7cfd01923df1779b49453b450784d",
+    "protocol.json": "0ff16f4c22d8e6bf08607a0204a1f7d41eb18938c7d645c924909d6c9b927cf4",
+    "result.json": "a38b0a743abe6ea9ac8424d1c4a9d0e81e337c51f2f19027be15856e9ccf098f",
+    "run_sanity.py": "90cd8f9e1c645a37c3f7971a80c6b62576e46055fb46386668f69f04193f4693",
+    "selected_alpha.json": "0b07c02a139e4ccae31a7380be1b5c74b2f7515333218358e30ac622063ab3af",
+    "split_manifest.json": "44478b43a67fee02417e25f20af0d19de3ef165bfb749049f800700b5710b505",
+    "support_preview.png": "79a5a5170f1a48240ff60a3723412902a879c71cc630cc2d011754b87b074dc3",
+    "text_features.npy": "65608cc41ecb73df1daf60ddc532bb43d0b65113ed962d3e7579d5cac9af78c5",
+    "validation_search.json": "5e3050c17e91b830a18a0981da1ef4f3748d2cd8426dd6ae1dea6f010882932a",
+    "自然图像验证结论.md": "e8804fed249c8a360178fe0f717d075a34972f64e63df0ffb5d667d99ed44610"
+  }
+}

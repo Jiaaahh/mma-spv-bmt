@@ -1,0 +1,50 @@
+{
+  "roots": [
+    "/historical/user/Documents/Codex/2026-08-25",
+    "/historical/user/Documents/Codex/2026-08-29",
+    "/historical/user/Documents/Codex/2026-09-08",
+    "/historical/user/Documents/Codex/2026-09-13",
+    "/historical/user/Documents/Codex/2026-09-20",
+    "/historical/deepseek/hanzi-spv-benchmark"
+  ],
+  "command": [
+    "rg",
+    "-i",
+    "-n",
+    "STHupo|STXinwei|STXingkai|STKaiti|STHUPO|STXINWEI|STXINGKA|STKAITI|26092501|26092502|26092503|26092504|26092505",
+    "/historical/user/Documents/Codex/2026-08-25",
+    "/historical/user/Documents/Codex/2026-08-29",
+    "/historical/user/Documents/Codex/2026-09-08",
+    "/historical/user/Documents/Codex/2026-09-13",
+    "/historical/user/Documents/Codex/2026-09-20",
+    "/historical/deepseek/hanzi-spv-benchmark",
+    "-g",
+    "*.json",
+    "-g",
+    "*.csv",
+    "-g",
+    "*.yaml",
+    "-g",
+    "*.yml",
+    "-g",
+    "*.toml",
+    "-g",
+    "!**/.venv/**",
+    "-g",
+    "!**/site-packages/**",
+    "-g",
+    "!**/node_modules/**",
+    "-g",
+    "!**/plotlibs/**"
+  ],
+  "returncode": 0,
+  "matches": [
+    "/historical/user/Documents/Codex/2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\audits\\MULTIBUDGET_FONT_SELECTION_AUDIT.json:29:    {\"family_id\": \"STHupo\", \"face_index\": 0, \"file\": \"/historical/Windows\\\\Fonts\\\\STHUPO.TTF\", \"file_sha256\": \"7426907130588efde1b8c5037f1e245c2a23ee30f9a2d60f863c4264d5a06890\", \"font_id\": null, \"selected\": false},",
+    "/historical/user/Documents/Codex/2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\audits\\MULTIBUDGET_FONT_SELECTION_AUDIT.json:30:    {\"family_id\": \"STXinwei\", \"face_index\": 0, \"file\": \"/historical/Windows\\\\Fonts\\\\STXINWEI.TTF\", \"file_sha256\": \"7f2fb3442bec38afecc78e1548a9d154cc225d4cfd9cbc0f8c469311ab43e36a\", \"font_id\": null, \"selected\": false},",
+    "/historical/user/Documents/Codex/2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\audits\\MULTIBUDGET_FONT_SELECTION_AUDIT.json:31:    {\"family_id\": \"STXingkai\", \"face_index\": 0, \"file\": \"/historical/Windows\\\\Fonts\\\\STXINGKA.TTF\", \"file_sha256\": \"7f901dfb0526d542740264fb5ba8dfe483293ad060270d273593e2f04a69d080\", \"font_id\": null, \"selected\": false},",
+    "/historical/user/Documents/Codex/2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\audits\\MULTIBUDGET_FONT_SELECTION_AUDIT.json:32:    {\"family_id\": \"STKaiti\", \"face_index\": 0, \"file\": \"/historical/Windows\\\\Fonts\\\\STKAITI.TTF\", \"file_sha256\": \"a29c99c161fc43ce6aba2d7c152065359c2cb3019be4ae6248171178cb7d04d5\", \"font_id\": null, \"selected\": false},"
+  ],
+  "stderr": "",
+  "finding": "Only four unselected candidate entries in previous inventory; no selected-asset references or new mapping-seed references found in scanned structured records. This is an audit of available local records, not proof about unknown external runs.",
+  "visual_qc": "All four 180-glyph contact sheets inspected; no missing-glyph boxes or clipping observed; decorative shapes retained without performance filtering."
+}

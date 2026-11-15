@@ -1,0 +1,598 @@
+{
+  "nested_zip_sha256": "2f5105c8b83f1c498e59167291512b2f66869149bacd100c395e9e597ada8945",
+  "integrity": "passed",
+  "candidates": {
+    "ideal_lr1e4": {
+      "panels": [
+        {
+          "step": 0,
+          "panel": "train",
+          "correct": 20,
+          "accuracy": 0.005555555555555556,
+          "n": 3600,
+          "ce": 5.368015118559858,
+          "predicted_classes": 1,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "step": 0,
+          "panel": "inner",
+          "correct": 5,
+          "accuracy": 0.005555555555555556,
+          "n": 900,
+          "ce": 5.371493381581402,
+          "predicted_classes": 1,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "train",
+          "correct": 1919,
+          "accuracy": 0.5330555555555555,
+          "n": 3600,
+          "ce": 1.849266206846715,
+          "predicted_classes": 178,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            575,
+            343,
+            336,
+            339,
+            326
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "inner",
+          "correct": 245,
+          "accuracy": 0.2722222222222222,
+          "n": 900,
+          "ce": 3.5090248423846635,
+          "predicted_classes": 143,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            82,
+            40,
+            42,
+            38,
+            43
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "train",
+          "correct": 2670,
+          "accuracy": 0.7416666666666667,
+          "n": 3600,
+          "ce": 0.991808728232822,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            667,
+            482,
+            504,
+            524,
+            493
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "inner",
+          "correct": 405,
+          "accuracy": 0.45,
+          "n": 900,
+          "ce": 2.7208008532390795,
+          "predicted_classes": 157,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            123,
+            62,
+            74,
+            78,
+            68
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "train",
+          "correct": 2915,
+          "accuracy": 0.8097222222222222,
+          "n": 3600,
+          "ce": 0.7078851265175552,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            673,
+            549,
+            558,
+            576,
+            559
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "inner",
+          "correct": 402,
+          "accuracy": 0.44666666666666666,
+          "n": 900,
+          "ce": 2.8190337791268085,
+          "predicted_classes": 161,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            112,
+            70,
+            75,
+            74,
+            71
+          ]
+        }
+      ],
+      "elapsed_after_initial_eval_seconds": 730.2172679901123
+    },
+    "ideal_lr3e5": {
+      "panels": [
+        {
+          "step": 0,
+          "panel": "train",
+          "correct": 20,
+          "accuracy": 0.005555555555555556,
+          "n": 3600,
+          "ce": 5.368015118559858,
+          "predicted_classes": 1,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "step": 0,
+          "panel": "inner",
+          "correct": 5,
+          "accuracy": 0.005555555555555556,
+          "n": 900,
+          "ce": 5.371493381581402,
+          "predicted_classes": 1,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "train",
+          "correct": 760,
+          "accuracy": 0.2111111111111111,
+          "n": 3600,
+          "ce": 3.691578602373386,
+          "predicted_classes": 162,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            268,
+            118,
+            124,
+            123,
+            127
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "inner",
+          "correct": 80,
+          "accuracy": 0.08888888888888889,
+          "n": 900,
+          "ce": 4.427713953642365,
+          "predicted_classes": 103,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            37,
+            9,
+            11,
+            11,
+            12
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "train",
+          "correct": 2058,
+          "accuracy": 0.5716666666666667,
+          "n": 3600,
+          "ce": 1.8025829216998777,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            656,
+            350,
+            319,
+            349,
+            384
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "inner",
+          "correct": 239,
+          "accuracy": 0.26555555555555554,
+          "n": 900,
+          "ce": 3.439587584857561,
+          "predicted_classes": 148,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            94,
+            35,
+            37,
+            34,
+            39
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "train",
+          "correct": 2548,
+          "accuracy": 0.7077777777777777,
+          "n": 3600,
+          "ce": 1.133926608007968,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            701,
+            446,
+            428,
+            460,
+            513
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "inner",
+          "correct": 304,
+          "accuracy": 0.3377777777777778,
+          "n": 900,
+          "ce": 3.1136221400188293,
+          "predicted_classes": 156,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            111,
+            46,
+            55,
+            42,
+            50
+          ]
+        }
+      ],
+      "elapsed_after_initial_eval_seconds": 723.7224550247192
+    },
+    "multi_lr1e4": {
+      "panels": [
+        {
+          "step": 0,
+          "panel": "train",
+          "correct": 20,
+          "accuracy": 0.005555555555555556,
+          "n": 3600,
+          "ce": 5.368015118559858,
+          "predicted_classes": 1,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "step": 0,
+          "panel": "inner",
+          "correct": 5,
+          "accuracy": 0.005555555555555556,
+          "n": 900,
+          "ce": 5.371493381581402,
+          "predicted_classes": 1,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "train",
+          "correct": 2600,
+          "accuracy": 0.7222222222222222,
+          "n": 3600,
+          "ce": 0.9428649069005153,
+          "predicted_classes": 178,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            526,
+            517,
+            518,
+            522,
+            517
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "inner",
+          "correct": 391,
+          "accuracy": 0.43444444444444447,
+          "n": 900,
+          "ce": 2.4077194932376944,
+          "predicted_classes": 140,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            75,
+            76,
+            82,
+            79,
+            79
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "train",
+          "correct": 3385,
+          "accuracy": 0.9402777777777778,
+          "n": 3600,
+          "ce": 0.19639253516163163,
+          "predicted_classes": 179,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            684,
+            673,
+            672,
+            678,
+            678
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "inner",
+          "correct": 516,
+          "accuracy": 0.5733333333333334,
+          "n": 900,
+          "ce": 1.8251408699947642,
+          "predicted_classes": 135,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            103,
+            106,
+            100,
+            105,
+            102
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "train",
+          "correct": 3426,
+          "accuracy": 0.9516666666666667,
+          "n": 3600,
+          "ce": 0.15753125544851532,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            687,
+            685,
+            684,
+            685,
+            685
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "inner",
+          "correct": 598,
+          "accuracy": 0.6644444444444444,
+          "n": 900,
+          "ce": 1.573327052178733,
+          "predicted_classes": 144,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            121,
+            119,
+            121,
+            119,
+            118
+          ]
+        }
+      ],
+      "elapsed_after_initial_eval_seconds": 727.7625086307526
+    },
+    "multi_lr3e5": {
+      "panels": [
+        {
+          "step": 0,
+          "panel": "train",
+          "correct": 20,
+          "accuracy": 0.005555555555555556,
+          "n": 3600,
+          "ce": 5.368015118559858,
+          "predicted_classes": 1,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ]
+        },
+        {
+          "step": 0,
+          "panel": "inner",
+          "correct": 5,
+          "accuracy": 0.005555555555555556,
+          "n": 900,
+          "ce": 5.371493381581402,
+          "predicted_classes": 1,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "train",
+          "correct": 1144,
+          "accuracy": 0.31777777777777777,
+          "n": 3600,
+          "ce": 2.919651720027904,
+          "predicted_classes": 158,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            205,
+            229,
+            244,
+            234,
+            232
+          ]
+        },
+        {
+          "step": 1000,
+          "panel": "inner",
+          "correct": 184,
+          "accuracy": 0.20444444444444446,
+          "n": 900,
+          "ce": 3.519424665769772,
+          "predicted_classes": 117,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            34,
+            41,
+            38,
+            36,
+            35
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "train",
+          "correct": 3274,
+          "accuracy": 0.9094444444444445,
+          "n": 3600,
+          "ce": 0.3403139713342104,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            653,
+            655,
+            657,
+            653,
+            656
+          ]
+        },
+        {
+          "step": 3000,
+          "panel": "inner",
+          "correct": 477,
+          "accuracy": 0.53,
+          "n": 900,
+          "ce": 2.0323962015639285,
+          "predicted_classes": 142,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            93,
+            95,
+            94,
+            99,
+            96
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "train",
+          "correct": 3434,
+          "accuracy": 0.9538888888888889,
+          "n": 3600,
+          "ce": 0.13729652909870993,
+          "predicted_classes": 180,
+          "unique_stimuli": 720,
+          "per_mapping_correct": [
+            689,
+            687,
+            682,
+            690,
+            686
+          ]
+        },
+        {
+          "step": 5000,
+          "panel": "inner",
+          "correct": 512,
+          "accuracy": 0.5688888888888889,
+          "n": 900,
+          "ce": 2.0244572334165505,
+          "predicted_classes": 143,
+          "unique_stimuli": 180,
+          "per_mapping_correct": [
+            99,
+            102,
+            103,
+            104,
+            104
+          ]
+        }
+      ],
+      "elapsed_after_initial_eval_seconds": 723.1587481498718
+    }
+  },
+  "selected": {
+    "ideal": {
+      "name": "ideal_lr1e4",
+      "condition": "ideal",
+      "lr": 0.0001,
+      "correct": 402,
+      "n": 900,
+      "ce": 2.8190337791268085,
+      "checkpoint_sha256": "a06cdf5d7089a128e1aef5019514f8606d6bfd1593cfbb35a8f49c66dad2c600"
+    },
+    "multi": {
+      "name": "multi_lr1e4",
+      "condition": "multi",
+      "lr": 0.0001,
+      "correct": 598,
+      "n": 900,
+      "ce": 1.573327052178733,
+      "checkpoint_sha256": "2950cfcf31f377b74d7b37d1bf17404986dcae1f87a8e0b26cb319aff4b6b317"
+    }
+  },
+  "all_initial_and_schedule_hashes_match": true,
+  "multi_lr1e4_prefix3000_exact": true,
+  "selection_matches": true,
+  "limits": [
+    "No full weights returned; teacher state not independently reconstructed.",
+    "Perceptual loss not independently recomputed.",
+    "Reported training panels pool ideal and four mismatch mappings even for ideal-only training."
+  ]
+}

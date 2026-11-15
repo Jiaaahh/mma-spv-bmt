@@ -1,0 +1,29 @@
+{
+  "status": "FROZEN_BEFORE_NEW_EXTERNAL_PREDICTIONS",
+  "dim": 10000,
+  "ideal": {
+    "mult": 1.0,
+    "rho": 0.001,
+    "mean_accuracy": 0.5232098765432099,
+    "n": 18
+  },
+  "multi": {
+    "mult": 1.0,
+    "rho": 0.001,
+    "mean_accuracy": 0.5258024691358025,
+    "n": 18
+  },
+  "final_seeds": [
+    101,
+    211,
+    307,
+    401,
+    503
+  ],
+  "protocol_hash": "4050da96d30d9d2bf75bac39e4ff02f83447ad87aa39c1dc193a7549eb45a825",
+  "core_hash": "f3264f0488a6903662269df7f051378c1af181908ee166c80d1c96f4af79cf10",
+  "primary_panel": "E1",
+  "secondary_panel": "C1",
+  "shared_configuration": "multi_selected_configuration",
+  "precision": "float64"
+}

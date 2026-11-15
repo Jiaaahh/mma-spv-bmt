@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "independent_predictions": 37800,
+  "feature_hashes": true,
+  "protocol_hashes": true,
+  "selection_optimum_rechecked": true,
+  "external_panels_accessed": false,
+  "input_preview": "Viewed: inversion preserves spatial structure; sqrt boosts dim phosphenes without cropping or mirroring."
+}

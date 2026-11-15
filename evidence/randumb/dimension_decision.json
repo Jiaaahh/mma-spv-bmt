@@ -1,0 +1,25 @@
+{
+  "dim": 10000,
+  "reason": "resource_gate_only",
+  "trial": {
+    "dim": 10000,
+    "feature_seconds": 13.893859200004954,
+    "fit_seconds": 4.029759700002614,
+    "total_seconds": 17.924098200019216,
+    "peak_rss": 1920360448,
+    "oas_shrinkage": 0.05848670486314974,
+    "n": 4500,
+    "heldout_font": "liu_jian_mao_cao",
+    "accuracy_not_used": true,
+    "projected_development_hours": 0.7767109220008327,
+    "pass": true
+  },
+  "source_hashes": {
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\metadata.npz": "d158110d9d26e2773e8e64dc77e745a56daa58d2a3550c76ddf9e71846bcc72e",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\ideal_images.npy": "f285b9e7d79bcb753525d335668cd1048eb91bfe9ac1ae34e3f8808052284df1",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2026_images.npy": "4685ff88fc85d557933062d5afd01986612451d3afc348e9f84822d14c808959",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2027_images.npy": "a0cc845eca4358515f4eec84800dc7c3af630cd101e9bd4e9bdb60785f2bee29",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2028_images.npy": "223b28f6ff6606c5ee09eec5a8c4bb607162282cfc924366d9818cd0fde903d7",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2029_images.npy": "4e07866f9d452367fab741c00dbe8271986a1ffca89ffe419324c19a1470c4b0"
+  }
+}

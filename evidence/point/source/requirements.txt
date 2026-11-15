@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.1
+scikit-image==0.25.0
+threadpoolctl==3.5.0
+# torch==2.6.0 with the existing CUDA 12.4 build; preserve the validated environment.

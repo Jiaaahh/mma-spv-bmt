@@ -1,0 +1,17 @@
+{
+  "completed": true,
+  "manifest_sha256": "41b8217127c7ff00e8969cce866f49ef7ed3538bed7d2dc22bf3a9441c1baa1e",
+  "model_freeze_sha256": "af96e6ea0fd9432936d1765f87c2ac865bf6e434c317c1a2aa9a64d247a07722",
+  "files": {
+    "ideal_seed17.npz": "047b0bab3a0cce608d83663b615d411397843ec4fca6550313f95fe4ef33f527",
+    "ideal_seed29.npz": "efce4dbc1d83d7c8aad384b11608ec2370a5baf2e93f55077aea98ab8cc2a321",
+    "ideal_seed43.npz": "405b197ee6951ffd79f660ec19c3e24582f9bc533b7a26bba1fa7938f87a55a4",
+    "multi_seed17.npz": "7833fb2976b37b52e10b1e38757cd339c6d86eb5bd1b15bd6dc01f3985711225",
+    "multi_seed29.npz": "1bb6981a63c97b1d772cfabba96238be99f8ac51b21626aef804b7c0a3d48e98",
+    "multi_seed43.npz": "dd34e72e938ce3114309832755875edd217563b4618efe7e7d48908fbb1c47bf",
+    "skeleton_ideal.npz": "288bb0357fc9bd1b78aa1509f5eacc2ffa9309536535f3274148f43d02531c81",
+    "skeleton_mma.npz": "f72b353b15bf411914653dee73e7530c764d49d9b934b63d607eb781dd2fd009",
+    "canny_ideal.npz": "4eee125e3f60e427cdc242611bcc7fcb18c40a092198b3752a0b1ffe7e6b8356",
+    "canny_mma.npz": "61e58a7b0668cb552fd8df16359c3b3e4a93e964f23816195865b080cf53d43f"
+  }
+}

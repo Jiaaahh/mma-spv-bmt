@@ -9,6 +9,7 @@ Historical source code, saved numerical predictions, figure/table source numbers
 Download or clone this repository. Code and numerical evidence are included together; no separate data archive is needed for the commands below. See [RUN_PUBLIC.md](RUN_PUBLIC.md) for all numerical checks and [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for their limits.
 
 ```sh
+python -X utf8 -B tools/prepare_data.py
 python -X utf8 -B tools/check_public_release.py --output-dir checks/public_integrity
 python -X utf8 -B tools/verify_results.py --bundle-root evidence --output-dir checks/public_predictions
 python -X utf8 -B tools/export_main_results.py --output-dir checks/public_main_results
@@ -37,3 +38,5 @@ Maintainer account: [Jiaaahh](https://github.com/Jiaaahh). Formal scholarly crea
 The preceding local candidate passed nine numerical/integrity entries. Its detailed execution sequence and limitations are preserved in `validation/step4_candidate_validation.json`. The publication changes are documentation, licenses and repository-integrity handling; retained computation and numerical inputs are unchanged. See `validation/github_release_checks.json` for the checks actually repeated for this publication.
 
 Codex assistance and the workflow source are recorded in [PROVENANCE.md](PROVENANCE.md), without adding manuscript references.
+
+Large prediction CSVs are stored as lossless gzip for reliable transport. `tools/prepare_data.py` restores their original paths only after checking both archive and original-file SHA-256. The integrity entry also performs this preparation automatically. Numerical predictions and historical evidence hashes are unchanged.

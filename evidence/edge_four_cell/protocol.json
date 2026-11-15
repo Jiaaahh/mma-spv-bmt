@@ -1,0 +1,40 @@
+{
+  "version": "edge_four_cell_v1",
+  "status": "development_only",
+  "budget": 64,
+  "train_seeds": [
+    2026,
+    2027,
+    2028,
+    2029
+  ],
+  "eval_seeds": [
+    5301,
+    5302,
+    5303,
+    5304,
+    5305
+  ],
+  "fonts": "six original development fonts; leave-one-font-out",
+  "canny": {
+    "sigma": 1.0,
+    "low_threshold": 0.1,
+    "high_threshold": 0.2,
+    "use_quantiles": false,
+    "mode": "constant",
+    "cval": 0.0
+  },
+  "canny_input": "original float32 grayscale glyph [0,1]; no binarization",
+  "projection": "same ideal L1 Gaussian kernels as skeleton; float32 dot product",
+  "selection": "rank all 256 scores descending, ties index ascending, take exactly 64; zero-score fill by index; never use target geometry",
+  "renderer": "original frozen renderer; unit amplitudes; L1 kernels; no global clipping or normalization",
+  "classifier": "class means, mean across ideal plus four training mappings for MMA, then L2 normalize and cosine; ideal-only uses ideal only",
+  "statistics": {
+    "unit": "character cluster; all six fonts and five mappings retained together",
+    "replicates": 100000,
+    "seed": 20260909,
+    "CI": "percentile 95%, conditional on fixed fonts/maps; unadjusted exploratory"
+  },
+  "tuning": "none; one fixed Canny setting; retain every cell regardless of result",
+  "future_test": "no final unseen test pool accessed or claimed"
+}

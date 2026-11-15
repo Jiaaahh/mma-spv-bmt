@@ -1,0 +1,30 @@
+{
+  "version": "20261114",
+  "manuscripts": [
+    {
+      "filename": "BMT_中文对照正文_双栏复审修订_20261114.docx",
+      "sha256": "9a29ce7afbb973570e143ef356b055cfec55a9a69804be9fbed5908c169f644b",
+      "bytes": 1316189,
+      "included": false
+    },
+    {
+      "filename": "BMT_中文对照补充材料_复审修订_20261114.docx",
+      "sha256": "1b274304cbcbea2cefa680ec1b505cad1034ff96b8886d80ea9e7fc5371fffea",
+      "bytes": 526767,
+      "included": false
+    },
+    {
+      "filename": "BMT_英文正文_双栏复审修订_20261114.docx",
+      "sha256": "6347ae3338552762c2ac2d4ef169e6d30f3dda193120880006a895e3120e7b83",
+      "bytes": 1366331,
+      "included": false
+    },
+    {
+      "filename": "BMT_英文补充材料_复审修订_20261114.docx",
+      "sha256": "ec88d866e5f064a054399b5b784f689db3c2275f766488e1910c6c1d92a7a79c",
+      "bytes": 514563,
+      "included": false
+    }
+  ],
+  "note": "DOCX files are referenced by hash only; no manuscript was changed or redistributed in this package."
+}

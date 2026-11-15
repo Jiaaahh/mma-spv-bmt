@@ -1,0 +1,5 @@
+numpy==1.26.4
+Pillow==11.1.0
+psutil==6.1.1
+# torch==2.6.0 and torchvision==0.21.0 are installed from the CUDA wheel index by setup.sh.
+# HOG features are included; the main runner does not need scikit-image to refit MMA.

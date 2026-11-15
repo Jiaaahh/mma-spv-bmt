@@ -1,0 +1,8 @@
+﻿Decoder,Training representation,Accuracy,Mean macro-F1 over 5 mappings,"Difference from ideal, pp"
+Cosine prototype,Ideal,64.00 %,0.6452,—
+Cosine prototype,Ideal + 1 mismatch map,76.69 %,0.7642,+12.69
+Cosine prototype,Ideal + 2 mismatch maps,78.14 %,0.7770,+14.14
+Cosine prototype,Ideal + 4 mismatch maps (MMA),79.06 %,0.7841,+15.06
+Cosine prototype,4 mismatch maps only,76.83 %,0.7613,+12.83
+LinearSVC,Ideal,63.44 %,0.6318,—
+LinearSVC,Ideal + 4 mismatch maps,78.06 %,0.7751,+14.61

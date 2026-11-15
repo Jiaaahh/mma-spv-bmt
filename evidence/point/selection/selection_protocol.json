@@ -1,0 +1,38 @@
+{
+  "jobs": [
+    {
+      "name": "ideal_lr1e4",
+      "condition": "ideal",
+      "lr": 0.0001
+    },
+    {
+      "name": "ideal_lr3e5",
+      "condition": "ideal",
+      "lr": 3e-05
+    },
+    {
+      "name": "multi_lr1e4",
+      "condition": "multi",
+      "lr": 0.0001
+    },
+    {
+      "name": "multi_lr3e5",
+      "condition": "multi",
+      "lr": 3e-05
+    }
+  ],
+  "steps": 5000,
+  "seed": 17,
+  "development_split": "split1 (fixed in advance; split2 prior qualification only)",
+  "evaluation_mapping_seeds": [
+    0,
+    2026,
+    2027,
+    2028,
+    2029
+  ],
+  "selection": "within condition, final inner correct descending, CE rounded8 ascending, name ascending",
+  "no_final_test": true,
+  "schedule_prefix_3000_exact": true,
+  "extended_row_seed": 17006
+}

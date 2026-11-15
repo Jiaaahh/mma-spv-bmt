@@ -1,0 +1,9 @@
+{
+  "config_sha256": "4d09162f3b9f2a337610e838e1fcc781e7f2068b5cca9ba193a75dfa1827ecfe",
+  "confirmation_lock_sha256": "c2b4cb4676ed4f67d185b633518278b2a886adc7c431dfd378f6d38301fdcf4d",
+  "experiment_id": "c1_mma_confirmation_windows_r3",
+  "manifest_sha256": "f96e090a8a34f7a7deda0e8e7cd172d988e0389c266c30462526d89e02ec79d3",
+  "schema_version": 1,
+  "source_tree_sha256": "2875a2917549a6add3adc39f373aaa2df249119afdf06cdd7837c5824d4ab292",
+  "status": "PASS_COMMITTED"
+}

@@ -1,0 +1,125 @@
+{
+  "stage": "G09-A static precheck",
+  "utc": "2026-09-19T10:23:25.963400+00:00",
+  "checks": [
+    {
+      "check": "A.handover_files",
+      "ok": true,
+      "detail": "{\"G09_protocol_design.json\": \"b494f62db7431d8a0b24f2e48637833e26df96854f7f4d28e9df18e2ffe4f770\", \"G09_run_matrix.json\": \"5161ba54bcb13d927da8ef1153f25244bf700018c7b330c93f4d27578afb8b57\", \"G09_对称开发搜索方案与A阶段交接.md\": \"93eb7516da3e12833bb32bab67fec0462f96a8eca39b9b0b20c05d32240f89c1\"}"
+    },
+    {
+      "check": "B.matrix_unique_and_ordered",
+      "ok": true,
+      "detail": "24 unique declared runs"
+    },
+    {
+      "check": "B.no_legacy_run_paths",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "check": "B.candidate_symmetry",
+      "ok": true,
+      "detail": "ERM/XDM share the same six candidates per fold"
+    },
+    {
+      "check": "B.formal_updates_total",
+      "ok": true,
+      "detail": "24 runs x 5000 = 120000"
+    },
+    {
+      "check": "C.grid_3x2",
+      "ok": true,
+      "detail": "[('0.000001', '0.0', ['C01']), ('0.000001', '0.0001', ['C02']), ('0.000005', '0.0', ['C03']), ('0.000005', '0.0001', ['C04']), ('0.000025', '0.0', ['C05']), ('0.000025', '0.0001', ['C06'])]"
+    },
+    {
+      "check": "C.three_learning_rate_levels",
+      "ok": true,
+      "detail": "[Decimal('0.000001'), Decimal('0.000005'), Decimal('0.000025')]"
+    },
+    {
+      "check": "C.two_weight_decay_levels",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "C.head_is_20x_backbone",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "C.domain_head_bound",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "C.c03_is_v1_anchor",
+      "ok": true,
+      "detail": "backbone 5e-6 / head 1e-4 / wd 0 / domain 5e-6 / domain wd 0"
+    },
+    {
+      "check": "D.protocol_id_and_selection_rule",
+      "ok": true,
+      "detail": "G09_SELECT_V1__CORRECT_DESC__CE_FLOAT64_RHE8_ASC__CANDIDATE_ID_ASC"
+    },
+    {
+      "check": "D.no_gpu_authorization",
+      "ok": true,
+      "detail": "G09-A isolated code and no-training tests only"
+    },
+    {
+      "check": "D.no_historical_reuse",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "D.selection_step_is_5000",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "E.legacy_files_match_previous_package",
+      "ok": true,
+      "detail": "13 legacy files identical to delivered references"
+    },
+    {
+      "check": "E2.full_package_manifest",
+      "ok": true,
+      "detail": "368 manifest entries verified; mismatches=[]"
+    },
+    {
+      "check": "F.data_matches_manifest",
+      "ok": true,
+      "detail": "11 data files checked; mismatches=[]"
+    },
+    {
+      "check": "G.no_v1_run_writes_in_g09_code",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "check": "G2.test_legacy_paths_readonly_only",
+      "ok": true,
+      "detail": "6 legacy-path lines in tests; write-looking offenders=[]"
+    },
+    {
+      "check": "G3.runs_dir_name_isolated",
+      "ok": true,
+      "detail": "runs_g09_v1"
+    },
+    {
+      "check": "H.old_assets_unchanged",
+      "ok": true,
+      "detail": "added=0 removed=0 changed=0"
+    }
+  ],
+  "passed": 22,
+  "total": 22,
+  "verdict": "G09_A_STATIC_PRECHECK_PASS",
+  "not_covered": [
+    "GPU training numerics",
+    "real 5000-step runs",
+    "outer evaluation",
+    "selection over real candidates"
+  ]
+}

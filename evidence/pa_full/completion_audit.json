@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "prediction_rows": 97200,
+  "methods": [
+    "H0",
+    "H1",
+    "PA0",
+    "PA1",
+    "TEXT",
+    "VIS0",
+    "VIS1",
+    "PLAIN0",
+    "PLAIN1"
+  ],
+  "panels": [
+    "DEV",
+    "E1",
+    "C1"
+  ],
+  "prototype_matrices": 28,
+  "baseline_predictions_aligned": 21600,
+  "dev_selection_saved_before_external_scoring": true,
+  "negative_results_retained": true
+}

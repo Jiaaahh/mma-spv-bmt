@@ -1,0 +1,122 @@
+[
+  {
+    "row": 900,
+    "font": "liu_jian_mao_cao",
+    "label": 0,
+    "event": 1333,
+    "point": [
+      44,
+      42
+    ]
+  },
+  {
+    "row": 990,
+    "font": "liu_jian_mao_cao",
+    "label": 90,
+    "event": 140,
+    "point": [
+      42,
+      47
+    ]
+  },
+  {
+    "row": 360,
+    "font": "ma_shan_zheng",
+    "label": 0,
+    "event": 217,
+    "point": [
+      46,
+      52
+    ]
+  },
+  {
+    "row": 450,
+    "font": "ma_shan_zheng",
+    "label": 90,
+    "event": 776,
+    "point": [
+      42,
+      48
+    ]
+  },
+  {
+    "row": 0,
+    "font": "noto_sans_sc_thin",
+    "label": 0,
+    "event": 584,
+    "point": [
+      54,
+      44
+    ]
+  },
+  {
+    "row": 90,
+    "font": "noto_sans_sc_thin",
+    "label": 90,
+    "event": 723,
+    "point": [
+      40,
+      40
+    ]
+  },
+  {
+    "row": 180,
+    "font": "noto_serif_sc_extralight",
+    "label": 0,
+    "event": 730,
+    "point": [
+      49,
+      48
+    ]
+  },
+  {
+    "row": 270,
+    "font": "noto_serif_sc_extralight",
+    "label": 90,
+    "event": 152,
+    "point": [
+      40,
+      47
+    ]
+  },
+  {
+    "row": 720,
+    "font": "zcool_kuaile",
+    "label": 0,
+    "event": 244,
+    "point": [
+      41,
+      44
+    ]
+  },
+  {
+    "row": 810,
+    "font": "zcool_kuaile",
+    "label": 90,
+    "event": 967,
+    "point": [
+      49,
+      49
+    ]
+  },
+  {
+    "row": 540,
+    "font": "zcool_qingke_huangyou",
+    "label": 0,
+    "event": 1184,
+    "point": [
+      51,
+      45
+    ]
+  },
+  {
+    "row": 630,
+    "font": "zcool_qingke_huangyou",
+    "label": 90,
+    "event": 168,
+    "point": [
+      41,
+      41
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "version": "1.0.0",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "git_metadata_present_during_integrity_check": true,
+  "scope": "Local publication integrity and saved-prediction smoke checks. No inference, training, primary-bootstrap or hardware rerun in this publication step.",
+  "integrity": {
+    "passed": true,
+    "manifest_entries": 988,
+    "experiments": 32,
+    "python_sources_parsed": 326,
+    "text_files_scanned": 872,
+    "failures": [],
+    "scope": "Candidate bytes, syntax, selected private-path/secret patterns and experiment identifiers only; not a legal or complete privacy certification."
+  },
+  "prediction_verification": {
+    "manifest_sha256": "3651e357214aad41272d52d679d6ad4b91af9c869a0f7fbac7231cdcceb0afd1",
+    "scope": "Frozen-file SHA-256 checks and recorded-prediction scoring; no model replay, training, bootstrap CI replication, or hardware benchmark."
+  },
+  "prediction_summary": {
+    "hashes_passed": 650,
+    "independent_label_csv_files": 110,
+    "independent_prediction_streams": 114,
+    "failures": 0
+  },
+  "main_result_export_passed": true,
+  "report_sha256": {
+    "integrity": "ddbfd813657a0ae92b2129939dccdc2913dd34f6ea94e4e8980a8f83695d9472",
+    "predictions": "5b1f5f0ebb5ce1e5a8223deff0d9a1a641044ab7b4ea3e83fb8a936d5fa97eb4",
+    "main_results": "2b194746f1ca9eb718077cacf1d819670175fce450abf02e6a02b1b941a6b183"
+  },
+  "lossless_csv_transport_check": {
+    "passed": true,
+    "files": 6,
+    "original_bytes": 65088876,
+    "compressed_bytes": 3711642,
+    "original_csv_sha256_verified_after_fresh_extraction": true
+  },
+  "integrity_after_transport_change": {
+    "passed": true,
+    "manifest_entries": 990,
+    "experiments": 32,
+    "python_sources_parsed": 327,
+    "text_files_scanned": 868,
+    "failures": [],
+    "scope": "Candidate bytes, syntax, selected private-path/secret patterns and experiment identifiers only; not a legal or complete privacy certification."
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "passed": true,
+  "methods": {
+    "ideal_seed17": {
+      "correct": 1408,
+      "accuracy_percent": 39.111111111111114,
+      "per_font_percent": {
+        "STHupo": 26.88888888888889,
+        "STKaiti": 59.88888888888889,
+        "STXingkai": 24.77777777777778,
+        "STXinwei": 44.888888888888886
+      }
+    },
+    "ideal_seed29": {
+      "correct": 1358,
+      "accuracy_percent": 37.72222222222222,
+      "per_font_percent": {
+        "STHupo": 32.77777777777778,
+        "STKaiti": 55.888888888888886,
+        "STXingkai": 22.666666666666664,
+        "STXinwei": 39.55555555555556
+      }
+    },
+    "ideal_seed43": {
+      "correct": 1008,
+      "accuracy_percent": 28.000000000000004,
+      "per_font_percent": {
+        "STHupo": 14.555555555555555,
+        "STKaiti": 46.22222222222222,
+        "STXingkai": 18.777777777777775,
+        "STXinwei": 32.44444444444444
+      }
+    },
+    "multi_seed17": {
+      "correct": 1834,
+      "accuracy_percent": 50.94444444444445,
+      "per_font_percent": {
+        "STHupo": 32.111111111111114,
+        "STKaiti": 77.0,
+        "STXingkai": 34.0,
+        "STXinwei": 60.66666666666667
+      }
+    },
+    "multi_seed29": {
+      "correct": 1970,
+      "accuracy_percent": 54.72222222222223,
+      "per_font_percent": {
+        "STHupo": 40.44444444444444,
+        "STKaiti": 79.88888888888889,
+        "STXingkai": 39.44444444444444,
+        "STXinwei": 59.111111111111114
+      }
+    },
+    "multi_seed43": {
+      "correct": 1551,
+      "accuracy_percent": 43.083333333333336,
+      "per_font_percent": {
+        "STHupo": 21.88888888888889,
+        "STKaiti": 67.88888888888889,
+        "STXingkai": 26.555555555555554,
+        "STXinwei": 56.00000000000001
+      }
+    },
+    "skeleton_ideal": {
+      "correct": 737,
+      "accuracy_percent": 20.47222222222222,
+      "per_font_percent": {
+        "STHupo": 23.22222222222222,
+        "STKaiti": 27.77777777777778,
+        "STXingkai": 11.333333333333332,
+        "STXinwei": 19.555555555555557
+      }
+    },
+    "skeleton_mma": {
+      "correct": 1372,
+      "accuracy_percent": 38.111111111111114,
+      "per_font_percent": {
+        "STHupo": 47.0,
+        "STKaiti": 48.55555555555556,
+        "STXingkai": 24.666666666666668,
+        "STXinwei": 32.22222222222222
+      }
+    },
+    "canny_ideal": {
+      "correct": 504,
+      "accuracy_percent": 14.000000000000002,
+      "per_font_percent": {
+        "STHupo": 5.777777777777778,
+        "STKaiti": 28.22222222222222,
+        "STXingkai": 7.888888888888888,
+        "STXinwei": 14.11111111111111
+      }
+    },
+    "canny_mma": {
+      "correct": 808,
+      "accuracy_percent": 22.444444444444443,
+      "per_font_percent": {
+        "STHupo": 8.777777777777777,
+        "STKaiti": 38.111111111111114,
+        "STXingkai": 17.333333333333336,
+        "STXinwei": 25.555555555555554
+      }
+    },
+    "point_ideal": {
+      "mean_accuracy_percent": 34.94444444444444,
+      "sample_sd_pp": 6.054026310473157,
+      "per_font_percent": {
+        "STHupo": 24.740740740740744,
+        "STKaiti": 54.0,
+        "STXingkai": 22.074074074074073,
+        "STXinwei": 38.96296296296296
+      }
+    },
+    "point_multi": {
+      "mean_accuracy_percent": 49.583333333333336,
+      "sample_sd_pp": 5.93762589210267,
+      "per_font_percent": {
+        "STHupo": 31.48148148148148,
+        "STKaiti": 74.92592592592592,
+        "STXingkai": 33.333333333333336,
+        "STXinwei": 58.5925925925926
+      }
+    }
+  },
+  "contrasts": {
+    "primary_skeleton_mma_minus_point_multi": {
+      "difference_pp": -11.472222222222221,
+      "ci95_pp": [
+        -14.935185185185185,
+        -7.98148148148148
+      ]
+    },
+    "point_multi_minus_ideal": {
+      "difference_pp": 14.63888888888889,
+      "ci95_pp": [
+        11.712962962962965,
+        17.56481481481481
+      ]
+    },
+    "skeleton_mma_gain": {
+      "difference_pp": 17.63888888888889,
+      "ci95_pp": [
+        14.555555555555555,
+        20.72222222222222
+      ]
+    },
+    "canny_mma_gain": {
+      "difference_pp": 8.444444444444445,
+      "ci95_pp": [
+        5.944444444444443,
+        10.999999999999998
+      ]
+    }
+  },
+  "training_seconds": {
+    "ideal_seed17": 729.7463729381561,
+    "ideal_seed29": 732.9616816043854,
+    "ideal_seed43": 737.1241989135742,
+    "multi_seed17": 737.8265988826752,
+    "multi_seed29": 738.284414768219,
+    "multi_seed43": 703.5076730251312
+  },
+  "total_training_minutes": 72.99084900220235,
+  "last100_training_accuracy": {
+    "ideal_seed17": 0.88375,
+    "ideal_seed29": 0.93375,
+    "ideal_seed43": 0.925625,
+    "multi_seed17": 0.920625,
+    "multi_seed29": 0.92,
+    "multi_seed43": 0.9175
+  },
+  "hog_training_seconds": {
+    "skeleton": {
+      "unique_crops_processed": 56144,
+      "total_unique_crops": 56144,
+      "feature_calls": 114630,
+      "seconds": 398.21691284514964,
+      "rough_full_seconds": 398.21691284514964,
+      "benchmark_extrapolation_only": false
+    },
+    "canny": {
+      "unique_crops_processed": 56144,
+      "total_unique_crops": 56144,
+      "feature_calls": 114630,
+      "seconds": 435.46358530037105,
+      "rough_full_seconds": 435.46358530037105,
+      "benchmark_extrapolation_only": false
+    }
+  },
+  "cuda_gate": {
+    "passed": true,
+    "device": "cuda",
+    "manifest_sha256": "41b8217127c7ff00e8969cce866f49ef7ed3538bed7d2dc22bf3a9441c1baa1e",
+    "schedule_replayed": true,
+    "patch_max_abs_error": 1.1920928955078125e-07,
+    "render_max_abs_errors": [
+      5.587935447692871e-09,
+      7.450580596923828e-09,
+      1.4901161193847656e-08,
+      7.450580596923828e-09,
+      1.4901161193847656e-08,
+      3.725290298461914e-09,
+      7.450580596923828e-09,
+      7.450580596923828e-09,
+      7.450580596923828e-09,
+      7.450580596923828e-09
+    ],
+    "two_full_random_weight_resnet152_updates": true,
+    "test_scores_computed": false
+  },
+  "checks": [
+    "outer and inner CRC/hash checked during extraction",
+    "returned manifest and protocol exact local",
+    "30000 training records, gradient/loss/routing",
+    "paired initialization and reported teacher hashes",
+    "all logits/scores argmax, views, labels, stimulus budget",
+    "100000 paired character bootstrap independent recomputation",
+    "HOG exact group counts and unit-norm prototypes",
+    "returned model digest records mutually consistent"
+  ],
+  "limits": [
+    "Checkpoint tensors not returned; teacher and saved weights verified by consistent records only, not independent tensor replay.",
+    "Full 80000-event HOG reconstruction reported by remote agent, not repeated locally.",
+    "Full dependency freeze and independently timestamped run order not returned."
+  ],
+  "final_panel_fixed": true
+}

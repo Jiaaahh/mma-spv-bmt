@@ -1,0 +1,386 @@
+{
+  "accuracy_aggregated": false,
+  "bootstrap_executed": false,
+  "budget": 64,
+  "class_count": 180,
+  "condition_run_count": 25,
+  "conditions": [
+    "mild",
+    "moderate",
+    "severe",
+    "position_only",
+    "scale_only"
+  ],
+  "core_methods": [
+    "proto_skeleton_ideal_only",
+    "proto_skeleton_ideal_plus_multi4",
+    "svc_skeleton_ideal_only",
+    "svc_skeleton_ideal_plus_multi4",
+    "proto_scialom_contour_ideal_only",
+    "proto_scialom_contour_ideal_plus_multi4"
+  ],
+  "experiment_id": "e1_supplemental_confirmation",
+  "feature_audit": {
+    "test_scialom_contour_e1_mild_seed3101": {
+      "energy_max": 64.00000033518323,
+      "energy_min": 63.999999306291755,
+      "feature_seconds": 2.561638099999982
+    },
+    "test_scialom_contour_e1_mild_seed3102": {
+      "energy_max": 64.00000014549084,
+      "energy_min": 63.999999105810524,
+      "feature_seconds": 2.576071099996625
+    },
+    "test_scialom_contour_e1_mild_seed3103": {
+      "energy_max": 64.0000003994534,
+      "energy_min": 63.99999920444858,
+      "feature_seconds": 2.659686500002863
+    },
+    "test_scialom_contour_e1_mild_seed3104": {
+      "energy_max": 64.0000003399651,
+      "energy_min": 63.999999242955134,
+      "feature_seconds": 2.652421899998444
+    },
+    "test_scialom_contour_e1_mild_seed3105": {
+      "energy_max": 64.00000034538279,
+      "energy_min": 63.99999923149842,
+      "feature_seconds": 2.580324800001108
+    },
+    "test_scialom_contour_e1_moderate_seed3101": {
+      "energy_max": 64.00000036016763,
+      "energy_min": 63.99999934433537,
+      "feature_seconds": 2.5542251000006218
+    },
+    "test_scialom_contour_e1_moderate_seed3102": {
+      "energy_max": 64.00000020744835,
+      "energy_min": 63.999999038902004,
+      "feature_seconds": 2.6008885000046575
+    },
+    "test_scialom_contour_e1_moderate_seed3103": {
+      "energy_max": 64.00000031857354,
+      "energy_min": 63.99999922517135,
+      "feature_seconds": 2.5609093999955803
+    },
+    "test_scialom_contour_e1_moderate_seed3104": {
+      "energy_max": 64.00000032320736,
+      "energy_min": 63.99999919456397,
+      "feature_seconds": 2.562059700001555
+    },
+    "test_scialom_contour_e1_moderate_seed3105": {
+      "energy_max": 64.00000030252006,
+      "energy_min": 63.99999926060139,
+      "feature_seconds": 2.5814039000033517
+    },
+    "test_scialom_contour_e1_position_only_seed3101": {
+      "energy_max": 63.99999965320925,
+      "energy_min": 63.999998565110104,
+      "feature_seconds": 2.5709118000013405
+    },
+    "test_scialom_contour_e1_position_only_seed3102": {
+      "energy_max": 63.99999951991644,
+      "energy_min": 63.99999850582234,
+      "feature_seconds": 2.5993244999990566
+    },
+    "test_scialom_contour_e1_position_only_seed3103": {
+      "energy_max": 63.99999967978301,
+      "energy_min": 63.99999872233017,
+      "feature_seconds": 2.601201499994204
+    },
+    "test_scialom_contour_e1_position_only_seed3104": {
+      "energy_max": 63.99999949486085,
+      "energy_min": 63.9999984846014,
+      "feature_seconds": 2.555325500004983
+    },
+    "test_scialom_contour_e1_position_only_seed3105": {
+      "energy_max": 63.99999949288047,
+      "energy_min": 63.999998446879815,
+      "feature_seconds": 2.562174700004107
+    },
+    "test_scialom_contour_e1_scale_only_seed3101": {
+      "energy_max": 64.00000043795129,
+      "energy_min": 63.99999914942185,
+      "feature_seconds": 2.556553000002168
+    },
+    "test_scialom_contour_e1_scale_only_seed3102": {
+      "energy_max": 63.999999972899374,
+      "energy_min": 63.99999894114458,
+      "feature_seconds": 2.566685800004052
+    },
+    "test_scialom_contour_e1_scale_only_seed3103": {
+      "energy_max": 64.00000058263367,
+      "energy_min": 63.999999534742564,
+      "feature_seconds": 2.5525874000013573
+    },
+    "test_scialom_contour_e1_scale_only_seed3104": {
+      "energy_max": 64.00000043704817,
+      "energy_min": 63.99999929166468,
+      "feature_seconds": 2.5640770999962115
+    },
+    "test_scialom_contour_e1_scale_only_seed3105": {
+      "energy_max": 64.00000042328764,
+      "energy_min": 63.999999113744344,
+      "feature_seconds": 2.556380599999102
+    },
+    "test_scialom_contour_e1_severe_seed3101": {
+      "energy_max": 64.00000019851953,
+      "energy_min": 63.999999080634474,
+      "feature_seconds": 2.5770007999963127
+    },
+    "test_scialom_contour_e1_severe_seed3102": {
+      "energy_max": 64.00000008243049,
+      "energy_min": 63.99999896587178,
+      "feature_seconds": 2.5593083999992814
+    },
+    "test_scialom_contour_e1_severe_seed3103": {
+      "energy_max": 64.00000038210344,
+      "energy_min": 63.999999223512745,
+      "feature_seconds": 2.5575711999990745
+    },
+    "test_scialom_contour_e1_severe_seed3104": {
+      "energy_max": 64.00000023217123,
+      "energy_min": 63.99999920094117,
+      "feature_seconds": 2.5470560000030673
+    },
+    "test_scialom_contour_e1_severe_seed3105": {
+      "energy_max": 64.00000024289308,
+      "energy_min": 63.99999922568852,
+      "feature_seconds": 2.5651336000009906
+    },
+    "test_skeleton_e1_mild_seed3101": {
+      "energy_max": 64.00000031321733,
+      "energy_min": 63.9999991610452,
+      "feature_seconds": 2.557957000004535
+    },
+    "test_skeleton_e1_mild_seed3102": {
+      "energy_max": 64.00000002459976,
+      "energy_min": 63.999999163109656,
+      "feature_seconds": 2.5543700999987777
+    },
+    "test_skeleton_e1_mild_seed3103": {
+      "energy_max": 64.00000008560356,
+      "energy_min": 63.99999905702457,
+      "feature_seconds": 2.5510001000002376
+    },
+    "test_skeleton_e1_mild_seed3104": {
+      "energy_max": 64.00000023964144,
+      "energy_min": 63.999999183855074,
+      "feature_seconds": 2.616503199998988
+    },
+    "test_skeleton_e1_mild_seed3105": {
+      "energy_max": 64.00000030096416,
+      "energy_min": 63.999999354883634,
+      "feature_seconds": 2.5486316999958945
+    },
+    "test_skeleton_e1_moderate_seed3101": {
+      "energy_max": 64.0000004201954,
+      "energy_min": 63.99999906747659,
+      "feature_seconds": 2.565925299997616
+    },
+    "test_skeleton_e1_moderate_seed3102": {
+      "energy_max": 64.00000004613392,
+      "energy_min": 63.999999012446075,
+      "feature_seconds": 2.550380699998641
+    },
+    "test_skeleton_e1_moderate_seed3103": {
+      "energy_max": 64.00000010533358,
+      "energy_min": 63.99999905811096,
+      "feature_seconds": 2.565731099995901
+    },
+    "test_skeleton_e1_moderate_seed3104": {
+      "energy_max": 64.00000014002872,
+      "energy_min": 63.999999170537265,
+      "feature_seconds": 2.5628355000008014
+    },
+    "test_skeleton_e1_moderate_seed3105": {
+      "energy_max": 64.00000023242816,
+      "energy_min": 63.99999910147941,
+      "feature_seconds": 2.6901418999987072
+    },
+    "test_skeleton_e1_position_only_seed3101": {
+      "energy_max": 63.999999425233675,
+      "energy_min": 63.99999823825392,
+      "feature_seconds": 2.5530836999969324
+    },
+    "test_skeleton_e1_position_only_seed3102": {
+      "energy_max": 63.999999343554194,
+      "energy_min": 63.999998103454,
+      "feature_seconds": 2.6147095000051195
+    },
+    "test_skeleton_e1_position_only_seed3103": {
+      "energy_max": 63.99999957256926,
+      "energy_min": 63.99999828330747,
+      "feature_seconds": 2.589581200001703
+    },
+    "test_skeleton_e1_position_only_seed3104": {
+      "energy_max": 63.99999933422659,
+      "energy_min": 63.99999806367339,
+      "feature_seconds": 2.578169699998398
+    },
+    "test_skeleton_e1_position_only_seed3105": {
+      "energy_max": 63.99999946375465,
+      "energy_min": 63.999998040825794,
+      "feature_seconds": 2.5645634999964386
+    },
+    "test_skeleton_e1_scale_only_seed3101": {
+      "energy_max": 64.00000027231573,
+      "energy_min": 63.99999911086548,
+      "feature_seconds": 2.552099599997746
+    },
+    "test_skeleton_e1_scale_only_seed3102": {
+      "energy_max": 63.999999862112155,
+      "energy_min": 63.99999874151775,
+      "feature_seconds": 2.5633314000006067
+    },
+    "test_skeleton_e1_scale_only_seed3103": {
+      "energy_max": 64.00000067423844,
+      "energy_min": 63.99999950497369,
+      "feature_seconds": 2.571227300002647
+    },
+    "test_skeleton_e1_scale_only_seed3104": {
+      "energy_max": 64.00000045550135,
+      "energy_min": 63.999999068031684,
+      "feature_seconds": 2.7442516000010073
+    },
+    "test_skeleton_e1_scale_only_seed3105": {
+      "energy_max": 64.00000043482112,
+      "energy_min": 63.99999925053342,
+      "feature_seconds": 2.63916810000228
+    },
+    "test_skeleton_e1_severe_seed3101": {
+      "energy_max": 63.99999990166916,
+      "energy_min": 63.99999887508534,
+      "feature_seconds": 2.6516976000057184
+    },
+    "test_skeleton_e1_severe_seed3102": {
+      "energy_max": 63.99999985359254,
+      "energy_min": 63.999998915605744,
+      "feature_seconds": 2.572311500000069
+    },
+    "test_skeleton_e1_severe_seed3103": {
+      "energy_max": 64.0000002609118,
+      "energy_min": 63.99999902217621,
+      "feature_seconds": 2.5709025999967707
+    },
+    "test_skeleton_e1_severe_seed3104": {
+      "energy_max": 64.00000007738502,
+      "energy_min": 63.999999014250896,
+      "feature_seconds": 2.5497283000004245
+    },
+    "test_skeleton_e1_severe_seed3105": {
+      "energy_max": 64.00000014480361,
+      "energy_min": 63.99999905582344,
+      "feature_seconds": 2.567213799993624
+    },
+    "training_scialom_contour_ideal": {
+      "energy_max": 63.999998816868896,
+      "energy_min": 63.99999798434613,
+      "feature_seconds": 3.813765200000489
+    },
+    "training_scialom_contour_moderate_seed2026": {
+      "energy_max": 64.00000035143094,
+      "energy_min": 63.99999906903493,
+      "feature_seconds": 4.140134799999942
+    },
+    "training_scialom_contour_moderate_seed2027": {
+      "energy_max": 64.00000033847077,
+      "energy_min": 63.99999894230818,
+      "feature_seconds": 3.8317284000004292
+    },
+    "training_scialom_contour_moderate_seed2028": {
+      "energy_max": 64.00000021889463,
+      "energy_min": 63.99999888213555,
+      "feature_seconds": 3.8425733000040054
+    },
+    "training_scialom_contour_moderate_seed2029": {
+      "energy_max": 64.00000026835738,
+      "energy_min": 63.99999903413183,
+      "feature_seconds": 3.8361491999967257
+    },
+    "training_skeleton_ideal": {
+      "energy_max": 63.99999837826548,
+      "energy_min": 63.99999688106856,
+      "feature_seconds": 3.951611199998297
+    },
+    "training_skeleton_moderate_seed2026": {
+      "energy_max": 64.00000006490544,
+      "energy_min": 63.999998948218604,
+      "feature_seconds": 3.9598229999974137
+    },
+    "training_skeleton_moderate_seed2027": {
+      "energy_max": 64.00000003400785,
+      "energy_min": 63.999998630909616,
+      "feature_seconds": 3.7623633999974118
+    },
+    "training_skeleton_moderate_seed2028": {
+      "energy_max": 63.99999995753188,
+      "energy_min": 63.99999880470309,
+      "feature_seconds": 3.7726429000031203
+    },
+    "training_skeleton_moderate_seed2029": {
+      "energy_max": 64.00000014868286,
+      "energy_min": 63.99999908721326,
+      "feature_seconds": 3.773549900004582
+    }
+  },
+  "lock_audit": {
+    "accuracy_read": false,
+    "asset_manifest_sha256": "44184cce26c9a5b2272560261efcb09bac333ebf4410d2008712ecd210bde496",
+    "config_sha256": "a063580819815ee28fc32ee6b7d4c8757b59e8c1635163f0ff7f1e2ac56d6ce4",
+    "input_file_count": 37,
+    "lock_path": "/historical/user\\Documents\\Codex\\2026-08-25\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\hanzi-spv-mma-extension-e1\\locks\\e1_confirmation.lock.json",
+    "lock_sha256": "9f9ea4f66c49f7afaf95010095d29897e7e03b659a5bb42464057160759744c2",
+    "prediction_executed": false,
+    "requirements_sha256": "ad47034d59d4d0b676c2b30a6c2d21798d7526c4bc8ea7baeaf3705ef3547124",
+    "source_bundle_sha256": "003317128a90faae301408fd34ba3dda593b3455a27441aca1eecbe91f60eb10",
+    "status": "PASS_E1_CONFIRMATION_LOCK_VALID"
+  },
+  "mapping_seeds": [
+    3101,
+    3102,
+    3103,
+    3104,
+    3105
+  ],
+  "moderate_only_ablation_methods": [
+    "proto_skeleton_ideal_plus_moderate1",
+    "proto_skeleton_ideal_plus_moderate2",
+    "proto_skeleton_multi4_no_ideal"
+  ],
+  "observed_peak_rss_bytes": 449613824,
+  "prediction_row_count": 118800,
+  "predictions_sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8",
+  "selected_linear_svc_c": 0.01,
+  "selection_audit": {
+    "test_scialom_contour": {
+      "backfill_max": 22,
+      "backfill_total": 160,
+      "sample_count": 720,
+      "selection_seconds": 333.09129609999945,
+      "selector": "scialom_contour"
+    },
+    "test_skeleton": {
+      "backfill_max": 0,
+      "backfill_total": 0,
+      "sample_count": 720,
+      "selection_seconds": 0.36805440000171075,
+      "selector": "skeleton"
+    },
+    "training_scialom_contour": {
+      "backfill_max": 21,
+      "backfill_total": 543,
+      "sample_count": 1080,
+      "selection_seconds": 525.1172520000036,
+      "selector": "scialom_contour"
+    },
+    "training_skeleton": {
+      "backfill_max": 0,
+      "backfill_total": 0,
+      "sample_count": 1080,
+      "selection_seconds": 0.4435321999990265,
+      "selector": "skeleton"
+    }
+  },
+  "status": "E1_PREDICTIONS_COMPLETE_AWAITING_UNBLINDED_ANALYSIS",
+  "test_font_count": 4,
+  "training_font_count": 6
+}

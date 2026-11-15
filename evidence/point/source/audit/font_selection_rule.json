@@ -1,0 +1,40 @@
+{
+  "rule": "First four previously unselected eligible candidates in the pre-existing 2026-08-29 SHA256 order; no accuracy used; retain all four independent of results",
+  "inventory_source": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\audits\\MULTIBUDGET_FONT_SELECTION_AUDIT.json",
+  "inventory_sha256": "5c664baecca2ee3ee585009f80b54dda0c8cff2130ed2cea7e29beb8fc857bf1",
+  "candidates": [
+    {
+      "family_id": "STHupo",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STHUPO.TTF",
+      "file_sha256": "7426907130588efde1b8c5037f1e245c2a23ee30f9a2d60f863c4264d5a06890",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STXinwei",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STXINWEI.TTF",
+      "file_sha256": "7f2fb3442bec38afecc78e1548a9d154cc225d4cfd9cbc0f8c469311ab43e36a",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STXingkai",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STXINGKA.TTF",
+      "file_sha256": "7f901dfb0526d542740264fb5ba8dfe483293ad060270d273593e2f04a69d080",
+      "font_id": null,
+      "selected": false
+    },
+    {
+      "family_id": "STKaiti",
+      "face_index": 0,
+      "file": "/historical/Windows\\Fonts\\STKAITI.TTF",
+      "file_sha256": "a29c99c161fc43ce6aba2d7c152065359c2cb3019be4ae6248171178cb7d04d5",
+      "font_id": null,
+      "selected": false
+    }
+  ],
+  "limitation": "New font files/families in audited experiments, not a claim of unseen typeface styles; earlier inventory and glyph QC existed."
+}

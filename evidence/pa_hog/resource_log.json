@@ -1,0 +1,8 @@
+{
+  "peak_rss_bytes": 602959872,
+  "samples": 198,
+  "cpu_only": true,
+  "blas_threads": 2,
+  "elapsed_seconds": 21.707540799980052,
+  "peak_rss_gib": 0.5615501403808594
+}

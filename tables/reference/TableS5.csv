@@ -1,0 +1,6 @@
+﻿Paired contrast,"Difference, pp",95 % CI lower bound,95 % CI upper bound
+Within-skeleton MMA gain,+10.91,+8.81,+13.06
+Within-edge MMA gain,+11.39,+9.44,+13.37
+"Skeleton − edge, ideal-only",+9.94,+8.11,+11.80
+"Skeleton − edge, MMA",+9.46,+7.56,+11.41
+Skeleton gain − edge gain,-0.48,-2.43,+1.46

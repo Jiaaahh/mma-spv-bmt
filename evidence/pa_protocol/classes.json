@@ -1,0 +1,902 @@
+[
+  {
+    "class_id": 0,
+    "character": "我",
+    "codepoint": "U+6211"
+  },
+  {
+    "class_id": 1,
+    "character": "的",
+    "codepoint": "U+7684"
+  },
+  {
+    "class_id": 2,
+    "character": "你",
+    "codepoint": "U+4F60"
+  },
+  {
+    "class_id": 3,
+    "character": "是",
+    "codepoint": "U+662F"
+  },
+  {
+    "class_id": 4,
+    "character": "了",
+    "codepoint": "U+4E86"
+  },
+  {
+    "class_id": 5,
+    "character": "不",
+    "codepoint": "U+4E0D"
+  },
+  {
+    "class_id": 6,
+    "character": "们",
+    "codepoint": "U+4EEC"
+  },
+  {
+    "class_id": 7,
+    "character": "这",
+    "codepoint": "U+8FD9"
+  },
+  {
+    "class_id": 8,
+    "character": "一",
+    "codepoint": "U+4E00"
+  },
+  {
+    "class_id": 9,
+    "character": "他",
+    "codepoint": "U+4ED6"
+  },
+  {
+    "class_id": 10,
+    "character": "么",
+    "codepoint": "U+4E48"
+  },
+  {
+    "class_id": 11,
+    "character": "在",
+    "codepoint": "U+5728"
+  },
+  {
+    "class_id": 12,
+    "character": "有",
+    "codepoint": "U+6709"
+  },
+  {
+    "class_id": 13,
+    "character": "个",
+    "codepoint": "U+4E2A"
+  },
+  {
+    "class_id": 14,
+    "character": "好",
+    "codepoint": "U+597D"
+  },
+  {
+    "class_id": 15,
+    "character": "来",
+    "codepoint": "U+6765"
+  },
+  {
+    "class_id": 16,
+    "character": "人",
+    "codepoint": "U+4EBA"
+  },
+  {
+    "class_id": 17,
+    "character": "那",
+    "codepoint": "U+90A3"
+  },
+  {
+    "class_id": 18,
+    "character": "要",
+    "codepoint": "U+8981"
+  },
+  {
+    "class_id": 19,
+    "character": "会",
+    "codepoint": "U+4F1A"
+  },
+  {
+    "class_id": 20,
+    "character": "就",
+    "codepoint": "U+5C31"
+  },
+  {
+    "class_id": 21,
+    "character": "什",
+    "codepoint": "U+4EC0"
+  },
+  {
+    "class_id": 22,
+    "character": "没",
+    "codepoint": "U+6CA1"
+  },
+  {
+    "class_id": 23,
+    "character": "到",
+    "codepoint": "U+5230"
+  },
+  {
+    "class_id": 24,
+    "character": "说",
+    "codepoint": "U+8BF4"
+  },
+  {
+    "class_id": 25,
+    "character": "吗",
+    "codepoint": "U+5417"
+  },
+  {
+    "class_id": 26,
+    "character": "为",
+    "codepoint": "U+4E3A"
+  },
+  {
+    "class_id": 27,
+    "character": "想",
+    "codepoint": "U+60F3"
+  },
+  {
+    "class_id": 28,
+    "character": "能",
+    "codepoint": "U+80FD"
+  },
+  {
+    "class_id": 29,
+    "character": "上",
+    "codepoint": "U+4E0A"
+  },
+  {
+    "class_id": 30,
+    "character": "去",
+    "codepoint": "U+53BB"
+  },
+  {
+    "class_id": 31,
+    "character": "道",
+    "codepoint": "U+9053"
+  },
+  {
+    "class_id": 32,
+    "character": "她",
+    "codepoint": "U+5979"
+  },
+  {
+    "class_id": 33,
+    "character": "很",
+    "codepoint": "U+5F88"
+  },
+  {
+    "class_id": 34,
+    "character": "看",
+    "codepoint": "U+770B"
+  },
+  {
+    "class_id": 35,
+    "character": "可",
+    "codepoint": "U+53EF"
+  },
+  {
+    "class_id": 36,
+    "character": "知",
+    "codepoint": "U+77E5"
+  },
+  {
+    "class_id": 37,
+    "character": "得",
+    "codepoint": "U+5F97"
+  },
+  {
+    "class_id": 38,
+    "character": "过",
+    "codepoint": "U+8FC7"
+  },
+  {
+    "class_id": 39,
+    "character": "吧",
+    "codepoint": "U+5427"
+  },
+  {
+    "class_id": 40,
+    "character": "还",
+    "codepoint": "U+8FD8"
+  },
+  {
+    "class_id": 41,
+    "character": "对",
+    "codepoint": "U+5BF9"
+  },
+  {
+    "class_id": 42,
+    "character": "里",
+    "codepoint": "U+91CC"
+  },
+  {
+    "class_id": 43,
+    "character": "以",
+    "codepoint": "U+4EE5"
+  },
+  {
+    "class_id": 44,
+    "character": "都",
+    "codepoint": "U+90FD"
+  },
+  {
+    "class_id": 45,
+    "character": "事",
+    "codepoint": "U+4E8B"
+  },
+  {
+    "class_id": 46,
+    "character": "子",
+    "codepoint": "U+5B50"
+  },
+  {
+    "class_id": 47,
+    "character": "生",
+    "codepoint": "U+751F"
+  },
+  {
+    "class_id": 48,
+    "character": "时",
+    "codepoint": "U+65F6"
+  },
+  {
+    "class_id": 49,
+    "character": "样",
+    "codepoint": "U+6837"
+  },
+  {
+    "class_id": 50,
+    "character": "也",
+    "codepoint": "U+4E5F"
+  },
+  {
+    "class_id": 51,
+    "character": "和",
+    "codepoint": "U+548C"
+  },
+  {
+    "class_id": 52,
+    "character": "下",
+    "codepoint": "U+4E0B"
+  },
+  {
+    "class_id": 53,
+    "character": "真",
+    "codepoint": "U+771F"
+  },
+  {
+    "class_id": 54,
+    "character": "现",
+    "codepoint": "U+73B0"
+  },
+  {
+    "class_id": 55,
+    "character": "做",
+    "codepoint": "U+505A"
+  },
+  {
+    "class_id": 56,
+    "character": "大",
+    "codepoint": "U+5927"
+  },
+  {
+    "class_id": 57,
+    "character": "啊",
+    "codepoint": "U+554A"
+  },
+  {
+    "class_id": 58,
+    "character": "怎",
+    "codepoint": "U+600E"
+  },
+  {
+    "class_id": 59,
+    "character": "出",
+    "codepoint": "U+51FA"
+  },
+  {
+    "class_id": 60,
+    "character": "点",
+    "codepoint": "U+70B9"
+  },
+  {
+    "class_id": 61,
+    "character": "起",
+    "codepoint": "U+8D77"
+  },
+  {
+    "class_id": 62,
+    "character": "天",
+    "codepoint": "U+5929"
+  },
+  {
+    "class_id": 63,
+    "character": "把",
+    "codepoint": "U+628A"
+  },
+  {
+    "class_id": 64,
+    "character": "开",
+    "codepoint": "U+5F00"
+  },
+  {
+    "class_id": 65,
+    "character": "让",
+    "codepoint": "U+8BA9"
+  },
+  {
+    "class_id": 66,
+    "character": "给",
+    "codepoint": "U+7ED9"
+  },
+  {
+    "class_id": 67,
+    "character": "但",
+    "codepoint": "U+4F46"
+  },
+  {
+    "class_id": 68,
+    "character": "谢",
+    "codepoint": "U+8C22"
+  },
+  {
+    "class_id": 69,
+    "character": "着",
+    "codepoint": "U+7740"
+  },
+  {
+    "class_id": 70,
+    "character": "只",
+    "codepoint": "U+53EA"
+  },
+  {
+    "class_id": 71,
+    "character": "些",
+    "codepoint": "U+4E9B"
+  },
+  {
+    "class_id": 72,
+    "character": "如",
+    "codepoint": "U+5982"
+  },
+  {
+    "class_id": 73,
+    "character": "家",
+    "codepoint": "U+5BB6"
+  },
+  {
+    "class_id": 74,
+    "character": "后",
+    "codepoint": "U+540E"
+  },
+  {
+    "class_id": 75,
+    "character": "儿",
+    "codepoint": "U+513F"
+  },
+  {
+    "class_id": 76,
+    "character": "多",
+    "codepoint": "U+591A"
+  },
+  {
+    "class_id": 77,
+    "character": "意",
+    "codepoint": "U+610F"
+  },
+  {
+    "class_id": 78,
+    "character": "别",
+    "codepoint": "U+522B"
+  },
+  {
+    "class_id": 79,
+    "character": "所",
+    "codepoint": "U+6240"
+  },
+  {
+    "class_id": 80,
+    "character": "话",
+    "codepoint": "U+8BDD"
+  },
+  {
+    "class_id": 81,
+    "character": "小",
+    "codepoint": "U+5C0F"
+  },
+  {
+    "class_id": 82,
+    "character": "自",
+    "codepoint": "U+81EA"
+  },
+  {
+    "class_id": 83,
+    "character": "回",
+    "codepoint": "U+56DE"
+  },
+  {
+    "class_id": 84,
+    "character": "然",
+    "codepoint": "U+7136"
+  },
+  {
+    "class_id": 85,
+    "character": "果",
+    "codepoint": "U+679C"
+  },
+  {
+    "class_id": 86,
+    "character": "发",
+    "codepoint": "U+53D1"
+  },
+  {
+    "class_id": 87,
+    "character": "见",
+    "codepoint": "U+89C1"
+  },
+  {
+    "class_id": 88,
+    "character": "心",
+    "codepoint": "U+5FC3"
+  },
+  {
+    "class_id": 89,
+    "character": "走",
+    "codepoint": "U+8D70"
+  },
+  {
+    "class_id": 90,
+    "character": "定",
+    "codepoint": "U+5B9A"
+  },
+  {
+    "class_id": 91,
+    "character": "听",
+    "codepoint": "U+542C"
+  },
+  {
+    "class_id": 92,
+    "character": "觉",
+    "codepoint": "U+89C9"
+  },
+  {
+    "class_id": 93,
+    "character": "太",
+    "codepoint": "U+592A"
+  },
+  {
+    "class_id": 94,
+    "character": "该",
+    "codepoint": "U+8BE5"
+  },
+  {
+    "class_id": 95,
+    "character": "当",
+    "codepoint": "U+5F53"
+  },
+  {
+    "class_id": 96,
+    "character": "经",
+    "codepoint": "U+7ECF"
+  },
+  {
+    "class_id": 97,
+    "character": "妈",
+    "codepoint": "U+5988"
+  },
+  {
+    "class_id": 98,
+    "character": "用",
+    "codepoint": "U+7528"
+  },
+  {
+    "class_id": 99,
+    "character": "打",
+    "codepoint": "U+6253"
+  },
+  {
+    "class_id": 100,
+    "character": "地",
+    "codepoint": "U+5730"
+  },
+  {
+    "class_id": 101,
+    "character": "再",
+    "codepoint": "U+518D"
+  },
+  {
+    "class_id": 102,
+    "character": "因",
+    "codepoint": "U+56E0"
+  },
+  {
+    "class_id": 103,
+    "character": "呢",
+    "codepoint": "U+5462"
+  },
+  {
+    "class_id": 104,
+    "character": "女",
+    "codepoint": "U+5973"
+  },
+  {
+    "class_id": 105,
+    "character": "告",
+    "codepoint": "U+544A"
+  },
+  {
+    "class_id": 106,
+    "character": "最",
+    "codepoint": "U+6700"
+  },
+  {
+    "class_id": 107,
+    "character": "手",
+    "codepoint": "U+624B"
+  },
+  {
+    "class_id": 108,
+    "character": "前",
+    "codepoint": "U+524D"
+  },
+  {
+    "class_id": 109,
+    "character": "找",
+    "codepoint": "U+627E"
+  },
+  {
+    "class_id": 110,
+    "character": "行",
+    "codepoint": "U+884C"
+  },
+  {
+    "class_id": 111,
+    "character": "快",
+    "codepoint": "U+5FEB"
+  },
+  {
+    "class_id": 112,
+    "character": "而",
+    "codepoint": "U+800C"
+  },
+  {
+    "class_id": 113,
+    "character": "死",
+    "codepoint": "U+6B7B"
+  },
+  {
+    "class_id": 114,
+    "character": "先",
+    "codepoint": "U+5148"
+  },
+  {
+    "class_id": 115,
+    "character": "像",
+    "codepoint": "U+50CF"
+  },
+  {
+    "class_id": 116,
+    "character": "等",
+    "codepoint": "U+7B49"
+  },
+  {
+    "class_id": 117,
+    "character": "被",
+    "codepoint": "U+88AB"
+  },
+  {
+    "class_id": 118,
+    "character": "从",
+    "codepoint": "U+4ECE"
+  },
+  {
+    "class_id": 119,
+    "character": "明",
+    "codepoint": "U+660E"
+  },
+  {
+    "class_id": 120,
+    "character": "中",
+    "codepoint": "U+4E2D"
+  },
+  {
+    "class_id": 121,
+    "character": "哦",
+    "codepoint": "U+54E6"
+  },
+  {
+    "class_id": 122,
+    "character": "情",
+    "codepoint": "U+60C5"
+  },
+  {
+    "class_id": 123,
+    "character": "作",
+    "codepoint": "U+4F5C"
+  },
+  {
+    "class_id": 124,
+    "character": "跟",
+    "codepoint": "U+8DDF"
+  },
+  {
+    "class_id": 125,
+    "character": "面",
+    "codepoint": "U+9762"
+  },
+  {
+    "class_id": 126,
+    "character": "诉",
+    "codepoint": "U+8BC9"
+  },
+  {
+    "class_id": 127,
+    "character": "爱",
+    "codepoint": "U+7231"
+  },
+  {
+    "class_id": 128,
+    "character": "已",
+    "codepoint": "U+5DF2"
+  },
+  {
+    "class_id": 129,
+    "character": "之",
+    "codepoint": "U+4E4B"
+  },
+  {
+    "class_id": 130,
+    "character": "问",
+    "codepoint": "U+95EE"
+  },
+  {
+    "class_id": 131,
+    "character": "错",
+    "codepoint": "U+9519"
+  },
+  {
+    "class_id": 132,
+    "character": "孩",
+    "codepoint": "U+5B69"
+  },
+  {
+    "class_id": 133,
+    "character": "斯",
+    "codepoint": "U+65AF"
+  },
+  {
+    "class_id": 134,
+    "character": "成",
+    "codepoint": "U+6210"
+  },
+  {
+    "class_id": 135,
+    "character": "它",
+    "codepoint": "U+5B83"
+  },
+  {
+    "class_id": 136,
+    "character": "感",
+    "codepoint": "U+611F"
+  },
+  {
+    "class_id": 137,
+    "character": "干",
+    "codepoint": "U+5E72"
+  },
+  {
+    "class_id": 138,
+    "character": "法",
+    "codepoint": "U+6CD5"
+  },
+  {
+    "class_id": 139,
+    "character": "电",
+    "codepoint": "U+7535"
+  },
+  {
+    "class_id": 140,
+    "character": "间",
+    "codepoint": "U+95F4"
+  },
+  {
+    "class_id": 141,
+    "character": "哪",
+    "codepoint": "U+54EA"
+  },
+  {
+    "class_id": 142,
+    "character": "西",
+    "codepoint": "U+897F"
+  },
+  {
+    "class_id": 143,
+    "character": "己",
+    "codepoint": "U+5DF1"
+  },
+  {
+    "class_id": 144,
+    "character": "候",
+    "codepoint": "U+5019"
+  },
+  {
+    "class_id": 145,
+    "character": "次",
+    "codepoint": "U+6B21"
+  },
+  {
+    "class_id": 146,
+    "character": "信",
+    "codepoint": "U+4FE1"
+  },
+  {
+    "class_id": 147,
+    "character": "欢",
+    "codepoint": "U+6B22"
+  },
+  {
+    "class_id": 148,
+    "character": "正",
+    "codepoint": "U+6B63"
+  },
+  {
+    "class_id": 149,
+    "character": "实",
+    "codepoint": "U+5B9E"
+  },
+  {
+    "class_id": 150,
+    "character": "关",
+    "codepoint": "U+5173"
+  },
+  {
+    "class_id": 151,
+    "character": "进",
+    "codepoint": "U+8FDB"
+  },
+  {
+    "class_id": 152,
+    "character": "车",
+    "codepoint": "U+8F66"
+  },
+  {
+    "class_id": 153,
+    "character": "年",
+    "codepoint": "U+5E74"
+  },
+  {
+    "class_id": 154,
+    "character": "喜",
+    "codepoint": "U+559C"
+  },
+  {
+    "class_id": 155,
+    "character": "认",
+    "codepoint": "U+8BA4"
+  },
+  {
+    "class_id": 156,
+    "character": "克",
+    "codepoint": "U+514B"
+  },
+  {
+    "class_id": 157,
+    "character": "爸",
+    "codepoint": "U+7238"
+  },
+  {
+    "class_id": 158,
+    "character": "谁",
+    "codepoint": "U+8C01"
+  },
+  {
+    "class_id": 159,
+    "character": "方",
+    "codepoint": "U+65B9"
+  },
+  {
+    "class_id": 160,
+    "character": "老",
+    "codepoint": "U+8001"
+  },
+  {
+    "class_id": 161,
+    "character": "应",
+    "codepoint": "U+5E94"
+  },
+  {
+    "class_id": 162,
+    "character": "比",
+    "codepoint": "U+6BD4"
+  },
+  {
+    "class_id": 163,
+    "character": "帮",
+    "codepoint": "U+5E2E"
+  },
+  {
+    "class_id": 164,
+    "character": "无",
+    "codepoint": "U+65E0"
+  },
+  {
+    "class_id": 165,
+    "character": "晚",
+    "codepoint": "U+665A"
+  },
+  {
+    "class_id": 166,
+    "character": "动",
+    "codepoint": "U+52A8"
+  },
+  {
+    "class_id": 167,
+    "character": "头",
+    "codepoint": "U+5934"
+  },
+  {
+    "class_id": 168,
+    "character": "机",
+    "codepoint": "U+673A"
+  },
+  {
+    "class_id": 169,
+    "character": "分",
+    "codepoint": "U+5206"
+  },
+  {
+    "class_id": 170,
+    "character": "特",
+    "codepoint": "U+7279"
+  },
+  {
+    "class_id": 171,
+    "character": "相",
+    "codepoint": "U+76F8"
+  },
+  {
+    "class_id": 172,
+    "character": "全",
+    "codepoint": "U+5168"
+  },
+  {
+    "class_id": 173,
+    "character": "杀",
+    "codepoint": "U+6740"
+  },
+  {
+    "class_id": 174,
+    "character": "需",
+    "codepoint": "U+9700"
+  },
+  {
+    "class_id": 175,
+    "character": "放",
+    "codepoint": "U+653E"
+  },
+  {
+    "class_id": 176,
+    "character": "常",
+    "codepoint": "U+5E38"
+  },
+  {
+    "class_id": 177,
+    "character": "直",
+    "codepoint": "U+76F4"
+  },
+  {
+    "class_id": 178,
+    "character": "才",
+    "codepoint": "U+624D"
+  },
+  {
+    "class_id": 179,
+    "character": "美",
+    "codepoint": "U+7F8E"
+  }
+]

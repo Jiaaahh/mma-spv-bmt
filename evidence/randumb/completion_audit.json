@@ -1,0 +1,262 @@
+{
+  "status": "PASS",
+  "development_fits": 156,
+  "prediction_rows": 118800,
+  "serialization_and_batch_checks": [
+    {
+      "method": "R0",
+      "seed": 101,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 101,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 101,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 101,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 101,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 101,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 101,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 101,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 211,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 211,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 211,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 211,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 211,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 211,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 211,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 211,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 307,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 307,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 307,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 307,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 307,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 307,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 307,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 307,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 401,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 401,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 401,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 401,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 401,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 401,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 401,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 401,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 503,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0",
+      "seed": 503,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 503,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R1",
+      "seed": 503,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 503,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0repeat5",
+      "seed": 503,
+      "panel": "C1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 503,
+      "panel": "E1",
+      "matched": 4
+    },
+    {
+      "method": "R0shared",
+      "seed": 503,
+      "panel": "C1",
+      "matched": 4
+    }
+  ],
+  "config_hash": "8578989ff86167dd1f5a49e226f2278f04aa82d6935762e47d488eed80b6aa37",
+  "accuracy_result_hash": "97ce22da9731c17da3bc8372ec6c02fa2cfe7af9b256b88f79084b0418909f90",
+  "cost_result_hash": "c183e4f3ce28040f9399bae7b11e3b25558d4ac2e6c30d3979bd8c39c2deea95",
+  "source_files_sha256": {
+    "audit_bank.py": "50c5a5844e9a8651dd3fbfd036505563bc316994e3b1a524e176f7eb9a229edf",
+    "completion_audit.py": "ee41ce58febc2d1fbc461d9d2f542dbc2d05363e74ff27f109feb3378a403317",
+    "core.py": "f3264f0488a6903662269df7f051378c1af181908ee166c80d1c96f4af79cf10",
+    "develop.py": "11b697a43dfd7c74e7e66a4b096f71e3017d86d35ad572b80c4298dca3cb791c",
+    "evaluate.py": "9e4bd661d7adaaa46e40745ee43dd27af1bf6c539303394d6bad5994c8a3e1c4",
+    "finish_pipeline.py": "7aad14907c1fd72d8209bf9b946283a26c22ce1779c93b03141006ea491825c4",
+    "measure_costs.py": "bd4e7226669daebf13208c0d0a75697fc55870fffce7a9204e3f5b87b1add105",
+    "preflight.py": "0e5ac2fbc002ed1c7b7b3a355cbd83e0c3dbca6ea01b0ed7b5ea7ead321e530d",
+    "prepare_external.py": "6c572a82a5c61cc9765bd0d7dac55028e9f6112e7ab40bb60e35dc38510c5dab",
+    "summarize.py": "b3d2b9dc68ce61d5faff47d77aa13d792d250f54fc67530d5de07c9bbf256355"
+  }
+}

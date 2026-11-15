@@ -1,0 +1,55 @@
+{
+  "selected_variant": "inverted",
+  "alphas": [
+    {
+      "variant": "original",
+      "method": "PA0",
+      "alpha": 0.31622776601683794,
+      "correct": 24,
+      "n": 1080,
+      "expanded": false
+    },
+    {
+      "variant": "original",
+      "method": "PA1",
+      "alpha": 1.7782794100389228,
+      "correct": 58,
+      "n": 1080,
+      "expanded": false
+    },
+    {
+      "variant": "inverted",
+      "method": "PA0",
+      "alpha": 0.1778279410038923,
+      "correct": 37,
+      "n": 1080,
+      "expanded": false
+    },
+    {
+      "variant": "inverted",
+      "method": "PA1",
+      "alpha": 1.0,
+      "correct": 66,
+      "n": 1080,
+      "expanded": false
+    },
+    {
+      "variant": "sqrt_brightened",
+      "method": "PA0",
+      "alpha": 0.31622776601683794,
+      "correct": 27,
+      "n": 1080,
+      "expanded": false
+    },
+    {
+      "variant": "sqrt_brightened",
+      "method": "PA1",
+      "alpha": 3.1622776601683795,
+      "correct": 40,
+      "n": 1080,
+      "expanded": false
+    }
+  ],
+  "rule": "Choose PA0 and PA1 alpha separately on 3 selection maps using existing choose function. Choose display by PA1 selection accuracy; tie order original,inverted,sqrt_brightened. Save decision before scoring confirmation maps.",
+  "confirmation_accuracy_not_computed_yet": true
+}

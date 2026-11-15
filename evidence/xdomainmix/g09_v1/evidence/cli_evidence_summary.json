@@ -1,0 +1,261 @@
+{
+  "stage": "G09-A CLI evidence",
+  "entry": "g09_v1/g09_runner.py",
+  "interpreter": "/historical/root/autodl-tmp/mma_pkg/project/.venv/bin/python",
+  "notice": "Help output is real. Every rejection case uses an illegal or undeclared path/argument and is refused before any mkdir/training/audit, so no runs_g09_v1 formal state is created.",
+  "runs_dir_created": false,
+  "selections_dir_created": false,
+  "help": [
+    {
+      "name": "help_root",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "--help"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_help_root.txt",
+      "stderr_head": []
+    },
+    {
+      "name": "help_train",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "train",
+        "--help"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_help_train.txt",
+      "stderr_head": []
+    },
+    {
+      "name": "help_evaluate",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "evaluate",
+        "--help"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_help_evaluate.txt",
+      "stderr_head": []
+    },
+    {
+      "name": "help_select",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "select",
+        "--help"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_help_select.txt",
+      "stderr_head": []
+    },
+    {
+      "name": "help_compare",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "compare",
+        "--help"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_help_compare.txt",
+      "stderr_head": []
+    },
+    {
+      "name": "help_gate_status",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "gate-status",
+        "--help"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_help_gate_status.txt",
+      "stderr_head": []
+    }
+  ],
+  "rejections": [
+    {
+      "name": "reject_legacy_run_path",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "train",
+        "--method",
+        "erm",
+        "--fold",
+        "0",
+        "--candidate",
+        "C03",
+        "--device",
+        "cpu",
+        "--until",
+        "1",
+        "--run",
+        "runs/f1_s17_k8_erm_venv26"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_legacy_run_path.txt",
+      "stderr_head": [
+        "G09_REJECTED: --run 'runs/f1_s17_k8_erm_venv26' is not the declared G09 run for method=erm fold=0 candidate=C03; expected 'runs_g09_v1/f0_s17_k8_erm_C03'. G09 never writes to legacy runs/ paths or ad-hoc directories.",
+        "（完整回溯请加 --traceback）"
+      ]
+    },
+    {
+      "name": "reject_candidate_mismatch",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "train",
+        "--method",
+        "erm",
+        "--fold",
+        "0",
+        "--candidate",
+        "C04",
+        "--device",
+        "cpu",
+        "--until",
+        "1",
+        "--run",
+        "runs_g09_v1/f0_s17_k8_erm_C03"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_candidate_mismatch.txt",
+      "stderr_head": [
+        "G09_REJECTED: --run 'runs_g09_v1/f0_s17_k8_erm_C03' is not the declared G09 run for method=erm fold=0 candidate=C04; expected 'runs_g09_v1/f0_s17_k8_erm_C04'. G09 never writes to legacy runs/ paths or ad-hoc directories.",
+        "（完整回溯请加 --traceback）"
+      ]
+    },
+    {
+      "name": "reject_illegal_candidate",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "train",
+        "--method",
+        "erm",
+        "--fold",
+        "0",
+        "--candidate",
+        "C07",
+        "--device",
+        "cpu",
+        "--until",
+        "1",
+        "--run",
+        "runs_g09_v1/f0_s17_k8_erm_C07"
+      ],
+      "exit_code": 2,
+      "evidence": "cli_reject_illegal_candidate.txt",
+      "stderr_head": [
+        "usage: g09_runner.py train [-h] --method {erm,xdm} --fold {0,1} --candidate {C01,C02,C03,C04,C05,C06} [--seed {17}] [--k K] --device {cpu,cuda} --until UNTIL --run RUN",
+        "                           [--max-wall-seconds MAX_WALL_SECONDS] [--threads THREADS] [--save-every SAVE_EVERY]"
+      ]
+    },
+    {
+      "name": "reject_until_beyond_target",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "train",
+        "--method",
+        "erm",
+        "--fold",
+        "0",
+        "--candidate",
+        "C03",
+        "--device",
+        "cpu",
+        "--until",
+        "6000",
+        "--run",
+        "runs_g09_v1/f0_s17_k8_erm_C03"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_until_beyond_target.txt",
+      "stderr_head": [
+        "G09_REJECTED: --until is an absolute completed step between 1 and 5000",
+        "（完整回溯请加 --traceback）"
+      ]
+    },
+    {
+      "name": "reject_outer_on_legacy_run",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "evaluate",
+        "--run",
+        "runs/f1_s17_k8_erm_venv26",
+        "--device",
+        "cpu",
+        "--split",
+        "outer"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_outer_on_legacy_run.txt",
+      "stderr_head": [
+        "G09_REJECTED: Not a declared G09 run: 'runs/f1_s17_k8_erm_venv26'. Allowed pattern: runs_g09_v1/f{0,1}_s17_k8_{erm,xdm}_C0{1..6}",
+        "（完整回溯请加 --traceback）"
+      ]
+    },
+    {
+      "name": "reject_evaluate_unstarted_run",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "evaluate",
+        "--run",
+        "runs_g09_v1/f0_s17_k8_erm_C03",
+        "--device",
+        "cpu",
+        "--split",
+        "inner"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_evaluate_unstarted_run.txt",
+      "stderr_head": [
+        "G09_REJECTED: runs_g09_v1/f0_s17_k8_erm_C03: missing contract.json; training has not started for this run",
+        "（完整回溯请加 --traceback）"
+      ]
+    },
+    {
+      "name": "reject_select_without_runs",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "select",
+        "--method",
+        "erm",
+        "--fold",
+        "0"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_select_without_runs.txt",
+      "stderr_head": [
+        "G09_REJECTED: runs_g09_v1/f0_s17_k8_erm_C01: missing contract.json",
+        "（完整回溯请加 --traceback）"
+      ]
+    },
+    {
+      "name": "reject_compare_gate_closed",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "compare",
+        "--fold",
+        "0",
+        "--out",
+        "reports_g09_v1/g09_comparison_gate_closed"
+      ],
+      "exit_code": 3,
+      "evidence": "cli_reject_compare_gate_closed.txt",
+      "stderr_head": [
+        "G09_REJECTED: Outer access blocked until all four (method, fold) selection manifests are frozen: erm_f0(missing), erm_f1(missing), xdm_f0(missing), xdm_f1(missing)",
+        "（完整回溯请加 --traceback）"
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "name": "gate_status_closed",
+      "argv": [
+        "g09_v1/g09_runner.py",
+        "gate-status"
+      ],
+      "exit_code": 0,
+      "evidence": "cli_gate_status_closed.txt",
+      "stderr_head": []
+    }
+  ]
+}

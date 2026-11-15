@@ -1,0 +1,6 @@
+﻿Experimental panel,Evaluation observations,Purpose
+Basic,2 fonts × 5 mappings × 180 classes = 1800,Initial whole-glyph evaluation
+Extended,4 fonts × 5 mappings × 180 classes = 3600,Whole-glyph comparisons and ablations
+Budget,4 fonts × 5 mappings × 180 classes × 5 budgets per method,"18,000 per method; 36,000 across two methods"
+Internal development,6 leave-one-training-font-out folds; 5400 per configuration,"Augmentation, aggregation, and encoding contrasts"
+Shared window,4 new fonts × 5 mappings × 180 classes = 3600,Point-SPV accuracy and cost

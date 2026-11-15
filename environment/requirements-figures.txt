@@ -1,0 +1,5 @@
+# Optional figure rendering; retain the original dependency records.
+numpy
+Pillow
+reportlab
+pypdfium2

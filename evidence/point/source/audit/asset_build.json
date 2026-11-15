@@ -1,0 +1,8 @@
+{
+  "train_glyphs": 1080,
+  "test_glyphs": 720,
+  "training_events": 80000,
+  "minimum_font_class_mapping_count": 4,
+  "training_kernels_match_development_bitwise": true,
+  "final_predictions_computed": false
+}

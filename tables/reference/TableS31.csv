@@ -1,0 +1,9 @@
+﻿Configuration,"Window and encoding, ms","Rendering, ms","Features and classification, ms","Nonrendering total/request, ms"
+Window HOG ideal (CPU),4.63,0.37,2.48,7.11
+Window MMA (CPU),4.62,0.37,2.47,7.10
+Point seed 17 (CPU),9.24,0.43,67.76,77.02
+Point seed 17 (GPU),4.30,0.17,11.86,16.16
+Point seed 29 (CPU),9.25,0.42,67.74,77.02
+Point seed 29 (GPU),4.32,0.17,11.89,16.22
+Point seed 43 (CPU),9.35,0.43,68.34,77.72
+Point seed 43 (GPU),4.33,0.17,11.77,16.09

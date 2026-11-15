@@ -1,0 +1,5 @@
+﻿Method and training,"Basic accuracy, %","Extended accuracy, %"
+HOG ideal prototype,49.56,64.00
+MMA-HOG,64.72,79.06
+RanDumb ideal,63.11 ± 0.19,78.16 ± 0.35
+RanDumb multi-mapping,64.27 ± 0.15,79.23 ± 0.51

@@ -1,0 +1,150 @@
+{
+  "source_documents": "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\多映射原型聚合_审查收尾稿_20261013.docx",
+  "sources": {
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\revision_20261004\\evidence_bundle\\whole_glyph\\StudyB\\merged_predictions_with_truth.csv": {
+      "sha256": "65a07e70c520d7651b18faf5bdf997974e0326c400140878e492c1ee4dabd0f3"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\revision_20261004\\evidence_bundle\\whole_glyph\\StudyB\\main_results.json": {
+      "sha256": "2851c8c8a39e59574a58a153f2c10b28585b0bbbe17f5c0e781e1c080c863128"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\revision_20261004\\evidence_bundle\\whole_glyph\\E1\\predictions.csv": {
+      "sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8"
+    },
+    "/historical/deepseek\\hanzi-spv-benchmark\\data\\processed\\benchmark\\glyphs.npz": {
+      "sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582"
+    },
+    "/historical/deepseek\\hanzi-spv-benchmark\\src\\mapping.py": {
+      "sha256": "c003c6d049e117d5e9c3a50ff571a3d6364ef06eda0b61d2959a5199db69b09a"
+    },
+    "/historical/deepseek\\hanzi-spv-benchmark\\src\\spv_forward.py": {
+      "sha256": "7dd1acd1a1889817a4eaf6267e5986eec6168a99d2af6aef7916d4e6e29718bb"
+    },
+    "/historical/deepseek\\hanzi-spv-benchmark\\src\\features.py": {
+      "sha256": "9fa4c66d419e2e7dcec5d2840fc09ca56b69ca0bc4b7ec1585b9eaba650270a1"
+    },
+    "/historical/deepseek\\hanzi-spv-benchmark\\src\\grid.py": {
+      "sha256": "b3ebe8f0c5676186c93540a3083e90ae75306761ffc0cea40c83d18d8e45fdd7"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\condensed_20261011\\cases\\provenance.json": {
+      "sha256": "83c63da4768693a9bf7f50ecd0d97b72d04de6dadc98f7390f40d8f746677975"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\point_spv_formal_v1\\data\\test\\glyphs.npy": {
+      "sha256": "c9919ad6fafb24bb5f866c7ce78af4d1bf12e539d041d3df7ff8e1a946f9caea"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\point_spv_formal_v1\\data\\test\\kernels.npy": {
+      "sha256": "f585ea24e4f696116201c27c53f7f2572c1ba6105dfa3b3d1e430aa323a70641"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\point_spv_formal_v1\\data\\test\\metadata.npz": {
+      "sha256": "08daf3237b9573cbb04b96806d644866d4335a4f8ae9f31a6cb8a5cf94018f94"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\point_spv_formal_v1\\data\\test\\views.npz": {
+      "sha256": "9fbc70b56c485988b887b85451980c4a5d39cfdabb16179a88a9462dd503e88b"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\revision_20261004\\evidence_bundle\\point\\results\\skeleton_ideal.npz": {
+      "sha256": "288bb0357fc9bd1b78aa1509f5eacc2ffa9309536535f3274148f43d02531c81"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\revision_20261004\\evidence_bundle\\point\\results\\skeleton_mma.npz": {
+      "sha256": "f72b353b15bf411914653dee73e7530c764d49d9b934b63d607eb781dd2fd009"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\condensed_20261011\\cases\\case_1.npz": {
+      "sha256": "6556b106b002f16ee3ed3a418517938c45dda8dcce8bd981f55b13f10f14c164"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\condensed_20261011\\cases\\case_2.npz": {
+      "sha256": "d96d40936973673f89778b35a601231fc35591d8b58227d9db06a9b574e41b38"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\condensed_20261011\\cases\\case_3.npz": {
+      "sha256": "348dda8b8181075ac43c67c990e7f4934910875e16d6b2af53f59478feee0f28"
+    },
+    "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\condensed_20261011\\cases\\case_4.npz": {
+      "sha256": "c6775acdab096dbb836f61b4d1a4192ee6d8f03ad3cafb39e15fadd3b9774841"
+    }
+  },
+  "checks": {
+    "budget_ideal_only_32": true,
+    "budget_ideal_only_48": true,
+    "budget_ideal_only_64": true,
+    "budget_ideal_only_96": true,
+    "budget_ideal_only_128": true,
+    "budget_ideal_plus_multi4_32": true,
+    "budget_ideal_plus_multi4_48": true,
+    "budget_ideal_plus_multi4_64": true,
+    "budget_ideal_plus_multi4_96": true,
+    "budget_ideal_plus_multi4_128": true,
+    "paired_delta_32": true,
+    "paired_delta_48": true,
+    "paired_delta_64": true,
+    "paired_delta_96": true,
+    "paired_delta_128": true,
+    "naubc_from_predictions": true,
+    "mismatch_pairing_mild": true,
+    "mismatch_pairing_moderate": true,
+    "mismatch_pairing_severe": true,
+    "mismatch_pairing_position_only": true,
+    "mismatch_pairing_scale_only": true,
+    "mismatch_report_mild": true,
+    "mismatch_report_moderate": true,
+    "mismatch_report_severe": true,
+    "mismatch_report_position_only": true,
+    "mismatch_report_scale_only": true,
+    "glyph_archive_hash": true,
+    "original_source_mapping.py": true,
+    "original_source_spv_forward.py": true,
+    "original_source_features.py": true,
+    "original_source_grid.py": true,
+    "five_distinct_spv": true,
+    "five_distinct_hog": true,
+    "mass64": true,
+    "shared_active_indices": true,
+    "hog_dimension": true,
+    "case_asset_glyphs.npy": true,
+    "case_asset_kernels.npy": true,
+    "case_asset_metadata.npz": true,
+    "case_asset_views.npz": true,
+    "case_prediction_skeleton_ideal.npz": true,
+    "case_prediction_skeleton_mma.npz": true,
+    "case_pair_labels": true,
+    "case_pair_rows": true,
+    "case_pair_fonts": true,
+    "case_pair_points": true,
+    "case_pair_selected": true,
+    "case_pair_mapping_seeds": true,
+    "case_argmax_ideal": true,
+    "case_argmax_mma": true,
+    "case_counts": true,
+    "case1_pixels": true,
+    "case1_labels": true,
+    "case2_pixels": true,
+    "case2_labels": true,
+    "case3_pixels": true,
+    "case3_labels": true,
+    "case4_pixels": true,
+    "case4_labels": true,
+    "fig5_embedded_original": true
+  },
+  "figure1_example": {
+    "sample_id": "train_noto_sans_sc_thin_c056",
+    "source_row": 56,
+    "character": "大",
+    "font_id": "noto_sans_sc_thin",
+    "font_sha256": "0f4c9c5bb1a887840c4de396279bdb5059bd20b5f58341a08542f18868aa1b1e",
+    "budget": 64,
+    "training_seeds": [
+      0,
+      2026,
+      2027,
+      2028,
+      2029
+    ],
+    "display": "common linear range [0,max(all five SPV)], nearest-neighbor display; raw arrays retained",
+    "scope": "Display-only re-render from archived training glyph and original simulation implementation; no classification or model fitting",
+    "numpy_version": "1.26.4"
+  },
+  "case_counts": {
+    "total_paired_views": 3600,
+    "ideal_wrong_mma_correct": 750,
+    "ideal_correct_mma_wrong": 115,
+    "ideal_correct": 737,
+    "mma_correct": 1372
+  },
+  "case_selection": "在共同窗口正式测试的骨架HOG配对预测中，分别筛选理想原型错/MMA对及理想原型对/MMA错；依映射种子、字体ID、类别ID、源行号升序，各取前2个不同类别，不按图像外观挑选。"
+}

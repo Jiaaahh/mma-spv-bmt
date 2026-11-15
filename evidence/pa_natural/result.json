@@ -1,0 +1,99 @@
+{
+  "status": "COMPLETE",
+  "engineering_screen": "PASS",
+  "metrics": [
+    {
+      "split": "support",
+      "method": "TEXT",
+      "n": 160,
+      "correct": 148,
+      "accuracy_percent": 92.5
+    },
+    {
+      "split": "support",
+      "method": "PLAIN",
+      "n": 160,
+      "correct": 159,
+      "accuracy_percent": 99.375
+    },
+    {
+      "split": "support",
+      "method": "PA_VISUAL",
+      "n": 160,
+      "correct": 159,
+      "accuracy_percent": 99.375
+    },
+    {
+      "split": "support",
+      "method": "PA_FULL",
+      "n": 160,
+      "correct": 157,
+      "accuracy_percent": 98.125
+    },
+    {
+      "split": "validation",
+      "method": "TEXT",
+      "n": 80,
+      "correct": 75,
+      "accuracy_percent": 93.75
+    },
+    {
+      "split": "validation",
+      "method": "PLAIN",
+      "n": 80,
+      "correct": 77,
+      "accuracy_percent": 96.25
+    },
+    {
+      "split": "validation",
+      "method": "PA_VISUAL",
+      "n": 80,
+      "correct": 77,
+      "accuracy_percent": 96.25
+    },
+    {
+      "split": "validation",
+      "method": "PA_FULL",
+      "n": 80,
+      "correct": 79,
+      "accuracy_percent": 98.75
+    },
+    {
+      "split": "test",
+      "method": "TEXT",
+      "n": 320,
+      "correct": 299,
+      "accuracy_percent": 93.4375
+    },
+    {
+      "split": "test",
+      "method": "PLAIN",
+      "n": 320,
+      "correct": 288,
+      "accuracy_percent": 90.0
+    },
+    {
+      "split": "test",
+      "method": "PA_VISUAL",
+      "n": 320,
+      "correct": 301,
+      "accuracy_percent": 94.0625
+    },
+    {
+      "split": "test",
+      "method": "PA_FULL",
+      "n": 320,
+      "correct": 314,
+      "accuracy_percent": 98.125
+    }
+  ],
+  "selected_alpha": 0.31622776601683794,
+  "encoding_seconds": 53.11912990000019,
+  "correctness_audit": {
+    "status": "PASS",
+    "independent_predictions": 2240,
+    "prototype_max_abs_error": 5.551115123125783e-17,
+    "sample_splits_disjoint": true
+  },
+  "limitation": "One small fixed split, no stochastic augmentation; not author benchmark replication; passing does not validate SPV adaptation"
+}

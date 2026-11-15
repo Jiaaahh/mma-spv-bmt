@@ -1,0 +1,22 @@
+{
+  "completed": false,
+  "manifest_sha256": "47ecf59c07adc4652e4e1b0a6f05ced694c0177e97c43646a29b1ae2ad1b99b4",
+  "reports": {
+    "skeleton": {
+      "unique_crops_processed": 128,
+      "total_unique_crops": 56144,
+      "feature_calls": 281,
+      "seconds": 2.785978600004455,
+      "rough_full_seconds": 1221.999863426954,
+      "benchmark_extrapolation_only": true
+    },
+    "canny": {
+      "unique_crops_processed": 128,
+      "total_unique_crops": 56144,
+      "feature_calls": 281,
+      "seconds": 5.743565900003887,
+      "rough_full_seconds": 2519.271592889205,
+      "benchmark_extrapolation_only": true
+    }
+  }
+}

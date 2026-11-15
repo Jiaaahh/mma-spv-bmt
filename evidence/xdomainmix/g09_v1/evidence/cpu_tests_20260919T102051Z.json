@@ -1,0 +1,195 @@
+{
+  "stage": "G09-A CPU tests",
+  "utc": "2026-09-19T10:21:44.561859+00:00",
+  "python": "3.10.8 (main, Nov 24 2022, 14:13:03) [GCC 11.2.0]",
+  "argv": [
+    "g09_v1/tests/run_all_tests.py"
+  ],
+  "cwd": "/historical/root/autodl-tmp/mma_pkg/project",
+  "OMP_NUM_THREADS": "4",
+  "CUDA_VISIBLE_DEVICES": "",
+  "notice": "CPU stub/small-array evidence only; NOT GPU qualification and NOT scientific results",
+  "totals": {
+    "passed": 25,
+    "failed": 0,
+    "seconds": 53.082
+  },
+  "tests": [
+    {
+      "module": "test_unit",
+      "name": "matrix_and_candidates",
+      "status": "PASS",
+      "seconds": 0.001,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "mapping_constants_match_v1_core",
+      "status": "PASS",
+      "seconds": 0.0,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "handover_and_isolation",
+      "status": "PASS",
+      "seconds": 0.0,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "declared_run_resolution",
+      "status": "PASS",
+      "seconds": 0.0,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "contract_fields_and_validation",
+      "status": "PASS",
+      "seconds": 1.991,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "optimizer_groups_match_contract_all_candidates",
+      "status": "PASS",
+      "seconds": 11.786,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "runtime_optimizer_tampering_detected",
+      "status": "PASS",
+      "seconds": 9.908,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "c03_semantics_equal_v1_anchor",
+      "status": "PASS",
+      "seconds": 0.066,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "weight_decay_binds_all_groups",
+      "status": "PASS",
+      "seconds": 3.884,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "xdm_stub_wiring",
+      "status": "PASS",
+      "seconds": 2.231,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "author_threshold_cycle_cross_check",
+      "status": "PASS",
+      "seconds": 0.011,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "serialization_and_rejection",
+      "status": "PASS",
+      "seconds": 14.116,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "audit_wrapper_positive_and_negative",
+      "status": "PASS",
+      "seconds": 1.96,
+      "error": null
+    },
+    {
+      "module": "test_unit",
+      "name": "audit_wrapper_pair_requires_two_methods",
+      "status": "PASS",
+      "seconds": 0.003,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "selector_ranking_and_tiebreaks",
+      "status": "PASS",
+      "seconds": 0.122,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "selector_rounding_helper_half_even",
+      "status": "PASS",
+      "seconds": 0.001,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "selector_rejects_invalid_inputs",
+      "status": "PASS",
+      "seconds": 0.227,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "selector_order_insensitivity",
+      "status": "PASS",
+      "seconds": 0.148,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "selector_frozen_manifest_not_overwritten",
+      "status": "PASS",
+      "seconds": 0.135,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "gate_blocks_until_all_four_frozen",
+      "status": "PASS",
+      "seconds": 0.109,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "gate_allows_only_selected_winner",
+      "status": "PASS",
+      "seconds": 0.437,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "gate_detects_post_selection_tampering",
+      "status": "PASS",
+      "seconds": 0.884,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "compare_matches_v1_statistics_equal_candidates",
+      "status": "PASS",
+      "seconds": 1.001,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "compare_allows_only_declared_differences",
+      "status": "PASS",
+      "seconds": 0.89,
+      "error": null
+    },
+    {
+      "module": "test_selector_gate_compare",
+      "name": "compare_refuses_non_selected_directories",
+      "status": "PASS",
+      "seconds": 0.814,
+      "error": null
+    }
+  ],
+  "verdict": "G09_A_CPU_TESTS_PASS"
+}

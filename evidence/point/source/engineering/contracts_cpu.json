@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "device": "cpu",
+  "manifest_sha256": "41b8217127c7ff00e8969cce866f49ef7ed3538bed7d2dc22bf3a9441c1baa1e",
+  "schedule_replayed": true,
+  "patch_max_abs_error": 0.0,
+  "render_max_abs_errors": [
+    5.587935447692871e-09,
+    7.450580596923828e-09,
+    2.2351741790771484e-08,
+    1.1175870895385742e-08,
+    1.4901161193847656e-08,
+    3.725290298461914e-09,
+    7.450580596923828e-09,
+    7.450580596923828e-09,
+    7.450580596923828e-09,
+    7.450580596923828e-09
+  ],
+  "two_full_random_weight_resnet152_updates": true,
+  "test_scores_computed": false
+}

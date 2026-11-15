@@ -1,0 +1,90 @@
+{
+  "experiment_id": "c1_mma_confirmation_windows_r3",
+  "interpretation_boundary": "Machine-decodability under simulated mappings only; no claim about human phosphene perception or implanted-user reading.",
+  "methods": {
+    "ideal_only": {
+      "mean_accuracy": 0.4955555555555556,
+      "mean_macro_f1": 0.526580369705649,
+      "per_seed_accuracy": {
+        "2031": 0.4527777777777778,
+        "2032": 0.5111111111111111,
+        "2033": 0.49722222222222223,
+        "2034": 0.5055555555555555,
+        "2035": 0.5111111111111111
+      },
+      "std_accuracy": 0.021984843263788186
+    },
+    "ideal_plus_multi4": {
+      "mean_accuracy": 0.6472222222222221,
+      "mean_macro_f1": 0.6524306557639891,
+      "per_seed_accuracy": {
+        "2031": 0.6333333333333333,
+        "2032": 0.6555555555555556,
+        "2033": 0.6666666666666666,
+        "2034": 0.6361111111111111,
+        "2035": 0.6444444444444445
+      },
+      "std_accuracy": 0.012422599874998833
+    },
+    "multi4": {
+      "mean_accuracy": 0.6338888888888888,
+      "mean_macro_f1": 0.6366642616642617,
+      "per_seed_accuracy": {
+        "2031": 0.6166666666666667,
+        "2032": 0.6361111111111111,
+        "2033": 0.65,
+        "2034": 0.6305555555555555,
+        "2035": 0.6361111111111111
+      },
+      "std_accuracy": 0.010743933114340949
+    },
+    "oracle_matched": {
+      "mean_accuracy": 0.6616666666666666,
+      "mean_macro_f1": 0.6681871091871091,
+      "per_seed_accuracy": {
+        "2031": 0.6444444444444445,
+        "2032": 0.6555555555555556,
+        "2033": 0.6694444444444444,
+        "2034": 0.6944444444444444,
+        "2035": 0.6444444444444445
+      },
+      "std_accuracy": 0.018790593916986377
+    },
+    "single_moderate": {
+      "mean_accuracy": 0.55,
+      "mean_macro_f1": 0.5526625306429228,
+      "per_seed_accuracy": {
+        "2031": 0.5361111111111111,
+        "2032": 0.5361111111111111,
+        "2033": 0.5638888888888889,
+        "2034": 0.5527777777777778,
+        "2035": 0.5611111111111111
+      },
+      "std_accuracy": 0.01191533921640402
+    }
+  },
+  "paired_bootstrap": {
+    "ci95_pp": [
+      11.833333333333332,
+      18.555555555555557
+    ],
+    "cluster_count": 180,
+    "iterations": 100000,
+    "mean_difference_pp": 15.16666666666667,
+    "seed": 20260825,
+    "unit": "character_cluster",
+    "within_cluster_cells": 10
+  },
+  "primary_baseline": "ideal_only",
+  "primary_difference_pp": 15.166666666666655,
+  "primary_method": "ideal_plus_multi4",
+  "primary_per_seed_difference_pp": {
+    "2031": 18.055555555555554,
+    "2032": 14.444444444444448,
+    "2033": 16.94444444444444,
+    "2034": 13.055555555555554,
+    "2035": 13.333333333333341
+  },
+  "schema_version": 1,
+  "status": "PASS_COMMITTED"
+}

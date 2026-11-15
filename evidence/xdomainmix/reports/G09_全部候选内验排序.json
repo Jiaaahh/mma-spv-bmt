@@ -1,0 +1,362 @@
+{
+  "erm_f0": [
+    {
+      "rank": 1,
+      "candidate_id": "C06",
+      "run_path": "runs_g09_v1/f0_s17_k8_erm_C06",
+      "inner_dir": "inner_step5000_20260921T133953_855580Z",
+      "correct": 665,
+      "total": 900,
+      "accuracy_percent": 73.88888888888889,
+      "cross_entropy_float64": 1.1874567216317908,
+      "cross_entropy_rhe8": "1.18745672",
+      "cross_entropy_repr8": "1.18745672",
+      "decided_over_previous_by": []
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C05",
+      "run_path": "runs_g09_v1/f0_s17_k8_erm_C05",
+      "inner_dir": "inner_step5000_20260921T092926_371793Z",
+      "correct": 635,
+      "total": 900,
+      "accuracy_percent": 70.55555555555556,
+      "cross_entropy_float64": 1.7100782248848003,
+      "cross_entropy_rhe8": "1.71007822",
+      "cross_entropy_repr8": "1.71007822",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C04",
+      "run_path": "runs_g09_v1/f0_s17_k8_erm_C04",
+      "inner_dir": "inner_step5000_20260921T075828_952310Z",
+      "correct": 449,
+      "total": 900,
+      "accuracy_percent": 49.888888888888886,
+      "cross_entropy_float64": 3.555748224993342,
+      "cross_entropy_rhe8": "3.55574822",
+      "cross_entropy_repr8": "3.55574822",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 4,
+      "candidate_id": "C03",
+      "run_path": "runs_g09_v1/f0_s17_k8_erm_C03",
+      "inner_dir": "inner_step5000_20260920T134307_794211Z",
+      "correct": 413,
+      "total": 900,
+      "accuracy_percent": 45.88888888888889,
+      "cross_entropy_float64": 4.85382827283303,
+      "cross_entropy_rhe8": "4.85382827",
+      "cross_entropy_repr8": "4.85382827",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 5,
+      "candidate_id": "C02",
+      "run_path": "runs_g09_v1/f0_s17_k8_erm_C02",
+      "inner_dir": "inner_step5000_20260920T093101_308678Z",
+      "correct": 387,
+      "total": 900,
+      "accuracy_percent": 43.0,
+      "cross_entropy_float64": 4.261481728407007,
+      "cross_entropy_rhe8": "4.26148173",
+      "cross_entropy_repr8": "4.26148173",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 6,
+      "candidate_id": "C01",
+      "run_path": "runs_g09_v1/f0_s17_k8_erm_C01",
+      "inner_dir": "inner_step5000_20260920T074354_668869Z",
+      "correct": 387,
+      "total": 900,
+      "accuracy_percent": 43.0,
+      "cross_entropy_float64": 4.2822888008446265,
+      "cross_entropy_rhe8": "4.28228880",
+      "cross_entropy_repr8": "4.28228880",
+      "decided_over_previous_by": [
+        "cross_entropy_rhe8"
+      ]
+    }
+  ],
+  "erm_f1": [
+    {
+      "rank": 1,
+      "candidate_id": "C05",
+      "run_path": "runs_g09_v1/f1_s17_k8_erm_C05",
+      "inner_dir": "inner_step5000_20260921T113726_110655Z",
+      "correct": 756,
+      "total": 900,
+      "accuracy_percent": 84.0,
+      "cross_entropy_float64": 0.8821999706646148,
+      "cross_entropy_rhe8": "0.88219997",
+      "cross_entropy_repr8": "0.88219997",
+      "decided_over_previous_by": []
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C06",
+      "run_path": "runs_g09_v1/f1_s17_k8_erm_C06",
+      "inner_dir": "inner_step5000_20260921T142935_864254Z",
+      "correct": 752,
+      "total": 900,
+      "accuracy_percent": 83.55555555555556,
+      "cross_entropy_float64": 0.975934260380679,
+      "cross_entropy_rhe8": "0.97593426",
+      "cross_entropy_repr8": "0.97593426",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C04",
+      "run_path": "runs_g09_v1/f1_s17_k8_erm_C04",
+      "inner_dir": "inner_step5000_20260921T083812_968247Z",
+      "correct": 558,
+      "total": 900,
+      "accuracy_percent": 62.0,
+      "cross_entropy_float64": 2.6807519094296417,
+      "cross_entropy_rhe8": "2.68075191",
+      "cross_entropy_repr8": "2.68075191",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 4,
+      "candidate_id": "C03",
+      "run_path": "runs_g09_v1/f1_s17_k8_erm_C03",
+      "inner_dir": "inner_step5000_20260921T071843_532806Z",
+      "correct": 553,
+      "total": 900,
+      "accuracy_percent": 61.44444444444444,
+      "cross_entropy_float64": 2.893186464872422,
+      "cross_entropy_rhe8": "2.89318646",
+      "cross_entropy_repr8": "2.89318646",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 5,
+      "candidate_id": "C01",
+      "run_path": "runs_g09_v1/f1_s17_k8_erm_C01",
+      "inner_dir": "inner_step5000_20260920T083702_714716Z",
+      "correct": 507,
+      "total": 900,
+      "accuracy_percent": 56.333333333333336,
+      "cross_entropy_float64": 2.7744321914670116,
+      "cross_entropy_rhe8": "2.77443219",
+      "cross_entropy_repr8": "2.77443219",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 6,
+      "candidate_id": "C02",
+      "run_path": "runs_g09_v1/f1_s17_k8_erm_C02",
+      "inner_dir": "inner_step5000_20260920T125043_893800Z",
+      "correct": 506,
+      "total": 900,
+      "accuracy_percent": 56.222222222222214,
+      "cross_entropy_float64": 2.7632491280426157,
+      "cross_entropy_rhe8": "2.76324913",
+      "cross_entropy_repr8": "2.76324913",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    }
+  ],
+  "xdm_f0": [
+    {
+      "rank": 1,
+      "candidate_id": "C05",
+      "run_path": "runs_g09_v1/f0_s17_k8_xdm_C05",
+      "inner_dir": "inner_step5000_20260921T092933_920285Z",
+      "correct": 572,
+      "total": 900,
+      "accuracy_percent": 63.55555555555556,
+      "cross_entropy_float64": 1.648077491613,
+      "cross_entropy_rhe8": "1.64807749",
+      "cross_entropy_repr8": "1.64807749",
+      "decided_over_previous_by": []
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C06",
+      "run_path": "runs_g09_v1/f0_s17_k8_xdm_C06",
+      "inner_dir": "inner_step5000_20260921T134000_977500Z",
+      "correct": 497,
+      "total": 900,
+      "accuracy_percent": 55.222222222222214,
+      "cross_entropy_float64": 2.3067450177381237,
+      "cross_entropy_rhe8": "2.30674502",
+      "cross_entropy_repr8": "2.30674502",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C03",
+      "run_path": "runs_g09_v1/f0_s17_k8_xdm_C03",
+      "inner_dir": "inner_step5000_20260920T134315_090619Z",
+      "correct": 478,
+      "total": 900,
+      "accuracy_percent": 53.11111111111111,
+      "cross_entropy_float64": 2.3996994711019837,
+      "cross_entropy_rhe8": "2.39969947",
+      "cross_entropy_repr8": "2.39969947",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 4,
+      "candidate_id": "C04",
+      "run_path": "runs_g09_v1/f0_s17_k8_xdm_C04",
+      "inner_dir": "inner_step5000_20260921T075836_803157Z",
+      "correct": 474,
+      "total": 900,
+      "accuracy_percent": 52.666666666666664,
+      "cross_entropy_float64": 2.4159047999935406,
+      "cross_entropy_rhe8": "2.41590480",
+      "cross_entropy_repr8": "2.41590480",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 5,
+      "candidate_id": "C01",
+      "run_path": "runs_g09_v1/f0_s17_k8_xdm_C01",
+      "inner_dir": "inner_step5000_20260920T074402_103968Z",
+      "correct": 414,
+      "total": 900,
+      "accuracy_percent": 46.0,
+      "cross_entropy_float64": 2.4153654952240453,
+      "cross_entropy_rhe8": "2.41536550",
+      "cross_entropy_repr8": "2.41536550",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 6,
+      "candidate_id": "C02",
+      "run_path": "runs_g09_v1/f0_s17_k8_xdm_C02",
+      "inner_dir": "inner_step5000_20260920T093108_652063Z",
+      "correct": 411,
+      "total": 900,
+      "accuracy_percent": 45.666666666666664,
+      "cross_entropy_float64": 2.4147346849408637,
+      "cross_entropy_rhe8": "2.41473468",
+      "cross_entropy_repr8": "2.41473468",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    }
+  ],
+  "xdm_f1": [
+    {
+      "rank": 1,
+      "candidate_id": "C05",
+      "run_path": "runs_g09_v1/f1_s17_k8_xdm_C05",
+      "inner_dir": "inner_step5000_20260921T113733_842470Z",
+      "correct": 753,
+      "total": 900,
+      "accuracy_percent": 83.66666666666667,
+      "cross_entropy_float64": 0.842771476150499,
+      "cross_entropy_rhe8": "0.84277148",
+      "cross_entropy_repr8": "0.84277148",
+      "decided_over_previous_by": []
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C06",
+      "run_path": "runs_g09_v1/f1_s17_k8_xdm_C06",
+      "inner_dir": "inner_step5000_20260921T142943_640904Z",
+      "correct": 634,
+      "total": 900,
+      "accuracy_percent": 70.44444444444444,
+      "cross_entropy_float64": 1.3197858782929,
+      "cross_entropy_rhe8": "1.31978588",
+      "cross_entropy_repr8": "1.31978588",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C04",
+      "run_path": "runs_g09_v1/f1_s17_k8_xdm_C04",
+      "inner_dir": "inner_step5000_20260921T083820_725504Z",
+      "correct": 578,
+      "total": 900,
+      "accuracy_percent": 64.22222222222223,
+      "cross_entropy_float64": 1.8779494780362154,
+      "cross_entropy_rhe8": "1.87794948",
+      "cross_entropy_repr8": "1.87794948",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 4,
+      "candidate_id": "C03",
+      "run_path": "runs_g09_v1/f1_s17_k8_xdm_C03",
+      "inner_dir": "inner_step5000_20260921T071851_200485Z",
+      "correct": 573,
+      "total": 900,
+      "accuracy_percent": 63.66666666666667,
+      "cross_entropy_float64": 1.9075249903051537,
+      "cross_entropy_rhe8": "1.90752499",
+      "cross_entropy_repr8": "1.90752499",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 5,
+      "candidate_id": "C02",
+      "run_path": "runs_g09_v1/f1_s17_k8_xdm_C02",
+      "inner_dir": "inner_step5000_20260920T125051_121079Z",
+      "correct": 527,
+      "total": 900,
+      "accuracy_percent": 58.55555555555556,
+      "cross_entropy_float64": 1.7005737677068302,
+      "cross_entropy_rhe8": "1.70057377",
+      "cross_entropy_repr8": "1.70057377",
+      "decided_over_previous_by": [
+        "correct_count"
+      ]
+    },
+    {
+      "rank": 6,
+      "candidate_id": "C01",
+      "run_path": "runs_g09_v1/f1_s17_k8_xdm_C01",
+      "inner_dir": "inner_step5000_20260920T083709_861727Z",
+      "correct": 527,
+      "total": 900,
+      "accuracy_percent": 58.55555555555556,
+      "cross_entropy_float64": 1.7032180451180026,
+      "cross_entropy_rhe8": "1.70321805",
+      "cross_entropy_repr8": "1.70321805",
+      "decided_over_previous_by": [
+        "cross_entropy_rhe8"
+      ]
+    }
+  ]
+}

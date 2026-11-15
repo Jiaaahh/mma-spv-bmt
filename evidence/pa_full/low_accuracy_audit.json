@@ -1,0 +1,120 @@
+{
+  "status": "PASS",
+  "performed_after_observing_low_accuracy": true,
+  "protocol_changed": false,
+  "direct_reencoding": [
+    {
+      "panel": "ideal",
+      "indices": [
+        0,
+        154,
+        308,
+        462,
+        616,
+        770,
+        924,
+        1079
+      ],
+      "max_abs_error": 0.0
+    },
+    {
+      "panel": "moderate_seed2026",
+      "indices": [
+        0,
+        154,
+        308,
+        462,
+        616,
+        770,
+        924,
+        1079
+      ],
+      "max_abs_error": 0.0
+    },
+    {
+      "panel": "E1",
+      "indices": [
+        0,
+        514,
+        1028,
+        1542,
+        2056,
+        2570,
+        3084,
+        3599
+      ],
+      "max_abs_error": 0.0
+    },
+    {
+      "panel": "C1",
+      "indices": [
+        0,
+        257,
+        514,
+        771,
+        1028,
+        1285,
+        1542,
+        1799
+      ],
+      "max_abs_error": 0.0
+    }
+  ],
+  "training_diagnostics": [
+    {
+      "method": "PA0",
+      "n": 1080,
+      "training_resubstitution_accuracy_percent": 35.092592592592595,
+      "predicted_class_count": 148,
+      "largest_predicted_class_fraction": 0.15648148148148147
+    },
+    {
+      "method": "VIS0",
+      "n": 1080,
+      "training_resubstitution_accuracy_percent": 43.611111111111114,
+      "predicted_class_count": 168,
+      "largest_predicted_class_fraction": 0.09074074074074075
+    },
+    {
+      "method": "PLAIN0",
+      "n": 1080,
+      "training_resubstitution_accuracy_percent": 57.77777777777777,
+      "predicted_class_count": 179,
+      "largest_predicted_class_fraction": 0.025
+    },
+    {
+      "method": "SELF_RETRIEVAL0",
+      "n": 1080,
+      "training_resubstitution_accuracy_percent": 100.0,
+      "note": "Includes query itself; checks identity only, not a benchmark."
+    },
+    {
+      "method": "PA1",
+      "n": 5400,
+      "training_resubstitution_accuracy_percent": 5.555555555555555,
+      "predicted_class_count": 99,
+      "largest_predicted_class_fraction": 0.13462962962962963
+    },
+    {
+      "method": "VIS1",
+      "n": 5400,
+      "training_resubstitution_accuracy_percent": 5.981481481481481,
+      "predicted_class_count": 108,
+      "largest_predicted_class_fraction": 0.15666666666666668
+    },
+    {
+      "method": "PLAIN1",
+      "n": 5400,
+      "training_resubstitution_accuracy_percent": 11.12962962962963,
+      "predicted_class_count": 165,
+      "largest_predicted_class_fraction": 0.10629629629629629
+    },
+    {
+      "method": "SELF_RETRIEVAL1",
+      "n": 5400,
+      "training_resubstitution_accuracy_percent": 100.0,
+      "note": "Includes query itself; checks identity only, not a benchmark."
+    }
+  ],
+  "interpretation": "Technical consistency audit only. Does not establish reproduction of author benchmark performance or ecological validity of this task adaptation."
+}

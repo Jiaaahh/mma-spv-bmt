@@ -1,0 +1,71 @@
+{
+  "status": "COMPLETE",
+  "scope": "Post-hoc diagnosis on five training mappings only; leave-one-font-out; no E1/C1 or DEV530x queried",
+  "oracle_warning": "same_map uses known query mapping to select support; unavailable in main target protocol and must not replace baseline",
+  "results": [
+    {
+      "mapping": "ideal",
+      "n": 1080,
+      "accuracy_percent": {
+        "same_map_PA_visual": 14.907407407407407,
+        "pooled_PA_visual": 4.351851851851852,
+        "same_map_plain": 25.925925925925927,
+        "pooled_plain": 2.037037037037037
+      }
+    },
+    {
+      "mapping": "moderate_seed2026",
+      "n": 1080,
+      "accuracy_percent": {
+        "same_map_PA_visual": 2.685185185185185,
+        "pooled_PA_visual": 2.1296296296296298,
+        "same_map_plain": 9.444444444444445,
+        "pooled_plain": 7.407407407407407
+      }
+    },
+    {
+      "mapping": "moderate_seed2027",
+      "n": 1080,
+      "accuracy_percent": {
+        "same_map_PA_visual": 2.5,
+        "pooled_PA_visual": 2.2222222222222223,
+        "same_map_plain": 12.222222222222221,
+        "pooled_plain": 7.314814814814815
+      }
+    },
+    {
+      "mapping": "moderate_seed2028",
+      "n": 1080,
+      "accuracy_percent": {
+        "same_map_PA_visual": 2.4074074074074074,
+        "pooled_PA_visual": 1.3888888888888888,
+        "same_map_plain": 9.537037037037036,
+        "pooled_plain": 6.851851851851852
+      }
+    },
+    {
+      "mapping": "moderate_seed2029",
+      "n": 1080,
+      "accuracy_percent": {
+        "same_map_PA_visual": 2.685185185185185,
+        "pooled_PA_visual": 2.5925925925925926,
+        "same_map_plain": 12.962962962962964,
+        "pooled_plain": 7.222222222222222
+      }
+    }
+  ],
+  "mean_accuracy_percent": {
+    "same_map_PA_visual": 5.037037037037036,
+    "pooled_PA_visual": 2.537037037037037,
+    "same_map_plain": 14.018518518518519,
+    "pooled_plain": 6.166666666666666
+  },
+  "balanced_feature_variance_percent": {
+    "mapping_main_effect": 42.05140543989495,
+    "class_main_effect": 7.672409255671138,
+    "font_main_effect": 3.216675809794198,
+    "residual_and_interactions": 47.05950949463972
+  },
+  "interpretation": "Descriptive feature geometry and controlled pooling diagnostic, not causal proof or a new tuned method",
+  "seconds": 1.9978265999816358
+}

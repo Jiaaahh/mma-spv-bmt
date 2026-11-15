@@ -1,0 +1,252 @@
+{
+  "config": "skeleton_ideal_cpu",
+  "mode": "memory",
+  "round": 0,
+  "affinity": [
+    0,
+    1
+  ],
+  "device": "cpu",
+  "batch": 1,
+  "n": 3600,
+  "thread_limit": 2,
+  "interop": 1,
+  "input_buffer": "one CPU glyph and one current test mapping; no per-glyph feature cache",
+  "model_file": "skeleton_ideal.npy",
+  "shared_static_assets": {
+    "current_kernel_float32_bytes": 9437184,
+    "one_glyph_float32_bytes": 36864,
+    "test_kernel_file_bytes": 47186048,
+    "evaluation_contract_file_bytes": 33030,
+    "note": "Kernel/input file reads and mapping transfer occur outside request latency; process RSS includes transient streaming buffers."
+  },
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so",
+      "version": "0.3.23.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 2,
+      "prefix": "libgomp",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/torch/lib/libgomp-a34b3233.so.1",
+      "version": null
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/scipy.libs/libopenblasp-r0-01191904.3.27.so",
+      "version": "0.3.27",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    }
+  ],
+  "memory_before_model": {
+    "rss_bytes": 425713664,
+    "hwm_bytes": 425713664
+  },
+  "model_state_bytes": 6272640,
+  "algorithm_static_array_inventory": [
+    {
+      "name": "adapter.projector._kernel_bank",
+      "shape": [
+        256,
+        96,
+        96
+      ],
+      "dtype": "float32",
+      "bytes": 9437184
+    }
+  ],
+  "model_file_bytes": 6272768,
+  "memory_after_model": {
+    "rss_bytes": 451538944,
+    "hwm_bytes": 460824576
+  },
+  "warmup": {
+    "requests": 207,
+    "elapsed_seconds": 2.001969331991859,
+    "row": 859,
+    "point": [
+      42,
+      47
+    ]
+  },
+  "memory_after_warmup_current_kernel": {
+    "rss_bytes": 477073408,
+    "hwm_bytes": 477073408
+  },
+  "prediction_mismatches": [],
+  "status": "PASS",
+  "accuracy": 0.20472222222222222,
+  "memory_at_end": {
+    "rss_bytes": 477360128,
+    "hwm_bytes": 477360128
+  },
+  "process_lifetime_peak_rss_bytes": 477360128,
+  "memory_samples": [
+    {
+      "completed": 1,
+      "rss_bytes": 477073408,
+      "hwm_bytes": 477073408
+    },
+    {
+      "completed": 121,
+      "rss_bytes": 477134848,
+      "hwm_bytes": 477134848
+    },
+    {
+      "completed": 241,
+      "rss_bytes": 477143040,
+      "hwm_bytes": 477143040
+    },
+    {
+      "completed": 361,
+      "rss_bytes": 477069312,
+      "hwm_bytes": 477159424
+    },
+    {
+      "completed": 481,
+      "rss_bytes": 477179904,
+      "hwm_bytes": 477179904
+    },
+    {
+      "completed": 601,
+      "rss_bytes": 477102080,
+      "hwm_bytes": 477196288
+    },
+    {
+      "completed": 721,
+      "rss_bytes": 477118464,
+      "hwm_bytes": 477196288
+    },
+    {
+      "completed": 841,
+      "rss_bytes": 477233152,
+      "hwm_bytes": 477233152
+    },
+    {
+      "completed": 961,
+      "rss_bytes": 477184000,
+      "hwm_bytes": 477270016
+    },
+    {
+      "completed": 1081,
+      "rss_bytes": 477188096,
+      "hwm_bytes": 477278208
+    },
+    {
+      "completed": 1201,
+      "rss_bytes": 477286400,
+      "hwm_bytes": 477286400
+    },
+    {
+      "completed": 1321,
+      "rss_bytes": 477192192,
+      "hwm_bytes": 477286400
+    },
+    {
+      "completed": 1441,
+      "rss_bytes": 477192192,
+      "hwm_bytes": 477286400
+    },
+    {
+      "completed": 1561,
+      "rss_bytes": 477192192,
+      "hwm_bytes": 477286400
+    },
+    {
+      "completed": 1681,
+      "rss_bytes": 477286400,
+      "hwm_bytes": 477286400
+    },
+    {
+      "completed": 1801,
+      "rss_bytes": 477192192,
+      "hwm_bytes": 477286400
+    },
+    {
+      "completed": 1921,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2041,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2161,
+      "rss_bytes": 477290496,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2281,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2401,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2521,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2641,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2761,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 2881,
+      "rss_bytes": 477196288,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 3001,
+      "rss_bytes": 477200384,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 3121,
+      "rss_bytes": 477200384,
+      "hwm_bytes": 477290496
+    },
+    {
+      "completed": 3241,
+      "rss_bytes": 477294592,
+      "hwm_bytes": 477294592
+    },
+    {
+      "completed": 3361,
+      "rss_bytes": 477200384,
+      "hwm_bytes": 477294592
+    },
+    {
+      "completed": 3481,
+      "rss_bytes": 477200384,
+      "hwm_bytes": 477294592
+    }
+  ],
+  "final_affinity": [
+    0,
+    1
+  ]
+}

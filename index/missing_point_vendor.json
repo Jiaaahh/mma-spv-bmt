@@ -1,0 +1,10 @@
+{
+  "status": "not_in_step3_input",
+  "note": "Point historical core imports these files; model inference is unsupported by this public candidate. No replacement model code was invented.",
+  "expected": {
+    "vendor/Point-SPV-LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "vendor/point_models.py": "7c43fe08095f706c030534724fc78725f3662198fe989a2c57687338b322cc0c",
+    "vendor/resnet_arch.py": "b9dfa02e32ed3b86559e3acc71019c450a167c79d16a15d237db08c71e0606d9",
+    "vendor/torchvision-LICENSE": "c06363f9d33627dc5173b13522444cc85fbb4739f63e16d4587d5c0a165b5b1e"
+  }
+}

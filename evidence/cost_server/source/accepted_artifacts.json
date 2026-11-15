@@ -1,0 +1,38 @@
+{
+  "point_multi_seed17.pt": {
+    "sha256": "6eb579bb5186808d1b6b64b68de70810e41165bdf1512d2f4e5f305d4246095a",
+    "file_bytes": 243814472,
+    "state_tensor_bytes": 243487924,
+    "parameters": 60718841,
+    "source_sha256": "e4abb3a0abcea1ea898c0ab83a1f9c740cbf04bd3b956ab9691eba1fe6343913",
+    "teacher_exported": false
+  },
+  "point_multi_seed29.pt": {
+    "sha256": "bce4d0982f741f8303c7c116df3faf0ac1343a6b47560986a777a149695c6996",
+    "file_bytes": 243814472,
+    "state_tensor_bytes": 243487924,
+    "parameters": 60718841,
+    "source_sha256": "8c2a9fd6aa0159efd95d8d86882bcfda12ef4a340b60b701c64480e27b1d3fe8",
+    "teacher_exported": false
+  },
+  "point_multi_seed43.pt": {
+    "sha256": "ce7a25050fcbec746f750218c3e84dad6978d6ae7e12061611e5f09531edeb78",
+    "file_bytes": 243814472,
+    "state_tensor_bytes": 243487924,
+    "parameters": 60718841,
+    "source_sha256": "c06fa64a2547c8222e479ba24bc789ffe88c1d82f83264c890fdf5c464765921",
+    "teacher_exported": false
+  },
+  "skeleton_ideal.npy": {
+    "sha256": "709fc1bdbe8ddc9e4cbb498696179ff597f4a98750e14517a4fce46d478bacac",
+    "file_bytes": 6272768,
+    "array_bytes": 6272640,
+    "source_sha256": "fa3cc7c78d0041837bee97ba6f39efae275c678a4549f18bb15cc2389452ee18"
+  },
+  "skeleton_mma.npy": {
+    "sha256": "4eac405c2065ddde043afe68d2024f89a3d898e0f1e8922ffaf084bef40a9b8b",
+    "file_bytes": 6272768,
+    "array_bytes": 6272640,
+    "source_sha256": "fa3cc7c78d0041837bee97ba6f39efae275c678a4549f18bb15cc2389452ee18"
+  }
+}

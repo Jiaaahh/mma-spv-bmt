@@ -1,0 +1,61 @@
+{
+  "identity": "Proto-Adapter inspired HOG adaptation, not full reproduction",
+  "methods": [
+    "H0",
+    "H1",
+    "U0",
+    "U1",
+    "P0",
+    "P1"
+  ],
+  "train_maps": [
+    "ideal",
+    "moderate_seed2026",
+    "moderate_seed2027",
+    "moderate_seed2028",
+    "moderate_seed2029"
+  ],
+  "primary": "E1 Accuracy(H1)-Accuracy(P1)",
+  "pairs": [
+    [
+      "H1",
+      "P1"
+    ],
+    [
+      "H1",
+      "H0"
+    ],
+    [
+      "P1",
+      "P0"
+    ],
+    [
+      "U1",
+      "U0"
+    ],
+    [
+      "P1",
+      "U1"
+    ],
+    [
+      "U1",
+      "H1"
+    ]
+  ],
+  "query": "row L2 only; no column scaling",
+  "P": "sample L2 -> class mean -> column L2 -> row L2",
+  "U": "sample L2 -> class mean -> row L2",
+  "H": "raw class mean -> row L2",
+  "bootstrap_draws": 100000,
+  "bootstrap_seeds": {
+    "DEV": 26092831,
+    "E1": 26092832,
+    "C1": 26092833
+  },
+  "bootstrap_unit": "character cluster; paired multinomial weights",
+  "panels": "historical fixed panels, no fresh blinded test",
+  "precision": "float64",
+  "blas_threads": 2,
+  "batch": 256,
+  "design_sha256": "dca0e83434fdddc18059bd25e623bbe76dd95a93b6162561b40c7db2be0a28af"
+}

@@ -1,0 +1,7 @@
+{
+  "accuracy_aggregated": false,
+  "lock_sha256": "9f9ea4f66c49f7afaf95010095d29897e7e03b659a5bb42464057160759744c2",
+  "prediction_row_count": 118800,
+  "predictions_sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8",
+  "status": "PASS_E1_PREDICTIONS_COMMITTED"
+}

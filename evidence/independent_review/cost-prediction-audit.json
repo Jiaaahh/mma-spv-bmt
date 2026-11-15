@@ -1,0 +1,327 @@
+{
+  "audited_records": 144000,
+  "arrays": 40,
+  "all_match_some_explicit_order": true,
+  "details": [
+    {
+      "file": "components_r0_point_17_cpu.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_point_17_cuda.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_point_29_cpu.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_point_29_cuda.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_point_43_cpu.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_point_43_cuda.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_skeleton_ideal_cpu.npz",
+      "source": "skeleton_ideal",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "components_r0_skeleton_mma_cpu.npz",
+      "source": "skeleton_mma",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_point_17_cpu.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_point_17_cuda.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_point_29_cpu.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_point_29_cuda.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_point_43_cpu.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_point_43_cuda.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_skeleton_ideal_cpu.npz",
+      "source": "skeleton_ideal",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r0_skeleton_mma_cpu.npz",
+      "source": "skeleton_mma",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_point_17_cpu.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_point_17_cuda.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_point_29_cpu.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_point_29_cuda.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_point_43_cpu.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_point_43_cuda.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_skeleton_ideal_cpu.npz",
+      "source": "skeleton_ideal",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r1_skeleton_mma_cpu.npz",
+      "source": "skeleton_mma",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_point_17_cpu.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_point_17_cuda.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_point_29_cpu.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_point_29_cuda.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_point_43_cpu.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_point_43_cuda.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_skeleton_ideal_cpu.npz",
+      "source": "skeleton_ideal",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "latency_r2_skeleton_mma_cpu.npz",
+      "source": "skeleton_mma",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_point_17_cpu.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_point_17_cuda.npz",
+      "source": "multi_seed17",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_point_29_cpu.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_point_29_cuda.npz",
+      "source": "multi_seed29",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_point_43_cpu.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_point_43_cuda.npz",
+      "source": "multi_seed43",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_skeleton_ideal_cpu.npz",
+      "source": "skeleton_ideal",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    },
+    {
+      "file": "memory_r0_skeleton_mma_cpu.npz",
+      "source": "skeleton_mma",
+      "n": 3600,
+      "matches_original_order": false,
+      "matches_request_order": true,
+      "unique_request_ids": 3600
+    }
+  ]
+}

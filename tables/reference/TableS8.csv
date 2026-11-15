@@ -1,0 +1,4 @@
+﻿Contrast,Fold 1 difference [95 % CI],Fold 2 difference [95 % CI]
+MMA − ERM,"+1.00[−1.89, 3.89]","+0.89[−3.78, 5.56]"
+MMA − XDomainMix,"+2.00[−0.44, 4.56]","−0.44[−5.44, 4.44]"
+XDomainMix − ERM,"−1.00[−3.44, 1.33]","+1.33[−2.22, 4.89]"

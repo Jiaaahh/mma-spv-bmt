@@ -1,0 +1,7 @@
+﻿Pipeline and training,Correct/total,"Accuracy, %",Mean macro-F1
+Skeleton cosine / Ideal-only,3132/3600,87.00,0.8669
+Skeleton cosine / MMA,3084/3600,85.67,0.8514
+Skeleton LinearSVC / Ideal-only,3113/3600,86.47,0.8601
+Skeleton LinearSVC / Multi-map,3083/3600,85.64,0.8528
+Contour cosine / Ideal-only,572/3600,15.89,0.1496
+Contour cosine / MMA,715/3600,19.86,0.1842

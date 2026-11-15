@@ -1,0 +1,1 @@
+These are archived Step 3 results from the complete controlled input package. They are not executions using this reduced public candidate. The public candidate omits glyph caches and other visual intermediates. See REPRODUCIBILITY.md.

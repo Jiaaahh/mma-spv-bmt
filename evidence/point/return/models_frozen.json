@@ -1,0 +1,14 @@
+{
+  "manifest_sha256": "41b8217127c7ff00e8969cce866f49ef7ed3538bed7d2dc22bf3a9441c1baa1e",
+  "models": {
+    "runs/ideal_seed17/final_weights.pt": "084c73af6fe34bdf910046e41ecfa0f47066d43e87a93bc2576a28ea300046b7",
+    "runs/ideal_seed29/final_weights.pt": "83abdfcf1be3cd62e4d03b0e703392f92b98274f8bef12897ca97f045247382c",
+    "runs/ideal_seed43/final_weights.pt": "201253675e9023dbd583410f54d37456e4dc5e4fb2df1aee5647b5d7e0641c1f",
+    "runs/multi_seed17/final_weights.pt": "e4abb3a0abcea1ea898c0ab83a1f9c740cbf04bd3b956ab9691eba1fe6343913",
+    "runs/multi_seed29/final_weights.pt": "8c2a9fd6aa0159efd95d8d86882bcfda12ef4a340b60b701c64480e27b1d3fe8",
+    "runs/multi_seed43/final_weights.pt": "c06fa64a2547c8222e479ba24bc789ffe88c1d82f83264c890fdf5c464765921",
+    "hog_models/skeleton.npz": "fa3cc7c78d0041837bee97ba6f39efae275c678a4549f18bb15cc2389452ee18",
+    "hog_models/canny.npz": "4137a683e659adbdae2d96df43f53e56e3b754edfeee80426eb61589a44d38ce"
+  },
+  "selection": "all eight artifacts, no test scores used"
+}

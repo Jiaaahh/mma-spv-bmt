@@ -1,0 +1,105 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\metadata.npz",
+      "sha256": "d158110d9d26e2773e8e64dc77e745a56daa58d2a3550c76ddf9e71846bcc72e",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\manifest.json",
+      "sha256": "ba85d436dc2d7940b5539bcc08d92e9433bdef512c985be8b931ad37b8973489",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\ideal_hog.npy",
+      "sha256": "0e3189e7b48991c1a2ca3dba2ce2fa4afb572f17437982ca220b0e08bd122515",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2026_hog.npy",
+      "sha256": "3f65c24d37692454d4226a58606ef9798e14d3de0a961c106e4b01ae9c47a2a5",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2027_hog.npy",
+      "sha256": "fd5cb12494e3ac7dc3e389be4820b0ca269e52f01b443861d76b67d4c393fe3c",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2028_hog.npy",
+      "sha256": "a7857433975fc916c1f4f8cc5e689030acdcd25bee97776b773c2bf2204a6830",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2029_hog.npy",
+      "sha256": "b40f765fb40964f7ea1c313c60189d8946640396c2b50aeba15ece55372a4b54",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5301_hog.npy",
+      "sha256": "641430efee10e95a28fdc9b6a954386b1401aee5e9e0722a7111a8d7d3bfde01",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5302_hog.npy",
+      "sha256": "1c858576d5c0ce834bf75dec0b89834baf236066864caa3234acbe91ac9762f9",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5303_hog.npy",
+      "sha256": "367c6f6cf3eefdecaa0ab98750fa401b66184826eacf9142f682eded0591923d",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5304_hog.npy",
+      "sha256": "9e6242878ae70b47eaa7bc478349b96b06389595c54dbcf025c54171132a2a0b",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5305_hog.npy",
+      "sha256": "d94c3be0942679f24ecbebffc26096b3799179abdf3e111774c378f54b56fd59",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\randumb_cpu_20260928\\external\\E1_hog.npy",
+      "sha256": "19d30e3403834852b8257956a8a1018463ce40fdd45210af55a602fae3c04e7e",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\randumb_cpu_20260928\\external\\E1_metadata.npz",
+      "sha256": "608f7c08768862a05ed5edfcc5a82958e8faf1d902ef74a759605bf005913212",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\randumb_cpu_20260928\\external\\C1_hog.npy",
+      "sha256": "2fac8d56c171cac2d7412b947a4a471f4289bf962367780878b5e5f3c0a4ad1a",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\randumb_cpu_20260928\\external\\C1_metadata.npz",
+      "sha256": "017bfbd8952b23cbc76f2bc9698db36e0326940b9ad5ec0dd073aafd5be32ba2",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\randumb_cpu_20260928\\external\\manifest.json",
+      "sha256": "b110279f8600aa5dc83bd2999998966cae1efda6be382743fa7d2dd02d25777a",
+      "match": true
+    },
+    {
+      "path": "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma_supplement_20260908\\configs\\supplement.json",
+      "sha256": "e2ae506d56db4f9d2e210a01b6639b2ec1d2966644e224f165b32de69f760f7a",
+      "match": true
+    }
+  ],
+  "balanced_complete_grids": true,
+  "contracts": [
+    "manual column then row axes",
+    "zero columns",
+    "class permutation",
+    "P differs from U",
+    "sample norm control",
+    "zero row rejected",
+    "query normalized once"
+  ]
+}

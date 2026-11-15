@@ -1,0 +1,501 @@
+{
+  "asset_manifest": {
+    "path": "data/multibudget_confirmation/assets_manifest.json",
+    "sha256": "619e5dae56c27d7bf1dc34fbf4e9fe8ccca3cc268287f9db29be7943395843ab",
+    "status": "FROZEN_INPUTS_ONLY_NO_PERFORMANCE_READ"
+  },
+  "execution_contract": {
+    "accuracy_read_during_freeze": false,
+    "aggregate_metrics_forbidden": true,
+    "completed_record_hash_chain": true,
+    "direct_truth_columns_in_prediction_output": false,
+    "exact_run_count": 50,
+    "expected_prediction_rows_per_run": 720,
+    "per_run_atomic_directory_commit": true,
+    "prediction_columns": [
+      "method",
+      "budget",
+      "seed",
+      "font_id",
+      "sample_token",
+      "y_pred"
+    ],
+    "prediction_executed_during_freeze": false,
+    "release_gate_threat_model": "cooperative_research_process_governance_not_adversarial_file_access",
+    "resume_same_session_only": true,
+    "run_order": "exact_frozen_run_plan_prefix_only",
+    "sample_tokens_are_pseudonyms_not_cryptographic_confidentiality": true,
+    "unexpected_conditions_rejected": true
+  },
+  "execution_source": {
+    "files": [
+      {
+        "path": "analyze_multibudget_formal.py",
+        "sha256": "e9f08a0467617fd1b3c0bcd2a81ff4ed507559fe708dc8eb443ae340cce49fb9",
+        "size_bytes": 2685
+      },
+      {
+        "path": "freeze_multibudget_formal.py",
+        "sha256": "70049131921a84ff37c9f6bec3a0ea2e11fa9098e50ebb0355cf230b85108054",
+        "size_bytes": 1528
+      },
+      {
+        "path": "run_multibudget_formal.py",
+        "sha256": "5ae034a493faabd97f14e187f97f81dcf74ebd0f0f49e6959f9c2292ca5cde0b",
+        "size_bytes": 2940
+      },
+      {
+        "path": "src/classifier.py",
+        "sha256": "72ff957ec90e55da914e7577c01fbda20dcea3ec2c80bcee8ba11f92d8b2301f",
+        "size_bytes": 5111
+      },
+      {
+        "path": "src/config.py",
+        "sha256": "42763690d8cddf5b94b175e94eac7e0a9940f2378105df2ad56834362ddc83c2",
+        "size_bytes": 27966
+      },
+      {
+        "path": "src/contracts.py",
+        "sha256": "52d12850ae62177be51f33bc9f78089cea812b6fef778c2d0094126dd2e185a3",
+        "size_bytes": 17609
+      },
+      {
+        "path": "src/coverage.py",
+        "sha256": "026b1c22c5d8a9b8bb26b05418c5199e29f2a34540a8348ae32d085056f79bf7",
+        "size_bytes": 11937
+      },
+      {
+        "path": "src/deterministic_io.py",
+        "sha256": "29857c548e5e182f462fb4bcc9c6ae55e51f9c4ea3ed11a120b015807876013f",
+        "size_bytes": 3979
+      },
+      {
+        "path": "src/eb_drive.py",
+        "sha256": "25e7a4be78ffcd3b23b3b18eaad93c29f71e61db439880f9920cb078fbaeffd0",
+        "size_bytes": 6706
+      },
+      {
+        "path": "src/eb_representation.py",
+        "sha256": "d674530c688de976cdbe05ed8cddb5f5fdf48a228f4a44be3fff3bcd79ef9131",
+        "size_bytes": 1906
+      },
+      {
+        "path": "src/encoders/__init__.py",
+        "sha256": "ae64380bc2ef2dbfd07f29a46445f6635ffb25ceb2e1d95393b9d4bf50b2880b",
+        "size_bytes": 1339
+      },
+      {
+        "path": "src/encoders/base.py",
+        "sha256": "cdad99ee7014e98c862a0251ad22a7355c475b4575c1a5b8c3f6c52c5cd9c2b5",
+        "size_bytes": 3618
+      },
+      {
+        "path": "src/encoders/eb_sse.py",
+        "sha256": "001c6a351e5edc6d0103eaaaa1ce6ce447a2db00f4652895b50faa64358f13a5",
+        "size_bytes": 5644
+      },
+      {
+        "path": "src/encoders/eb_topk.py",
+        "sha256": "b73d19d3c3932af6741835dd999f982886f9c8cfea3fe1c2af37fc031bfd8c81",
+        "size_bytes": 2882
+      },
+      {
+        "path": "src/encoders/edge_topk.py",
+        "sha256": "00b06a0adc7120e46cc92c6b2ddb3e9dea8a9040f81bdde04395f7943edc5e17",
+        "size_bytes": 2089
+      },
+      {
+        "path": "src/encoders/raw_topk.py",
+        "sha256": "58dc59acf173417977c5e575be605bc1d8fb776629aad102d7ddf23988efd9f3",
+        "size_bytes": 1526
+      },
+      {
+        "path": "src/encoders/skeleton_topk.py",
+        "sha256": "678002ad38986a4d7c69c9294b1830e4d118570bb4dab91db04b85cd59418b59",
+        "size_bytes": 2582
+      },
+      {
+        "path": "src/features.py",
+        "sha256": "9fa4c66d419e2e7dcec5d2840fc09ca56b69ca0bc4b7ec1585b9eaba650270a1",
+        "size_bytes": 5184
+      },
+      {
+        "path": "src/formal_benchmark.py",
+        "sha256": "1e086a93216a6da273770b9e858c663be8dee6cbefb3ea519876f0a67f03f547",
+        "size_bytes": 19224
+      },
+      {
+        "path": "src/grid.py",
+        "sha256": "b3ebe8f0c5676186c93540a3083e90ae75306761ffc0cea40c83d18d8e45fdd7",
+        "size_bytes": 4616
+      },
+      {
+        "path": "src/locked_test_guard.py",
+        "sha256": "a96da8373a181d2ff18a431124708bb366eeb3d97b231c5f67c279192f52b608",
+        "size_bytes": 9618
+      },
+      {
+        "path": "src/mapping.py",
+        "sha256": "c003c6d049e117d5e9c3a50ff571a3d6364ef06eda0b61d2959a5199db69b09a",
+        "size_bytes": 4714
+      },
+      {
+        "path": "src/multibudget/__init__.py",
+        "sha256": "43cfadc7977caf1ce5e700339bad2639c724de13dd6aa8c2cb5e190ddc26470f",
+        "size_bytes": 1380
+      },
+      {
+        "path": "src/multibudget/analysis.py",
+        "sha256": "5fdb2c6d9afdda333e70f851ffa04d41990e3186efc93e4c172178e60a49cd17",
+        "size_bytes": 26839
+      },
+      {
+        "path": "src/multibudget/assets.py",
+        "sha256": "b7f75624e03bbb184030d3b14e35aba3b0be18d0710baca66a22502dff95fe68",
+        "size_bytes": 38842
+      },
+      {
+        "path": "src/multibudget/formal.py",
+        "sha256": "204c0c91239ab6614ceffa4c1d9714af9c3d01090c296d236af08c30147f6536",
+        "size_bytes": 67000
+      },
+      {
+        "path": "src/multibudget/protocol.py",
+        "sha256": "569123872244f812b5ac57c5ef0b64a56938a6b4930f426215603366265c13b3",
+        "size_bytes": 25833
+      },
+      {
+        "path": "src/multibudget/release.py",
+        "sha256": "d6c0301461508c002319df41f479a0173bbc1fa2545f0710101984bc6b3deb11",
+        "size_bytes": 35896
+      },
+      {
+        "path": "src/normalization.py",
+        "sha256": "2550973330180b45174da1d9b96baeb903402fa33d23f8eec1be693244595794",
+        "size_bytes": 5586
+      },
+      {
+        "path": "src/protocol.py",
+        "sha256": "8043292077c6cda110ec8e30806f8c7022f8c486597c9d0766e9ab9e34598140",
+        "size_bytes": 6279
+      },
+      {
+        "path": "src/registry.py",
+        "sha256": "afeb8b18712575cf41aaaf49fd210c99c5b0472590400ad4e18a4e243ba61b4e",
+        "size_bytes": 14498
+      },
+      {
+        "path": "src/rendering.py",
+        "sha256": "cd27768a28e4e76fc5e00dc870a705c1a8653b404efe9fa918231c7a5f819b57",
+        "size_bytes": 6981
+      },
+      {
+        "path": "src/spv_forward.py",
+        "sha256": "7dd1acd1a1889817a4eaf6267e5986eec6168a99d2af6aef7916d4e6e29718bb",
+        "size_bytes": 12667
+      },
+      {
+        "path": "src/stage10a_preflight.py",
+        "sha256": "7548d3f9708c2bd042d7bf803966ce70556aac02468e863ac766958122889d4e",
+        "size_bytes": 30851
+      },
+      {
+        "path": "src/stage10b_runner.py",
+        "sha256": "2c93748f3e5448f7be4fe2393411c886736eb48d7cd2e76727e8b86fd250a58b",
+        "size_bytes": 36831
+      },
+      {
+        "path": "src/stage10b_session.py",
+        "sha256": "eebf1500872e5e03ee83080090aebb843e42a1a543c51883c6ee0a54775b35fe",
+        "size_bytes": 46902
+      },
+      {
+        "path": "src/stage9_development.py",
+        "sha256": "0c7d2ec3a420c40430a0e966fe0657f004219386e1553951cbccc2eac0903fbd",
+        "size_bytes": 30161
+      },
+      {
+        "path": "src/topology.py",
+        "sha256": "dd081ac7f3fe2dcd3aa3d0909f96cc52d9d80f921fd87166f9e1678e2d5ea5d1",
+        "size_bytes": 5986
+      },
+      {
+        "path": "src/v2/__init__.py",
+        "sha256": "3b8983cc57cb81cc2b508a66ffee0741b47e3493db6db51a4df75cfbd8a85c78",
+        "size_bytes": 641
+      },
+      {
+        "path": "src/v2/audit.py",
+        "sha256": "ee7b51e35a97ed769c8de5f7d6185950ed97b9ca421f8bca938c951d6a65540d",
+        "size_bytes": 6734
+      },
+      {
+        "path": "src/v2/calibrated_skeleton_coverage.py",
+        "sha256": "e189035f8ebf20d31ade67a15c1c194bff6c56ff5a572d378933bb1155097edf",
+        "size_bytes": 9589
+      },
+      {
+        "path": "src/v2/calibrated_skeleton_topk.py",
+        "sha256": "5484ff8685d983554f3a45e09d63e6ba4af5248f7555b40789d6da7faa13f211",
+        "size_bytes": 3562
+      },
+      {
+        "path": "src/v2/experiment.py",
+        "sha256": "24ffecddc8a002bad6d612ce181e4110ef31833c969ef9dc3b701f9e4c1d4042",
+        "size_bytes": 43378
+      },
+      {
+        "path": "src/v2/mapped_coverage.py",
+        "sha256": "799df5501c848244f53d41b754d7cd2bacf38ce6689eff2d4eab54df77096da9",
+        "size_bytes": 2546
+      },
+      {
+        "path": "src/v2/mapped_projector.py",
+        "sha256": "77a17c5e337cfc333371c27c08bb6933911be6173aee20ae5064ca1ccd67b647",
+        "size_bytes": 2746
+      },
+      {
+        "path": "src/v2/mma_assets.py",
+        "sha256": "257ee083b81ed719ae454a455254a7899c04b3ce2b6efd626adbaff9ea7fcec2",
+        "size_bytes": 13920
+      },
+      {
+        "path": "src/v2/mma_confirmation.py",
+        "sha256": "9f56a69aae84af5bfb016f7eded0eea66fa72fa146efa620b972b7e02361eda7",
+        "size_bytes": 42048
+      },
+      {
+        "path": "src/v2/mma_development.py",
+        "sha256": "bb66dd653b7c6152e15e4dfa66e238aae413d776d58681f9e5adb2be47bc82f3",
+        "size_bytes": 43668
+      },
+      {
+        "path": "src/v2/multimapping_prototypes.py",
+        "sha256": "65af235f1935e44018bfeb6006c1a67fb62072642643fbe7647d8da5cf1b7df4",
+        "size_bytes": 9705
+      }
+    ],
+    "tree_sha256": "f24030d05cf9211510ef47e1a349d0978d8a86160a1183989a8b962fec3f5b0c"
+  },
+  "frozen_inputs": [
+    {
+      "path": "configs/multibudget_font_exclusions.yaml",
+      "role": "asset_exclusions",
+      "sha256": "098f3d5c58d0a77a82bfada0441f57cc49e3441a00f03c1fed7280da16cebeb5",
+      "size_bytes": 2124
+    },
+    {
+      "path": "configs/multibudget_font_spec.yaml",
+      "role": "asset_font_spec",
+      "sha256": "64eb54645db3c1c0db526efce35f295c434a0b5ade9618fae37c560b670fbc2d",
+      "size_bytes": 1747
+    },
+    {
+      "path": "/historical/Windows\\Fonts\\STCAIYUN.TTF",
+      "role": "confirmation_font_MB_F01",
+      "sha256": "13b3f397619a1bd2a3dc56b09007114645a3103a171949e36c0f4603c7c44136",
+      "size_bytes": 5673836
+    },
+    {
+      "path": "/historical/Windows\\Fonts\\simsun.ttc",
+      "role": "confirmation_font_MB_F02",
+      "sha256": "1526ac24375f51f6eb73bc2d3f8072dbe4a80a3a65217677c9d9a84f67dab2ab",
+      "size_bytes": 18316748
+    },
+    {
+      "path": "/historical/Windows\\Fonts\\msjh.ttc",
+      "role": "confirmation_font_MB_F03",
+      "sha256": "1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac",
+      "size_bytes": 21404172
+    },
+    {
+      "path": "/historical/Windows\\Fonts\\FZYTK.TTF",
+      "role": "confirmation_font_MB_F04",
+      "sha256": "4065a23df6823c8e2b69a0e76d02f02a6470b8774a5e91086609701ad95cc33f",
+      "size_bytes": 3241748
+    },
+    {
+      "path": "data/multibudget_confirmation/glyphs_confirmation.npz",
+      "role": "confirmation_glyph_archive",
+      "sha256": "e799efb025d8df2424e471acab37c5c30a9f20821ed8e0e5ce64cc817d50a29f",
+      "size_bytes": 1859468
+    },
+    {
+      "path": "data/multibudget_confirmation/mappings/moderate_seed_4101.npz",
+      "role": "confirmation_mapping_seed_4101",
+      "sha256": "c2d0c697a354ebf4002fe424313a8e05549c6199ca0c2dcc35cfeefe512361c0",
+      "size_bytes": 5643
+    },
+    {
+      "path": "data/multibudget_confirmation/mappings/moderate_seed_4102.npz",
+      "role": "confirmation_mapping_seed_4102",
+      "sha256": "a702508dc9e9adc5fd6e0e0ccbec9cd49ba05d0c7af3cc415148ddd45c18b60b",
+      "size_bytes": 5641
+    },
+    {
+      "path": "data/multibudget_confirmation/mappings/moderate_seed_4103.npz",
+      "role": "confirmation_mapping_seed_4103",
+      "sha256": "f5dd335968a25350aaab69979abb7e72d0cf61a1bc6dcf1821dba8c29c3b455c",
+      "size_bytes": 5633
+    },
+    {
+      "path": "data/multibudget_confirmation/mappings/moderate_seed_4104.npz",
+      "role": "confirmation_mapping_seed_4104",
+      "sha256": "67ae5c12298d5c857a381c6057a2fe2eabcea6ed137d32e2fa59e5107517e079",
+      "size_bytes": 5630
+    },
+    {
+      "path": "data/multibudget_confirmation/mappings/moderate_seed_4105.npz",
+      "role": "confirmation_mapping_seed_4105",
+      "sha256": "ed58df5390dba834531b222d436df9f13d5d9949104e8ef06c2c4f62f514fe65",
+      "size_bytes": 5630
+    },
+    {
+      "path": "data/multibudget_confirmation/contact_sheet_MB_F01.png",
+      "role": "contact_sheet_0",
+      "sha256": "bf4203440a560475e39e1ea968bdc2eca998ae8dab3c2f03d5eb8683eca713d7",
+      "size_bytes": 964894
+    },
+    {
+      "path": "data/multibudget_confirmation/contact_sheet_MB_F02.png",
+      "role": "contact_sheet_1",
+      "sha256": "3977a8b684a778b187ccecf274e808b1b4bd7be70a646daca18e9774487f86c7",
+      "size_bytes": 721359
+    },
+    {
+      "path": "data/multibudget_confirmation/contact_sheet_MB_F03.png",
+      "role": "contact_sheet_2",
+      "sha256": "5a51f7e49d4d02a57b73a113fd756a08ad6e03bfc4a726f29e34277dcd2f79c4",
+      "size_bytes": 613685
+    },
+    {
+      "path": "data/multibudget_confirmation/contact_sheet_MB_F04.png",
+      "role": "contact_sheet_3",
+      "sha256": "53d5371c89d7dd496163a1c2af2dce40e3ca72eaec4f015304ecc1662d0febc3",
+      "size_bytes": 549497
+    },
+    {
+      "path": "configs/multibudget_historical_mappings.yaml",
+      "role": "historical_mapping_manifest_0",
+      "sha256": "8b18910238422b04891cf696c543c7ba5da8e9ddcf6165e7aa15bf0b4ef00196",
+      "size_bytes": 5354
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\processed\\benchmark\\glyphs.npz",
+      "role": "source_character_archive",
+      "sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582",
+      "size_bytes": 3929566
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\processed\\benchmark\\glyphs.npz",
+      "role": "training_glyph_archive",
+      "sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582",
+      "size_bytes": 3929566
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\ideal_mapping.npz",
+      "role": "training_ideal_mapping",
+      "sha256": "267cd5ebfaa9ff4093f950fbe6df66442cf3f5115419c677808c1db34c617d5a",
+      "size_bytes": 3895
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2026.npz",
+      "role": "training_mapping_seed_2026",
+      "sha256": "46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62",
+      "size_bytes": 6258
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2027.npz",
+      "role": "training_mapping_seed_2027",
+      "sha256": "b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd",
+      "size_bytes": 6253
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2028.npz",
+      "role": "training_mapping_seed_2028",
+      "sha256": "30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92",
+      "size_bytes": 6271
+    },
+    {
+      "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\mappings\\formal\\moderate_seed_2029.npz",
+      "role": "training_mapping_seed_2029",
+      "sha256": "4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925",
+      "size_bytes": 6274
+    },
+    {
+      "path": "configs/multibudget_formal_inputs.yaml",
+      "role": "training_template_config",
+      "sha256": "39992f4ebba063015df5f076289d555e85b6119ab8cdd2b954e28c8b6e906806",
+      "size_bytes": 1726
+    }
+  ],
+  "protocol_config": {
+    "path": "configs/multibudget_protocol.yaml",
+    "sha256": "27e4bef857b75b606eeabc40790a5a197ed91260dbd17dbb1da47cc1eeb71e2d"
+  },
+  "requirements": {
+    "path": "requirements-windows-dev.txt",
+    "sha256": "2011a26917cdeb1b20c2d74f6e6bf1512089a22315b2aa875b62ab33f3528c4f"
+  },
+  "run_plan": {
+    "condition_count": 50,
+    "frozen_run_ids": [
+      "mbv1_moderate_b032_s4101_ideal_only",
+      "mbv1_moderate_b032_s4101_ideal_plus_multi4",
+      "mbv1_moderate_b032_s4102_ideal_only",
+      "mbv1_moderate_b032_s4102_ideal_plus_multi4",
+      "mbv1_moderate_b032_s4103_ideal_only",
+      "mbv1_moderate_b032_s4103_ideal_plus_multi4",
+      "mbv1_moderate_b032_s4104_ideal_only",
+      "mbv1_moderate_b032_s4104_ideal_plus_multi4",
+      "mbv1_moderate_b032_s4105_ideal_only",
+      "mbv1_moderate_b032_s4105_ideal_plus_multi4",
+      "mbv1_moderate_b048_s4101_ideal_only",
+      "mbv1_moderate_b048_s4101_ideal_plus_multi4",
+      "mbv1_moderate_b048_s4102_ideal_only",
+      "mbv1_moderate_b048_s4102_ideal_plus_multi4",
+      "mbv1_moderate_b048_s4103_ideal_only",
+      "mbv1_moderate_b048_s4103_ideal_plus_multi4",
+      "mbv1_moderate_b048_s4104_ideal_only",
+      "mbv1_moderate_b048_s4104_ideal_plus_multi4",
+      "mbv1_moderate_b048_s4105_ideal_only",
+      "mbv1_moderate_b048_s4105_ideal_plus_multi4",
+      "mbv1_moderate_b064_s4101_ideal_only",
+      "mbv1_moderate_b064_s4101_ideal_plus_multi4",
+      "mbv1_moderate_b064_s4102_ideal_only",
+      "mbv1_moderate_b064_s4102_ideal_plus_multi4",
+      "mbv1_moderate_b064_s4103_ideal_only",
+      "mbv1_moderate_b064_s4103_ideal_plus_multi4",
+      "mbv1_moderate_b064_s4104_ideal_only",
+      "mbv1_moderate_b064_s4104_ideal_plus_multi4",
+      "mbv1_moderate_b064_s4105_ideal_only",
+      "mbv1_moderate_b064_s4105_ideal_plus_multi4",
+      "mbv1_moderate_b096_s4101_ideal_only",
+      "mbv1_moderate_b096_s4101_ideal_plus_multi4",
+      "mbv1_moderate_b096_s4102_ideal_only",
+      "mbv1_moderate_b096_s4102_ideal_plus_multi4",
+      "mbv1_moderate_b096_s4103_ideal_only",
+      "mbv1_moderate_b096_s4103_ideal_plus_multi4",
+      "mbv1_moderate_b096_s4104_ideal_only",
+      "mbv1_moderate_b096_s4104_ideal_plus_multi4",
+      "mbv1_moderate_b096_s4105_ideal_only",
+      "mbv1_moderate_b096_s4105_ideal_plus_multi4",
+      "mbv1_moderate_b128_s4101_ideal_only",
+      "mbv1_moderate_b128_s4101_ideal_plus_multi4",
+      "mbv1_moderate_b128_s4102_ideal_only",
+      "mbv1_moderate_b128_s4102_ideal_plus_multi4",
+      "mbv1_moderate_b128_s4103_ideal_only",
+      "mbv1_moderate_b128_s4103_ideal_plus_multi4",
+      "mbv1_moderate_b128_s4104_ideal_only",
+      "mbv1_moderate_b128_s4104_ideal_plus_multi4",
+      "mbv1_moderate_b128_s4105_ideal_only",
+      "mbv1_moderate_b128_s4105_ideal_plus_multi4"
+    ],
+    "path": "plans/multibudget_run_plan.json",
+    "sha256": "40de4c7af2a89a7455e66e0792e4ed0814c7a903c86a245f87ec0c2400e06440"
+  },
+  "schema": "mma-multibudget-v1-formal-lock",
+  "schema_version": 1,
+  "status": "FROZEN_AWAITING_FORMAL_SESSION",
+  "study_id": "mma_multibudget_v1"
+}

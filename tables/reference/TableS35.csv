@@ -1,0 +1,5 @@
+﻿Measure,MMA-HOG,RanDumb multi-mapping
+Single-image median (ms),3.03,28.60
+Single-image P95 (ms),4.50,29.39
+Batch-of-32 median (ms),85.53,121.71
+Parameter arrays (MiB),5.98,716.94

@@ -1,0 +1,42 @@
+{
+  "skeleton": {
+    "glyphs_checked": 60,
+    "instances_per_condition": 300,
+    "results": {
+      "ideal": {
+        "selection_order_rows_different": 2,
+        "selection_sets_rows_different": 0,
+        "scores_max_abs_error": 6.997623591686875e-10,
+        "predictions_different": 0,
+        "score_allclose": true
+      },
+      "mma": {
+        "selection_order_rows_different": 2,
+        "selection_sets_rows_different": 0,
+        "scores_max_abs_error": 7.603888629859057e-10,
+        "predictions_different": 0,
+        "score_allclose": true
+      }
+    }
+  },
+  "canny": {
+    "glyphs_checked": 60,
+    "instances_per_condition": 300,
+    "results": {
+      "ideal": {
+        "selection_order_rows_different": 1,
+        "selection_sets_rows_different": 0,
+        "scores_max_abs_error": 3.0996638589186887e-10,
+        "predictions_different": 0,
+        "score_allclose": true
+      },
+      "mma": {
+        "selection_order_rows_different": 1,
+        "selection_sets_rows_different": 0,
+        "scores_max_abs_error": 3.3031510859871105e-10,
+        "predictions_different": 0,
+        "score_allclose": true
+      }
+    }
+  }
+}

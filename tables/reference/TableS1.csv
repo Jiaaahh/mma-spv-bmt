@@ -1,0 +1,6 @@
+﻿Condition,Position SD/grid spacing,Scale SD,Scale-factor limits,Role
+Mild,0.15,0.10,"[0.80, 1.30]",Secondary
+Moderate,0.30,0.20,"[0.60, 1.60]",Primary
+Severe,0.45,0.30,"[0.40, 1.90]",Secondary
+Position only,0.30,0,"[1, 1]",Exploratory
+Scale only,0,0.20,"[0.60, 1.60]",Exploratory

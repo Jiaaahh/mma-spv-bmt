@@ -1,0 +1,5170 @@
+{
+  "classes": [
+    "buddha",
+    "crayfish",
+    "cup",
+    "dalmatian",
+    "dragonfly",
+    "electric_guitar",
+    "elephant",
+    "ewer",
+    "gerenuk",
+    "headphone",
+    "ibis",
+    "lotus",
+    "minaret",
+    "nautilus",
+    "octopus",
+    "panda",
+    "pizza",
+    "scissors",
+    "wild_cat",
+    "wrench"
+  ],
+  "eligible_classes": [
+    "Faces_easy",
+    "Leopards",
+    "Motorbikes",
+    "accordion",
+    "airplanes",
+    "anchor",
+    "ant",
+    "barrel",
+    "bass",
+    "beaver",
+    "binocular",
+    "bonsai",
+    "brain",
+    "brontosaurus",
+    "buddha",
+    "butterfly",
+    "camera",
+    "cannon",
+    "car_side",
+    "ceiling_fan",
+    "cellphone",
+    "chair",
+    "chandelier",
+    "cougar_body",
+    "cougar_face",
+    "crab",
+    "crayfish",
+    "crocodile",
+    "crocodile_head",
+    "cup",
+    "dalmatian",
+    "dollar_bill",
+    "dolphin",
+    "dragonfly",
+    "electric_guitar",
+    "elephant",
+    "emu",
+    "euphonium",
+    "ewer",
+    "ferry",
+    "flamingo",
+    "flamingo_head",
+    "garfield",
+    "gerenuk",
+    "gramophone",
+    "grand_piano",
+    "hawksbill",
+    "headphone",
+    "hedgehog",
+    "helicopter",
+    "ibis",
+    "inline_skate",
+    "joshua_tree",
+    "kangaroo",
+    "ketch",
+    "lamp",
+    "laptop",
+    "llama",
+    "lobster",
+    "lotus",
+    "mandolin",
+    "mayfly",
+    "menorah",
+    "metronome",
+    "minaret",
+    "nautilus",
+    "octopus",
+    "okapi",
+    "pagoda",
+    "panda",
+    "pigeon",
+    "pizza",
+    "platypus",
+    "pyramid",
+    "revolver",
+    "rhino",
+    "rooster",
+    "saxophone",
+    "schooner",
+    "scissors",
+    "scorpion",
+    "sea_horse",
+    "snoopy",
+    "soccer_ball",
+    "stapler",
+    "starfish",
+    "stegosaurus",
+    "stop_sign",
+    "strawberry",
+    "sunflower",
+    "tick",
+    "trilobite",
+    "umbrella",
+    "watch",
+    "water_lilly",
+    "wheelchair",
+    "wild_cat",
+    "windsor_chair",
+    "wrench",
+    "yin_yang"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0072.jpg",
+      "sha256": "1ce170edb2a4a1e67e397cc15d2187e19a1e81dabe81ae3c2bf71b714054da6f",
+      "pixel_sha256": "e82a31d53ab8c82f0a1c5b212f085e8c9fa0bf721238f13686f318bfaf8fd5d0"
+    },
+    {
+      "index": 1,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0061.jpg",
+      "sha256": "f993d3da700e69a44593dc053bb3e54b91c3d89de1ab069f6f84e040abdb4b08",
+      "pixel_sha256": "14f6d022305a12c0e613811b804786dcbed366f58e4f3a6adb67be4a8c7a0c3e"
+    },
+    {
+      "index": 2,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0014.jpg",
+      "sha256": "5a22905ad915a20b620435a940e6d5a96866a26350310b9b45fe10eb70f91f72",
+      "pixel_sha256": "c488555cc22c8eb697e178ee8c603eb37be080449ae06be9a551ad2ac7a4806b"
+    },
+    {
+      "index": 3,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0065.jpg",
+      "sha256": "471ad617b1c0bbe4f5e4a4931494b9eee9af0b1a45cf6c80325e1896741a58ed",
+      "pixel_sha256": "aebb5b3bc3eb980e59c265ac58fa0fcfe3d226f594c9ec2a96f6de75dde56a0a"
+    },
+    {
+      "index": 4,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0004.jpg",
+      "sha256": "7ff4e213258280fe86a70c12cfb54b1370312005554988eab521e72437870fd6",
+      "pixel_sha256": "5fcc1a16ad734231d1e476e289a9af3da5445155651e42abd6b9636b4c211374"
+    },
+    {
+      "index": 5,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0064.jpg",
+      "sha256": "7adc5f7e95962641eace9b47522d864aa39fad0c5d03da8b757dc025a360a90d",
+      "pixel_sha256": "2798348c57987f3ec39daacf50c0af65d5643e4fcfb24e5fc4deb9b1feb6b6a1"
+    },
+    {
+      "index": 6,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0016.jpg",
+      "sha256": "77fabb9351e442c1cdaaa8afaa462849db26710a68b57cb945d401cbdd36dc09",
+      "pixel_sha256": "145355b3b56329b1e62f3b866e09a2f7ba9b82ee74094d416a2dec9f6d64b0db"
+    },
+    {
+      "index": 7,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "support",
+      "member": "101_ObjectCategories/buddha/image_0062.jpg",
+      "sha256": "7805ab29feb0246a457370a8b51a6b98573275722a83f935ecdb5b651d78c9bc",
+      "pixel_sha256": "61e2940d098b5165dc35d24e68dab9dcec5744db76af71434dc1107ab57e841f"
+    },
+    {
+      "index": 8,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "validation",
+      "member": "101_ObjectCategories/buddha/image_0082.jpg",
+      "sha256": "61b593b71ed314ab0612238412ac8ca83c8a0f03309b419f72eb2172776b959b",
+      "pixel_sha256": "b98aa8092c229f20e02b1a6a50a17062f7f083713c8d5708c331c0cf5f5fa810"
+    },
+    {
+      "index": 9,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "validation",
+      "member": "101_ObjectCategories/buddha/image_0069.jpg",
+      "sha256": "0a703367780bf76d3b38106f3dc4728d7309e837b5281fad2bd0863ae8ba1989",
+      "pixel_sha256": "3490b0a6cd157b2c2f1bee47eaf9fdfd7e5059edeb3a1dd5af85c013d5b59cc5"
+    },
+    {
+      "index": 10,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "validation",
+      "member": "101_ObjectCategories/buddha/image_0079.jpg",
+      "sha256": "3c3e5634a8e8e1071425b071ef95b34eefe419b2c93105a8fa739a5ada94b703",
+      "pixel_sha256": "f15edeae3a392112e0daf97431f8ed9a7bb0f805793dc6bde1450bffe39c7085"
+    },
+    {
+      "index": 11,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "validation",
+      "member": "101_ObjectCategories/buddha/image_0027.jpg",
+      "sha256": "7ad0f35ad7d04e274ca0447a29f7d925468f9ee5ae79c7d6f24085386019c231",
+      "pixel_sha256": "3f8102d5915bcf0022ac30c90cef8d0567cef875db6aba7fd149d3a74ec0af33"
+    },
+    {
+      "index": 12,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0041.jpg",
+      "sha256": "047e7fafe559db69824ad2f821295a655a14ecd76307825249a3f0aff8aacb01",
+      "pixel_sha256": "f8d320100fb5ba6074c71f8e53802aa8eef2d2ef2b1e02c54e01284c4160d336"
+    },
+    {
+      "index": 13,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0017.jpg",
+      "sha256": "6218a24163192e1eafa8f61ec4c0ccc1c43fb68e0dca2741f9027389bb8c2129",
+      "pixel_sha256": "156df327d79b6495882a85b09981501adab3dcb6aea00855e53b905ff753f014"
+    },
+    {
+      "index": 14,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0068.jpg",
+      "sha256": "a34decf2af027463d4ec1dab932746493be0ba95a0ba606500aed5e728883a7e",
+      "pixel_sha256": "b5dc8545a0b49f9d7db2ab8c54419829eaa09131150dfc1cd14f8448a7f4b5d4"
+    },
+    {
+      "index": 15,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0023.jpg",
+      "sha256": "c5276c91ce9d9751d7541964a9710e3d54843df346ec46af20a22c987027206d",
+      "pixel_sha256": "0bb23dee43e224da93a77fc511afb62fc82e2f0ef7fcc342dc86ebc2aa1c5b39"
+    },
+    {
+      "index": 16,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0063.jpg",
+      "sha256": "8e04b13d3e272f90a5d18198358ff4ae155dd37d174871ec6ed0aec10454f740",
+      "pixel_sha256": "deef6dfdb66f441d89fdf40160f4af7eeb1a67b8cec23cfc15782c9fee2f86ff"
+    },
+    {
+      "index": 17,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0040.jpg",
+      "sha256": "0443c10e76d5b95ae8b6082618aab1f1a86326f1bc46861e4f4ae24b7d82c50c",
+      "pixel_sha256": "4e941dd5280d398c14cd898506ba305c37da12c0c007f7ee81e815173e2855a9"
+    },
+    {
+      "index": 18,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0034.jpg",
+      "sha256": "81259d549e36eb17145c6ea9cb8f14aaa199c1b0610f8575d9986b52a20143d6",
+      "pixel_sha256": "2e1010e7041b8ff92f72ce75825b6885b98368d6b22429fba2df7372eaf9935e"
+    },
+    {
+      "index": 19,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0031.jpg",
+      "sha256": "4034f6de76915d12ba56628d1709175d9fddbfa19637ab4519464ccf038c4b9b",
+      "pixel_sha256": "7043e57d1cae4d8495dcbc598e072c22c3394aba846662bdd1c9613b0a46f627"
+    },
+    {
+      "index": 20,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0036.jpg",
+      "sha256": "92b5fff61a83d7b2eb4238879212afd97c4de364c7fcc0e5e59f203c6e2575c9",
+      "pixel_sha256": "1044b4864fd2478fe03a8db91501d518f79350ad3a17c902e59e2c5ca5b68ca6"
+    },
+    {
+      "index": 21,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0047.jpg",
+      "sha256": "2a143e16e42114947025cbe8ac46246b91b51a2903141ffdbfe50229f7fed797",
+      "pixel_sha256": "4375476f8e9fd20160590a0eeecd9269bb992842f0f6f545734d3d2a44f990f0"
+    },
+    {
+      "index": 22,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0042.jpg",
+      "sha256": "c08a4f289f6dbebac8439c155790dbc607612f05f50de36f65b8adc7d1f3d69e",
+      "pixel_sha256": "9f2a4afe57a2862cdd466c7790a20c99902aeff076dd1619fc899d6e60881feb"
+    },
+    {
+      "index": 23,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0007.jpg",
+      "sha256": "77cf24befb23c58d3ff1c6c70289dcb2167be849001988cabe050e7a6ae443aa",
+      "pixel_sha256": "5b4310482997c276d4e81f35ca356bb271a09931afc01d0f19852efc5fc9c3c1"
+    },
+    {
+      "index": 24,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0053.jpg",
+      "sha256": "fbe6286c3301fc983ece1d49ea3010d7bcabdd53382eb639fc2474e35064be5d",
+      "pixel_sha256": "62b2d7e3f2c784c3ae8020aea53f29e4358ee92e11170ed0b40be833ed622ba3"
+    },
+    {
+      "index": 25,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0033.jpg",
+      "sha256": "9171a7f07b10ec36fc7235a913d279e36be11be5583b1d60ead840b83511801f",
+      "pixel_sha256": "dba356eb642effcd46d0a78e35311353a91cbd516066490b3a39b22e68b97162"
+    },
+    {
+      "index": 26,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0039.jpg",
+      "sha256": "9bc48f99c2973a90b5b3989fb244ea238c6aafc625e208f374041a3456c30699",
+      "pixel_sha256": "b00b804d82ab1e6c80b97fbd6a57e98a3f8869771120ad55acc7043e3f93bd5a"
+    },
+    {
+      "index": 27,
+      "class_id": 0,
+      "category": "buddha",
+      "split": "test",
+      "member": "101_ObjectCategories/buddha/image_0032.jpg",
+      "sha256": "911fae07e57221f9572b722eac3d751317e51612d43862109631a93debcdb91a",
+      "pixel_sha256": "dfc621b07177fbdadc6f517a8c99a9fddca2cad6c82841feecc6be07f413803e"
+    },
+    {
+      "index": 28,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0008.jpg",
+      "sha256": "3e7f8ed0692a650e272287bb9a4d22ec6d9bbdddc8e2f28e008158b8bab0c7ae",
+      "pixel_sha256": "aef6789e5e6649ef217611564abb0e4950cc97fb8678b66fbc85b11c56479748"
+    },
+    {
+      "index": 29,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0002.jpg",
+      "sha256": "9a9fb4afd9711f8282a923e919d42a5dac0249f146a75130b5582beb033183d4",
+      "pixel_sha256": "900575ebb715690642e290abed275f79233927fcdf2261a1e541a00386be12b5"
+    },
+    {
+      "index": 30,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0057.jpg",
+      "sha256": "522e1912a4a072125653bd78823c902da4defaed707d14891124a159a49ae88f",
+      "pixel_sha256": "670f96ebc6e1357579d9421d7cdb2e2298358f7a8329b4dbac07502a25ee395c"
+    },
+    {
+      "index": 31,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0005.jpg",
+      "sha256": "5fec5303d23c1b01bae02d3094fa54583044f45096354c16faa6741971218649",
+      "pixel_sha256": "4560475d9c35168d5431f6937c97250a9ac37355e97c5099fb535fc0620e0114"
+    },
+    {
+      "index": 32,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0034.jpg",
+      "sha256": "e53cc58d98f1b915fdf1ab38a1895b697deaa08e229834d32041f299a035513d",
+      "pixel_sha256": "9f3e3da73eadb8e3a54f1a83554ada704e4ad2d06bc57ec80e0867f114e907cf"
+    },
+    {
+      "index": 33,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0050.jpg",
+      "sha256": "d54f804c0c129355991ad0baa60c2d011156d52abbd874220ef1f665354ec667",
+      "pixel_sha256": "528462a374a6d10d553a2a6f0772a91d28e5752e534f6e0673950a10c26c81d5"
+    },
+    {
+      "index": 34,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0019.jpg",
+      "sha256": "e2d590c17971574c5c2d607268a256c4b2fe600bbebf202a76c13381f054eb7c",
+      "pixel_sha256": "856f3541cc7f9f75ffb2d2da983b89f5a26524c5cac84ac6b1145962540d1905"
+    },
+    {
+      "index": 35,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "support",
+      "member": "101_ObjectCategories/crayfish/image_0039.jpg",
+      "sha256": "9cc313ec88d0dda389b0f2ded06d2040ad3da3b5b431100670282c0d3011345a",
+      "pixel_sha256": "5ee8aea64a31a9fa44d3b71f3927188ebf41de0e02c6e8d41fea8b4822eaf048"
+    },
+    {
+      "index": 36,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "validation",
+      "member": "101_ObjectCategories/crayfish/image_0032.jpg",
+      "sha256": "89490ca0e35eae8fbb70a7e5feb6551680e5fe00610d928d2b9098adc97ef9e9",
+      "pixel_sha256": "e2dfe5e0c9129dd64fd5a40dbeb5f5634df942bd9db797a137121acf40b64474"
+    },
+    {
+      "index": 37,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "validation",
+      "member": "101_ObjectCategories/crayfish/image_0012.jpg",
+      "sha256": "d24ce28ba12fb34676ea148684368261626b0443e2c80aca9193c5dab81a8772",
+      "pixel_sha256": "a3745ea7be9891e028b52d01758e75528c9267cf54d01bf1093e64d1fb769186"
+    },
+    {
+      "index": 38,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "validation",
+      "member": "101_ObjectCategories/crayfish/image_0047.jpg",
+      "sha256": "1abd43ffc413461133f185d48395b667dd39bf586c6276ac3306ff323c056ed1",
+      "pixel_sha256": "c42242f7c653e71c268a892486af3f6009ba9df587de76662cab76889bcb3985"
+    },
+    {
+      "index": 39,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "validation",
+      "member": "101_ObjectCategories/crayfish/image_0004.jpg",
+      "sha256": "e9c423c979bc5a7c51a12e0436fe647c74b38e039d7b3454b2a918dcce8a95d4",
+      "pixel_sha256": "1a76984fb29058b6a069861a4ba6990c189224ee3d11f9930eff1e3e2b4a5626"
+    },
+    {
+      "index": 40,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0063.jpg",
+      "sha256": "516a1517da4b5139fcb60a5e5c890b43e7429d199ba32fce40fcbee2501223c0",
+      "pixel_sha256": "f8c04cf0b422c38fc63a48e541e46ed2fb17fae3c484a3ffc3f2c4a0e42f0594"
+    },
+    {
+      "index": 41,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0010.jpg",
+      "sha256": "b75dc54e214cc94b6506c10f98846b8e146e9f80d108aa914e31d76b89645d19",
+      "pixel_sha256": "7feffc6aa6b7b917805bf574bc9b88a098eb3675cead0c60b0e654b733c519d3"
+    },
+    {
+      "index": 42,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0055.jpg",
+      "sha256": "829a29ea5c3dce9be93a5676a2ffc0e94aa43309c524ae04621baa1d23f75f2b",
+      "pixel_sha256": "f7dbd4941872c758bdf19f8939d097b3ceb652400c28846b704b0f166b6a4749"
+    },
+    {
+      "index": 43,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0043.jpg",
+      "sha256": "8ed93f850259b54e5c16abd515860ac0edbfb124959a04ce1b4db333b9db9950",
+      "pixel_sha256": "1e40be619af0a5e0991d665704a2d8f6c5fd53156ebbb491ecdb99d5553dc0ca"
+    },
+    {
+      "index": 44,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0054.jpg",
+      "sha256": "479f50a2de02cb04523563cb47f718b67eba2279616879c936efcafd9a048a50",
+      "pixel_sha256": "c727301fef5ed6821fe8064bd5027b71dd48142806a8d7ae0d64f23509de5853"
+    },
+    {
+      "index": 45,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0041.jpg",
+      "sha256": "ab9cfc424434f938ec9536ccb1a20d460a6075318f760887debab45746dc3bc4",
+      "pixel_sha256": "e70991bbacabe5166fd5a1e162f2b9b3b2712f5c190f54c436d8df46403e3d27"
+    },
+    {
+      "index": 46,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0018.jpg",
+      "sha256": "3df688cd4534886802912064993ff22a5c93632714424bb3f8859a83569efbf4",
+      "pixel_sha256": "0405fc03a1fb0fbe8b74d6cbb4725685a0a574f9a206c96fb2d8605e1e894ad7"
+    },
+    {
+      "index": 47,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0013.jpg",
+      "sha256": "a3e8d022b1c8d21eee078b18cec34e9774e07b3c142b87bda46f40bf67c873ca",
+      "pixel_sha256": "687e4073f4842b1d68255795720186d34e3019d1aa3ae5682d954faa05af1301"
+    },
+    {
+      "index": 48,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0046.jpg",
+      "sha256": "0593af96853a415b3e3b4a9aa18c542a1d5a66e9a13eb119feca1b24a07f38dd",
+      "pixel_sha256": "358c23cba38e41a8b62f38b886492316367c6d1054c2935699f96560218cf200"
+    },
+    {
+      "index": 49,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0042.jpg",
+      "sha256": "5fdfeb5101bb92a6bbe422102484aa6976364646e7dd72cf3249b9caa6f1b322",
+      "pixel_sha256": "64ef51d9e6c21a7baaf0afb729dd3fecbd644ff2f8f5ff9bd93a8693a56b0b9f"
+    },
+    {
+      "index": 50,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0009.jpg",
+      "sha256": "80b3ebf3b7e9ba889b9ebd06009c911b746cc38133e5d01d9f4107ef69a9482d",
+      "pixel_sha256": "2581e2069d175dbe90dd1f94d23436b4766c27f89bc8095b31661368ca9934c5"
+    },
+    {
+      "index": 51,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0003.jpg",
+      "sha256": "306150c527c1a6f40471ebacca833b37652984cf39084354dd5f00cf97a432b9",
+      "pixel_sha256": "18f70836b8cc2e2c303821654c4a7a8c3396103e301078bff328c9a6c5cfe9e9"
+    },
+    {
+      "index": 52,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0011.jpg",
+      "sha256": "d6984be9087e033015632442d8f100295b8989a21d95b24f85a3d86b00fe913b",
+      "pixel_sha256": "1e2ef4d69dd86e01f13f47270a6485084319166eb5fcad9c6a4b0ec4c480caa1"
+    },
+    {
+      "index": 53,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0006.jpg",
+      "sha256": "7606a8a143ac8be7c0cdd89a74943e1a199673845bfa183310a3889dd521285b",
+      "pixel_sha256": "c60d6675d8ea7fcaa50185ca50e72c6aaa0c6ba6ff18f34799a63292627fffdd"
+    },
+    {
+      "index": 54,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0067.jpg",
+      "sha256": "f021ecc98a6166f671ed4b69514189dbc1e56f909a3e55b7bf7a52d77bb0b0ea",
+      "pixel_sha256": "c4f5e2ef18709ad9aead102cba0f91cd1fbfaf82a496e0c807de6f0536f4e3f1"
+    },
+    {
+      "index": 55,
+      "class_id": 1,
+      "category": "crayfish",
+      "split": "test",
+      "member": "101_ObjectCategories/crayfish/image_0015.jpg",
+      "sha256": "ad6e927a310bea932c61d74cb35e00cd788b830dddc5db46f0ed229899c581ad",
+      "pixel_sha256": "603c392a7b4e5a023a61d89e103e5084957c3b850e6271b2e30512cdd5485c98"
+    },
+    {
+      "index": 56,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0037.jpg",
+      "sha256": "704e24ba35ed33182f27d20c10ceb9dd769359642866b44278a988f781a40694",
+      "pixel_sha256": "c996ed808b7a0c1e3f7aca991ade4f25bd4ac9fbc47420ecf4f2cb71f81f898d"
+    },
+    {
+      "index": 57,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0046.jpg",
+      "sha256": "c569d9e2bb36181cd5b4a1f886430ff563e3eb9f6087113449239ce61c8be951",
+      "pixel_sha256": "fdfe769089ad74f93f77ae31dc7c8c65bce1fef34d258e36f2fe45fc79b1b841"
+    },
+    {
+      "index": 58,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0005.jpg",
+      "sha256": "001927a3e77912ca65626a9d1949f23287504135210024ba600a7b40a21732ca",
+      "pixel_sha256": "91894bfd2ad86e240b56db489653fd66cec5ce68184c5524807373b356f2e2a5"
+    },
+    {
+      "index": 59,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0023.jpg",
+      "sha256": "b5639ef33994aa87aec7a4cdad25e8f6da0056a41b6f53ebe61751e9a22466fd",
+      "pixel_sha256": "5991b4f8d0c24d530dc9935b2ae127eb0d7f60aa81c5799f4e9b40b47626784b"
+    },
+    {
+      "index": 60,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0017.jpg",
+      "sha256": "1394a516e565f75c00cb413827257bf1b3c65a36b71196f7ca3e390b7dfc3bde",
+      "pixel_sha256": "c8e5ac2edf2cfa71ac905f3e73215530f1487fa5924eea2414e656c24f33372f"
+    },
+    {
+      "index": 61,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0008.jpg",
+      "sha256": "38b77ce7c8fb37610e1462492638b784e3fa3c3511b9a090659e81896a5d8d4c",
+      "pixel_sha256": "aeae20949260b7d5dbd40266e803fd01f906ec95811997c4d36ef7527fc22521"
+    },
+    {
+      "index": 62,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0030.jpg",
+      "sha256": "095eda35bf56b033a39718d36b427de55379b9df801207835f90bbedf08ba143",
+      "pixel_sha256": "3d56a34aac1ff2d704f3bff5d29e26959965b719d578e361ca33b54db225e8e2"
+    },
+    {
+      "index": 63,
+      "class_id": 2,
+      "category": "cup",
+      "split": "support",
+      "member": "101_ObjectCategories/cup/image_0028.jpg",
+      "sha256": "c443f356bda6695c2a6e2490c3f668428ca50f26192db9b7f964a78fdfe9350c",
+      "pixel_sha256": "5c39150a614cd8f47cd641958007bb2c8fc536c2d16c210e720a5aa48674d08a"
+    },
+    {
+      "index": 64,
+      "class_id": 2,
+      "category": "cup",
+      "split": "validation",
+      "member": "101_ObjectCategories/cup/image_0021.jpg",
+      "sha256": "1421b62b1128623803ed69e88468bb0e63e9d2611e24c4e10364c2b77ccbb2ed",
+      "pixel_sha256": "f9e37a67516db488f5af29c7a43850e712db4018a2249561ba4cc669f0db0ecf"
+    },
+    {
+      "index": 65,
+      "class_id": 2,
+      "category": "cup",
+      "split": "validation",
+      "member": "101_ObjectCategories/cup/image_0052.jpg",
+      "sha256": "f6071899605f703093cce98786f252d1b8285f5442ce0ac2c91b635636b29bd1",
+      "pixel_sha256": "fb31d4a1f86efb60c5d334f5674339d829cc515a0cefbe0acdfabc1d71e1915d"
+    },
+    {
+      "index": 66,
+      "class_id": 2,
+      "category": "cup",
+      "split": "validation",
+      "member": "101_ObjectCategories/cup/image_0029.jpg",
+      "sha256": "cd9da1110364b3475d5ce762d43e534d4774bccfc0d2efeed187b40f487235be",
+      "pixel_sha256": "c488554b9b7f61f8bb6ebfb634494159c5d09872362d358bf3162979eb9ce809"
+    },
+    {
+      "index": 67,
+      "class_id": 2,
+      "category": "cup",
+      "split": "validation",
+      "member": "101_ObjectCategories/cup/image_0040.jpg",
+      "sha256": "7d453cb6e5252d9e0ab00ba976d9674c2ec5b23668e5d3cd57498af976ad59f4",
+      "pixel_sha256": "2f4c41d22e01af890e596a6ccb89935df9caa1f19c45af3d8124dcb528a052f8"
+    },
+    {
+      "index": 68,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0020.jpg",
+      "sha256": "d63d4c58f149b482f9ed7bb3ee33946d628d7fb8f4deb6c5e07b1c2ba0f4270a",
+      "pixel_sha256": "c0be0abf6383c7b219a2425ee2c0a6d7d32cba679a3731df85b4d5e9af5df24d"
+    },
+    {
+      "index": 69,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0024.jpg",
+      "sha256": "2c8d4e1a2dea28b6dd5ac0a2a37513d319097ed8fde310fec7f6b9304d0de44f",
+      "pixel_sha256": "f911b673cac8d19db97db72c9a7a53e41c657d29a7afce25bfcd1dd7e4c84537"
+    },
+    {
+      "index": 70,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0014.jpg",
+      "sha256": "15028efe2f63c0be968494d4e78d2873c99a6742f7897148fc8900d2b90898b0",
+      "pixel_sha256": "60d0f6a3d830486cde9a21c25a7028d126d736f0a75690359dc64bc3762aae22"
+    },
+    {
+      "index": 71,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0056.jpg",
+      "sha256": "738def643d151c2f27ae716f15cba2a4838baaae6cc563d5e7bf00f70447c0f1",
+      "pixel_sha256": "da421e06e1ef99d95cc1c3f0ada81e4ab42d3318307b5ada7600f41288bb6d75"
+    },
+    {
+      "index": 72,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0043.jpg",
+      "sha256": "bfb36b90a27d3befb015bb424e905e01d34899f0e3ff8eb1e1e5959dd69e24ae",
+      "pixel_sha256": "2ef6a07b3afc50f205f3f38e6f19f3e1a0683598364a5c011d3783f0af5eb937"
+    },
+    {
+      "index": 73,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0048.jpg",
+      "sha256": "190bcd3003ff42f9c3dd2c272c03be1dec80414b797bfa14d980f45a6b157439",
+      "pixel_sha256": "064c56db45483dad8e6e23597bd0c3bb861ca75efbc3a16be5a66ecc3b85be2b"
+    },
+    {
+      "index": 74,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0003.jpg",
+      "sha256": "130a303afd130d574619ed787a254485210f761710a0c3531514c0d3b2c71c6b",
+      "pixel_sha256": "5a26893073bfffd0db6144c9fc800ad2c5e75ab1e6e6900b3ec4386f6ee76456"
+    },
+    {
+      "index": 75,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0055.jpg",
+      "sha256": "6dbad31f63fda39ac469d15ac4f3f7418bd29628bbafdc64e3ae711f0447a1e3",
+      "pixel_sha256": "d5029c430f5e4c87bed7ac2d055fdbf7b20d6c79db41b1efe21ccee89641a1c3"
+    },
+    {
+      "index": 76,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0033.jpg",
+      "sha256": "6d892653be47cd5c969313714e7777eda1549e5c995c44d6ce72d1dc985b5459",
+      "pixel_sha256": "55d5e8c8941da094540271452c6922a85395d3f70906d929896d4845cdd4d9f1"
+    },
+    {
+      "index": 77,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0049.jpg",
+      "sha256": "58513781aba560a71f844ef3ef07f04794455e94aed80ef031f29c1f84c2ab74",
+      "pixel_sha256": "4e583ff832928a85f99c2948dafdd16cba8e500a6712a1a226b7b722c2d1fb61"
+    },
+    {
+      "index": 78,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0009.jpg",
+      "sha256": "973d042e4268d39b532318f9d37b5e663b5e38de633fc9c3e62fc2705e37ffcb",
+      "pixel_sha256": "67d1feb75be32740606fafdf4bdaaf7800a3f4e59dd74a366730e84299ae8c0c"
+    },
+    {
+      "index": 79,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0038.jpg",
+      "sha256": "758621571db7e45861323c31350d1cb22546dd9bcb5d21b7c3eca5c6979956da",
+      "pixel_sha256": "5a014d98f50f083a4ce56981e74bfc323db241058942ab9110005c375cba0684"
+    },
+    {
+      "index": 80,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0026.jpg",
+      "sha256": "3843d6732edf762b58ed2894b0cb1990b3ecce305b6fc9ad7a1b73fe54cbd8a1",
+      "pixel_sha256": "b8482d35e81135ac55ad5a1b75bd82faad06051cb04c04acd5b991cf3551add9"
+    },
+    {
+      "index": 81,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0032.jpg",
+      "sha256": "4c70f94e977a5c2c5acb7c7b9b027c4e44eca70d5f40a8da0a7a9f2f83185eeb",
+      "pixel_sha256": "c09b64089c119c87be33fed1d782cba6485f0c10c919bc02fed4fe9b7d735a5f"
+    },
+    {
+      "index": 82,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0010.jpg",
+      "sha256": "23077bc563165c40a36dc665ec178f1afd15a5dc783501d0359bd0c5fbc80508",
+      "pixel_sha256": "a477d92159f747753ec52d8ccd35864dea6c91ef46e80ca8469df8165f67b4ca"
+    },
+    {
+      "index": 83,
+      "class_id": 2,
+      "category": "cup",
+      "split": "test",
+      "member": "101_ObjectCategories/cup/image_0054.jpg",
+      "sha256": "faa9ee490a3e297d57a80ae86bc6381e74a044fa9854ad537ada8d435b33ec56",
+      "pixel_sha256": "8a3415b20f7c97549754e77ad130b81b217adee84369a6839922521ddf47867f"
+    },
+    {
+      "index": 84,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0025.jpg",
+      "sha256": "d4a2e8608629228935f3f23d44182c3a448c1a4e149050f6d12653f71299038d",
+      "pixel_sha256": "fc55b07a3dff16c947cc7680ee956335a76b2c8f68e368b819a3178f7f23802e"
+    },
+    {
+      "index": 85,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0031.jpg",
+      "sha256": "ff1dffe2a7c03f2a34faf74d0282f769a93dabbd9d5e86ad85a889bb7bf37bbf",
+      "pixel_sha256": "c9e6c660ff3597c2eadca67d17197f5b5f25ab2a9cecac66e4a0a6b9a308892e"
+    },
+    {
+      "index": 86,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0027.jpg",
+      "sha256": "b53aebb42092d332b0f584c8e7bef946d56d9ded5a63b06a855b52b42a1322f0",
+      "pixel_sha256": "e662f7eb4ba988f77c828bf7b66c24a87f2c6d0713a2e0c6a7b752bc257ebb59"
+    },
+    {
+      "index": 87,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0037.jpg",
+      "sha256": "ec3e516b321a07cde53ef1da282680dc434ae5ebe2dd4b0dc4343051cfe2f0c0",
+      "pixel_sha256": "af11b5979110d05f23776340c3eae159dc63117b4f03d87f7ee22cd765405e95"
+    },
+    {
+      "index": 88,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0050.jpg",
+      "sha256": "f35445326bbe1b391629ef6ca2a35fcc90057f275ceafcf70336220cb6d24f5b",
+      "pixel_sha256": "e6a573e50da0dd408db5a99949e56b7c51210c3def364e5ec58dc05dc179b3c7"
+    },
+    {
+      "index": 89,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0009.jpg",
+      "sha256": "576d0657e35586bfe3899c508a5754b11546b913ad3704af8139454e6c22331f",
+      "pixel_sha256": "9562ed2edf139ecea93942c857e52fbf18fdc116f330c79457f76f7048061f7a"
+    },
+    {
+      "index": 90,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0006.jpg",
+      "sha256": "cfff78cba0a39b278eb93700241151f6466d1f2309f1aa33e4882ef8f77a88dd",
+      "pixel_sha256": "62038c4c5d49e99d2bf77075855c77b79ed4b68f4cc755bb24a957d123e0ff42"
+    },
+    {
+      "index": 91,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "support",
+      "member": "101_ObjectCategories/dalmatian/image_0038.jpg",
+      "sha256": "f4d407cface33ed603e793d9a0cba39736b30d10c345a1de1bf0950b7ba327e9",
+      "pixel_sha256": "bb4dbc152f002986850d275454761f633e1f2bde72f11f264588c2b272c05e94"
+    },
+    {
+      "index": 92,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "validation",
+      "member": "101_ObjectCategories/dalmatian/image_0063.jpg",
+      "sha256": "76827e6e500ecb96846c566d99ef97fdd51b448cac87bfcc3a54ed521f48970a",
+      "pixel_sha256": "abd1e7f2047d342453d2a23be3167e3ffbb8370ec30fa906df357bd7bb041fee"
+    },
+    {
+      "index": 93,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "validation",
+      "member": "101_ObjectCategories/dalmatian/image_0053.jpg",
+      "sha256": "5f01816ce1f9da1b0af1a22d5e6974d4803e1cab4bb4fa5e6f2e94e866083a67",
+      "pixel_sha256": "dcf3d92aff1824f3ce7ff7348025bc16e58ca69350e157d8aae5d6b9b551cc4e"
+    },
+    {
+      "index": 94,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "validation",
+      "member": "101_ObjectCategories/dalmatian/image_0048.jpg",
+      "sha256": "f939ac4ab37805d0205e9c9af467759607cd56c560ce2cab765ed255e1d9b5a9",
+      "pixel_sha256": "ad2ad48fe79abda61e880e57f60e9b3fe2d530ea50612972773fd4ebf8a4336a"
+    },
+    {
+      "index": 95,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "validation",
+      "member": "101_ObjectCategories/dalmatian/image_0022.jpg",
+      "sha256": "a0d3af80bef95afeb7cb40c712743a4541d1f63513c48b014c6b9571bc15db94",
+      "pixel_sha256": "67edcaf048dd5a81550043c7030c067f3c40bbc4c5914df22a661721c4c6c74b"
+    },
+    {
+      "index": 96,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0056.jpg",
+      "sha256": "89d590e13158e781e40b369d058cca32a1bdebd85f218e57d1debf24fe4ed34c",
+      "pixel_sha256": "b644c3d031d0d7680a932b6c4605f95887f43930661fa389a5738c2e565f6dcf"
+    },
+    {
+      "index": 97,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0066.jpg",
+      "sha256": "0a81ae73d9707fbeda2b732192ce79e8663390dc524075080de2cde2ed442007",
+      "pixel_sha256": "f31f5a07dfc1cfc43b692fdda0306fd9546e71198c46df4448a76bd8143ba03b"
+    },
+    {
+      "index": 98,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0012.jpg",
+      "sha256": "0dd765a7dfc9a5ea02f970be98376132a4e5bea1c60efed10b78f9dc0fc4e534",
+      "pixel_sha256": "407c4790eb37b566a262c7618232db97e3a857405b2e7dff11317a51836e27ce"
+    },
+    {
+      "index": 99,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0046.jpg",
+      "sha256": "588d2a3109e4d1d7ed56588a6c94dc0a9ccc997816511f7fecc5a987894475cc",
+      "pixel_sha256": "91a1d3809c5c0f84de027547951749bc140aaac15e9e62be46c422ec52f5e027"
+    },
+    {
+      "index": 100,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0036.jpg",
+      "sha256": "efa4aa518f7cb652bfc99ee9670db2fa2654d5ec7cd9d1b1b29cd48e30887615",
+      "pixel_sha256": "ad1f8e6656f32c1975d1aa9347667e6cb6ba13a580463702a05d543388f3476d"
+    },
+    {
+      "index": 101,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0060.jpg",
+      "sha256": "4af20f4de08d6d88a8c0c975e99e10be68abecff69e48104524b04256b2ed077",
+      "pixel_sha256": "31a87effb7c1f221089cf69b8fb0140668bbe44b336e69a9457db1b64fc23773"
+    },
+    {
+      "index": 102,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0002.jpg",
+      "sha256": "6bbe4430235cbbd2dca9d089f316117f7797bb6c01d63ec8ac5fd42507894a0a",
+      "pixel_sha256": "e6414cd25905bd6f51358439a6c08e5e5a0fff1bea58478cad6ccd22622a8a7b"
+    },
+    {
+      "index": 103,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0013.jpg",
+      "sha256": "89c32189a357011346b65abab11fbd6ecffb043661096c012c7740e9f7d0f3f7",
+      "pixel_sha256": "6424a4c9271f2d659a196554273ff23b35def1c821ba895d4145626b49011977"
+    },
+    {
+      "index": 104,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0055.jpg",
+      "sha256": "bc71eab4421a0eeca40cc87aa8267504ac463f8e3368cc3e8d68922b621dae64",
+      "pixel_sha256": "1121f4d7339fdb7e03e290e43f16a6c59b5f012f1352daec6e9e881b5da11acd"
+    },
+    {
+      "index": 105,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0017.jpg",
+      "sha256": "a0dfc862076a8c2eadf049c887252306a25af4c00c285ad92aff659f5bdc372a",
+      "pixel_sha256": "5cfccce23b97064dce6b3fbc769ed6c8b707e2c8ef4116c9188a065873b04aa2"
+    },
+    {
+      "index": 106,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0041.jpg",
+      "sha256": "43cda9a18fec2b0a61c986a8d7d1d057d91b55ab7fa7f763ddea6e9127e7cfbb",
+      "pixel_sha256": "ae7b5fb9e608af7c77d18d4cfdbfa84d62103a75dcf6e0d073286fa4f19442e1"
+    },
+    {
+      "index": 107,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0040.jpg",
+      "sha256": "c700fd6cd48c09416dc7f7a774709ef50ad30a6c6e239138e94ca6fbc7bd8536",
+      "pixel_sha256": "36143a29e0b1ed645ab66943cb346f2f3cf642d6a1cad475b9632f6bd1d27d8a"
+    },
+    {
+      "index": 108,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0057.jpg",
+      "sha256": "dd61f5d842ada2f3b23f232bcde41b5131c288d42dbd6d8ddd862927790115f8",
+      "pixel_sha256": "35843102abd756c35a31fa6b26c58baabdf752387711212d56bb411f5c8ca29f"
+    },
+    {
+      "index": 109,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0020.jpg",
+      "sha256": "7c335bae55f1a00f3c5dc5186e6cca791c84143d6f0baf57b3bb543e5010c7dc",
+      "pixel_sha256": "df263986800ff26da1fbb6e19f49d47ed8c14042206f1b1fc4d506e846de50a1"
+    },
+    {
+      "index": 110,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0024.jpg",
+      "sha256": "482b6225396a88e92c5c58998d57f22bc161bed3a80b56b36318f3112c6d73d9",
+      "pixel_sha256": "f5daf45436cd11615f573ee35f652355612c8a5d4266d6a1ef2e6799f100b7f9"
+    },
+    {
+      "index": 111,
+      "class_id": 3,
+      "category": "dalmatian",
+      "split": "test",
+      "member": "101_ObjectCategories/dalmatian/image_0065.jpg",
+      "sha256": "3334abcfa5628599c119afcf5a64a3f8075969be1d0ff01bb5a6a3657becd165",
+      "pixel_sha256": "9a9cf4f935f88b20582e59b83761769617d9986eb89e3bad6b6484d256e5d6f6"
+    },
+    {
+      "index": 112,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0044.jpg",
+      "sha256": "b39964efaef2a6a10b13a7c52f6e631dd3b862c4af5fd7c569b675f9a2c5f987",
+      "pixel_sha256": "2e51a762b7bc821a5cf1b329a4eec73a2c78361ab34aa3f6f715df6e3ce0cd99"
+    },
+    {
+      "index": 113,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0033.jpg",
+      "sha256": "7ac4543e355f0b68e703554cac1b843f3898a64fef20874c38d430ec2576645e",
+      "pixel_sha256": "fdcf810c59f1879c51952bf217004bb262743df8b959e17b726fe18abee6ec78"
+    },
+    {
+      "index": 114,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0067.jpg",
+      "sha256": "44c3ae067890bce99a4b80a9026554784b21c42b271c5300ec7de638d9347c12",
+      "pixel_sha256": "d3634a8fb3d7f8f8226329ed7bbfc336968f8852e4f7fe38d4c9827320931fa9"
+    },
+    {
+      "index": 115,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0015.jpg",
+      "sha256": "2585b2b49da29b0d6063dc2856b734b13c825f499f233c3af25238d174e1a3a0",
+      "pixel_sha256": "30619f80b39366fd00467fa5000427b462e9a9cdc6d095292cfb031059fb308d"
+    },
+    {
+      "index": 116,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0034.jpg",
+      "sha256": "6fd6070f795938e7f72f0ad7ed2cf58a91223873fead0125210d63bf41b59000",
+      "pixel_sha256": "3018967b5723f92ae975cfccebb9b9c89f6d937989b05f04c4435d8c31d9391e"
+    },
+    {
+      "index": 117,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0045.jpg",
+      "sha256": "f3687b409612e466d0c1587f84289f1932ede33738dea83989e80e2036386261",
+      "pixel_sha256": "f79f366e40c80260f77f8f12dbd04989d2b3f54d63d41da56a953dc5481c921a"
+    },
+    {
+      "index": 118,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0005.jpg",
+      "sha256": "ebd7318b7e3292a628dc6391628d5ad54ef13bb20504015e65d5173a653e95da",
+      "pixel_sha256": "4e3dc2765a1a8380137db3e13ca00cd7defe9bc04d21302a137b8f0283308fba"
+    },
+    {
+      "index": 119,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "support",
+      "member": "101_ObjectCategories/dragonfly/image_0018.jpg",
+      "sha256": "9d91e81e6f0da4bdbe408a0adaf2d6c12368ac4cd027ec6c4df0cf61afd7ccc9",
+      "pixel_sha256": "2d2a4174793b16285b58b05f4e284c4e41ee442347f3543eddea8e59ee1e10fb"
+    },
+    {
+      "index": 120,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "validation",
+      "member": "101_ObjectCategories/dragonfly/image_0042.jpg",
+      "sha256": "36041712366a5443efd9c327ebf7df23bc9a9f3cba557f441b7468846338c7c9",
+      "pixel_sha256": "d54b9b388578db7356ca0140deffd659019b19286b79c91beff4b23acebc919d"
+    },
+    {
+      "index": 121,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "validation",
+      "member": "101_ObjectCategories/dragonfly/image_0039.jpg",
+      "sha256": "072ff9e71a956cdd65ac81948a6753dbcb3335a65d4a026e1a5f2b6d105db8e7",
+      "pixel_sha256": "6db545a1c6f2f8feedbdecfc22443d69a4769a7a0a5bfd667ed9a4b222616535"
+    },
+    {
+      "index": 122,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "validation",
+      "member": "101_ObjectCategories/dragonfly/image_0066.jpg",
+      "sha256": "10a494451fa24627c9f915d30bd2616d75f4b3eaa16447d40653369deb75e34e",
+      "pixel_sha256": "84b7013a2da836c9a5299bf3c444832259584396fc21282f02782e79104ac5f2"
+    },
+    {
+      "index": 123,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "validation",
+      "member": "101_ObjectCategories/dragonfly/image_0030.jpg",
+      "sha256": "eb0bd0ceb11dadf6abb3704f363e795b59184a289f47279c3de3ba10593db4eb",
+      "pixel_sha256": "3f136db867f5f28aef28ccaaab8bf4bba1747d71ef33cc047b784c4e8887ede8"
+    },
+    {
+      "index": 124,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0004.jpg",
+      "sha256": "dbaf7c652ff9aeff2dabf5b8ab4063373837fdab8e92a141341b9d9af0b73a6e",
+      "pixel_sha256": "e237d2bc5468bfe2d1e5fb9a5cff5a7531c2728f6d5480bc4abd77f2455db1e3"
+    },
+    {
+      "index": 125,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0009.jpg",
+      "sha256": "731297cf2e9cc1c5e55ef8075bdec8e6cf08b9c2ebbeb1b27ecbb3a2e5b11d1f",
+      "pixel_sha256": "af5d908f2fc02bcba00162675f3964af8c2616e759db76870e8726ca4299be0d"
+    },
+    {
+      "index": 126,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0063.jpg",
+      "sha256": "458fe2b2e88d2c0353c80e760e31f4d9617c44a0fea089883c2d630ab660394e",
+      "pixel_sha256": "0d53109ff0f487a6c595eae6ea7578d28c8f27e4faadb3a677c76482944e0edf"
+    },
+    {
+      "index": 127,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0041.jpg",
+      "sha256": "a5ca9d45dee199155eabeda03fcec8cbd3134e6bf63dd4cf6619ee292d7fac5b",
+      "pixel_sha256": "ebf332ca443ae4dc49f6905ac0faf07835242e2d8eb444e84e801f53e91193b1"
+    },
+    {
+      "index": 128,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0051.jpg",
+      "sha256": "b2e170e20f69b5aea5b490bef924f601c669e1efad22b8774622959c50233de6",
+      "pixel_sha256": "e7721857006058ada218fffac7332095bf3ce8fe6c51b6b33734ccfac82732f7"
+    },
+    {
+      "index": 129,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0052.jpg",
+      "sha256": "a8287fa6dbf70e7e1d3658283f4ae26bf8373fba9d906d3e7b4306fd9c8e9562",
+      "pixel_sha256": "11a0e70fb38ea0c6411408f0bfe6632f55f984258973fff177de2029d8a3ba0a"
+    },
+    {
+      "index": 130,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0058.jpg",
+      "sha256": "b573f773a8d1b55e9bde0afcb3a042d0d8a3419d7a1415a6cdcc3f9f1b519774",
+      "pixel_sha256": "e6d0e7e11e71d0f5a6bade3cdff312555c6ac381ac2b8c7c20879f8e5b766c17"
+    },
+    {
+      "index": 131,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0025.jpg",
+      "sha256": "c84ac90e80cebd57b784a28556ad87db7b42c1d631d95436bd6052b52853ff1c",
+      "pixel_sha256": "651d8c6ce127f972383d8869ca985ca5668ba4c5c2f19e4e8cb97d41ae8598dd"
+    },
+    {
+      "index": 132,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0049.jpg",
+      "sha256": "f9deaa7b64901f5cc6aa82e46eb3f7470cd9162daf5f806aabedf256ac4f6b70",
+      "pixel_sha256": "d7f8c30a992e7ab62e1e2d0bc9513106be66a31d8963e2249b5250474750ddf0"
+    },
+    {
+      "index": 133,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0013.jpg",
+      "sha256": "d5b767cccc0c498762c890de715b52bb91ab34a75e865860c47c41d1b224111a",
+      "pixel_sha256": "c4f43d63072a1bd2bd265d6bd4d5b04b038fa932fa1ce182cc23800126c1a417"
+    },
+    {
+      "index": 134,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0029.jpg",
+      "sha256": "c3eea04291b04d8559355ab87ff069dd727d0257bb3ca0019eb6222687ef7958",
+      "pixel_sha256": "7053bb9b3e13227dec97c4c74d0da8431b0577f468b84426069b0d074b183612"
+    },
+    {
+      "index": 135,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0022.jpg",
+      "sha256": "0e8240a1f49e78cd6299eed613f8b0d6d13e60f64dafeccf9f3d85d2875a1f2b",
+      "pixel_sha256": "c280d83037a2a309fdc2ed0fe11298e39566f6e56116765ea769dab17b392d45"
+    },
+    {
+      "index": 136,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0024.jpg",
+      "sha256": "189dca42f689e630f582cfeb87b6fb3da8faac0dc9e329f8e99ced7aafa7bf06",
+      "pixel_sha256": "2562b962af8b1107e54009b75b7860449b291f29ca8ad776830c0b8ffd528763"
+    },
+    {
+      "index": 137,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0062.jpg",
+      "sha256": "1cd4a34810cfd04d6d65ca5272c88d24815ab82eb857d48d3dd00332d4cdf749",
+      "pixel_sha256": "068c004bfff44224a5957d115ad771f70985be8ba9c0050735cd24c9e02e33e0"
+    },
+    {
+      "index": 138,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0032.jpg",
+      "sha256": "3953c1894765800678db71de5a53969e53e4a3adb8c1c3d43c4864ed8b5e0c0c",
+      "pixel_sha256": "8ad98b43648661b2076b1d4e53d6d2f343802fb84dc0193c437fbb88c2c72748"
+    },
+    {
+      "index": 139,
+      "class_id": 4,
+      "category": "dragonfly",
+      "split": "test",
+      "member": "101_ObjectCategories/dragonfly/image_0001.jpg",
+      "sha256": "bef9ebb79f76883c6c031cb41311dc0adefca0872d554da37f0c017f1a653160",
+      "pixel_sha256": "ae28b7975036efb72c40561225b05f8755c88558e04a9f5c37784acf352f85ec"
+    },
+    {
+      "index": 140,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0017.jpg",
+      "sha256": "22e91a1e85363f59ff9b73bb6aec6bc74e9b8ccb23b3bbcc9c8d38f0fb05a4b0",
+      "pixel_sha256": "84848875a5fc8ca61934c2d5d646922e2864fc7d453e233673a861d156bfbb95"
+    },
+    {
+      "index": 141,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0013.jpg",
+      "sha256": "51e2e7049bcc02adb5ab3f431d302329bf25c44467e251a84f657f6fe29a5c0d",
+      "pixel_sha256": "eff5c5d43bba421c7c435b9b35d8ee7acd7409a4ff95894d06e190f681d4183a"
+    },
+    {
+      "index": 142,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0043.jpg",
+      "sha256": "a499086e7e6fe0546b8a21d363bd86e48d1fcbaf222077f14fdb8cdd36d93ef9",
+      "pixel_sha256": "23cb04bff0727d973392523397c167add3751581e178295624be7d1a576a8394"
+    },
+    {
+      "index": 143,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0034.jpg",
+      "sha256": "b52ca71306800c2b3c6e7cbb306fe33e60ea438f935136a74924015f1b2b1e00",
+      "pixel_sha256": "757922fb405caf10d446a4f8b10a2afc56e8cca6b1f2522991ff06bb95ea3c6f"
+    },
+    {
+      "index": 144,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0018.jpg",
+      "sha256": "1df6578b79729ff88ecd8bbc7c237f71372055670d0eadfba8f5eb0d5ec87404",
+      "pixel_sha256": "12d1c00f9a131dfa55f200d8d7476da768693171bbedb47c5f9e300475b23850"
+    },
+    {
+      "index": 145,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0035.jpg",
+      "sha256": "2257b105182bb02f78b7236532c76f03d05f4a4deb72aeac1f1a2cbde59ae48a",
+      "pixel_sha256": "b849a797b983dcd49284b067c05173a95bf2af0fe51cbdba61e2c32aaba90bf0"
+    },
+    {
+      "index": 146,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0011.jpg",
+      "sha256": "0c584489eb8599f7965235751421013cb406ac5dc5b7fcd059b269970ab87d2c",
+      "pixel_sha256": "18b09f560280fab42f6218d54187d5be7126f1c8a5183e9fe18d4afe7d55c32f"
+    },
+    {
+      "index": 147,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "support",
+      "member": "101_ObjectCategories/electric_guitar/image_0053.jpg",
+      "sha256": "4ebdbdfe73f0370acb22acddbf6310d237ddc5aa71fbf7275d759b4f448ada2b",
+      "pixel_sha256": "b917d750b4b000ea180a5bc1aae4765a7db8056a9f5b95fd11bbac43a9a43d22"
+    },
+    {
+      "index": 148,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "validation",
+      "member": "101_ObjectCategories/electric_guitar/image_0002.jpg",
+      "sha256": "eadf9e1eac013da271da41a8ca89441b3645a86941d70d6795ebc815db9a8562",
+      "pixel_sha256": "8e46dc12d30b298b2a77539ef3d01e1d21e2a57e9e66b2f85296c66010bf75b9"
+    },
+    {
+      "index": 149,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "validation",
+      "member": "101_ObjectCategories/electric_guitar/image_0027.jpg",
+      "sha256": "cd442bb11f47eaa390fd5237b4e6dd639f692dab68c92671b992083808e562f1",
+      "pixel_sha256": "82c2f770df6da072f61f8fbd9ce8ea4125be44b5bdd36539ec4bea8940943c23"
+    },
+    {
+      "index": 150,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "validation",
+      "member": "101_ObjectCategories/electric_guitar/image_0056.jpg",
+      "sha256": "a26845c2a616adae7bb1b52625c28584e574a3a3600474c143a031a94842ee2d",
+      "pixel_sha256": "6408e111badb51155fbc848626e1f7dd36d8e8111d68e3c0b4282a624adae2fb"
+    },
+    {
+      "index": 151,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "validation",
+      "member": "101_ObjectCategories/electric_guitar/image_0033.jpg",
+      "sha256": "02cf239dde1bbf2cd784d14c96b771a1ea4770eae5ea0b2e5bec146c18895efb",
+      "pixel_sha256": "bad329145effe697bca046dfffdc1e70a24d05bf9ee5097d801ea012539c321a"
+    },
+    {
+      "index": 152,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0005.jpg",
+      "sha256": "7a82f71e01fcca3cdbcc11e62968ec60f7fe9490c012a9b3f6475d983f860670",
+      "pixel_sha256": "c5c025c11df9a87d1e25454229484525020d8bd9cb3a2bf410d3e1438baba078"
+    },
+    {
+      "index": 153,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0022.jpg",
+      "sha256": "1259465acf456b451b6f18e4289d80c53cb36a6295ec8fa2c3301145180cd9c1",
+      "pixel_sha256": "489df6038c81599bfc2f4078164fc0ad292826a10f1a147bb687c609233ad7c2"
+    },
+    {
+      "index": 154,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0057.jpg",
+      "sha256": "d27bacc90f5edec38babab7ffd260854d3977bb2132b4c4c204a1cef646c6348",
+      "pixel_sha256": "3a08e22923dcec5f6a23b0a2692412aa12c5fa04645afdae6fd47f311a3d80e1"
+    },
+    {
+      "index": 155,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0038.jpg",
+      "sha256": "55f946a2a2f6c6382e08caf2eb12a8031a9fc75216246696588d1e558ec7215a",
+      "pixel_sha256": "eeb3399763b3d4b97f63a84951dc8d9c555e6a30bdfe50a1c01cc49734613fce"
+    },
+    {
+      "index": 156,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0068.jpg",
+      "sha256": "c2b703d676b4488e5dc4a0c441b09b5d4cef3fa3adcbc2322bfcab670b4b4279",
+      "pixel_sha256": "a9d6e071b0ffdbc23b3ca8394416b036c58401adc1639e8390cde5fbb21009ab"
+    },
+    {
+      "index": 157,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0050.jpg",
+      "sha256": "3bc768ce11451e559e8fdaf06b31cae1a33fa2087c68b763d91eddf4d10129f1",
+      "pixel_sha256": "555397e3dc8c3153d3d5b55d61c480e2bbc261e2d3c8a1c31b9c6d2108eb2775"
+    },
+    {
+      "index": 158,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0029.jpg",
+      "sha256": "00556cda5d335e17b1fa01eafb935750364ab0f41ae92dd316c3d5fd00cee547",
+      "pixel_sha256": "0fec7ff733a78ad3ca994916e0f46d4e989a3d1364e591a6502ea86ab262c6e4"
+    },
+    {
+      "index": 159,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0004.jpg",
+      "sha256": "cc48b1e67061cf1d65acd6535912cca254c71b997b061fcc2f00f8ff74a1952d",
+      "pixel_sha256": "ef8d01def5d3c82da620af7f80cfe9d7b765c365060204628d42ad182b6182fe"
+    },
+    {
+      "index": 160,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0059.jpg",
+      "sha256": "1a14fd71ec16d6899a677acec885b33b724d7cce9dd61cea74a3f12e657ccc6c",
+      "pixel_sha256": "30d916d0da5e11bda79f4ef8387f7cd02fe84f65e4f8cd6a29c1eeb8e98eba21"
+    },
+    {
+      "index": 161,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0054.jpg",
+      "sha256": "7ab7e026e3138c3f681343bd28e81efe2445ad58871110b116f3203d801ed7d3",
+      "pixel_sha256": "e0f85aceec0693cd9b07e937681426e16727d93804b8abcd3ab650ebd6adb9ac"
+    },
+    {
+      "index": 162,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0015.jpg",
+      "sha256": "9d9aabacfff41dee94ac81cc37404ac35d3b09825520d76f5cb3ae6a62e0362e",
+      "pixel_sha256": "31cf13b1ed90550495b32b90fba8fc36d234fe59e986677a2702481ec46e777f"
+    },
+    {
+      "index": 163,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0064.jpg",
+      "sha256": "5e6385557eedd064e192bf795b22ed0a0a01638e741d5bdcea2c22c16feba610",
+      "pixel_sha256": "678c5290ddcd90f47a48d09fceeffeaa07a5271136c7aefe57d7b1ade2e9db3e"
+    },
+    {
+      "index": 164,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0028.jpg",
+      "sha256": "7c3775df41aa2bdf3f84f22a6e94a5c54f6f59013e944f5871853769966a8a5d",
+      "pixel_sha256": "92cf37bdcc7231f699a1656b2bc97264a6631d992eb12049f3407f54b18bca40"
+    },
+    {
+      "index": 165,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0031.jpg",
+      "sha256": "62d7a2207e523c9c0cdc7a87904a92fabd5aef3d943bf1b04d5eac23a8c4d136",
+      "pixel_sha256": "33ac7e780d1f72f637a79a570ba4f4bccd080c2a7714ded3be952cca84a57354"
+    },
+    {
+      "index": 166,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0071.jpg",
+      "sha256": "e716f0056a2ee616757e8a0c2c0b42cee0dab7652a3a9674fe7461ed0b89616b",
+      "pixel_sha256": "1c4a72c70c8ebde9e3aca4fbe7cb97bbc85b5aa79516620692d39fd322bed47d"
+    },
+    {
+      "index": 167,
+      "class_id": 5,
+      "category": "electric_guitar",
+      "split": "test",
+      "member": "101_ObjectCategories/electric_guitar/image_0006.jpg",
+      "sha256": "0bf31a0a8277f1472ec97e2802f69bfa08b6013922a7b0429861689fafc65256",
+      "pixel_sha256": "7ffff4329dfda4c847e48263e2824bcdd9b5b9076c55c20665e76398d213cb6a"
+    },
+    {
+      "index": 168,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0008.jpg",
+      "sha256": "ef8c49d29a9c602f2e52e1aad218693328fbd47ba5b9f26568ecbe40a41239b1",
+      "pixel_sha256": "b286ff6eebf96d6ff449717263aea725aa86564ceb18eeb945a1d3a7f49e48a9"
+    },
+    {
+      "index": 169,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0002.jpg",
+      "sha256": "823766732caeec68069aebbfc849cd6a74d36ef944ac1d7368a13629505f8d01",
+      "pixel_sha256": "c3abeae0222f3c31e922507166feaeb17ad3b7c8d3070cbdfe60cda0f1bbab12"
+    },
+    {
+      "index": 170,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0004.jpg",
+      "sha256": "0cabf708d84cbc0a18cc9d5f14b6aa341f6c26391273446231ac78b47d86794e",
+      "pixel_sha256": "86bfa2db5e022a2678b8fb9aaa2046831bed18101cf23bbf90ba49aea7ad5943"
+    },
+    {
+      "index": 171,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0042.jpg",
+      "sha256": "06fd62bd6bee4fdd4a3d1b79f1ea28863917780e9686179bd270acd2b6355b8b",
+      "pixel_sha256": "e6ba8c2f2a047580691f1ad33efb4e62699f2e7d4eccfa84ecbdbd7e7ac9b786"
+    },
+    {
+      "index": 172,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0031.jpg",
+      "sha256": "6f9b9737b5d0a0b2a4bc9c91fadecd0ef9541e15e6f3fa78ab70a8de1b159085",
+      "pixel_sha256": "6c5711be4b44cac288fe9a8a10596103949e010a54af7a9c5cc0eb5c8601513b"
+    },
+    {
+      "index": 173,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0021.jpg",
+      "sha256": "2524ab00b4fd5e5bf58d7f2a71abef56ecd3748cbeec843456790f1df37bbda1",
+      "pixel_sha256": "91556fa5cb97da47568fd8384f59614f0d6bd04df570c7373c0f011931baad11"
+    },
+    {
+      "index": 174,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0019.jpg",
+      "sha256": "3091f7efae4e17cce40bcbc59e7be8d4227668fe213c55d508a7b4849ab2ddbe",
+      "pixel_sha256": "a0af99e7be0d7cb88e4eaf080b1a6a03d1dadaee077860b416a39ac6143de1d9"
+    },
+    {
+      "index": 175,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "support",
+      "member": "101_ObjectCategories/elephant/image_0063.jpg",
+      "sha256": "61e4b6cbe9223c8f673a6e16da022909a466176116f66051d274fc2d3560de1e",
+      "pixel_sha256": "4b86f088603addc7a35105c3583d023e9bf77e5144d75ad3e1a4249d4f6b6bf8"
+    },
+    {
+      "index": 176,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "validation",
+      "member": "101_ObjectCategories/elephant/image_0025.jpg",
+      "sha256": "c605ee7a25475a39d36635e93caac109582536d35b033400666c17f78cbcd650",
+      "pixel_sha256": "ae7d5ff932c9b753c68ca5acd4293449bd70f2cc7c8ee5c41d6fab37c659b0e4"
+    },
+    {
+      "index": 177,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "validation",
+      "member": "101_ObjectCategories/elephant/image_0028.jpg",
+      "sha256": "547c526589b361c990773047311f84f223f909ead4f0fcef0176959bb419e3a7",
+      "pixel_sha256": "3e7e096527fa7d80ba89daef1d59e1ec243f103c5f9dce5f50a84060894ca314"
+    },
+    {
+      "index": 178,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "validation",
+      "member": "101_ObjectCategories/elephant/image_0015.jpg",
+      "sha256": "218a096e4ddf84212a4ccf8b2a68faf9b17e59899c77b189383cb8e83742a317",
+      "pixel_sha256": "abf078684171ac55edd07912e047e4f28266f8699445693f8b68cfe90ea1b1cf"
+    },
+    {
+      "index": 179,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "validation",
+      "member": "101_ObjectCategories/elephant/image_0007.jpg",
+      "sha256": "03bcf3440a2330bb016d4e92b86953f40c1dfa219338fea392b9a48e865bc21b",
+      "pixel_sha256": "a4fa40920e3baf6f4bdfea935e5ec25c5a7f88c6860f9a099e6f2468b9fe452d"
+    },
+    {
+      "index": 180,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0052.jpg",
+      "sha256": "8c9b00d6c0e5561a9db04b0cf32567837500a465583e08e36aa71b1144fe2456",
+      "pixel_sha256": "24434628233a5a85b7968ed301c5918406f923a730af9f3a3d57bb33ef394459"
+    },
+    {
+      "index": 181,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0053.jpg",
+      "sha256": "c6f2f083c65c4423e8732070389c7f297214d69e99b56f6981d351e6ce7a399c",
+      "pixel_sha256": "8741a5601c2617c1be6d01a9ccd8b4b0f5003a4a4ca83ff9f3138b277c100212"
+    },
+    {
+      "index": 182,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0056.jpg",
+      "sha256": "fd337a47bb926faf07ec7c601b5dd8ae4da059a901ad687a063d57755a720c79",
+      "pixel_sha256": "d5aabf99ab212193d8bf92bc44e5115ddfdcb56d129e312d091f19fe2b6a5916"
+    },
+    {
+      "index": 183,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0018.jpg",
+      "sha256": "bd47f207245bbfedb282566908ffd3c8bc4d663b770de87efce1d7226a4f8a5d",
+      "pixel_sha256": "e000749fb90ae1e05aa0e3c00c6b55dc0f1e51d3a7131f3143d7f097d0e87a8d"
+    },
+    {
+      "index": 184,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0026.jpg",
+      "sha256": "4c9bbb6e15dd5cfd2e171e211c7b8ed06d4d961665782133f1dce1823d111978",
+      "pixel_sha256": "d014ec04c5cc502d9b26c2544bcff2a18fcdbf95d2dd5cd28a500e04047a873c"
+    },
+    {
+      "index": 185,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0059.jpg",
+      "sha256": "2306aa269090d6d651f33279c041393f3ee6c8807787b15137341561585d1f69",
+      "pixel_sha256": "8feac9cbec2c672aecab3337c42991d2f7e4e9795587ba19d1d8efa586a29bef"
+    },
+    {
+      "index": 186,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0009.jpg",
+      "sha256": "aeb7e34e465a704b92216682fb1f20b8947cec4c653e6922de90f4cfd43a4527",
+      "pixel_sha256": "6184bc60ffc0c222e0704b2109874e9904f1c2a6f5de781d9ebb8de9f03d9d91"
+    },
+    {
+      "index": 187,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0062.jpg",
+      "sha256": "a626aa905e5619b5baf418c0a52690b9c37fcc712c5ac278c0c9549ef6e737ad",
+      "pixel_sha256": "5586e94d1d0043a065dd0b94bbb34179eb8bafd2706294d0656f67926bb2b13d"
+    },
+    {
+      "index": 188,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0020.jpg",
+      "sha256": "8a2a32f5275ac62033ffaaf0f52ac1e79e52c1c629566cf1862b4885beb8642c",
+      "pixel_sha256": "32932d4af8a102c4eb535288329317f69888ffa3d0d83340ba009f61fcaf4902"
+    },
+    {
+      "index": 189,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0035.jpg",
+      "sha256": "5497c98c0dd04bca583bf34c3eba056885eee0487839265cadb882fcad731874",
+      "pixel_sha256": "c895b54562692a23bd36182df11350405cdb8fac54928a607d71ebfe97c86ec5"
+    },
+    {
+      "index": 190,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0038.jpg",
+      "sha256": "008cba328b59d5b2f093aa9e97fbd8b458d0d07f90a01cdee15b40bc9c506aea",
+      "pixel_sha256": "3522a677fbdb4602a9a75744933713545319489357589475186087937912700c"
+    },
+    {
+      "index": 191,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0014.jpg",
+      "sha256": "a173ae2dd7569db465812e8ce4c9010f0da412ccdb73d653b284e166a4a366f8",
+      "pixel_sha256": "5d32e024062dba40e5b22cea010f661a1178dbe2209dc8bc277f5f5c95deae59"
+    },
+    {
+      "index": 192,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0029.jpg",
+      "sha256": "d4b9e62658f09544b53efcbdb617be03d59604c4f5984060abca75855f42ec8c",
+      "pixel_sha256": "5e8a0330c82ddf2d84357ab28e64b639cd419f4440da19cb955668cad85cb9d7"
+    },
+    {
+      "index": 193,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0047.jpg",
+      "sha256": "6b7b06e3f85d4c63233810d6b64e9f5f213272769a61693e121c843fed0943c1",
+      "pixel_sha256": "1856b999ebd13113b64f0222a3cb1a17a96c587bd5b2479afabe74b2f83da5dc"
+    },
+    {
+      "index": 194,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0013.jpg",
+      "sha256": "b21c81222238da8edaaf8bf5f2280c3b8360225a014d4dfb8f74fc263c61467e",
+      "pixel_sha256": "e70ca1ff50970910992ee0bd77825c1a5ca1627563a45e4aa6a7e9d5e690d03b"
+    },
+    {
+      "index": 195,
+      "class_id": 6,
+      "category": "elephant",
+      "split": "test",
+      "member": "101_ObjectCategories/elephant/image_0044.jpg",
+      "sha256": "7ae8344a3e1c302bfa08fcb5eeba263de0f6bdc72b3fd2bb1080d410242d66e8",
+      "pixel_sha256": "f09be2d24e880e1ab10a2bd558497f69e522df0288f3bb0deae1a36df3077c4b"
+    },
+    {
+      "index": 196,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0049.jpg",
+      "sha256": "dca783005e7b5e3d279aabdcf87b552fa83f1cee5bb66c49b63c8b84baffa56e",
+      "pixel_sha256": "7f43338dcd1c1e679738bdf70416219e549fb1539b16d1983837ef07395c08b5"
+    },
+    {
+      "index": 197,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0074.jpg",
+      "sha256": "faf1c4e566597e2222d766de40b7ed35cd13fbcce657244876929b5fc98a4bfb",
+      "pixel_sha256": "6a259665cc9993ac29b894783a7e57dcd2d391cbe1abf7c2a9b2619c5a29342d"
+    },
+    {
+      "index": 198,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0051.jpg",
+      "sha256": "4995fa7e7b2de1165aa930142c946ec5678e05eadb4ade6a6b4dff2539e8bd58",
+      "pixel_sha256": "781d0cb9d659092f09f266ed582200b3cbc2fc18a3ffd1e51156fabbdf7c581d"
+    },
+    {
+      "index": 199,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0045.jpg",
+      "sha256": "348e4570a83e39456aa64c24ea7ddf0d5c9e69b2bf5b21f7ba5faa3d2481b215",
+      "pixel_sha256": "55c989da082691db260d9906be968c53dd17de15c2105f152545c81bdadfbe4a"
+    },
+    {
+      "index": 200,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0001.jpg",
+      "sha256": "f02dcd523be8f327d399c32a7ed29ff2d502ac3849e5798ca17e5f2e863984ed",
+      "pixel_sha256": "c70d12360665a0038851d2da6fe2a6988e93c14031ea8e18284d99a3e6ecfdbe"
+    },
+    {
+      "index": 201,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0032.jpg",
+      "sha256": "d9105a78c983a50fbf1587390527a846fdd815ba8da1f89fe790d8bd09ffe871",
+      "pixel_sha256": "9ec4cf2f2405ca3559c3257a569f7f3fabf9435c37d92940de0d29f346c1afd2"
+    },
+    {
+      "index": 202,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0012.jpg",
+      "sha256": "286474272175e6f8dd5a3624bb1539239dc7c883cd5eebc96de166f44e2fd263",
+      "pixel_sha256": "1fd6f9e2879a06ad954a02667540d97dc47848f89340cc2e1b627d5d966c99c9"
+    },
+    {
+      "index": 203,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "support",
+      "member": "101_ObjectCategories/ewer/image_0034.jpg",
+      "sha256": "34dc9ee068fd94114d3373dafc95f194025e4338b8efdcf49abc8ef042656227",
+      "pixel_sha256": "84e192f213207e55db18715ef14c75682ef1ae7b6ffa0ddc769b3ebb3686897b"
+    },
+    {
+      "index": 204,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "validation",
+      "member": "101_ObjectCategories/ewer/image_0015.jpg",
+      "sha256": "a7df69f8b148e135bd68ce319c0e48f8c2913f45d55912d015644c3c3cd65077",
+      "pixel_sha256": "b917a3793ece751000c3f3f2628c70f7fe17f98849c7cba09292dabef41d5f8f"
+    },
+    {
+      "index": 205,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "validation",
+      "member": "101_ObjectCategories/ewer/image_0033.jpg",
+      "sha256": "7da469ea755777c24b96a808740f47fe49d85933206712cd24a7cf051ea53816",
+      "pixel_sha256": "b9d9afb5e9fd5a2d52ad2bd8762f57363bcd87f5bed0f6c8b9926f70b59dd098"
+    },
+    {
+      "index": 206,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "validation",
+      "member": "101_ObjectCategories/ewer/image_0029.jpg",
+      "sha256": "8cff8bc0fdb211f73910a9423847976f58b928b653b12acc586a092e67d761d1",
+      "pixel_sha256": "0df7b97924ba3f7f9fee3c271afa5a8e5a137ccfcb9502f21a9e68b9ae2b90c9"
+    },
+    {
+      "index": 207,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "validation",
+      "member": "101_ObjectCategories/ewer/image_0038.jpg",
+      "sha256": "b7e1391e3659ec87ce5b12463aca430ac80238162db90a05c28c78afb8ef41f5",
+      "pixel_sha256": "c47c4b4f76d0b2b1a5ef86397d8a49744930e481380c7e812b38fa0429ab006d"
+    },
+    {
+      "index": 208,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0026.jpg",
+      "sha256": "714587f6afb2226074ea5e0fed122a3a9c1adcf68c4d4a5891c12d414b5e6dfe",
+      "pixel_sha256": "5685fd90f943ca6906be822f72e276b47a27b93a821a2d7ed94af4579ee3dca7"
+    },
+    {
+      "index": 209,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0018.jpg",
+      "sha256": "e0b7221c324559b0e658b42eec964ddd815ef0b944ca1f9ae06db45090905565",
+      "pixel_sha256": "10cafc3056aa730812b655014f54980801d0393389c3c3fb0661ff1d3af4a859"
+    },
+    {
+      "index": 210,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0008.jpg",
+      "sha256": "b137b4c1b8519eaf4b237c7e78b75b4a7d2f30426a1947c806e912e3dcbbd77e",
+      "pixel_sha256": "3788905f6cd508a75f8aefcfb5ef951b645fddf2c717b33a65312dc5bd0ccfcb"
+    },
+    {
+      "index": 211,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0079.jpg",
+      "sha256": "bd5e18f7ef834b840a2335c93fa51aa45ee8cf2fa7eefc3cb33a47c50dfed95f",
+      "pixel_sha256": "e8143ead05d1922ae30f4d2ee0828ceb6be34e1b9ea7c0d8b40e3da87b7eaaad"
+    },
+    {
+      "index": 212,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0078.jpg",
+      "sha256": "7a9015414d49194bad2964a2dc253cfd9cffbed954bfafa16d2835ae921b6ea8",
+      "pixel_sha256": "57c39ac326fa33b2c0fab1ad4184d3312fd0c1bb234faa228931e1f30a30e9bf"
+    },
+    {
+      "index": 213,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0064.jpg",
+      "sha256": "c1d709a4360bae1b80fe28643e454133606a63eecbb9e0fddceb218a5f410f4d",
+      "pixel_sha256": "06488b09716e797dee333127b352b6dee042b8c699fad77a51e078046bf718b3"
+    },
+    {
+      "index": 214,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0027.jpg",
+      "sha256": "2b0298b0bb8f138f4b2bd2c6d43c70fa3bfb6fac04d1982c178b6ff9a83a064e",
+      "pixel_sha256": "ebb28ddd5081517e4ce58538a53a870454fb7b3b1185c3f9956acae8ae01e7ca"
+    },
+    {
+      "index": 215,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0024.jpg",
+      "sha256": "2809a72f672120db7fc263be9e65bb64c0ffc2cb6e45f5a24e97e278762d53f9",
+      "pixel_sha256": "e0b82b78b1519e9dc5a8ed8b5acc05b4560f7a5b0d1bdd4f00cb588955184858"
+    },
+    {
+      "index": 216,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0072.jpg",
+      "sha256": "9de3322958b05221d9d4a8a559d72429b06ffc2833f5bdf7c5a549c93cdeaa38",
+      "pixel_sha256": "0d2ca8bd8419d7577b54110b308cc29d0f15660ffb85c58776b8dd6282fdaa95"
+    },
+    {
+      "index": 217,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0060.jpg",
+      "sha256": "2db4ce9b2f322a4ba3fd8ca4b4a25cc5dd00600a7e9b6bae2d8f62e0ba37d23b",
+      "pixel_sha256": "5da399d2f4ec76569c01c36ca906bd7b7b8a3ae3cf3e6d51d5f6b3cef09dcc39"
+    },
+    {
+      "index": 218,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0070.jpg",
+      "sha256": "b6028619523c21e636bf8cbba12450a3a14c8c28a324690512c54b9dddd644e0",
+      "pixel_sha256": "4d157acf498402d5ac0a6a1edeb37081d38007c755cd83661b479f77c794eb76"
+    },
+    {
+      "index": 219,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0023.jpg",
+      "sha256": "1c52d03ce88231617093f66e66ccfbc631d9800df3e3fee6d508aa0cb6ad6722",
+      "pixel_sha256": "a0698d96a6f44d34dbfec3575ade23b073bd7ade15ee2ab160ad468a5a24fbbf"
+    },
+    {
+      "index": 220,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0010.jpg",
+      "sha256": "b1d1639c910f68a7c084bee8cdb1a16a5e468791de65ba3d7af0d4d279028c3f",
+      "pixel_sha256": "dc4b4d8a080286fa807dca29615a9f015d622be6054003f7ac65596791e9c7e0"
+    },
+    {
+      "index": 221,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0081.jpg",
+      "sha256": "88dfe7d0919de3bb01c093ae213b405145556c2eeb085d1287fc87a7776d483d",
+      "pixel_sha256": "2e7acc859750823654d1c712cfed91a295b215d47f1cde1a51fb50df19610594"
+    },
+    {
+      "index": 222,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0053.jpg",
+      "sha256": "e70b62bc542ed5ff06131701608a74d321174e85a23723217a59806795db636a",
+      "pixel_sha256": "62c3a2e06a924a692e1e7c3b1b4b8189d1db10d154b636ddf9c126419e80bba1"
+    },
+    {
+      "index": 223,
+      "class_id": 7,
+      "category": "ewer",
+      "split": "test",
+      "member": "101_ObjectCategories/ewer/image_0022.jpg",
+      "sha256": "a12ca827deedf029c6f2a61619fe8608ac228e52f25d4785e8d25519883d60c9",
+      "pixel_sha256": "90bebfafd9317a0a054b4482aaded545d0be7149504b7fe9bde43ae670729876"
+    },
+    {
+      "index": 224,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0023.jpg",
+      "sha256": "3eb58c090115dd429016ee1e605efc129bcaefa3c8cc4de4f405d55edd6edef6",
+      "pixel_sha256": "d524112feb117d8b0945d491a2fa3017f334dd9258b52b499031ab23ec62ca7b"
+    },
+    {
+      "index": 225,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0026.jpg",
+      "sha256": "77a5176a877a0337c94766352e38200ce3d31c830e0a687cc75b90d68d1f0a4e",
+      "pixel_sha256": "1de647f061e6ceba0fe05ce0dc9f9bf87fa6094edc30cd4b8fd9129fce160ffb"
+    },
+    {
+      "index": 226,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0011.jpg",
+      "sha256": "ccda8d5660c5ccbe6501b2e631474f4fbede009ffc3e3f88f338aaaeafc1d0f1",
+      "pixel_sha256": "2f69ed623692af0ccdba97ac9f93c25d14135061bc7db41993f782c6f6e90af2"
+    },
+    {
+      "index": 227,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0025.jpg",
+      "sha256": "503f98a7d789054c9f7de05a9865720a225244859f845d2580649c4e8f6e3da9",
+      "pixel_sha256": "1fc213796bee2fdb51fd3c54bab09c95c3d7b989c33e838b2682c6865fc7b6e9"
+    },
+    {
+      "index": 228,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0005.jpg",
+      "sha256": "5f12ba875046abad00778a7e3d98c41647052da791047489a0c9e15eb9dc659c",
+      "pixel_sha256": "f8df00aded48c4e542cc163f493a4352ca328d3bab54e3930a5f1f43fa7a2f68"
+    },
+    {
+      "index": 229,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0013.jpg",
+      "sha256": "9bba02e6bdd04132a3f295a477ecc1c231808f00efa7d29721e94e6cf6dc29b7",
+      "pixel_sha256": "561027525f37143adf3741f95ae18db096fde9f9ec389c38ea86ca25748d139a"
+    },
+    {
+      "index": 230,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0015.jpg",
+      "sha256": "07197036a811b4df316aab374f18087ea4ac396e5daa81ecb173540f9db9a676",
+      "pixel_sha256": "05ddf8785e7906b445a777011598c5722fd9186e5dc4d281b899f45e968a9664"
+    },
+    {
+      "index": 231,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "support",
+      "member": "101_ObjectCategories/gerenuk/image_0032.jpg",
+      "sha256": "c67c71e2c1e1c7829cedfe8965f3ada209ce529e677789fc07d6b12bf5190ba7",
+      "pixel_sha256": "2ea0723790d4987172422cab228879fb9f4a7929c13fc0ff8c7acf8c3dd44604"
+    },
+    {
+      "index": 232,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "validation",
+      "member": "101_ObjectCategories/gerenuk/image_0020.jpg",
+      "sha256": "afab0c04fe107621fcae51e8dafdd26793231cb1b1193c0dfa578fb91748a9a4",
+      "pixel_sha256": "30096ae81085a8f68b3b0825c2dc87931c75287cc33fca48e5cc2d57c4bd3553"
+    },
+    {
+      "index": 233,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "validation",
+      "member": "101_ObjectCategories/gerenuk/image_0008.jpg",
+      "sha256": "5d995f030ee22fa5d2c86be6ddb272ae11904a338beb48aa5754ea56e714173e",
+      "pixel_sha256": "490cccc8aaee4cc887e0ea4834de7a280a9b4cc90a87919afe766e3d512e651c"
+    },
+    {
+      "index": 234,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "validation",
+      "member": "101_ObjectCategories/gerenuk/image_0006.jpg",
+      "sha256": "3453d4a8bdd011ea71063178935981a4e424818058ec11d6869ab55b26567de9",
+      "pixel_sha256": "539aca135c0e3a95a4f9643909ced8fd547b6ea27599ebf668c0cfc794b007db"
+    },
+    {
+      "index": 235,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "validation",
+      "member": "101_ObjectCategories/gerenuk/image_0031.jpg",
+      "sha256": "2573c199fd7a8b0a37d20e01b37e9f1e258a1ccb45c92e218da389d3e81b8041",
+      "pixel_sha256": "216f19d6f3cd5e052edb4821d32cdac5e147e333b841ca2dfc0db114a965d015"
+    },
+    {
+      "index": 236,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0024.jpg",
+      "sha256": "71b6a70b35f311fdda8d0aced8dab3b478b3c9f39ed979258f350cdc800053a5",
+      "pixel_sha256": "fcad9a52ed22cc3c8d99a0024324ca8c1453e504d4ccf94a7701d24fd80f6d1c"
+    },
+    {
+      "index": 237,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0027.jpg",
+      "sha256": "ec27ce5fd0d10defe1a9eec59d9742c8c92fcca4fe7b488c000ba4de2ac620f8",
+      "pixel_sha256": "d17448bdbf5880fe0e7ace48c379f18eea4a145013c25b8ae047136a5ba89968"
+    },
+    {
+      "index": 238,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0010.jpg",
+      "sha256": "cb08ec5c94f97ae04d73040cfb35484d495078c0c47ded0fb4c95d1ee34ff484",
+      "pixel_sha256": "178c97196623d922e0c6f3a370a99262eb35e6af47fd0fd641b59ea46d27705a"
+    },
+    {
+      "index": 239,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0028.jpg",
+      "sha256": "6c067219f768dc4a9f0a231b842f97d692d520ec3a08de2aaa2f274a389d9d00",
+      "pixel_sha256": "9145af527234a296607f0c8f1da63f56d88a6123bcab535db2a26a76a01bf896"
+    },
+    {
+      "index": 240,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0012.jpg",
+      "sha256": "f24d4ec1de8e52df1da265aaed32659f0351711193f964bbc634e1f2a62746a7",
+      "pixel_sha256": "b58088eab1e011864a7260eef271695b1b624b92c5983b6069621efb0864e041"
+    },
+    {
+      "index": 241,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0034.jpg",
+      "sha256": "dd156443fc6cd48652cc2f1427ef2aad5ea42e02b2d5507d9062ad870cfb816e",
+      "pixel_sha256": "71d60c03df96563688ff67e63d59fb5ed9c0b03433f9ae74e88688ad97e50401"
+    },
+    {
+      "index": 242,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0017.jpg",
+      "sha256": "ede81dfd300261a19f5e577da320c778799bba9fa5e3c471ed38a0117e0366a7",
+      "pixel_sha256": "e28c499108f9613d5be9690a355176653e1cf5b17586a4526aa43628ebfab69f"
+    },
+    {
+      "index": 243,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0004.jpg",
+      "sha256": "c999dd67aff9321b06dcedb07c82248cff9a75f715b0322ca83dc7a9786fea36",
+      "pixel_sha256": "c5a19e24edc46181947ed5f1eb1a58f62f51739e712751b43eadc73a72605fee"
+    },
+    {
+      "index": 244,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0021.jpg",
+      "sha256": "ab3aa1766f89333543b4358fd819977608df8a064764d950d005470704327148",
+      "pixel_sha256": "325d72cb64b2bf9d4461f6486f52e7cce5746f7c7576139b0a61e53b4c39515e"
+    },
+    {
+      "index": 245,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0029.jpg",
+      "sha256": "0f4d7f9fe209eafb044b3567aa83e7d9baa3287f115f395da882754779ec840f",
+      "pixel_sha256": "4bf955f90b2a3bfff388b08a45988ea547d4996d83ef14e4be7ee85216fd955a"
+    },
+    {
+      "index": 246,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0019.jpg",
+      "sha256": "60676942667d150bfc93d0399e1b92ee039042fe96756015f174603ca447b5b4",
+      "pixel_sha256": "426c038788f416049bccdd24d5835375ac5e23dff68443abec1cc682aca4ced7"
+    },
+    {
+      "index": 247,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0001.jpg",
+      "sha256": "c3913eb31b9916eb847cc0e3031bcf816937fb5274422b774d5d4629a7429e3b",
+      "pixel_sha256": "adf7ac0f33d3c91c68065afb3ea25f612f9923d67ea2fe8afbd380865d33d681"
+    },
+    {
+      "index": 248,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0022.jpg",
+      "sha256": "a011972707a5ee95b7cd52ed64dac19e9d15ad83feaf5d012cddf06666141d63",
+      "pixel_sha256": "196b0bc596e9abd0750125f2cb75c8b205da93fec499c0585cd31c666e7d537d"
+    },
+    {
+      "index": 249,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0002.jpg",
+      "sha256": "2daf09d9c11f368f1ebfc26158264e3431141bb1de034b76cd2d8054d60968d3",
+      "pixel_sha256": "70c7b25c7b2ac00826dad81063579bf0a4f0dda84b98b245b8eb8d4fef097635"
+    },
+    {
+      "index": 250,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0007.jpg",
+      "sha256": "b8a20235ed5382fd2965657fdb5c9128075007f5cfbd3bebbd1fa7d3a6c56688",
+      "pixel_sha256": "04019704b645f9e881cbb8c90364d242538234fe92cd54fcd9beccf12fafae7c"
+    },
+    {
+      "index": 251,
+      "class_id": 8,
+      "category": "gerenuk",
+      "split": "test",
+      "member": "101_ObjectCategories/gerenuk/image_0018.jpg",
+      "sha256": "47d5102a41f288387d82de4e12deb049eed7ed43730cf7917f7ac5d4ad354f6f",
+      "pixel_sha256": "4217cc4c944eaaf9482a9591b046cea0f6c79e700b72840b85d58d99fa6dd576"
+    },
+    {
+      "index": 252,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0041.jpg",
+      "sha256": "1e55c65dc09572ae6eaa2f4da0d95eacd20b9bbea26c4334399e1fc6521cda46",
+      "pixel_sha256": "a14e747085f485ac0f3d77347a1256880b5e1ab048fc673cf775ed60f6328ad8"
+    },
+    {
+      "index": 253,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0039.jpg",
+      "sha256": "b49b1d8bbb0c674870a2b455afc9491f7c16dacf9897101fff34f124f4c05e20",
+      "pixel_sha256": "bd09983980785244fad69bb23561f76188745d9329bc76b1ffee22983ee010dd"
+    },
+    {
+      "index": 254,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0005.jpg",
+      "sha256": "5bc045488741d2c82e38c111808312ea6128227a10209f4ae68ce4d914c67b8b",
+      "pixel_sha256": "92244f9950c9f3b293c7a5cfe7dc52a9ae68fd9a84b9481a453c18a9af9f6817"
+    },
+    {
+      "index": 255,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0002.jpg",
+      "sha256": "6b5085a4308f9930825d9652f1c70c0e3bdf67cbc24a274d2e41f91ad4cd4a1c",
+      "pixel_sha256": "dc9e536496f89044abc7a63ff50985a0c3622504db464a72cf240649d57f2c43"
+    },
+    {
+      "index": 256,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0021.jpg",
+      "sha256": "75531797430d5a1bcb371f664abc65accdf4041d38659cae7f25e792cff655aa",
+      "pixel_sha256": "acc9d6d6f6d77955d1aacb6e6b26b7f44c411a14c7e8c9cfb7b26cdc0025024a"
+    },
+    {
+      "index": 257,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0019.jpg",
+      "sha256": "7c71561c39992bf9e7627c0fb7469188537aa6aecd4dafb3240557237a949745",
+      "pixel_sha256": "afe5ff1b4aa7495fb0a62ed59d80cfc6040e69c63a3ae1d47e8481a9f4e18c7b"
+    },
+    {
+      "index": 258,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0015.jpg",
+      "sha256": "a223dc7b610348ab2836aaf99cfa4b92460e103b6b2949831107d70fbd1f1ebd",
+      "pixel_sha256": "9a2f362870e1356589f03d29a687bbb3f44ad4e4b3bc24db77696c29a35d530a"
+    },
+    {
+      "index": 259,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "support",
+      "member": "101_ObjectCategories/headphone/image_0006.jpg",
+      "sha256": "0b56392595e384fc81d40fbf1d8f05e6b603684f872dad5d6f086d4ecfd5bc95",
+      "pixel_sha256": "6e608900718ebc966e0916c159ef12d3354b1bcbb4baf4aca0ec6fb314faf5da"
+    },
+    {
+      "index": 260,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "validation",
+      "member": "101_ObjectCategories/headphone/image_0001.jpg",
+      "sha256": "d73a475438a996d4a3c6421677bf62c36f8e3cbf7f2f6bcfc08c3d0005c4551c",
+      "pixel_sha256": "1e14dede7a6feb0607b68ae24f223d10dae24e76a2c53fd1c4520750fc333521"
+    },
+    {
+      "index": 261,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "validation",
+      "member": "101_ObjectCategories/headphone/image_0012.jpg",
+      "sha256": "c22b958599b55b8dfa60901b84fa0125c0f4ef5258b3e113d13225b82ad9f13e",
+      "pixel_sha256": "6e821ddbd1d6cb5e0a5ec5af6e8fa74793877fe7edb5308e227abbdbe398220d"
+    },
+    {
+      "index": 262,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "validation",
+      "member": "101_ObjectCategories/headphone/image_0003.jpg",
+      "sha256": "5d8ef7922c4c39bd84a46e278c91104c26e263d865b782d68a866f9eb1a228ea",
+      "pixel_sha256": "03f9c280595732c652df96c89e56a07ad3a675c9c3482749ded60b13b5ec69c6"
+    },
+    {
+      "index": 263,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "validation",
+      "member": "101_ObjectCategories/headphone/image_0007.jpg",
+      "sha256": "4de7d0a591ec370430107bbc46ed5554fe4430208fe6d720af364bda1c0d4af4",
+      "pixel_sha256": "a2bb7514db239b90dc171639ecf20183378bad2ccda76624e378c225590be32f"
+    },
+    {
+      "index": 264,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0040.jpg",
+      "sha256": "9464f6829f1f2e348e0c41c8d6532f228bf1cc690711bf7a42b90187923a3ca8",
+      "pixel_sha256": "abf44617823c52238460a7975aaa102b0130376cc7e2ab7a4a1a3ab149ddb2a5"
+    },
+    {
+      "index": 265,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0033.jpg",
+      "sha256": "67d5cb7a25da9ed25fcd77bf65007b78ea3599520d09d6b55ed9f50af16ae627",
+      "pixel_sha256": "902043410a93636457d669702554076d1d1aa1541195802aa70a68904eee1acf"
+    },
+    {
+      "index": 266,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0034.jpg",
+      "sha256": "c4d9c0eb6fbe593bf9fe7f3327076d2454b7d182190f0ffaa04731c2e4b53096",
+      "pixel_sha256": "07966eb60d1a39d2b2782c37e12dfaa9fec18b7c1028667c2c491e9a81f2cab6"
+    },
+    {
+      "index": 267,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0010.jpg",
+      "sha256": "e8a5d3be6734d123370550883d6a2bd70147c08611eec0fc6de2a1a8f55259e3",
+      "pixel_sha256": "b293939411be94e78c034dab498c4dadcd2e7a365f9086a5cb2de321810948fa"
+    },
+    {
+      "index": 268,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0036.jpg",
+      "sha256": "5ca70a85b01f634e8d9b4851bc07c802ecd497caaddd48699d16ecaf81ee5422",
+      "pixel_sha256": "99340b91cc1a76b746b79cf73b1d0ebe3778b5a7912fcb10a272817124655d60"
+    },
+    {
+      "index": 269,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0014.jpg",
+      "sha256": "7e2267cae55902167f5b4d595fe78ebeb627be98ce94ac88088343e7b2f07040",
+      "pixel_sha256": "124590225c544e4379839d94158b5f03731959531ddf9822cff59f1db214f7e5"
+    },
+    {
+      "index": 270,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0018.jpg",
+      "sha256": "7c606a325cbc05aa413aa4d6ab9662c3e2226eac817e46123784631ccfb2b383",
+      "pixel_sha256": "63ebdc6139491a92adabe78e904d0ca3e17ebb4c4d042663e08a68516c18b28d"
+    },
+    {
+      "index": 271,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0028.jpg",
+      "sha256": "0626a52324642a398b2679b7af6f22e9d2294e4d364694f0daf4492e471fee39",
+      "pixel_sha256": "b8ad38d348dba1d5e11795b1a519810837bb4912e64007b6cb21cfddda6cd8ca"
+    },
+    {
+      "index": 272,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0042.jpg",
+      "sha256": "0b4990269a53f98d0179a83f9b4ccf531fb48086a544e04358c7be537a274720",
+      "pixel_sha256": "3eab49db51095a6af8b79a4dc9370de355570720c048fc4ed8a78234c42675fe"
+    },
+    {
+      "index": 273,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0004.jpg",
+      "sha256": "473b4611fa1e4053ae9423e3fc808223841cc410edaf34b557a74db56be0d853",
+      "pixel_sha256": "5d15eb7646e2dc49154518528daeb70f6fbd2a3c8d4e0d3affd4fb7fb18db38f"
+    },
+    {
+      "index": 274,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0009.jpg",
+      "sha256": "333ffdab9970462c2899701a22759e8e29251ce20f8f6787fd5f6604d2a965d5",
+      "pixel_sha256": "6613b9856b3d0f5a5d3ee7571d95fdc4518965c3af661ce378e424da74472985"
+    },
+    {
+      "index": 275,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0011.jpg",
+      "sha256": "e4b2a4343396c636f756f58bb5ff58f74b8b86db197e58a81d8cf7520bfad891",
+      "pixel_sha256": "9c094d6d5e148036d272ea45597db257a50bd03056f9f82619ed7e6efe78a27b"
+    },
+    {
+      "index": 276,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0032.jpg",
+      "sha256": "ecf1333f1f47a748335a8cb8f67de720e93ed5f848ff2ed9f249aa98b35b4735",
+      "pixel_sha256": "fe1cedd24d262b6878ac9e4e39e93de8348756088a0f3a084d874bf022de542c"
+    },
+    {
+      "index": 277,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0031.jpg",
+      "sha256": "d523adbb48a4cf350465ea64c544ec0471bb2742644c9127230968358279930b",
+      "pixel_sha256": "47c187ed8fce1b0a852cefbc0af5fb50d0e189eb2a481b0be426b2558dab8764"
+    },
+    {
+      "index": 278,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0024.jpg",
+      "sha256": "814a3dfa34875a2fd524edc8b8b2b382abf21b87bc9f6d1337563367bbd99058",
+      "pixel_sha256": "20a146509b400ed52de217a868d486da74bb4ac7b1dd19eb5060e05769cc691c"
+    },
+    {
+      "index": 279,
+      "class_id": 9,
+      "category": "headphone",
+      "split": "test",
+      "member": "101_ObjectCategories/headphone/image_0026.jpg",
+      "sha256": "e5038a869735715aea0d690b480e269d4aae4422cc3e46065b3b9a3a945ec022",
+      "pixel_sha256": "329fae64ab685b664e84b676ae82f03a49802cf82ce88b0ca3eafdbe26dc08e6"
+    },
+    {
+      "index": 280,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0045.jpg",
+      "sha256": "12263cb546ad34c6a9d521451db679f517b265135a7a0fa87006c9f8c58cdf8c",
+      "pixel_sha256": "d86cf80d5beb1ec17b8725f5420ca4a2a24fdb68659895ead5af9aba6e8da8b6"
+    },
+    {
+      "index": 281,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0023.jpg",
+      "sha256": "b455ee98bf66a70ab4b79542ddb19fbf6b13caec4aba14ead23ac4aa472a4047",
+      "pixel_sha256": "33b9b50507e9a4a99a9e9cdc75b0d070295a5f8601596bfb983a6deb75b0e5dd"
+    },
+    {
+      "index": 282,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0075.jpg",
+      "sha256": "4a6419018f7679e0adcd069467aa5f4959412be19e5549320d0416aee301d35c",
+      "pixel_sha256": "03d0bd6048aaaa53ef79a2ba0a24b3bc65d34f651c87aa97e63209b7dafeb395"
+    },
+    {
+      "index": 283,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0065.jpg",
+      "sha256": "d6f30cfd84fa0763cf7b81c7fcece574673fb2c78b4984b810e9a9a2ccdfb960",
+      "pixel_sha256": "ecdf4e77c4b4695262b0d4713690a32b5887d2940cfc4bc4861123e2ee2024ca"
+    },
+    {
+      "index": 284,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0007.jpg",
+      "sha256": "8058c267fe30443be58d1beefca04c1f43cbce34eb5fdea1966947490f2395be",
+      "pixel_sha256": "d440e30a7631e513384bcf1a80883a4cf2ace87b43cada82cf77d8d66124e234"
+    },
+    {
+      "index": 285,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0073.jpg",
+      "sha256": "3056df7ddb13538f989a71d681ddb31df50fcc25212d63ad59fa23b07aba4b48",
+      "pixel_sha256": "28fa0afbe4ff6ee058a399127133368cddcea9979cf0a72b6e3378532c0f0b76"
+    },
+    {
+      "index": 286,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0021.jpg",
+      "sha256": "289b1982c7224dc2ca4cffbea04789e4d6dade8d381f27fa83a6cf572ec9c2e3",
+      "pixel_sha256": "8f175391ec01fe6c0b99b4d04a8d3c8db5e3ec1c718b837f4c498b6fc334a3dd"
+    },
+    {
+      "index": 287,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "support",
+      "member": "101_ObjectCategories/ibis/image_0009.jpg",
+      "sha256": "ef62c8993f55fe03abe9d2156b3fb00795434bd7804e84309f0f732dce6a8b7c",
+      "pixel_sha256": "228c2e07b5065bc463a5416beeb7902b8cac4d734a2ad5a35c8f6624e0de5607"
+    },
+    {
+      "index": 288,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "validation",
+      "member": "101_ObjectCategories/ibis/image_0011.jpg",
+      "sha256": "bd21835bcc93e06de158c11facb5a81f7d0c81330a62bf89f1ba6f47fd45c818",
+      "pixel_sha256": "85ea2ec252bfe57573fde68eceea28c83008a5cb144eef754665ee76bb7a077f"
+    },
+    {
+      "index": 289,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "validation",
+      "member": "101_ObjectCategories/ibis/image_0047.jpg",
+      "sha256": "5a5fded1ddfe90d264d26f31fd355c0762853a4eecad47a02d06742a81e664a3",
+      "pixel_sha256": "c9783c1bd5da652ba1ab4a5926c68c3838fb53dcd14e7526bb1063cb27f42f73"
+    },
+    {
+      "index": 290,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "validation",
+      "member": "101_ObjectCategories/ibis/image_0072.jpg",
+      "sha256": "fbf3f8e156a392ca8956cf592397543648e3964ca9c082ff87dc17ebc5f6dce3",
+      "pixel_sha256": "644c7e21ab4e43a9e2a0816b84f7d366f4ef15528505670ad3b8fc3dec512079"
+    },
+    {
+      "index": 291,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "validation",
+      "member": "101_ObjectCategories/ibis/image_0027.jpg",
+      "sha256": "1c2a7363dde25bbc91a4cfc61d5cd42a9ad9fb644c3f452dfb77993fd7cb4663",
+      "pixel_sha256": "3c3aff9c1fb16851c20452bec9fe249c1019ea06136ac2be0204c9f3cf1ff8be"
+    },
+    {
+      "index": 292,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0038.jpg",
+      "sha256": "d766512dcffc0e42e4acc91881efbf10462dadb92c26f8288e35553a2af8e198",
+      "pixel_sha256": "d4640e27ecf7214efa4e2613491951c558ff06cc8f5bd975f9e52d8ebecb0fd3"
+    },
+    {
+      "index": 293,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0071.jpg",
+      "sha256": "2b14a490d83a4730541c7c1e1eb463ae6546972e50dc148ef51b6c0b70bae961",
+      "pixel_sha256": "ab0edd0545be7acc3d97bffcf91901efd24a1e839051f723e51a76b7bc79c4aa"
+    },
+    {
+      "index": 294,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0022.jpg",
+      "sha256": "58afa54f4a65c6c344c25daf2d7fff1f8414a07b800f79175dad19baf6796f68",
+      "pixel_sha256": "716f5e28e7b9b10e7c9eae15c499ca9f0174e2de3a386fce21bf2f7faa56e15a"
+    },
+    {
+      "index": 295,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0012.jpg",
+      "sha256": "ce4103d9eaf6ab5627ae2a85a9b3112d20e93d6df66e9d4889a1e0f439d13783",
+      "pixel_sha256": "7c842b0be2f53b46a6c09d103b4133b7a9235eacee11bdf8b46216fb7eb756eb"
+    },
+    {
+      "index": 296,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0004.jpg",
+      "sha256": "3a1b8fcbd9a7f27fb22a97f14baa243d6e5073bfbeafd5e04df5e5db5ae0bc4a",
+      "pixel_sha256": "390edee4d57eec15317894cafd2182fadaab9971a5b505815cb6d1661a08f3e2"
+    },
+    {
+      "index": 297,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0057.jpg",
+      "sha256": "b4ca2968eca722316e2642d8a7ceca3be53a4c86d123fef9cfa95e1980360eba",
+      "pixel_sha256": "2d4993913574c8ec43c198fcd8f0d2769543c755e2fd00542a9b6d3dd7fd3edd"
+    },
+    {
+      "index": 298,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0048.jpg",
+      "sha256": "f73ad2c78f8395cd5c9d2a6fa43a5ec858ef85f465b41bb520430d2e606a0bc9",
+      "pixel_sha256": "c9701456b93dae1bb1643efb5715d1cb26bf42b0149235fbc58c5fa6aa28047c"
+    },
+    {
+      "index": 299,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0013.jpg",
+      "sha256": "90dabec2ab9c7e3ac995cacf71888433649af49093cb7ef77e173fe249c6fe6e",
+      "pixel_sha256": "d11c65e9e92538e7cc3da4df4e4f7b3edd6c06ba4e80f61744306caeea094dbc"
+    },
+    {
+      "index": 300,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0008.jpg",
+      "sha256": "7ce9ee50fb7a12d6579da1831c7294ae0924f7a961750dd0dd88dc15fdef2e86",
+      "pixel_sha256": "105013ccd4b823a8850d592699e145079f3dc1dbb5ef5e0221bb4017d8bc7828"
+    },
+    {
+      "index": 301,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0026.jpg",
+      "sha256": "41f0979d99cc70a8c40869c5f8c33b3c47654f96652015090ed435b2994f4b59",
+      "pixel_sha256": "e156f16f1715d3b8f040bda54a2277c70da7cabed122e32de21ecc90dfbf341d"
+    },
+    {
+      "index": 302,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0055.jpg",
+      "sha256": "74383123f34db90361c8bc12b9b6cbb3c1dc8a3a92638fca44613f54f4d64b31",
+      "pixel_sha256": "b784ea06a412cfd81107aa9fde33c7247a96abab8039782ec98ac6e92a444cf5"
+    },
+    {
+      "index": 303,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0077.jpg",
+      "sha256": "7371573ef73623ebc9461db96aed908870624acd6eb1504d3a47c745fa2f9158",
+      "pixel_sha256": "57bf7f0097bf4b92d6951df240db39fe3d9639a69f2bfb7424cda4fffec093ac"
+    },
+    {
+      "index": 304,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0042.jpg",
+      "sha256": "15e19b5a30aacd2dfe6c10dd2da64790f102b1486072f729c6cf5b516da5dcbd",
+      "pixel_sha256": "c8e2146d361d48bec46eb3ae031c97da17e0ab500a25d9db9bd5326bb33a6c20"
+    },
+    {
+      "index": 305,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0006.jpg",
+      "sha256": "c634120112eea0bb1b18015dee262495eb7e3f3bf1091ac2d0420d6bec5e1a69",
+      "pixel_sha256": "a6a50ee699f72e48665b86c133d52188bf11f7582b9b7639406ff5a13ef76a14"
+    },
+    {
+      "index": 306,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0070.jpg",
+      "sha256": "d846f5fd4b72c45e03280a51a1dfb6844817a46a0777b704ad31670c147aaf6a",
+      "pixel_sha256": "8c1346b260499a2e4e8af40acc788b22c10da77df6c3238de98252b494a9e263"
+    },
+    {
+      "index": 307,
+      "class_id": 10,
+      "category": "ibis",
+      "split": "test",
+      "member": "101_ObjectCategories/ibis/image_0028.jpg",
+      "sha256": "ec8c438776f6fedcd471ef57e7253ad9315bca525d9800e2d294f79061459aa7",
+      "pixel_sha256": "5be1bb4b7224be42c13db9b9fe586bdb01cfdf55ef1e5df9095345540db04fd5"
+    },
+    {
+      "index": 308,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0047.jpg",
+      "sha256": "6129c8358e06838020e06a917867ea9afc9a281ebf4697fa7d488a06723c9a24",
+      "pixel_sha256": "0cbf2b8c59248827b5f55178272b21230c1aa0d8176bb79727ed658692f6c5c0"
+    },
+    {
+      "index": 309,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0044.jpg",
+      "sha256": "0ee782a5dce048727d3649580ce2c6af820b8eb0a950ec48af11d17cf8efe84a",
+      "pixel_sha256": "1d7e1f5c57988b978f99d91e30a02cfa1a230427487feb85b19472c6a3aa7f29"
+    },
+    {
+      "index": 310,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0022.jpg",
+      "sha256": "36e0c356fcae07e2605b954ccfd294b6167cdb179854391e2c71271e95f04887",
+      "pixel_sha256": "8a97f38a215662bbddf06bc775c44b5caa1534027240c352cc23def9a988f5c9"
+    },
+    {
+      "index": 311,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0011.jpg",
+      "sha256": "913c6c95044f83f5303edfa3e99cf0d37f85887eb1270f25e68fd70d647fad00",
+      "pixel_sha256": "10cff98c1b3a5e0b04f9e12ba2bb8f8c5720fa30bd2a9ec40563d0bf95ef1145"
+    },
+    {
+      "index": 312,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0005.jpg",
+      "sha256": "4417d37084672a11755b17623e274399edec892accae16d578675125e5108b28",
+      "pixel_sha256": "f3c29bad72db7ab94e1e5bf2ee77db5be06b078a210ff8ec9539bb82bbe23c16"
+    },
+    {
+      "index": 313,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0024.jpg",
+      "sha256": "ed39de26b4f89895b279d42385e78d14df13639ccf8427977dd55d5ecd9cfce8",
+      "pixel_sha256": "7414fd2458f78f70d7b268bc32cdf4a3451def72d7cba56d07ae7cb340cb6f73"
+    },
+    {
+      "index": 314,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0055.jpg",
+      "sha256": "354f0170e456730c6aa49505e4aa5edb27f3110dcc7a16c17e7c629025bb42ed",
+      "pixel_sha256": "33829e509670cd42af0bcb8dd6fb41cb42673b71131f9b25a3b0fe88c16ddfb9"
+    },
+    {
+      "index": 315,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "support",
+      "member": "101_ObjectCategories/lotus/image_0002.jpg",
+      "sha256": "0f4deda74e1dffdf34e6512118cab84ba015eab0725f282b3857ebffbba1ecb9",
+      "pixel_sha256": "56318cfe53b700078a6a8e5e60675fc878044cdc34ba4010aa919addd30abd42"
+    },
+    {
+      "index": 316,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "validation",
+      "member": "101_ObjectCategories/lotus/image_0045.jpg",
+      "sha256": "7fa7ed97ceef8dbc5578b9c39696593a43b176fc176b1208ff23c3f74a4e28c5",
+      "pixel_sha256": "6ede5e9c659e2b066ec381f739dcc5967961c1f118923f68c404ffc55ef5d183"
+    },
+    {
+      "index": 317,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "validation",
+      "member": "101_ObjectCategories/lotus/image_0007.jpg",
+      "sha256": "4e3357e0331b416243d419b315bda514dfb78bb744c8a15b6d2e76412f81247f",
+      "pixel_sha256": "db78d5bac96fdb735d172075ca5bbbe159ed6cfeea32c64b88997e2a36a80163"
+    },
+    {
+      "index": 318,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "validation",
+      "member": "101_ObjectCategories/lotus/image_0058.jpg",
+      "sha256": "8334f71d8ca4667434b082e52d5d2abdb5117b43de1863a1e946e32242f61010",
+      "pixel_sha256": "a0c89d1d38d8a4f2618c045580099b6588bb7f9a2addaf1e3a3acb9f5078688a"
+    },
+    {
+      "index": 319,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "validation",
+      "member": "101_ObjectCategories/lotus/image_0029.jpg",
+      "sha256": "fd67de50e389cd59a8cdb08b397cc46ac729af281d7f99984ddffb5daefda4f7",
+      "pixel_sha256": "cc37c9ee6a739314c94127583d495676f1f2ffe405439807faeeb8c0ddacba60"
+    },
+    {
+      "index": 320,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0059.jpg",
+      "sha256": "c54df2c73a7f2f83376423bc1dc6018708226bb3bd5e88639791126263837ebb",
+      "pixel_sha256": "a0f927322b3023f2c095a5a6c4598ce1d0dfa35ea411fc3bcfaa7c77a249560f"
+    },
+    {
+      "index": 321,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0064.jpg",
+      "sha256": "56b4fe87dc8aaea7b870add62c4fef1587813779d5ae8c0aa3d76415640f19d5",
+      "pixel_sha256": "b7e0370507bc711e435714f4d8ba3880e8e20d512a9e68c1eb49d17c280c627b"
+    },
+    {
+      "index": 322,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0036.jpg",
+      "sha256": "f1b565d96cac58afe11f71db55f187c2f4d9a78acb31d0ac001028487212ca2b",
+      "pixel_sha256": "8852d1fc6aae7789df0f4c0c523390578036ab969a9e5e2cc62889bb04dfc0e6"
+    },
+    {
+      "index": 323,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0017.jpg",
+      "sha256": "9d161d8318c90913363c24fe0033562f75d366664c82c966155cf6b5d7736017",
+      "pixel_sha256": "8c49378c4c3ba9add5165e0c705a5ae07d96e232dd9520d9f0033c42a590ace3"
+    },
+    {
+      "index": 324,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0019.jpg",
+      "sha256": "fce23ce625fcb0f86febf05aac29c458b153eb028ac1e27a3cbe7a5c9cdd33f0",
+      "pixel_sha256": "52a751d3a2d9930965247975c94fe21c6947ee57950c609504977ee814512144"
+    },
+    {
+      "index": 325,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0025.jpg",
+      "sha256": "7682afe7fe019d2d027489f3a068a7a3a1ffbfe4488c4da758d736aaef362994",
+      "pixel_sha256": "b7fbe8b17253be5384dac85df798737a57411b0d5351bba48801d459b5202ac5"
+    },
+    {
+      "index": 326,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0043.jpg",
+      "sha256": "0345de090a7544f8780431fa2fb479d7203fb12369421af718ff0c99f00e7c11",
+      "pixel_sha256": "4dbfb927a584d81980faaf471f82b81649ef30a21cbff1129782053051d0e5a3"
+    },
+    {
+      "index": 327,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0037.jpg",
+      "sha256": "11a0f833719213546a3870cd190c56622f3fe156996576c37e7647d71450d840",
+      "pixel_sha256": "50ceeebf584b19baaa5ec25355c9ccd90c1445d7ca25c68abb56ad301420b687"
+    },
+    {
+      "index": 328,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0032.jpg",
+      "sha256": "882d84905f54d8066b7fed7539fc6ad71e3d1b0930a60c78889947e7e9bbfff2",
+      "pixel_sha256": "734cf071713fa9767e6ddcfca2db6892dba2d1b425870729517f7d45c1d99ae1"
+    },
+    {
+      "index": 329,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0004.jpg",
+      "sha256": "c28a4d006fc3eb318abc2673c5147b7a2530d3990f6cf0e97a4fed718121872f",
+      "pixel_sha256": "a46ef6f4e1d47e6b26151986f1065d93de0449787f5a17b3a44d7f99d76f6b5b"
+    },
+    {
+      "index": 330,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0013.jpg",
+      "sha256": "16183c008d4868ad0cd51f57b156a46be26be3d8874d15ca0e74d074160677e0",
+      "pixel_sha256": "f6d4ecd4ec56828bc0bf4b05dc04a0b0e83dd43d302af9955bf9c23e00c47569"
+    },
+    {
+      "index": 331,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0042.jpg",
+      "sha256": "52c48f9d09f3fbd34de152b71b3604da68cd98b885ff3eb0e4de9e89d68ede44",
+      "pixel_sha256": "afdc9de74e6d6ede16a839c9e15cf4618d39bb1afdddf9c1b327c55c51180c67"
+    },
+    {
+      "index": 332,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0026.jpg",
+      "sha256": "a64749ca2fa4c9b43caef5e9210aef4a3268ecf44350b8d8f961875ec1b939f7",
+      "pixel_sha256": "0ce7f61e7b363c1d5311296eb0c805e48dabe1ae071f18d7d17893ff00640558"
+    },
+    {
+      "index": 333,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0046.jpg",
+      "sha256": "0a3aee92feb88f76deb3a367c54d8800f6b386d509c8cd0513072397e6d1f7f0",
+      "pixel_sha256": "c5acade880e9bb4621cbbfa555bb59d7c09b59cdd34887271c5fe2582c117ae1"
+    },
+    {
+      "index": 334,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0035.jpg",
+      "sha256": "3f4c6f5ffa27f09122cca31bf2aeb49175bedb1a186dc44609e722009444a253",
+      "pixel_sha256": "6f0abd49f31025997c000258db8f6ed3bfc23d944ac1e2fe8e3027c72dfbc610"
+    },
+    {
+      "index": 335,
+      "class_id": 11,
+      "category": "lotus",
+      "split": "test",
+      "member": "101_ObjectCategories/lotus/image_0018.jpg",
+      "sha256": "b5c3180f782b4a56713494f3501d945f2f3ed13770045e338b74622061ae5669",
+      "pixel_sha256": "d2bd2c4fe5961b474af36333d7145b2add272c7c724bab8b74770d801b1119dd"
+    },
+    {
+      "index": 336,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0046.jpg",
+      "sha256": "ab270eef5e0de27c2697f1d06b5d69b75410c07d543855e844b41b675361df0c",
+      "pixel_sha256": "0bf32eb6534860c6867f14132155ed792cc4ef050f0c9c884ffbe23263ab462b"
+    },
+    {
+      "index": 337,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0018.jpg",
+      "sha256": "d46cdb8765a48a719a24f7423c7ec67213a4456d5a6eb80e5590eb05f4569c6f",
+      "pixel_sha256": "9839392af93a109c1bdadcbe149c5b40c018e0a0e295cadccc639e0392134869"
+    },
+    {
+      "index": 338,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0042.jpg",
+      "sha256": "adcd33b72324fc6d6b3cfc1b9e24680d838cf1625ed8468a9ae6a43be698635b",
+      "pixel_sha256": "1a84c9c0525ab77769b100a4fe26a2414a9e9308dc7b607a5145c97eed095579"
+    },
+    {
+      "index": 339,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0049.jpg",
+      "sha256": "a981c6c24c19be7beae279a2afe1ca883c2cdb3d9686cf973480f82610b82cfe",
+      "pixel_sha256": "b435495cf7589d7cf90cd96a9230c0e6db5ab6dbe5d312ff4057444e5136cc21"
+    },
+    {
+      "index": 340,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0045.jpg",
+      "sha256": "243288bb45a2140228eadc9140204e44e6e8b252330700c2812f7602062c3938",
+      "pixel_sha256": "75ad2d15a715adbf5b6f7e5c252b1d8634093b79da5388f720d908f7abe742ea"
+    },
+    {
+      "index": 341,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0009.jpg",
+      "sha256": "80dc8f1c4845f11eab5849db83942aaafa3fd20646f82c21e5eb942834ebe660",
+      "pixel_sha256": "c07e2e96e6b3f82ed01d09497f276b577e9988db761327f3042b82e4ecf3acf8"
+    },
+    {
+      "index": 342,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0074.jpg",
+      "sha256": "29ac32b8a4abc1d513a5b237e296dfc7d40bb4109ed5412fdfec948af9875026",
+      "pixel_sha256": "aac81a24aef2a07fa3196efe5d271cd847950ccaa1ea4bc9cee6be82851c2b10"
+    },
+    {
+      "index": 343,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "support",
+      "member": "101_ObjectCategories/minaret/image_0050.jpg",
+      "sha256": "fe20d15f428e64141987efbe47c0c5039ff7b113d8ef02b4fdf07c0dfa9d650a",
+      "pixel_sha256": "2af157cf72f72f02b8db952e8b59f14ac195da31c1d52a59a2569e3f59364e1b"
+    },
+    {
+      "index": 344,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "validation",
+      "member": "101_ObjectCategories/minaret/image_0029.jpg",
+      "sha256": "6c2c9304c0c4db825ba03a33d380376a94c2ca80c86651fd8cccc708164d098a",
+      "pixel_sha256": "ce42b1b39ec43ab58b80b601bbd12a0b6f231005c6f98a458b90949720f0c898"
+    },
+    {
+      "index": 345,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "validation",
+      "member": "101_ObjectCategories/minaret/image_0034.jpg",
+      "sha256": "d2b6de832d25c0301c83a26a6c569889404de25653ba2d445942501f42e3ab21",
+      "pixel_sha256": "51ac8ee115875b06b9ad049f2392ceabb097357a9ab5b10f92f2a02fcd3a3711"
+    },
+    {
+      "index": 346,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "validation",
+      "member": "101_ObjectCategories/minaret/image_0001.jpg",
+      "sha256": "9f68ade4ffb87806b1abb74a799023a97e7425c1cef3a8e1bb1fd1e0bd033573",
+      "pixel_sha256": "e92405bff72e61569bbd3bda376e55196a249f511fd5cf2cc737ccc322eb3993"
+    },
+    {
+      "index": 347,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "validation",
+      "member": "101_ObjectCategories/minaret/image_0005.jpg",
+      "sha256": "55cd21e62ac66aae87f754c56c19dbcee2208494b7716c7c07c62a7e85d56ec1",
+      "pixel_sha256": "cbc1ebbac42d46148edb6d95c458589e4eb77a27ad6e9758c9b58aba9bd846f3"
+    },
+    {
+      "index": 348,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0068.jpg",
+      "sha256": "adbe31b2d9825333d295ade370f97ffe8403bdc0bf963fde0890be2beb5a87cb",
+      "pixel_sha256": "14dd2d82c387f198e65774d2a6647cf4273fc2e5e35a363d029cc80a2ebe25d8"
+    },
+    {
+      "index": 349,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0075.jpg",
+      "sha256": "29c70fb29474a454793b433d53fafc742d410c4d338c2f41840ddb855d617fd5",
+      "pixel_sha256": "02f413f8928ce5e08944d8d8a3d3303baf1b9312bdcf69c45bca1a5bddd91d34"
+    },
+    {
+      "index": 350,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0035.jpg",
+      "sha256": "2ab094011251b83184bfe2b95a21752ed5e8f9e8bc3766b4cf422ebd127e2dab",
+      "pixel_sha256": "1c8aca8f14565c726d715522c16240e30cdde41fbd127d0afe6e2f336e688338"
+    },
+    {
+      "index": 351,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0040.jpg",
+      "sha256": "332d336d071d73548f956c0e0c571e31ad0438167f7dc01cbb83fe6e2e7219cf",
+      "pixel_sha256": "4731fdcb60e831bc0ef185d5dfbcdf4647f6533f0963f38d170197ec7dba2d73"
+    },
+    {
+      "index": 352,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0003.jpg",
+      "sha256": "6e11afe9b2231c724563f9a738951d1da9180238cfb45d9cef9edd211f699935",
+      "pixel_sha256": "fe1f49c4788dea36120bc040e9e517021d2da126133f3fa18858a1d4b8d697ef"
+    },
+    {
+      "index": 353,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0015.jpg",
+      "sha256": "13666eee7de7a7bc47cae52924300779dd97d3e91c5624777f365bc14356adaf",
+      "pixel_sha256": "5dbff360ffdee3903afc9fdbad9f4633016c6e7cf4466200088c27b5fcf450a1"
+    },
+    {
+      "index": 354,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0047.jpg",
+      "sha256": "b2f7dfb45c501007ce1e76054c6ac314d39aaf6ddf26d858e17ed3ca4d692d56",
+      "pixel_sha256": "e8a21363d4b44d7aa838ca79df40f5ac81c09ed6a4ce7e32095859bb7da1bff1"
+    },
+    {
+      "index": 355,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0012.jpg",
+      "sha256": "f9abc1649d83e5e70d8208aad0b405f2be035e3399f6bb8724d3f27fb27a9b22",
+      "pixel_sha256": "bbcc4dc549382a6aa8c2276d7ce9a0b0eb31a63819786db8a7d3d14b4f7f9f8b"
+    },
+    {
+      "index": 356,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0025.jpg",
+      "sha256": "8b301cb5003b8c5a31fb3af4fc31f9388bff2e375fad8da5bac0c15484741c8e",
+      "pixel_sha256": "1ec74a14a7b5bf31dced72b26a69a6d2240747ff8fa0a34ba7ad92218023e9bb"
+    },
+    {
+      "index": 357,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0028.jpg",
+      "sha256": "afbf895a627cd8bc9a2eeb9a5f2a51b9551ea6ae91782bd8eefeaa67e6e32dfe",
+      "pixel_sha256": "f24ee9adbe88f140dc164c7d759ce1f5958f8706dac4566c1450e528127c3f26"
+    },
+    {
+      "index": 358,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0013.jpg",
+      "sha256": "635dbe6b5249bb1257b6e4a3ad29a2fabea5d8f382e19df7291f48b3f27b4a69",
+      "pixel_sha256": "1ce0340a78f9baa9f05db5ef5f01f8b4bc83a88677b1d0f3d8c1a43edf6dfe66"
+    },
+    {
+      "index": 359,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0069.jpg",
+      "sha256": "07434e3e494d49c2c714d15f680100a3efea2ffff90b95b7f8afb5466250cd7b",
+      "pixel_sha256": "2d574354e24b39f6322527fad54e31588ae88bd1935859171d644930f84017a6"
+    },
+    {
+      "index": 360,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0036.jpg",
+      "sha256": "67bccb12896707d39e587f96127c5ca58d7f3b512050e823f5363c1a4468af73",
+      "pixel_sha256": "da13a13d17b4970a4b00d54614e7703a12fd6b489d72a19a63507743224eea65"
+    },
+    {
+      "index": 361,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0017.jpg",
+      "sha256": "c6eb3abd93357ae3ff7ebedfca4ec5f529cb69148caec4dc4b07ed28e9e7d7cc",
+      "pixel_sha256": "b329376072001aa250fdeb9710265f723a1174e84e73c504cf90d96f7e0b17c4"
+    },
+    {
+      "index": 362,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0027.jpg",
+      "sha256": "8c8bef1e438ba132ce53e31d6d9d96cd406c641b36c48bba838b833bbf4cd993",
+      "pixel_sha256": "efd5357f698af3cd88d57327e85edf32befa5e9c2b7bf0279d8000b97ec0a85f"
+    },
+    {
+      "index": 363,
+      "class_id": 12,
+      "category": "minaret",
+      "split": "test",
+      "member": "101_ObjectCategories/minaret/image_0020.jpg",
+      "sha256": "9a1704c5e54c727c0d5c51e04f024d112ac1a9001ffcdfab512ce49ca3e9fbbf",
+      "pixel_sha256": "68e849ee60f9a847d426877f4989456c2a7069a7b9ae03182ad779722539b705"
+    },
+    {
+      "index": 364,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0033.jpg",
+      "sha256": "667ea25732f1737814bd9a21c5343447f67d39c4367ed8ba0613d52b0da1d233",
+      "pixel_sha256": "80dcbf9beee078429f73e977db5cae642ad5ba22da47d7b52202b46565ea3270"
+    },
+    {
+      "index": 365,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0006.jpg",
+      "sha256": "e289d54957acf82eb5473f00f9e6bc91f96b2fb743bb66df913fad7aa91100b1",
+      "pixel_sha256": "49b8c3b5b7db6935bfe35d1737fbb7a5890c0cb2992ad7dad1ee76fc56e57d50"
+    },
+    {
+      "index": 366,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0008.jpg",
+      "sha256": "0dabf7872afe1904c545c3cca56307c5b303713211d6e3612f3dac407cfdddc0",
+      "pixel_sha256": "85a1218dffd58c33bbda676c47fc5f7e0266c5675d0e81885d97e891d3e9e684"
+    },
+    {
+      "index": 367,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0046.jpg",
+      "sha256": "a05b725f8fe932d5ec34374b105bab6ecf0e226cd69182c8a0ae04dac01ed6f6",
+      "pixel_sha256": "c17495999e20a88b43976e1516d8568de982440fd0023a0333057759ca9a3305"
+    },
+    {
+      "index": 368,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0040.jpg",
+      "sha256": "31e094ed0d7b57ee2d560396095cc7130b39dcc69834cacbd50264fcb2113095",
+      "pixel_sha256": "5c26fa0af464fe76ef6dba4ee1fade0424042393714f6c2be60b040a15626e77"
+    },
+    {
+      "index": 369,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0015.jpg",
+      "sha256": "9539da124acd35a6dc70c3bdc37f049b2523cc28109f3e2a44808cbf94d6bf83",
+      "pixel_sha256": "2094173fabad56cc4cde74b068c50dd303f4081b9f6f37ac51f91bd0d6f106ba"
+    },
+    {
+      "index": 370,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0027.jpg",
+      "sha256": "58c8d4088992b4ca498bf96df9c7948aac9054f0660ca5a7531a929f4775ba10",
+      "pixel_sha256": "ebb222cd1110f5fdbfdeef6bb5014148d8580f665914cff59e7d09c7eb875884"
+    },
+    {
+      "index": 371,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "support",
+      "member": "101_ObjectCategories/nautilus/image_0009.jpg",
+      "sha256": "a60e3c461caaeb54d9d5779f0a2084e6b0e6b77c7c14b28d956e7ad91c9ca86b",
+      "pixel_sha256": "e7b530179b20716d325d91ed03a72d6e14fb12bb9e7d72ee36ba0667d17b884f"
+    },
+    {
+      "index": 372,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "validation",
+      "member": "101_ObjectCategories/nautilus/image_0007.jpg",
+      "sha256": "40bc0b1c6641bd8c1333e62444894cc0003f256eb9739606f322c81566676183",
+      "pixel_sha256": "463410e6e3053a825e686a73cfa1b8bddbe635cb59c8babc9a8a5383290f199b"
+    },
+    {
+      "index": 373,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "validation",
+      "member": "101_ObjectCategories/nautilus/image_0019.jpg",
+      "sha256": "804f7d94fd5876fa5c9be8f2aad75f3e17a967ccdb7fc4368b0f49ca19ed81ff",
+      "pixel_sha256": "51c11ca834f66a0b91962c45dc51aa66cad24a708f68f1dab88279c756b6b2b4"
+    },
+    {
+      "index": 374,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "validation",
+      "member": "101_ObjectCategories/nautilus/image_0023.jpg",
+      "sha256": "f1da247c856cb3edc04283c51e1a418de5fb6dfb4bf3a1e55e0edf5a1041f6cb",
+      "pixel_sha256": "abd3d497091776dfc9a0d03d52b226e4b1b122cfe03228fb36be384b4e97f83d"
+    },
+    {
+      "index": 375,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "validation",
+      "member": "101_ObjectCategories/nautilus/image_0048.jpg",
+      "sha256": "2aa1f3fc1e055d953389b51548c508504122621018170f2d8c17adce138e9c1a",
+      "pixel_sha256": "3e409af18cd4136feea92428542bed2b5311c1c3bf9272e82c0b935d48ec783f"
+    },
+    {
+      "index": 376,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0039.jpg",
+      "sha256": "a97151084f945526fe784bbfc10936f27f0b18edbb7c2f8f476af85d6efcd90a",
+      "pixel_sha256": "c00ee50f8b4aaf9e9abbb36f6e52779cced8a9b992abc6cf53a4b0a89f6c9a68"
+    },
+    {
+      "index": 377,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0050.jpg",
+      "sha256": "f5358e3759d969de61409e4c824050c93f4e370890402b62dad1dcea0bacc62d",
+      "pixel_sha256": "780f54bbf3ef59b2f07221e3ef8bc1f8bc5035510a90878f6f1968f9190d5b49"
+    },
+    {
+      "index": 378,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0034.jpg",
+      "sha256": "6886adbfc58f2b2246dd4581e0dcf89ea9aa382ad07af8f327e9f5cba241a497",
+      "pixel_sha256": "0f528881fdc6ceaed5a9abb38fb3711bb36f65de908311da3750c43505a16edb"
+    },
+    {
+      "index": 379,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0029.jpg",
+      "sha256": "f3d6b66ffb1fc900819984fd80fc63e81f9eebadf5ae264bb6eb5257518245ca",
+      "pixel_sha256": "ab1be323eca3222f7705160d32b76fadcdc4fb80a7b87e02a7977469e79984b9"
+    },
+    {
+      "index": 380,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0012.jpg",
+      "sha256": "ee0608a4687399a144e7273f3f216475e7720a1c1325fa4a6262517a6f28f4bc",
+      "pixel_sha256": "4c3c7ee900265e351ca08cbab85f14b70cfaae9cdfbeb00275939d62b91bfa31"
+    },
+    {
+      "index": 381,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0005.jpg",
+      "sha256": "4b3d53bc24c812a2c51a448ebb12c29cd4e519cf16c09e8e4c7809796391ab1c",
+      "pixel_sha256": "de7a68b5946bbc98af2da195b4d379b4eb48553a91740f582449a1e2af222ad4"
+    },
+    {
+      "index": 382,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0004.jpg",
+      "sha256": "39b1ff740fc9a8983000936975ba66b8eab7d6009cb13bb3441b283b96de11ff",
+      "pixel_sha256": "79a052b081a926d01fb42e4738f1b7ae7b42ef894b4876eb625caeac91ab091b"
+    },
+    {
+      "index": 383,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0020.jpg",
+      "sha256": "5fc7446b296c991dfbab1c914b19f5d61d7462eb43ce7ee71a3afe4eaa785fa9",
+      "pixel_sha256": "0142617973ba5949880219d00d673bbd1ce81ef770076c096a6cceccb76dd3e3"
+    },
+    {
+      "index": 384,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0016.jpg",
+      "sha256": "cd14259da9cf776b7336ea18ee6f3b35bc88eb7caf98ac36e5f7ab0ba438e13a",
+      "pixel_sha256": "3724b2ef6d84065579028fa648dfab9a74f3d676ea691f1e11643afd7e4b2159"
+    },
+    {
+      "index": 385,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0045.jpg",
+      "sha256": "19f0b65f1847a11c4674f8db5a5a6e61d807bc8ec39bea9b3381fedf8d24af1f",
+      "pixel_sha256": "60679ec060f714d84fb8556fe0887b539e5d280ad6f734ec9f28461321e12f44"
+    },
+    {
+      "index": 386,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0054.jpg",
+      "sha256": "b0ee18adb544769e2c6122509ab4139d2af9681f5ee49ea1a12e4f9ef1e00c7b",
+      "pixel_sha256": "00fda5caf303f88b8056c9244d9ea9bf6646c4babf65d79c133f2836299748c3"
+    },
+    {
+      "index": 387,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0032.jpg",
+      "sha256": "7f82de072393fce18184b116789e366c75703378d924d94b4e6ab5d3b631b274",
+      "pixel_sha256": "32603fc0c96602cbd16e0c79d5bcd20277afaab7b7a0eeeda50d09f01d48ec34"
+    },
+    {
+      "index": 388,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0047.jpg",
+      "sha256": "83e5f19df43a186c474ab2d9c5d94a1605d9dd7a2cdce9c11905e545c0ca6894",
+      "pixel_sha256": "54c4b09183c48511d2b1ea99a9323ba312a87e0be0024ca332994cfc4eefae29"
+    },
+    {
+      "index": 389,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0038.jpg",
+      "sha256": "d683738b76a986bd816ea535cb3fa521ee5f031642dff84186c9fea1a05616ee",
+      "pixel_sha256": "04c377ecc5745537495ef064d36cbd74193205862e70f2e8b7d19bc8084b27a8"
+    },
+    {
+      "index": 390,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0011.jpg",
+      "sha256": "2b31d57537b05c6d94f36692e460e772a7697acb3117004c77cf1ac3a18ae50f",
+      "pixel_sha256": "a1b370367acf9158ceceed09be5236fc1da2112185fb28805e94f508cdc4c690"
+    },
+    {
+      "index": 391,
+      "class_id": 13,
+      "category": "nautilus",
+      "split": "test",
+      "member": "101_ObjectCategories/nautilus/image_0003.jpg",
+      "sha256": "78ce8ab95414378976f8165a2a7e0dfbfded36aab8b764254fdebc1f345efba3",
+      "pixel_sha256": "cad85e729b39fd0bb86d40bc645e1f2d919d1099bc8b88a3233ac3e7874c9bfa"
+    },
+    {
+      "index": 392,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0011.jpg",
+      "sha256": "f70f3e4891930d326e8a3a04ba7357d9567e82f2835904ee2a3e0ac7b04b3b71",
+      "pixel_sha256": "5e28531f54abce58d85cc5aab6a2fc9a4d309204c2393334a6e6f87b0311fe3d"
+    },
+    {
+      "index": 393,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0020.jpg",
+      "sha256": "5c1138d39db8ea74d5fbeb118c85909574374d108d00e19c43a2b0b495e87011",
+      "pixel_sha256": "bc07ace9ba582100db235129fe87e488997d904449e624dd79093505b16cbd98"
+    },
+    {
+      "index": 394,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0016.jpg",
+      "sha256": "53422d0f706817695a0f10f324757fa63c34227ae6317446bb371b93514686ac",
+      "pixel_sha256": "bc93cc4f2247e0b5a966f5c04ccdfb151bae887465bf0a9bda8ed45830728fbb"
+    },
+    {
+      "index": 395,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0034.jpg",
+      "sha256": "7e1b60d22455b255f1c2c108639ffe63d4857abea967880fc1317b06dcf87e82",
+      "pixel_sha256": "6106c5adf528bd8aa6de063142cc72322d154360438ea6ef607c195b3c212b79"
+    },
+    {
+      "index": 396,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0021.jpg",
+      "sha256": "7697baa13c8b0474a35639029eda1ce708d664e01c689d0ef245d270a9775e7e",
+      "pixel_sha256": "bef507679481a04e67dd7a57d95b896a7d8160fa274a5191a40c1d20c84db81e"
+    },
+    {
+      "index": 397,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0013.jpg",
+      "sha256": "6b487b1358903b944542b3f147038fc5fe4cfd96ac2e1313b7a9bc47357a9780",
+      "pixel_sha256": "63341f411664309c46e23d5cc6c95b683748f5ffc6037e6990b7b397da634a59"
+    },
+    {
+      "index": 398,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0035.jpg",
+      "sha256": "5802963db2638444708dedefb40a073f9c52ada0e5050a96af18ffa0bd6283f2",
+      "pixel_sha256": "6a2feb35c6a6422819d0f0e2cedb9d21c34bc60352d1e7225c885d40842654d2"
+    },
+    {
+      "index": 399,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "support",
+      "member": "101_ObjectCategories/octopus/image_0008.jpg",
+      "sha256": "32bc3db66966660bee77439644bb03bf668e4d3381124d49acfacb99bc5b4f37",
+      "pixel_sha256": "6384fc083da38b519b9fb19a337c3f0de18f8a96c9a247afd52f910392eb120c"
+    },
+    {
+      "index": 400,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "validation",
+      "member": "101_ObjectCategories/octopus/image_0003.jpg",
+      "sha256": "58c5223f6afefc6d8fae223494f4f1ce074523b933d91aaa91064e293f75fd60",
+      "pixel_sha256": "c963bd2aa8cc93a0b848dada9c05f0f272f8c2c587f90cf3bef2de79c77f4b72"
+    },
+    {
+      "index": 401,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "validation",
+      "member": "101_ObjectCategories/octopus/image_0015.jpg",
+      "sha256": "95cdadd1a375ede0f6eb408cf4e6583dc18435f715a52c6a9354ac145ace12e8",
+      "pixel_sha256": "dba35b8c364e249f5742231b66a70f1409202abe53f52aead0e4f252973e850d"
+    },
+    {
+      "index": 402,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "validation",
+      "member": "101_ObjectCategories/octopus/image_0018.jpg",
+      "sha256": "30353f68e5789a73eb2223d42d579d51d0456f9306313296399f5e999dcc370b",
+      "pixel_sha256": "824b790842ab3a9244166794e4f46df6ed222a2aa5abe8d7402a3b1b2435b150"
+    },
+    {
+      "index": 403,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "validation",
+      "member": "101_ObjectCategories/octopus/image_0001.jpg",
+      "sha256": "8b421afa72f541496dfdf0e4f5fa175d457cdf648744722dfe8b931cfc6dd5f2",
+      "pixel_sha256": "580d895f65fa7ff09778a6d5604a7abf2f9372f86fb3b2ef66c8416448d09da1"
+    },
+    {
+      "index": 404,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0030.jpg",
+      "sha256": "2bf705323e5d6c433fab00627dd58981951e211d2f148652049534910e2d3684",
+      "pixel_sha256": "d35ae40a571267ca54d66bc50c7da5d60d543e6138c43b92f445bf0dc73f220e"
+    },
+    {
+      "index": 405,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0027.jpg",
+      "sha256": "6510191241278e52888934dd1b1277abf2757f95a915d6dd959088aab13817bf",
+      "pixel_sha256": "3e53c241d1a4bdb1ca24b67ee5ceb11ce53b1d1ea35d2a79271d609a727291c8"
+    },
+    {
+      "index": 406,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0019.jpg",
+      "sha256": "d611161293c5ea21c7e40b250a55b89d371f21595397a0e2b1a34f17950b89f1",
+      "pixel_sha256": "24bbc41abfb7246b68d2800047d79096823ed61afe8fc2e2f9db8d18a4dc53ad"
+    },
+    {
+      "index": 407,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0025.jpg",
+      "sha256": "490d20cae9116c7a1825cb7c23b427f045c9ae25f2aef6f81c2f9909a5270a95",
+      "pixel_sha256": "3a74b616608996aedac17c0f1294c68b0def61a58ad6d66a3e22a3b9473b73b4"
+    },
+    {
+      "index": 408,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0031.jpg",
+      "sha256": "9102d15637edee875232c59de0b293c6f5b678736334b22c25cce192b94ecb86",
+      "pixel_sha256": "1a091af4b9a9753d7737882ab6565f99e7db9e3e1a5a69e16aa048b08bb9a9d8"
+    },
+    {
+      "index": 409,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0033.jpg",
+      "sha256": "ce3c1aef4d153b2474d557a3369c469453afe5c6e635850de532a4d9b50bfa39",
+      "pixel_sha256": "81aa1c4f2b834a538ddd36280aae6db2b01038da553157ddfbccf0e9e2419eab"
+    },
+    {
+      "index": 410,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0023.jpg",
+      "sha256": "90c005b93466d93ac1bb6987d6cb335957995f213beff0f3234ca63fbb48c747",
+      "pixel_sha256": "44a16c6ebddbd8786b296c2ae9383f47180b4ca187a83c596c2f6aa4d399c5ef"
+    },
+    {
+      "index": 411,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0004.jpg",
+      "sha256": "c49c25b19a045b7b222ade805baf8502fbcf4171ba3518f9a059d934776874d4",
+      "pixel_sha256": "32ae3aaebc87119ec2172fbdfb7c198d604f285be761836d165856843c0b3fb4"
+    },
+    {
+      "index": 412,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0026.jpg",
+      "sha256": "11e3a37bad340593cdf2a9d824e2fb03b29d67a4df25a4941d4e327657a88103",
+      "pixel_sha256": "4ab879dcfcb0fe117fb410d3baa4d35aae8b9f13e72440e0c254ddce97efc0a3"
+    },
+    {
+      "index": 413,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0014.jpg",
+      "sha256": "c97d1f2e7e1413d9c1af53d0e2cd9579a9268bef0a1ea9b34f30810dec6e2b31",
+      "pixel_sha256": "48e16b069fdc89cb6f7b3ec1aa3506857ff99a46a647bc52eb6d1ef78eeef40e"
+    },
+    {
+      "index": 414,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0010.jpg",
+      "sha256": "ae0774e5e8a684a3e3001822a46ebac3748df727342ba41235f87b81b10b47d4",
+      "pixel_sha256": "48f8429b43e0736cebeb36053797e01288cfa4e2aa812e3970bde38a6aa5a7ca"
+    },
+    {
+      "index": 415,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0009.jpg",
+      "sha256": "2e6c5f76daed328e69ca96f1531dbc72d680fd3f3ec1256bcccea43357460935",
+      "pixel_sha256": "5990d7f865a6530abd1327860c1d334aa0ef96dbc712dece79b22930480b193f"
+    },
+    {
+      "index": 416,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0006.jpg",
+      "sha256": "165cbc79a173747162f6d0de8d01565e3e107b020985a64b7b5dd42fe07d6879",
+      "pixel_sha256": "ad235726908628d58e6216abcadd50ce84ed90c2c45b460d9b5e444224de8dd3"
+    },
+    {
+      "index": 417,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0029.jpg",
+      "sha256": "92710ec8c33c06bf67536f839e63068e084d0260b0ea75c1e4b3ee87da50e4c4",
+      "pixel_sha256": "44283d6ca9d1caf8fcdab97f59cbcf69044430b1ab44afdd687ba8b93ede4e2d"
+    },
+    {
+      "index": 418,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0012.jpg",
+      "sha256": "1a93a8369e2429c13f0ba038af0e7ef561170d89f49de7e219236d7b5b379084",
+      "pixel_sha256": "010d508f0e5c5dd40058de55b39c5653be9c54ad66a40a8de28a309f62e924cb"
+    },
+    {
+      "index": 419,
+      "class_id": 14,
+      "category": "octopus",
+      "split": "test",
+      "member": "101_ObjectCategories/octopus/image_0005.jpg",
+      "sha256": "2cdff2de24f89c6e80a2ea95380bb8a2ee805d05d04d136a49bce7599919913a",
+      "pixel_sha256": "adbf91b3fa4775a5f2649f835f483437098c817c530b0f68f55eedbbf59ced93"
+    },
+    {
+      "index": 420,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0038.jpg",
+      "sha256": "c4389af31d3ef6e5b7c47c4c580f0f52c699a7cb1ccf0ae51d382cfeee353e5f",
+      "pixel_sha256": "246129b8498b4142683ee73796a5316e0aa7c0cd6ac1d18e4a9cfd7cc1ffe363"
+    },
+    {
+      "index": 421,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0014.jpg",
+      "sha256": "5a32bf91f7fbd53bad474a8479c5051b486b5ed16370d1ee380390e6628f4c45",
+      "pixel_sha256": "9d3888323d8abf9f881455e4ce0caa45eb6199abff6087039ce0e3fa50b3e580"
+    },
+    {
+      "index": 422,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0022.jpg",
+      "sha256": "0fc50f809be0db562180f09f0750a4c4c80b960d55f02113ed462f2be1f48392",
+      "pixel_sha256": "f93ba67e6bd560ba0e8fe06c4a9948c22981498c25fbed99c03edb7263b83b04"
+    },
+    {
+      "index": 423,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0029.jpg",
+      "sha256": "8d560e939299590db3b06f9bd5a8b584f18fb62fe63e84cf45143218b8f267cc",
+      "pixel_sha256": "d42d131b048fdf123b48e191263bdc468b615f3890a1269a8e9604bbf83f25ea"
+    },
+    {
+      "index": 424,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0019.jpg",
+      "sha256": "f63121e81a1a0545296b0cd5152ec8f2254c7b8aff8dcfb4b86c816174d9f783",
+      "pixel_sha256": "c38396ce2af274013906eb162829f4039c101a2dc7eb86996150cdb9366ae4d1"
+    },
+    {
+      "index": 425,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0009.jpg",
+      "sha256": "8aa8de0a2f1fbe78cd4350578c0402d864c301c40b66676e6e4f82e2c1ed2b51",
+      "pixel_sha256": "0b61785da238ccee7465eb278f9bd81ae1a2931d2d14b0bc28c2ddc6cdb958f3"
+    },
+    {
+      "index": 426,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0031.jpg",
+      "sha256": "f851d90b376e5efc53d3b2abe8fdcab20fb98e1b283bbfe0380210d8cdcbeac4",
+      "pixel_sha256": "045429c7f50a071e4e605e389cac624bf2b158e81318397a64f93c46b38b5080"
+    },
+    {
+      "index": 427,
+      "class_id": 15,
+      "category": "panda",
+      "split": "support",
+      "member": "101_ObjectCategories/panda/image_0011.jpg",
+      "sha256": "a94c7df7c910b4dbf75715a1bddd185cb59fb2d17e3a55b8c6b71c9935ff1aed",
+      "pixel_sha256": "3f286abebc858cec60739e730f52a2fd4bb3c263967fd5dc9d3d5dc362f58769"
+    },
+    {
+      "index": 428,
+      "class_id": 15,
+      "category": "panda",
+      "split": "validation",
+      "member": "101_ObjectCategories/panda/image_0013.jpg",
+      "sha256": "23b6e8b61076f9907389e6539be431139e1de0e3d7d4eaccd929629a17402a97",
+      "pixel_sha256": "bdddb55388e8165b756470ba0ca4badfe62ab554ad0e6dfd4ba76c33feee8415"
+    },
+    {
+      "index": 429,
+      "class_id": 15,
+      "category": "panda",
+      "split": "validation",
+      "member": "101_ObjectCategories/panda/image_0020.jpg",
+      "sha256": "5a147ed7cdbf757ca06f45072e9ab95362ae0aeea932f325d1a09fa7ecc1de98",
+      "pixel_sha256": "56057fc948140b82dac9b8091411af7cec3eb734e4a0b5044a4166d4a689070d"
+    },
+    {
+      "index": 430,
+      "class_id": 15,
+      "category": "panda",
+      "split": "validation",
+      "member": "101_ObjectCategories/panda/image_0001.jpg",
+      "sha256": "200693464ec67baaac319804045e5035a2d020210072cab25dceac93299cdf9a",
+      "pixel_sha256": "312e002ae33d032839fe79681aac6d65909806e4bc9933e2e4d48d0c7e6c23ba"
+    },
+    {
+      "index": 431,
+      "class_id": 15,
+      "category": "panda",
+      "split": "validation",
+      "member": "101_ObjectCategories/panda/image_0002.jpg",
+      "sha256": "cbba27179825a863f42dc7f68d89a6089e58cc8e89a81a636a68892b00f02777",
+      "pixel_sha256": "dfcb3eec558e159ac6fd615f5244203f9a75a4b0ba7cf2a562a8470e88d202d9"
+    },
+    {
+      "index": 432,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0003.jpg",
+      "sha256": "58d8f21a9d6ca7879e4837666781e4c5495e4c91ddb7f385d3037c52f6724a59",
+      "pixel_sha256": "c0fd56d7f226b961ec7ac28c7c83fdf3341fdcf52193c67fd7d17f15e8575acd"
+    },
+    {
+      "index": 433,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0016.jpg",
+      "sha256": "227c4137d22bf313e83053f902f29ad9dc680418f88ffe3444202bfee9af7c5e",
+      "pixel_sha256": "2c73eb09ba0001ba27d8021a4b1f4f287f67feacc92e45f18af8f5405bc48223"
+    },
+    {
+      "index": 434,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0008.jpg",
+      "sha256": "9d89f27649bc5299b2e51cb3d2da31e8809b3cf4a41d96a6fb87bfd1f0e19b7c",
+      "pixel_sha256": "56603e8121e617b1fb0f4c3490806d6f3e5a13f09ca7fce9b43992e54470094e"
+    },
+    {
+      "index": 435,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0034.jpg",
+      "sha256": "a2f251435e92046f0bb47cffc5598854998a03c0a7dd6d22651071040e63a92f",
+      "pixel_sha256": "9361a5ad37ba210b842b0c4c60e9c8a1bf09d6ce60c71fddd0df6f18202231a3"
+    },
+    {
+      "index": 436,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0017.jpg",
+      "sha256": "a19abeeb6b96ce0094b2c69338365e41dfbeaf3ad75568ce07ad759959da26c0",
+      "pixel_sha256": "bf96b5cd78e3373ab97b2fb37845620845c412450edef976d3be50a1b3f55fa3"
+    },
+    {
+      "index": 437,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0021.jpg",
+      "sha256": "fe46f6f3b6ad2686405cb1dbfeb92843de0faa880fd1d00402a09505d0d19f15",
+      "pixel_sha256": "9d37e0c4d4a2cbfd3d65eb9230c420a418011965f741f49a469237515d1eec4b"
+    },
+    {
+      "index": 438,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0028.jpg",
+      "sha256": "3522a1661c415c11b7c9cc3df7512e9f8d1cdd19fae592d1d4c9d23fd8842429",
+      "pixel_sha256": "e0f2673eaa500c454005e2b69a23037b61c25328f4be40e25cccbbb476ec1d47"
+    },
+    {
+      "index": 439,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0030.jpg",
+      "sha256": "9530411b3962734bd67aeb0e0e871ddc7c8df14898b5d29e2aee553b92568c5c",
+      "pixel_sha256": "78064ddba503c877178d5a35d7d1850702fa3eb1440c0b631b91715cddedbc8f"
+    },
+    {
+      "index": 440,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0018.jpg",
+      "sha256": "65596df6ec2796888b94034d7d15c642493947f604762319f8b6aecb35d006ff",
+      "pixel_sha256": "62f0ee67576d3a6d9279356de8ca342d1f9baf2fd2d01505dd4468d28d78f620"
+    },
+    {
+      "index": 441,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0037.jpg",
+      "sha256": "e5aebc688b311c78d0593ccc64f7ca01f7d96f4177cef6dc1db5d2c8d67ff0b6",
+      "pixel_sha256": "5c029436a30368f8d35c35a6a062b1812681fb5132648aa811d889d3e191a544"
+    },
+    {
+      "index": 442,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0023.jpg",
+      "sha256": "5909d30a8a20390e5e712cd222127ae292c2757a583239562e23ff826b85a1fe",
+      "pixel_sha256": "964bdfc8a1376df3aa960a5423a053ade027d0cf02548982c51a33ade806663b"
+    },
+    {
+      "index": 443,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0024.jpg",
+      "sha256": "25a4df1517a0f56f2c60314cc823224cd768ee94a17ff613fc6c3fce3be3fd18",
+      "pixel_sha256": "b44619b41a1a2311cd7b35b0d985c834239ffc84df5230cc224ca1c297ffe39f"
+    },
+    {
+      "index": 444,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0005.jpg",
+      "sha256": "bbc21f575cd8260c2e3c66027fcc9eea81be007e40960a774a87888d076fbefd",
+      "pixel_sha256": "2c24cc9ec2d8949f9f108ef7c7a69410f6663b04a3901c0876ed43442a90c297"
+    },
+    {
+      "index": 445,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0026.jpg",
+      "sha256": "6f7d515d0cc3965d9bff81bbbce3d1ab4d93f44768f58b2162d78167ba39c5ba",
+      "pixel_sha256": "5d9cfb4a60b639a5d4d63f786dfb297a9523ef84a70bbe0287a4d6d41c1845af"
+    },
+    {
+      "index": 446,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0035.jpg",
+      "sha256": "c912e056b8b552274d78e3dc74f334ebd74fe89486d48c4fec7cf6e0a86946f6",
+      "pixel_sha256": "2633e47b2c92936452778f68bac9599a2004c75e47428cef636e4521f3fd20af"
+    },
+    {
+      "index": 447,
+      "class_id": 15,
+      "category": "panda",
+      "split": "test",
+      "member": "101_ObjectCategories/panda/image_0012.jpg",
+      "sha256": "af899e216043e79aad86091b3f213373b1f00c3e86998a362ab4341c5a07a923",
+      "pixel_sha256": "2c211d83cec6e10dff876aadbb6fe7496f69308226bfaf3e647c3aa3a50012a5"
+    },
+    {
+      "index": 448,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0009.jpg",
+      "sha256": "94e57bc8009557a391725d20baa11855f4d76b453f56d7e9c2e1187f661972e6",
+      "pixel_sha256": "c054b229aace699b9a56a81ac54e555e43f397e6be3ecf2bffd9c0b2f17d42f2"
+    },
+    {
+      "index": 449,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0029.jpg",
+      "sha256": "58823f76ce889aab1107efbaf4529a906de82b5a36278c6e107166640ff28e63",
+      "pixel_sha256": "db1986874d6bc60eea41a9f79d665ca2f97b4f4adfad37e1d3eb844511ffbf0e"
+    },
+    {
+      "index": 450,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0012.jpg",
+      "sha256": "4610929d54ff34db005cae7adebcf8fcb14e918b3703a5fe4b0b622938f312e2",
+      "pixel_sha256": "9185c67ed8e87863ac6f0cdc8ec4d0a596441bb5660f01804762a0b302578d9f"
+    },
+    {
+      "index": 451,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0006.jpg",
+      "sha256": "8b7bff179130f9b634766a1356a53235ffa03ec088a6ed512572906c27d064a2",
+      "pixel_sha256": "7bbe58f2df1e44ae5b96485c00aaa9b5e2ebf362e291b0254bd0875c61091a1d"
+    },
+    {
+      "index": 452,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0045.jpg",
+      "sha256": "b87a3fe6c8bbfee9b0de7c2528899a3c46f573384b164eef7f3350cbc12d544e",
+      "pixel_sha256": "e11694352a52d3811306a8463786a8c5d7ab6fd7498f54e00ab796fbb82e454a"
+    },
+    {
+      "index": 453,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0051.jpg",
+      "sha256": "2b97a376b3a7af967c93e623a24a9a55ef2c876a8004faf8742819589ce594fa",
+      "pixel_sha256": "77e747a536fdeef5fa3286843c62ae31e1e898a037e63a94c1fd279fc5cbded3"
+    },
+    {
+      "index": 454,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0035.jpg",
+      "sha256": "06633ca23d4c37693733cce54647e50bd612f44eaf931b56e23dcf7c458f1df3",
+      "pixel_sha256": "a702e9e42ec2ca272363cfcdac75822cf83eab827337288dadc716f3b3151e77"
+    },
+    {
+      "index": 455,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "support",
+      "member": "101_ObjectCategories/pizza/image_0046.jpg",
+      "sha256": "fb13a35e5517b94bd27f2b728f55fb1da60d3fe727c07dcfc7c818ec31f85530",
+      "pixel_sha256": "3eb2c5555db90e4dd10fb809560853c29994041f97e0df99447bde59e97fb337"
+    },
+    {
+      "index": 456,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "validation",
+      "member": "101_ObjectCategories/pizza/image_0004.jpg",
+      "sha256": "04fbba236de09fb39a30ad3fbbf7702f0417d1ebe5257420e0a178f8239c9ea7",
+      "pixel_sha256": "d9441debdd0fadf7aead9227e226f0b95efe3e08ac875ca18db10bf5437786bc"
+    },
+    {
+      "index": 457,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "validation",
+      "member": "101_ObjectCategories/pizza/image_0005.jpg",
+      "sha256": "988cbf8bc7997b6b25df0cd96fb4332ab38d6ba7981d9f110536274671005d99",
+      "pixel_sha256": "2560da65a2018dcf58d7f6f5050a730834743f2c00bb182200e0218cd86a3015"
+    },
+    {
+      "index": 458,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "validation",
+      "member": "101_ObjectCategories/pizza/image_0053.jpg",
+      "sha256": "00b31aa27aaf10897ecf22038fc0433837ad43be1f75bc9b84388f0e742f837f",
+      "pixel_sha256": "6b1ab85ad455cb07566aaeecb3793620a7e398c673f63d00c6f9e01731546e81"
+    },
+    {
+      "index": 459,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "validation",
+      "member": "101_ObjectCategories/pizza/image_0041.jpg",
+      "sha256": "b238e5b72aa617e0e7312fd6be74890ee5b3632569413d51a5965becf14be192",
+      "pixel_sha256": "f7e75c234c23184bf6c4d8a3c9ddf30aa8f140c4342a4cb2ba0cd2fd255c2f4d"
+    },
+    {
+      "index": 460,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0017.jpg",
+      "sha256": "fd98dd1554b9a90bcb64080bffbf963dd6f1b9df4e861c615d62d571739a862d",
+      "pixel_sha256": "96bf93781b00d4642f9af16bc128ef99eaac8780ab677f4f2d762768647a83a4"
+    },
+    {
+      "index": 461,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0010.jpg",
+      "sha256": "e3369d3cd5d7762a79dba5ed1ad958716f24a2dce7e808eb78eb93382dfb0084",
+      "pixel_sha256": "5995212f24290b4506cb97aad7251f00eff547d8364e226a2d5538d1526c8029"
+    },
+    {
+      "index": 462,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0023.jpg",
+      "sha256": "0a2ba7220081c38aee77bd84bb5ca0f87dca15d640f6047d5c2bb2aa0455abcb",
+      "pixel_sha256": "51b93efc66f7ee7e28ccefc2a5c8d3c95173dcf7ad2ad01b5738639f4724d435"
+    },
+    {
+      "index": 463,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0027.jpg",
+      "sha256": "b25455fe86cacb9a501030c8367bfdc06be34879dbccf35473f36b0bc382d283",
+      "pixel_sha256": "e812e1202f765b2813d9c68f2a17ddd516709d2ca7ebc1210b65d225f7a71975"
+    },
+    {
+      "index": 464,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0002.jpg",
+      "sha256": "e158d7f64fbe017417f2189cea4d9139e07058652671ad923adb88724922fbc3",
+      "pixel_sha256": "348631694a3ff2946d4361c088a1a9ec821be0fb6447f52d4c44b7c24a86ae0c"
+    },
+    {
+      "index": 465,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0024.jpg",
+      "sha256": "d84387951e63fea33447c777be7f31409f361c9a621433623ce83ac17dbf896c",
+      "pixel_sha256": "df410c528c5f1b999ffb548f13c11a2b8eff2bbfd19958f816d54796cfa5b93b"
+    },
+    {
+      "index": 466,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0037.jpg",
+      "sha256": "70979f6a7f7cb1577b41e55f1efe83e6806fe1315bb9006dd5deac73b58555fa",
+      "pixel_sha256": "8fdbd279867418a6c8b91ef25e93f93c3dd48e918a0ed2f337d5194dcfcf6ebd"
+    },
+    {
+      "index": 467,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0019.jpg",
+      "sha256": "84048a6729181bc97f81175b9c8c9972b9c1bde996c0939cb48f5bf282949091",
+      "pixel_sha256": "3cdc4d4a2ffcccce335bc2c2bcbcdc7983e4f26f7bc6cf978587c47235e8c151"
+    },
+    {
+      "index": 468,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0033.jpg",
+      "sha256": "58cd66f5de27f1382b4ba94b5144168788695fbbf023a3bc4f90b3024dabda2d",
+      "pixel_sha256": "eae14df288c9ebe63b9f4c026d4967ab49415c7624148a40965dc3ab2e797c36"
+    },
+    {
+      "index": 469,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0044.jpg",
+      "sha256": "1b412c9bf66766bccc8a01c0900d8b093d11d292ef1578513ba8202fe3c80abe",
+      "pixel_sha256": "53d5d614dad68a1197ecc517665c783bbb4274c5ad39d1fe49a283fd9e6576d4"
+    },
+    {
+      "index": 470,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0001.jpg",
+      "sha256": "690aaec2e238b2fd3817be782b8c63403a03f7e83e6db60c99588280c7e2a7c3",
+      "pixel_sha256": "cc9594766db770f794effaa763133f24725cd1bda59c39c0123b82546617f31a"
+    },
+    {
+      "index": 471,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0014.jpg",
+      "sha256": "28df3b78f57c6672c9eb6defdfac5038b5bc0652c9f1924e3b9b97235cb797b3",
+      "pixel_sha256": "89bb1bc824f3e3bbda73dc4ad3661e99d9f65a58dc7d13bb51372ed2fa0f9096"
+    },
+    {
+      "index": 472,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0039.jpg",
+      "sha256": "90d66720049062173e381924ca8c47e57b195d45b7b192f43d4a00d0a4160b4b",
+      "pixel_sha256": "52f3d432a28db07518ca2d6820b0f29892fd51d54587c0e38597de3555c889c6"
+    },
+    {
+      "index": 473,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0047.jpg",
+      "sha256": "6e36c148f0a681321c3032b19059ba0c30659b3454ed03425cfcc96fd58913b3",
+      "pixel_sha256": "5695a161e017cf5546948feea2a587b28984171f28d2ffef9c7f02214a1bf96e"
+    },
+    {
+      "index": 474,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0036.jpg",
+      "sha256": "c36a9d6c106cc0dda53313dd06d7a8e18238d3d88e26b3401f0b1110f9f7bfd6",
+      "pixel_sha256": "c154fda0accbed7376b5beecf2f9ce9749a7783dd88018ad816d1dbecd2ebaa6"
+    },
+    {
+      "index": 475,
+      "class_id": 16,
+      "category": "pizza",
+      "split": "test",
+      "member": "101_ObjectCategories/pizza/image_0030.jpg",
+      "sha256": "c99addf1c83c8961dcfca19f225a0495176cb5f69aee4135eccf6f22f3d2e576",
+      "pixel_sha256": "6313a4100e18f44fb4a78b3634a303e35256c1be6e41dcfd6c60d23edaaa1f67"
+    },
+    {
+      "index": 476,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0016.jpg",
+      "sha256": "62323eb4e503e551786a1123c3be0b72edaf6214a1cbdbdea22a73d3a6af53e1",
+      "pixel_sha256": "74e5ff2180fce440a626cd1cd5d2e9e9c7590b3a961f349178ad4e9fafe48542"
+    },
+    {
+      "index": 477,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0020.jpg",
+      "sha256": "1bb72569e0bbb3ba16298388d9f92372449eb6e2efe734d0f7c55167c0016fb0",
+      "pixel_sha256": "74eab17d2de03dfaf7e19a431210c1f454c342534d81016945c4ae84dcba4b36"
+    },
+    {
+      "index": 478,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0010.jpg",
+      "sha256": "e56a6629de87ef19543adbac59b7d6adf2bede4ceccd203734e802d0e22be9ef",
+      "pixel_sha256": "d3c1d949bf5302689782dd6d0ea87c7fa37c182e3027cc91cf1c4404e0ccaca9"
+    },
+    {
+      "index": 479,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0026.jpg",
+      "sha256": "a8a2a8fb47e58f7946634e9813206a913d0a2455ad504920b6389a44119f3ddc",
+      "pixel_sha256": "7468c736e734c1fe6d5ce45ade57a06567678ffe5460b4b4446bb8c034eef19c"
+    },
+    {
+      "index": 480,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0035.jpg",
+      "sha256": "9c42d9d48922da330616fb3b22d7b670fc5150ca81c242ea552a7ab057e6a191",
+      "pixel_sha256": "d526941f904008f56da1b406c8427a3b743ff26c76f009bcb23ad5f5fa2b038d"
+    },
+    {
+      "index": 481,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0018.jpg",
+      "sha256": "1ee6a8a79fc23e74ea772c1dcf9d6884ca86fec05b37f3c02bac77f3b2009b22",
+      "pixel_sha256": "5492711c2cf101cc8510a7916a00b4088314677f8efbee8c3dba3089c76835b6"
+    },
+    {
+      "index": 482,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0032.jpg",
+      "sha256": "569cbc701854b7cdb999f28b489c1c2e9a5de2c3e11023b6d5205c5ba395ed6c",
+      "pixel_sha256": "730874d750a140d488cb251af3aafdbe7809f846efa125045d5b6d7182b0d058"
+    },
+    {
+      "index": 483,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "support",
+      "member": "101_ObjectCategories/scissors/image_0003.jpg",
+      "sha256": "93d6da17d44cae8c0b9750e20533924cdfbef7b87387244890bda28b4b843fb1",
+      "pixel_sha256": "56264f7786d37b353e3933ef7d32ce18fb249b7f07aeedc177b3ad1764c8383e"
+    },
+    {
+      "index": 484,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "validation",
+      "member": "101_ObjectCategories/scissors/image_0021.jpg",
+      "sha256": "05cd01750d123f1100a0defb49d9d32285c2e0ba2e2b8a7d902fcf176d40bc5c",
+      "pixel_sha256": "6d9f1917a1ee84bfceef1cc1ba5f4635bcc544949508445c73fa0644b7a67b3e"
+    },
+    {
+      "index": 485,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "validation",
+      "member": "101_ObjectCategories/scissors/image_0009.jpg",
+      "sha256": "632bf7fb17ee1b9fab52c2b7260b78365ebb00e20df22a65c7737072f417dc49",
+      "pixel_sha256": "c45cc024a423796f12839cf3088efccd917dc5328b6479474ccc2185b7e9a63c"
+    },
+    {
+      "index": 486,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "validation",
+      "member": "101_ObjectCategories/scissors/image_0007.jpg",
+      "sha256": "db2cb9a24c5723401611b207c0a5a0fb7df27fd9700928ed601a42d77a0551f4",
+      "pixel_sha256": "a99ff01f73ea6e711769395546a4ba1eb43469b2a01610123b47b12ea022e74a"
+    },
+    {
+      "index": 487,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "validation",
+      "member": "101_ObjectCategories/scissors/image_0006.jpg",
+      "sha256": "125ea5beb6cf0388358432b997a953eca250e4086203b3050c68ef957ded501d",
+      "pixel_sha256": "7cadb0faf6b8f03652796e95b5d6ac7954c123c7e0879c0186bd57732b2efe77"
+    },
+    {
+      "index": 488,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0029.jpg",
+      "sha256": "bdc5ea7a95bee5311b56dd02bed853db02a1daecf2cc807890a1a78fa878c2f4",
+      "pixel_sha256": "4d64d5ed8ea54d2f9643bfc19dd9871104153ca1c19d6e1bf0e5eedf0afbea95"
+    },
+    {
+      "index": 489,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0019.jpg",
+      "sha256": "ecbdbe395dda787d345d4448b0c6105d6f7ad876a3e372aa1a031511a980f53b",
+      "pixel_sha256": "8f9fe6cf123ed1a5e0d974d6cc8bf3109719c2da321318930832ec8442c2d281"
+    },
+    {
+      "index": 490,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0034.jpg",
+      "sha256": "b5b337fb7aa3b59f221abc92fea70d3175b8da7d72c28e2c179145a15a28af42",
+      "pixel_sha256": "ec622eef92de8e06d8e0704051ac9ba194eed7a25ee25187d5f9a8c9b6068fa3"
+    },
+    {
+      "index": 491,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0039.jpg",
+      "sha256": "78631685b66f7a93b6d8fea7c0343b91be5d39294fb695d8526d6aeea47e4e10",
+      "pixel_sha256": "25df71cdf5e66517454ad7e86fec491c40b8f58b84ec4563590bb23a4ae4077e"
+    },
+    {
+      "index": 492,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0036.jpg",
+      "sha256": "c427f081aaaf2c4bc6e2c8e81e28c6bdfe9dba6b6a2e24bf68e6b63e8a70aa85",
+      "pixel_sha256": "0a3345cdf4f516ef3d4248d2176094687278eda50e78406bb5faf2774c0b715d"
+    },
+    {
+      "index": 493,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0030.jpg",
+      "sha256": "4f836b75935bf00960c7316627be0e874b706c8f3d12fc19d4e02bcfe6e6f49f",
+      "pixel_sha256": "f9d3c9abe519c5f59f33529c493784a2cfcc4173bb631c19e00b865b911ba2e0"
+    },
+    {
+      "index": 494,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0013.jpg",
+      "sha256": "14355c3aabcaef8bfea4a7086a1f89abf1842d9e67e517099f271b0c7b8de9f4",
+      "pixel_sha256": "24f25fb4bc0fe510d1c39c6ec7488675571f80e3e1bf4bc008d2b1825f1cde05"
+    },
+    {
+      "index": 495,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0014.jpg",
+      "sha256": "a92a07c531de55ca4bddd071185c5c4707fb2b968b1be8bfe4a3c455f0568c5f",
+      "pixel_sha256": "8d07e9ae53c0919e54bdfc3779fe4eaee2c06d368a3d01030057ae36b1ded4ae"
+    },
+    {
+      "index": 496,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0015.jpg",
+      "sha256": "47d3236eeb3b64cbc2de46647046328a412d4fa5caaafaa723aa7553b5541a7f",
+      "pixel_sha256": "f1b3312bfc73c26c42f9230df3a9fae84d5faae15e4bd8376df2da1e714df9a7"
+    },
+    {
+      "index": 497,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0001.jpg",
+      "sha256": "83473c6428bfea4865421354ab4253ad5c8cf9f9e6f5c67d9d378f1980f933c8",
+      "pixel_sha256": "2b0186e28ec41c4fd16251ba57a1100887ef8f9aa99bbf10afbfe208dd5b48f5"
+    },
+    {
+      "index": 498,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0037.jpg",
+      "sha256": "71c241d87dbaf41311577b11b0517f593d47e0cba446cf8835bd520f6652cbaf",
+      "pixel_sha256": "e20afbfae1a0101c1f6b4068e916faa9bcda061eea8bef1d38099940967c98df"
+    },
+    {
+      "index": 499,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0033.jpg",
+      "sha256": "167564bc91673d4f0031e1601f83ecb3b3657307cfc918a6e99948359bc5239e",
+      "pixel_sha256": "9409d0a76d6cd54733fc6d540890a9a616875e77ef08ae3df83b65cc57f3d274"
+    },
+    {
+      "index": 500,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0004.jpg",
+      "sha256": "5605083460da998eb8fe7ca1f7157cdc01451f65e1c4b5dc118270d158d21896",
+      "pixel_sha256": "c43597c72213ebb6d2e7b48bb7158ed0ce908d0404eac5eb762f27915246e3fc"
+    },
+    {
+      "index": 501,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0017.jpg",
+      "sha256": "41aead19c665a1fe0006604643d9ad998087fd72e5ca054f357e49abdb00174b",
+      "pixel_sha256": "8f87073b839509fbaaaf3a07e42fc2e90ccd6db56c49a28a060335edb97a3462"
+    },
+    {
+      "index": 502,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0031.jpg",
+      "sha256": "2d60514be42a9b4889ed15ae92807964d35b8267fd92a27e77290afc726a4ecc",
+      "pixel_sha256": "c60bef0c25bcdda4630c442d8ac01a01f568cb9e3c3efaa8ff7cc240fba87698"
+    },
+    {
+      "index": 503,
+      "class_id": 17,
+      "category": "scissors",
+      "split": "test",
+      "member": "101_ObjectCategories/scissors/image_0027.jpg",
+      "sha256": "3878f63b1002cebc9a8a18b7228e990cf2cf9267bdf66bf7d8f9722dce723635",
+      "pixel_sha256": "64bcef7ecfb6770bd598921dba4bd23f10893fd071396f2d045a564573ef5951"
+    },
+    {
+      "index": 504,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0025.jpg",
+      "sha256": "2e9ed68dea8e184b15feeb2907e0c5fc940417003b491574bc735c1d92b64b7d",
+      "pixel_sha256": "efdfce1d4e382346691748760050bc19f9b0ee0818fa1bccbc9734dc7c6ccec0"
+    },
+    {
+      "index": 505,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0006.jpg",
+      "sha256": "6e9fd9a962f0ea5ee71f0e77306808f35f1240104ac5edbb0e6cf900de908a44",
+      "pixel_sha256": "0b2fe74974a02692493ddc7e255654af6d1c823db9e898345ce80efcd645c7db"
+    },
+    {
+      "index": 506,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0031.jpg",
+      "sha256": "19a0e4ed5a02340128d38b58c64b0bb7daf169e78e56f55b5389398aec5c5a2c",
+      "pixel_sha256": "9016be3414f76986add35e7e84ea1312c3a6651230b40e22c4a261e906df056b"
+    },
+    {
+      "index": 507,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0023.jpg",
+      "sha256": "e049e16a3be0b06511fc4261631c5917da5ee514022faab267b2d35b3f858197",
+      "pixel_sha256": "cf67148e1c7e28cae65da78afb57ae285be472a01c0d7cac21692173c2676f7f"
+    },
+    {
+      "index": 508,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0026.jpg",
+      "sha256": "32b4994a2190e91f8029f5c5239e398b625f6440372d4d9062e8148b61068be6",
+      "pixel_sha256": "7cd2e531cca92a983382c6a0c17e66b1af1e2e8a0b1fe88a63de9bb44a59071a"
+    },
+    {
+      "index": 509,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0032.jpg",
+      "sha256": "0c31aeec012cff0cf39d87af191a88d1f569d544d1a9b50e9311837c3138c07e",
+      "pixel_sha256": "5b4610a189ccc0066f47aa9da00967d6c746f6dab1b77832b6b2a8603cb418e0"
+    },
+    {
+      "index": 510,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0028.jpg",
+      "sha256": "fa6f61c8eadb0526414014582fcbc618400197a03437b09a1ba238dd51a822de",
+      "pixel_sha256": "3c9c763d57319d5467285e2d90272700e9d7cfb0d39e60df6b5b1a5a088a6af5"
+    },
+    {
+      "index": 511,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "support",
+      "member": "101_ObjectCategories/wild_cat/image_0009.jpg",
+      "sha256": "d6578727ce02f05595164202e3d9b5758ed7b7180891e2460e20991850b70324",
+      "pixel_sha256": "2a40fd4a00e917c217ac4d5a3a6e1a9ea9123323c55b9619e463af2d655a7cb2"
+    },
+    {
+      "index": 512,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "validation",
+      "member": "101_ObjectCategories/wild_cat/image_0019.jpg",
+      "sha256": "ad626b439d82aa57b6fe428cfc86e339b8a43829d3c417892160408bf9bcf7e5",
+      "pixel_sha256": "c0162181ce822f5ea02fea92574558062525e3b3d4cb97d933973848b9813567"
+    },
+    {
+      "index": 513,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "validation",
+      "member": "101_ObjectCategories/wild_cat/image_0022.jpg",
+      "sha256": "550034e2ebe4b31cc19185d0b1cf38c585d954462e51a0339d0ec25e3b5da9bd",
+      "pixel_sha256": "ff1e510760f632d0aac1e0e99280dcbd127beec7b1bc2818b6febc2266e7e6ca"
+    },
+    {
+      "index": 514,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "validation",
+      "member": "101_ObjectCategories/wild_cat/image_0001.jpg",
+      "sha256": "35541dfbf5b0b11e715d44da7da95288389391cf205b6cc456d22067fd892baa",
+      "pixel_sha256": "4e7e8f9b1b952859a3f707afbde988bea716bf3cd4cbda2b5e1908a7fd4b0a7c"
+    },
+    {
+      "index": 515,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "validation",
+      "member": "101_ObjectCategories/wild_cat/image_0033.jpg",
+      "sha256": "64485ebcc6e3cfd3dabe47732da71780e15938d346e93e299ad60ff59cafdcad",
+      "pixel_sha256": "12af8b7814781fbd2b8b2bfeca4467d937cb80f71073aa0e061c51dd98014fd5"
+    },
+    {
+      "index": 516,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0012.jpg",
+      "sha256": "338a312247d5842619ff5afd9db49371bac9a54a4bf81955ad620930b7e2d0cd",
+      "pixel_sha256": "172181ec34236ba0e4b4ae07ad34bc3c32277620956f042be3ccda53fec213d6"
+    },
+    {
+      "index": 517,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0008.jpg",
+      "sha256": "a824d8369f7ec1cce9d59ebad39282234693f03cda75fc4a3c7d1e7c7be6e1e4",
+      "pixel_sha256": "f480bb0804ffcc5d0e0897a7b3fef73fae84802922872a45b8075f61bf2e1569"
+    },
+    {
+      "index": 518,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0005.jpg",
+      "sha256": "5f2bfbd918e6fd34af6669ffe2651e27ed203543c0dfcf3e87846f448910e706",
+      "pixel_sha256": "0f7f37c5c015221ecda94043c040cc9669aa521c766f2874bcb06646b8aa75ed"
+    },
+    {
+      "index": 519,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0024.jpg",
+      "sha256": "34dd2e974bcf200949010764571d507a7bcc644e87ab690b04a11aa913c7c987",
+      "pixel_sha256": "3a15eddb21fd812cf7d58c9d5e9235b57b9e327f412e729ed71bedaca5eef283"
+    },
+    {
+      "index": 520,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0003.jpg",
+      "sha256": "8886d5f2ffe9aebf9a8d50512ffd7dfe29679fc148f2defd2e811d899a1853f8",
+      "pixel_sha256": "73487a13e8f5b50dfcb6deb502c29205b5e635740be54fc7c6f2eff9bf304a56"
+    },
+    {
+      "index": 521,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0018.jpg",
+      "sha256": "1fca2950c17906301b9de0b3747bfa2011e8c57eeb1170099f44863cc11d992f",
+      "pixel_sha256": "a9abf38a88ecba5ec9ba507ee8fda585446ef6e9adbb53ebaefcbb44c1ad7380"
+    },
+    {
+      "index": 522,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0015.jpg",
+      "sha256": "c3e1143f426264eafb57f073a52ddcdcce11fd26204b4eeb393dc7753a6c66a7",
+      "pixel_sha256": "92fa9c2073ee908d289045994660ed3e21960fbd05479dfc884d10a004eac861"
+    },
+    {
+      "index": 523,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0029.jpg",
+      "sha256": "67485d9b557ca60cf9c485bcb867d7a8de48e846e810fb2cb5393a1b31c30dc1",
+      "pixel_sha256": "ef75fd55a4b963fbbad8d91507bdb0316b0d09121a0814ee176e08bcdff6d9a7"
+    },
+    {
+      "index": 524,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0007.jpg",
+      "sha256": "510950e1c91af18bd668ed39b1bcb83e667d25d5a8a243fe810706e4030dab2c",
+      "pixel_sha256": "837953b1d901cba016bad8c67380b3b2a860485eb594a92f8e97794058f87170"
+    },
+    {
+      "index": 525,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0016.jpg",
+      "sha256": "aa1135d91c24082ff74617f88c2a52103b5ccf40c334652b7050615c69c4c483",
+      "pixel_sha256": "5072da5dba17da168d14d1d39d10fb927364f6bffd6d909c11648983134117c8"
+    },
+    {
+      "index": 526,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0014.jpg",
+      "sha256": "eefdf2282de61ca437a2ac7fd18bb236d3d06e9919ef490ce8be403c2b5a700c",
+      "pixel_sha256": "028252067235db388afdf1cff1078413f69ddbb18583052b891a3d02a20d25cf"
+    },
+    {
+      "index": 527,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0030.jpg",
+      "sha256": "18646f9a56040ab38b2c5cb4c0b782db0b402e27afda397be8656e1059a25b04",
+      "pixel_sha256": "eb9d0451e628d0aa06937617af83eb626284e1eac93cd1e0cc5d697f5e8e1f6b"
+    },
+    {
+      "index": 528,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0020.jpg",
+      "sha256": "ad0d96f387ce2c89c626386dbf311e9b72df1c3b94db5df9a2f827da9797dd90",
+      "pixel_sha256": "009a4a2069a017418cdb6d8657ae2b19825f8e5bb014d8eb97b1dfac3b2aa085"
+    },
+    {
+      "index": 529,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0021.jpg",
+      "sha256": "6a6d6d05b2c9eba67ba0a68a4b44f53a69bac91b2a64ecf73ec3ea2d2062eaff",
+      "pixel_sha256": "cb62a0641fa7cf757ebdd07e3ef49c6ab1e14330415f313de99d6248ff343677"
+    },
+    {
+      "index": 530,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0011.jpg",
+      "sha256": "2bae7f2b4942c1ee4d9407006c94f062c8f187895a19f6ae54534568040fe219",
+      "pixel_sha256": "2ce88d052c7e6b1874c6322c23816dfaa0e25e712bc2be084d649827ec52b5fd"
+    },
+    {
+      "index": 531,
+      "class_id": 18,
+      "category": "wild_cat",
+      "split": "test",
+      "member": "101_ObjectCategories/wild_cat/image_0013.jpg",
+      "sha256": "1836750a5355a56d2ac9dd0eed77083d077ac990a3d7b01bec9832fa2867cffd",
+      "pixel_sha256": "398a9af5c18ff871435418a5928be3c61c39c4a7c368f9d9ac01f772e5ae2cce"
+    },
+    {
+      "index": 532,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0028.jpg",
+      "sha256": "f6f46e9285de7bae9ace4a18a2dd6b365e4841983b945c6297d9841aaca6d80a",
+      "pixel_sha256": "616e1bdf7ee6053444cf080c90f8dc897b2871b2ce52a75cfae3c08dbe4f5926"
+    },
+    {
+      "index": 533,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0004.jpg",
+      "sha256": "6a861a4987f854a793174be213e1334686c1453588a42a8200e14426c87cde56",
+      "pixel_sha256": "12500e0c60d9d082e21f5bc8d0110ec5654c57636dfa887568b29237482e16de"
+    },
+    {
+      "index": 534,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0005.jpg",
+      "sha256": "3e39cfe3f55fc581175314b336efbf0b2b882c4309f7e2b39119dcf2c0d97588",
+      "pixel_sha256": "867dde080ca44421112691e6eab9ef3ee06e9aa4f05be33c5186a66b424a59ee"
+    },
+    {
+      "index": 535,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0020.jpg",
+      "sha256": "28add04d7a5402cdaa6b83e0e273c234afeb7cdc5679126702fa71348ff7c9d7",
+      "pixel_sha256": "8028b9e7822214bd3da0daf11d9f7d05c4870b8ff45288ea742eadf1471c5766"
+    },
+    {
+      "index": 536,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0014.jpg",
+      "sha256": "3ca89ffbecb0377066637868a1dbf8cfed956c122626e8213935591872709af4",
+      "pixel_sha256": "e541e9781ca62ebd11477aa9711a5ca7ca88f959fef46205d0e0d0694d096b53"
+    },
+    {
+      "index": 537,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0026.jpg",
+      "sha256": "bd74c9bb8ad35d89ee2f7accee7e4dcf4aa067205f2d5177f59f326ccccae6bd",
+      "pixel_sha256": "5612ba6b7836fd6e7a6a0adc266a6537023adc50732613d3bd4f33062056d3b8"
+    },
+    {
+      "index": 538,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0033.jpg",
+      "sha256": "9b78287912e00d132a72c406c84ec04d0455f299aee75e1037154735982b87ad",
+      "pixel_sha256": "1cc4377dec25bab31426ea88428a86ecc09ab3e4f0eb72f04fc5a9032b36328a"
+    },
+    {
+      "index": 539,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "support",
+      "member": "101_ObjectCategories/wrench/image_0021.jpg",
+      "sha256": "8fa994ba39670f755b0125160c125489d16bb80a3fc7d108f2ed9befb6b21b32",
+      "pixel_sha256": "62a3ddba92f9e288c6480d5f58997c7901217a1bb1d7ed494234adb94bd19947"
+    },
+    {
+      "index": 540,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "validation",
+      "member": "101_ObjectCategories/wrench/image_0037.jpg",
+      "sha256": "8c78b6f15be4f782f73b2d1de893dc8a5cec2f1588a01e31b9d53b6b7b9a0262",
+      "pixel_sha256": "da8c715365ad7935db15f42ac448111c03afade168b0592134b450529fc7b161"
+    },
+    {
+      "index": 541,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "validation",
+      "member": "101_ObjectCategories/wrench/image_0008.jpg",
+      "sha256": "8a34958f9bf2f7e40031ee40e2a38124c2239776f8fae15fd6313653a0c128ff",
+      "pixel_sha256": "d1efb1596158880d98220a741e27680e82a0467ae9e9cd8a1d70a0b2a15b6565"
+    },
+    {
+      "index": 542,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "validation",
+      "member": "101_ObjectCategories/wrench/image_0029.jpg",
+      "sha256": "838b1e0c46246d146fc20695904bfd5a1a851a0dff826c6613b2dbaba4480100",
+      "pixel_sha256": "612503f2094b0ca8992d87484ddd1c81f8dbf726175cc90cd9f4938c0599c80f"
+    },
+    {
+      "index": 543,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "validation",
+      "member": "101_ObjectCategories/wrench/image_0024.jpg",
+      "sha256": "40a830033f3a3e9bd8295544a61446572d022fc3b3603161b30d6e6c5035e791",
+      "pixel_sha256": "5c52a70f3b3117973256d8db46509f81133ef2cf84dbe5d1b90d652387c7f61f"
+    },
+    {
+      "index": 544,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0030.jpg",
+      "sha256": "20a2c1197bc4e269a4dc744400790992818b515f9cfbfe2cc0f660208c4a7d9b",
+      "pixel_sha256": "3782ead3944044bda0b8db502ea5c5738f639b21a5c7b3d351c38ee33559d6e1"
+    },
+    {
+      "index": 545,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0035.jpg",
+      "sha256": "d3a0580d3bdca14da3ca3afa0b402a89ea894185727f1b8ad0baf6eca35fe64a",
+      "pixel_sha256": "996020f4903d54f2d2cd306f0774dcb85f7dad09fed8ee75a245159e20fdb999"
+    },
+    {
+      "index": 546,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0010.jpg",
+      "sha256": "2130eb38a249f54d28652d43eff2a5390af64b3662623ba809120f21b2924e86",
+      "pixel_sha256": "7e1809fdde5865f045994b2111a21da8c14ce05ead49db32f1ac6ada69ccccb2"
+    },
+    {
+      "index": 547,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0016.jpg",
+      "sha256": "82ed27e7f854441da9b8087513403266ce78513dbb56e29b14717de1f4892c78",
+      "pixel_sha256": "dac4b4fde7d23db185d39b519061011c2b0ce1e5f2dca7d3eec56a8337ed98c2"
+    },
+    {
+      "index": 548,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0032.jpg",
+      "sha256": "da27079a5fb3e107930ed134fd0ebf286c7ddc7c3da1af3c1e6db7492a87052f",
+      "pixel_sha256": "fb416a1e95a8ad4091f1b7b589bae0d294990e19ed19fc805cb08ee3e2fed492"
+    },
+    {
+      "index": 549,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0034.jpg",
+      "sha256": "8d1a9dcfba949893bca6ce9e832ee15dbb429c4bdeb52f6c4e4e9a5488f70316",
+      "pixel_sha256": "e32fb52485db958e57e90d26abf0f3b020b6723fac84913272bb935cce27b8c6"
+    },
+    {
+      "index": 550,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0007.jpg",
+      "sha256": "b166c8cb0fc71556bac4128cfec784052ce3e5159e7dba1eb06bb440af0ac0a7",
+      "pixel_sha256": "680ab939726f8bc77c91109863d2294403294ce94d015d7043bce7c51b7f88e7"
+    },
+    {
+      "index": 551,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0022.jpg",
+      "sha256": "53367ef544d0f029209183dc13bd1f5f1d7a846e3a92cebd35e17015e043d863",
+      "pixel_sha256": "7d455783acd082ab4737ca94dc0bb51f1b09a5555dea5e577caf6dfda2af6c7b"
+    },
+    {
+      "index": 552,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0012.jpg",
+      "sha256": "c1da6dfc123662adce67d0b38ed016fedc9daa1462a0b319f2b19f83b4501642",
+      "pixel_sha256": "b8b0114e35874fcd091af2858c2bb1df89788547c0b5a260a15dc428a80175fb"
+    },
+    {
+      "index": 553,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0003.jpg",
+      "sha256": "a69e97326ed00a3ae7100688eb53a4747cd1c80aa6f604702490cefaad09a94e",
+      "pixel_sha256": "c90f79ca7b72bf1cc4f299eb54c8d4bf8b607b4b76a7cea719e24c0775452b7d"
+    },
+    {
+      "index": 554,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0038.jpg",
+      "sha256": "a32a9a9db4fcca3eb803571823d23deb5411048cc28cb4b68939809c709009c8",
+      "pixel_sha256": "0521d356ac9a9f48c2cc19e0edf8544797f5aa7a7dc554e6b150a348cffe9b7a"
+    },
+    {
+      "index": 555,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0023.jpg",
+      "sha256": "1b1d9bf0ffd566fa286e19e8c7a573df18a46bf19464b8be019f3ee4f9c2e1df",
+      "pixel_sha256": "43a9400ccffc4801bce3eaf2126f4296d63c21100376b956c811a0f448e0b20b"
+    },
+    {
+      "index": 556,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0027.jpg",
+      "sha256": "4e4717d2ec9c0ba12d705961af5a9df3303fb173fd3143a54f1e71ba2d59bf58",
+      "pixel_sha256": "67d9da4b235ba26afa5c0ae1cb3c7390c64156819f1e3d0ceb788cf447aba79f"
+    },
+    {
+      "index": 557,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0017.jpg",
+      "sha256": "144b55617cde4b651af893c4c8912082c1e418e110b0412bbe50c9006919889e",
+      "pixel_sha256": "3e0642dfb3c6e62a3de814d774581cf93e2aad4057fca48d044b778e5e63defa"
+    },
+    {
+      "index": 558,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0015.jpg",
+      "sha256": "1b6ed424d19bab4aedeff5579463d0c11f090e27c14ec761657b5899337f78e6",
+      "pixel_sha256": "2a686655d6d87501955db9233ed9dff0f14b99ae1acfbee1aa79fff924a74be2"
+    },
+    {
+      "index": 559,
+      "class_id": 19,
+      "category": "wrench",
+      "split": "test",
+      "member": "101_ObjectCategories/wrench/image_0011.jpg",
+      "sha256": "a5d7cbd690b1bcdf8017f643ab898ba5d4507fb9535e3b904cdd358c5ed7ec4a",
+      "pixel_sha256": "9d6a6085172681c72829bd7aa4bba73df874d46bc09973ad688fbb810fd09623"
+    }
+  ],
+  "seed": 20260930,
+  "disjoint_paths_and_content": true
+}

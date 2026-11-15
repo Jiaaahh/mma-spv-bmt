@@ -1,0 +1,61 @@
+schema: mma-multibudget-font-exclusions-v1
+schema_version: 1
+
+# The three source groups are frozen before Study B asset generation.  The
+# training group deliberately includes all eight historical benchmark fonts,
+# including its former locked-test split, so no historically scored family can
+# re-enter Study B as a "new" font.
+sources:
+  training:
+    family_ids:
+      - noto_sans_sc_thin
+      - Noto Sans SC Thin
+      - Noto Sans SC
+      - noto_serif_sc_extralight
+      - Noto Serif SC ExtraLight
+      - Noto Serif SC
+      - ma_shan_zheng
+      - Ma Shan Zheng
+      - zcool_qingke_huangyou
+      - ZCOOL QingKe HuangYou
+      - zcool_kuaile
+      - ZCOOL KuaiLe
+      - liu_jian_mao_cao
+      - Liu Jian Mao Cao
+      - long_cang
+      - Long Cang
+      - zhi_mang_xing
+      - Zhi Mang Xing
+    file_sha256:
+      - 0f4c9c5bb1a887840c4de396279bdb5059bd20b5f58341a08542f18868aa1b1e
+      - de14e4adfc94592e7858170cad44171f4b44a7c46479ecbba013046f6fb038e1
+      - 6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb
+      - 54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136
+      - 812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d
+      - cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033
+      - e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc
+      - 644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969
+  c1:
+    family_ids:
+      - dengxian_regular
+      - DengXian
+      - fzshuti_regular
+      - FZShuTi
+    file_sha256:
+      - e051009b42b454352a90ae0c9b8adb58bbdbcd168768750b35bc3357510de141
+      - 0b5a903376fe4d97306c943b690b04a5080889b4f87f8d704962939d3ceef1c4
+  e1:
+    family_ids:
+      - E1_F01
+      - KaiTi
+      - E1_F02
+      - SimHei
+      - E1_F03
+      - YouYuan
+      - E1_F04
+      - FangSong
+    file_sha256:
+      - 95b3e69321f4e55f6ecf36b29d1e31a0c1205acfde0117df6472a17494c3cbd2
+      - 9b1959db3b3abeb7efdaec26edf7dfe871a6039de8d614af7248575207be629e
+      - e4440e07e02fa6b5a8f497da52fcab0aa711b399d43ff28a2ba246c603363930
+      - fb8fd25dd5ffb09951f54d2038b7a44405659dcf7db059f502a34d62e4d689ee

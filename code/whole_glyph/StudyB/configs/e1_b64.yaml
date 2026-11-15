@@ -1,0 +1,139 @@
+schema_version: 1
+experiment_id: d1_b64
+legacy_root: '/historical/deepseek\hanzi-spv-benchmark'
+
+dataset:
+  glyphs_npz: data/processed/benchmark/glyphs.npz
+  sha256: 8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582
+  train_fonts:
+    - noto_sans_sc_thin
+    - noto_serif_sc_extralight
+    - ma_shan_zheng
+    - zcool_qingke_huangyou
+    - zcool_kuaile
+    - liu_jian_mao_cao
+  test_fonts:
+    - long_cang
+    - zhi_mang_xing
+
+mapping:
+  directory: data/mappings/formal
+  sha256:
+    ideal_mapping.npz: 267cd5ebfaa9ff4093f950fbe6df66442cf3f5115419c677808c1db34c617d5a
+    moderate_seed_2026.npz: 46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62
+    moderate_seed_2027.npz: b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd
+    moderate_seed_2028.npz: 30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92
+    moderate_seed_2029.npz: 4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925
+    moderate_seed_2030.npz: f3c9330b31d973680c099cd0f46675b56c8009b0e6781e3a039b4cdc79be9a99
+
+output_root: outputs/d1_b64
+
+runtime:
+  save_spv: false
+  max_blas_threads: 1
+  report_metrics: true
+
+environment:
+  enforce: true
+  python: 3.11.15
+  packages:
+    numpy: 2.2.6
+    scipy: 1.15.3
+    scikit-image: 0.25.2
+    scikit-learn: 1.6.1
+    PyYAML: 6.0.2
+    threadpoolctl: 3.6.0
+
+feature:
+  orientations: 9
+  pixels_per_cell: [8, 8]
+  cells_per_block: [2, 2]
+  block_norm: L2-Hys
+
+classifier:
+  c: 1.0
+  dual: auto
+  max_iter: 5000
+  random_state: 2026
+
+conditions:
+  - method: skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2026
+  - method: calibrated_skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2026
+  - method: nominal_skeleton_coverage
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2026
+  - method: ca_skelcov
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2026
+  - method: skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2027
+  - method: calibrated_skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2027
+  - method: nominal_skeleton_coverage
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2027
+  - method: ca_skelcov
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2027
+  - method: skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2028
+  - method: calibrated_skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2028
+  - method: nominal_skeleton_coverage
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2028
+  - method: ca_skelcov
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2028
+  - method: skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2029
+  - method: calibrated_skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2029
+  - method: nominal_skeleton_coverage
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2029
+  - method: ca_skelcov
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2029
+  - method: skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2030
+  - method: calibrated_skeleton_topk
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2030
+  - method: nominal_skeleton_coverage
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2030
+  - method: ca_skelcov
+    budget: 64
+    mapping_type: moderate
+    mapping_seed: 2030

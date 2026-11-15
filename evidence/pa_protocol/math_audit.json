@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "max_abs_prototype_error": 1.1102230246251565e-16,
+  "zero_column_preserved": true,
+  "fusion_scale_equivalence": true
+}

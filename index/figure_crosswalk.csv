@@ -1,0 +1,6 @@
+﻿current,historical,evidence_ids,inputs,type,render_command,validation
+Figure1,Figure1 / fig1,E01,figure_data/fig1_simulation_arrays.npz,method schematic,python -B tools/render_current_figures.py --output-dir checks/figures,adapter staged and parsed; rendering not run in step 1
+Figure2,Figure3 / fig3,E12;E13,figure_data/budget_source_data.csv;evidence/whole_glyph/StudyB/merged_predictions_with_truth.csv,budget result; archived intervals,python -B tools/render_current_figures.py --output-dir checks/figures,adapter staged and parsed; rendering not run in step 1
+Figure3,Figure4 / fig4,E14,figure_data/mismatch_source_data.csv;evidence/whole_glyph/E1/predictions.csv,mismatch result including negative gains,python -B tools/render_current_figures.py --output-dir checks/figures,adapter staged and parsed; rendering not run in step 1
+Figure4,Figure5 / fig5,E19;E32,figure_data/fig5_cases;evidence/point/results,rule-selected corrected and regressed cases,python -B tools/render_current_figures.py --output-dir checks/figures,adapter staged and parsed; rendering not run in step 1
+FigureS1,Figure2 / fig2,E01,code/figures/original_bmt;historical/figure_revision_20261105/source/draw_methods.py,prototype-construction schematic,python -B tools/render_current_figures.py --output-dir checks/figures,adapter staged and parsed; rendering not run in step 1

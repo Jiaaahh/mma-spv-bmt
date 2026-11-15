@@ -1,0 +1,63 @@
+schema_version: 1
+experiment_id: d2_mma_cv_windows
+legacy_root: '/historical/deepseek\hanzi-spv-benchmark'
+
+dataset:
+  glyphs_npz: data/processed/benchmark/glyphs.npz
+  sha256: 8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582
+  development_fonts:
+    - noto_sans_sc_thin
+    - noto_serif_sc_extralight
+    - ma_shan_zheng
+    - zcool_qingke_huangyou
+    - zcool_kuaile
+    - liu_jian_mao_cao
+  locked_test_fonts:
+    - long_cang
+    - zhi_mang_xing
+
+mapping:
+  directory: data/mappings/formal
+  moderate_seeds: [2026, 2027, 2028, 2029, 2030]
+  sha256:
+    ideal_mapping.npz: 267cd5ebfaa9ff4093f950fbe6df66442cf3f5115419c677808c1db34c617d5a
+    moderate_seed_2026.npz: 46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62
+    moderate_seed_2027.npz: b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd
+    moderate_seed_2028.npz: 30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92
+    moderate_seed_2029.npz: 4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925
+    moderate_seed_2030.npz: f3c9330b31d973680c099cd0f46675b56c8009b0e6781e3a039b4cdc79be9a99
+
+protocol:
+  budget: 64
+  encoder: ideal_skeleton_topk
+  feature: hog
+  classifier: multimapping_cosine_prototype
+  methods:
+    - ideal_only
+    - single_moderate
+    - multi4
+    - ideal_plus_multi4
+    - oracle_matched
+
+feature:
+  orientations: 9
+  pixels_per_cell: [8, 8]
+  cells_per_block: [2, 2]
+  block_norm: L2-Hys
+
+runtime:
+  max_blas_threads: 1
+
+environment:
+  enforce: true
+  python: 3.12.7
+  packages:
+    numpy: 1.26.4
+    scipy: 1.13.1
+    scikit-image: 0.25.0
+    scikit-learn: 1.5.1
+    PyYAML: 6.0.1
+    threadpoolctl: 3.5.0
+
+output_root: outputs/d2_mma_cv_windows
+

@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "synthetic_only": true,
+  "expected_primary_difference_pp": 25,
+  "observed": {
+    "primary_skeleton_mma_minus_point_multi": {
+      "difference_pp": 25.0,
+      "ci95_pp": [
+        18.888888888888886,
+        31.666666666666664
+      ]
+    },
+    "point_multi_minus_ideal": {
+      "difference_pp": 0.0,
+      "ci95_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    "skeleton_mma_gain": {
+      "difference_pp": 25.0,
+      "ci95_pp": [
+        18.888888888888886,
+        31.666666666666664
+      ]
+    },
+    "canny_mma_gain": {
+      "difference_pp": 0.0,
+      "ci95_pp": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "real_test_data_read": false
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-09-29T12:24:04.454857+00:00",
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+  "executable": "/historical/Anaconda\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_logical": 16,
+  "memory": {
+    "total": 14877257728,
+    "available": 5526753280,
+    "percent": 62.9,
+    "used": 9350504448,
+    "free": 5526753280
+  },
+  "disk": {
+    "total": 214748360704,
+    "used": 166561533952,
+    "free": 48186826752
+  },
+  "packages": {
+    "torch": true,
+    "clip": false,
+    "open_clip": false,
+    "transformers": false,
+    "ftfy": false,
+    "regex": true
+  },
+  "checked_other_environment": "work/resnet50_cpu_env: Python 3.12.14, torch 2.6.0+cpu, torchvision present; clip/open_clip/transformers/ftfy/regex absent",
+  "torch_probe": "/historical/Anaconda and work/resnet50_cpu_env both report torch 2.6.0+cpu and cuda.is_available() false",
+  "hardware_gpu": "Unconfirmed: Win32_VideoController inventory denied; nvidia-smi not on PATH. CPU torch does not prove absence of a physical GPU.",
+  "weight_search_scope": [
+    "~/.cache/clip",
+    "~/.cache/huggingface/hub"
+  ],
+  "clip_weights_found_in_checked_default_locations": false,
+  "runtime_benchmark": "NOT_RUN: CLIP package and RN50 weights absent"
+}

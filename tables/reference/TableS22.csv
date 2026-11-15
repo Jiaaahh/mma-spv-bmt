@@ -1,0 +1,13 @@
+﻿Panel,Method,"Accuracy, %","Seed SD, pp",Macro-F1
+Extended,HOG ideal prototype,64.00,—,0.6452
+Extended,MMA-HOG,79.06,—,0.7841
+Extended,RanDumb-SPV Ideal,78.16,0.35,0.7836
+Extended,RanDumb-SPV Multi-map,79.23,0.51,0.7924
+Extended,RanDumb-SPV ideal repeated 5 times,78.16,0.31,0.7839
+Extended,RanDumb-SPV ideal (multi-map parameters),78.16,0.35,0.7836
+Basic,HOG ideal prototype,49.56,—,0.5266
+Basic,MMA-HOG,64.72,—,0.6524
+Basic,RanDumb-SPV Ideal,63.11,0.19,0.6529
+Basic,RanDumb-SPV Multi-map,64.27,0.15,0.6578
+Basic,RanDumb-SPV ideal repeated 5 times,63.07,0.24,0.6530
+Basic,RanDumb-SPV ideal (multi-map parameters),63.11,0.19,0.6529

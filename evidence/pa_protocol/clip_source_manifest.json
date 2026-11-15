@@ -1,0 +1,33 @@
+{
+  "source": "http/historical/github.com/openai/CLIP",
+  "commit": "d05afc436d78f1c48dc0dbf8e5980a9d471f35f6",
+  "archive_sha256": "c665a33987c7365078c9988fdae5699026ec75cc4424bc0d59ab2599df22229a",
+  "weight_url": "http/historical/openaipublic.azureedge.net/clip/models/afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762/RN50.pt",
+  "weight_sha256": "afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762",
+  "weight_bytes": 255827503,
+  "weight_verified": true,
+  "source_files": {
+    ".gitignore": "ccf6f4a90fc5739cc36c80f98eabe0203fc2fd23a08e0e74770be829d9823801",
+    "CLIP.png": "308a3ca4503f1c7a07803916c369d78c4ef501e5ab7fc727da9b5e1d2f9ec85b",
+    "hubconf.py": "0641946610c17a743ebcc3f6e85cffff1400337bb9a99766740c40b01d9a3e14",
+    "LICENSE": "987e63b32f6c89ff5160e429458a872ff048e6860b590a3912e938f9da8f14db",
+    "MANIFEST.in": "8d0c7441ae5c66544ff18b2cc36b8d92593a5874a79d9f07725bfa9a30edec85",
+    "model-card.md": "7baf04f60c6234b301ec2c9ca39e67a3ca54b47c05e9509bddf732cbcbec8b7f",
+    "README.md": "f82c5c75e140532eb37a7d943921e1bdd57d740c6b40d0030985bc5b5d11d6f1",
+    "requirements.txt": "5a4592a5a1dba0812188f42fff2ae4054d63c336699879cf184ed98fd02cb0a9",
+    "setup.py": "6a913890284a988293f7b0b3ca017de29c65ce2bdce9fdd09cb481fc6bd5a636",
+    "clip\\bpe_simple_vocab_16e6.txt.gz": "924691ac288e54409236115652ad4aa250f48203de50a9e4722a6ecd48d6804a",
+    "clip\\clip.py": "9540f200fbf8145479fa655382a56dab048d238cc698b9cbd8df3b6d86d3f1b6",
+    "clip\\model.py": "9902cbe5ee90a1da2aa3e6f043e8a23dc1f8831193b963785c9af03d5c7bef2c",
+    "clip\\simple_tokenizer.py": "d1b09f10ed3d1e2c343619cb98cbfacb92363dd8607526a43aa7fe2d60d15bad",
+    "clip\\__init__.py": "d7930eb290ebed432116795c91473200d098451a94c0aedd4ae0f934f97955e8",
+    "data\\country211.md": "eb725daeacb87714addca4d997045068833c2cc505669f1830811a78cf72e169",
+    "data\\prompts.md": "f98d2d25e78cc1fee650240b519f7cb58a83cfcc5aa538cde52514809cf4a1c9",
+    "data\\rendered-sst2.md": "77d2d0b910e09c2f9e80527cd48d8c189dfc7098bcc88c132e227113e1b79c25",
+    "data\\yfcc100m.md": "6818d6e2212d3c026a482d34bd41ae34a25a16014eb6faf3a299b7a49ff51b51",
+    "notebooks\\Interacting_with_CLIP.ipynb": "a63f55ed41457fc25eb60fc62cb8d473d6ca57c1fbc3d65e1610f89f046637af",
+    "notebooks\\Prompt_Engineering_for_ImageNet.ipynb": "1788d6598fedcea5ba835dbab218ba2e3c2384871d334ae773ccae53f265eade",
+    "tests\\test_consistency.py": "342f84e4814143e1117dbc14baa6cf2a2ec01f61542e3952edc91e68f5eed206",
+    ".github\\workflows\\test.yml": "950c6842f8deb677d6ddbe4d92a5afc47a949e914350f0cbe60fee8b65060d8b"
+  }
+}

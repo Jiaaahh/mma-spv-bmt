@@ -1,0 +1,163 @@
+{
+  "version": "g09_a2_isolated_entry_v1",
+  "protocol_id": "G09_SYMMETRIC_DEV_V1",
+  "status": "G09-A implemented, no training executed",
+  "current_execution_scope": "isolated code + no-training verification only",
+  "gpu_training_authorized_by_this_package": false,
+  "utc": "2026-09-19T13:46:19.496344+00:00",
+  "project_root": "/historical/root/autodl-tmp/mma_pkg/project",
+  "new_source_files": {
+    "g09_v1/g09_audit.py": "4322880df757d91b9cc21a138ad4fa211e8ec9ac87ba8ff65bbe390f0e0b47b3",
+    "g09_v1/g09_compare.py": "d773b74f9fc7f081fdf3e6412272288363d86582e5029e0bfc346ee1c7d30b11",
+    "g09_v1/g09_config.py": "0be551d86a72033a4579a3fc5ed9c4b1f798fcc849504862772ed6f0ef75dde1",
+    "g09_v1/g09_core.py": "e682e82e847993b23c220ca1d405b5c6e738d8fa7bf0574b2f4dff9a48b7ddc3",
+    "g09_v1/g09_evaluate.py": "60ff09f44c21b0dfa0d7339998bf8db4e332be2db81f2ca3dbbf9b137f0160ea",
+    "g09_v1/g09_gate.py": "37af1038b1c895ff04cbe78774580a24d09bf0b62662426e1ca907ef866a9421",
+    "g09_v1/g09_make_manifest.py": "346039c1d6b8fdc7de0cc088184d324388e2fd6fc7a826341bab2f20c96457da",
+    "g09_v1/g09_old_asset_guard.py": "608ccd910e39aaab610cef02275e1eb18bc220510e114ace9dda77c7565ad495",
+    "g09_v1/g09_runner.py": "3d8518d45435ab3ddb80c16f788dadac4e95e09dabfede77f157d02eeffd3918",
+    "g09_v1/g09_select.py": "cf9aaaad8f11239f60003609d89b0fa5d482d88fbdc2f6fe933afdb7731ab9d6",
+    "g09_v1/g09_static_precheck.py": "d0fd844b3d211613f6c8ec39a7831f967bf46b5d24ab9a31b82ae3c79139a781",
+    "g09_v1/g09_validation.py": "2beba9540866bea246622f5018bc454e3b95d20732776a55b003a4fdad6e4e5e",
+    "g09_v1/make_g09_a_package.py": "9a531fd362c5bf16c22f4c0ad7163659d676b498dbb3fec09cde5a5392bdbecd",
+    "g09_v1/tests/capture_cli_evidence.py": "f5bf47a001370f5c3bae5acb74af7c7d4ccf848413970ccef13c17ca8fa750a9",
+    "g09_v1/tests/engineering_kit.py": "c1bcde5e218d7928ef957dd02230f3338d79e60f71e53f4b0848239e2121576e",
+    "g09_v1/tests/fixtures.py": "12b73727dcfedc255e5fd5d5d05bc4cb339bc360b09722e67384e50ec2f3cb11",
+    "g09_v1/tests/run_all_tests.py": "c8280dcd0c095f6119263efac5c26fdb3cac48ac32b651f3d1c2643727a6901b",
+    "g09_v1/tests/test_a2_regression.py": "64ecf901e512b208b4e81ff33318217525dd2b0b798e0e8875d845e498f7c386",
+    "g09_v1/tests/test_selector_gate_compare.py": "0ab4a2d7e1451bc68158fdb3ea06e8a52d38fd10cdd141dcb563d5cba70ff27c",
+    "g09_v1/tests/test_unit.py": "e81769c3a01780f0e9ffae075dad2f00f018f078b93ad4b95dfe5a0a2b2dd3fa"
+  },
+  "new_source_count": 20,
+  "protocol_files": {
+    "G09_protocol_design.json": "b494f62db7431d8a0b24f2e48637833e26df96854f7f4d28e9df18e2ffe4f770",
+    "G09_run_matrix.json": "5161ba54bcb13d927da8ef1153f25244bf700018c7b330c93f4d27578afb8b57",
+    "G09_对称开发搜索方案与A阶段交接.md": "93eb7516da3e12833bb32bab67fec0462f96a8eca39b9b0b20c05d32240f89c1"
+  },
+  "candidate_table": [
+    {
+      "candidate_id": "C01",
+      "backbone_lr": 1e-06,
+      "head_lr": 2e-05,
+      "weight_decay": 0.0,
+      "xdm_domain_lr": 1e-06,
+      "xdm_domain_weight_decay": 0.0
+    },
+    {
+      "candidate_id": "C02",
+      "backbone_lr": 1e-06,
+      "head_lr": 2e-05,
+      "weight_decay": 0.0001,
+      "xdm_domain_lr": 1e-06,
+      "xdm_domain_weight_decay": 0.0001
+    },
+    {
+      "candidate_id": "C03",
+      "backbone_lr": 5e-06,
+      "head_lr": 0.0001,
+      "weight_decay": 0.0,
+      "xdm_domain_lr": 5e-06,
+      "xdm_domain_weight_decay": 0.0
+    },
+    {
+      "candidate_id": "C04",
+      "backbone_lr": 5e-06,
+      "head_lr": 0.0001,
+      "weight_decay": 0.0001,
+      "xdm_domain_lr": 5e-06,
+      "xdm_domain_weight_decay": 0.0001
+    },
+    {
+      "candidate_id": "C05",
+      "backbone_lr": 2.5e-05,
+      "head_lr": 0.0005,
+      "weight_decay": 0.0,
+      "xdm_domain_lr": 2.5e-05,
+      "xdm_domain_weight_decay": 0.0
+    },
+    {
+      "candidate_id": "C06",
+      "backbone_lr": 2.5e-05,
+      "head_lr": 0.0005,
+      "weight_decay": 0.0001,
+      "xdm_domain_lr": 2.5e-05,
+      "xdm_domain_weight_decay": 0.0001
+    }
+  ],
+  "candidate_ids": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05",
+    "C06"
+  ],
+  "folds": [
+    0,
+    1
+  ],
+  "methods": [
+    "erm",
+    "xdm"
+  ],
+  "run_matrix_entries": 24,
+  "run_paths": [
+    "runs_g09_v1/f0_s17_k8_erm_C01",
+    "runs_g09_v1/f0_s17_k8_erm_C02",
+    "runs_g09_v1/f0_s17_k8_erm_C03",
+    "runs_g09_v1/f0_s17_k8_erm_C04",
+    "runs_g09_v1/f0_s17_k8_erm_C05",
+    "runs_g09_v1/f0_s17_k8_erm_C06",
+    "runs_g09_v1/f0_s17_k8_xdm_C01",
+    "runs_g09_v1/f0_s17_k8_xdm_C02",
+    "runs_g09_v1/f0_s17_k8_xdm_C03",
+    "runs_g09_v1/f0_s17_k8_xdm_C04",
+    "runs_g09_v1/f0_s17_k8_xdm_C05",
+    "runs_g09_v1/f0_s17_k8_xdm_C06",
+    "runs_g09_v1/f1_s17_k8_erm_C01",
+    "runs_g09_v1/f1_s17_k8_erm_C02",
+    "runs_g09_v1/f1_s17_k8_erm_C03",
+    "runs_g09_v1/f1_s17_k8_erm_C04",
+    "runs_g09_v1/f1_s17_k8_erm_C05",
+    "runs_g09_v1/f1_s17_k8_erm_C06",
+    "runs_g09_v1/f1_s17_k8_xdm_C01",
+    "runs_g09_v1/f1_s17_k8_xdm_C02",
+    "runs_g09_v1/f1_s17_k8_xdm_C03",
+    "runs_g09_v1/f1_s17_k8_xdm_C04",
+    "runs_g09_v1/f1_s17_k8_xdm_C05",
+    "runs_g09_v1/f1_s17_k8_xdm_C06"
+  ],
+  "selection_rule_id": "G09_SELECT_V1__CORRECT_DESC__CE_FLOAT64_RHE8_ASC__CANDIDATE_ID_ASC",
+  "original_manifest": {
+    "path": "PACKAGE_MANIFEST.json",
+    "sha256": "11d0ef4651ce6d3d438d00d1e7a7236499cc623e1f8092ffadc9153cf9eb5e78",
+    "note": "v1 manifest untouched; its hash is pinned in the G09 manifest and every G09 contract"
+  },
+  "legacy_source_anchors": {
+    "core.py": "0b209af30d28d9cf74e3c75e5b5baa2f6e5f6971ac617d18d623d4c7b2f82c50",
+    "runner.py": "d03b9a360a66ef86867ec8fecc666fa4ecdbfb931ad96b14ffce71f7929544ab",
+    "evaluate.py": "e9e622f210d1a6fbd89963329a928afe86323810ca85c4095f739f65caa96384",
+    "compare.py": "8b5e15fcb517838324adb1a7ebabd623d68efab1aa86f3008b01cdf46ca238ae",
+    "audit_runs.py": "0ae59eb7d8062a79badf7dc4185e08950765281d6205f0dd68f4881362ba6361"
+  },
+  "author_source_anchors": {
+    "algorithms.py": "bc613277ce4faa19903a1d88356199f58558356a0fa686fee45b31ff1e671da8",
+    "networks.py": "81fc315b536c8ff6c3efaa206c7dd766cc97b7b622a6eab14c43642424eac898",
+    "mixup_module.py": "92f0e1e505705795546a110e39a877c7346a73c84430a333eb9051f16f77f870"
+  },
+  "written_artifacts": {
+    "runs_g09_v1": "not created in G09-A",
+    "selections_g09_v1": "not created in G09-A",
+    "engineering_g09_v1": "test sandboxes only",
+    "final_packages": "G09-A delivery zip + sha256"
+  },
+  "excludes": [
+    "data",
+    "weights",
+    "vendor bodies",
+    "reference",
+    "runs/*.pt",
+    "credentials",
+    "caches"
+  ]
+}

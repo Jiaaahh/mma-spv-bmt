@@ -1,0 +1,98 @@
+{
+  "version": "point_spv_formal_v1",
+  "status": "fixed_before_any_final_scoring",
+  "classes": 180,
+  "budget": 64,
+  "crop_size": 80,
+  "foreground_threshold": 0.5,
+  "input_size": 128,
+  "train_fonts": [
+    "liu_jian_mao_cao",
+    "ma_shan_zheng",
+    "noto_sans_sc_thin",
+    "noto_serif_sc_extralight",
+    "zcool_kuaile",
+    "zcool_qingke_huangyou"
+  ],
+  "test_fonts": [
+    "STHupo",
+    "STXinwei",
+    "STXingkai",
+    "STKaiti"
+  ],
+  "mapping_seeds": [
+    0,
+    2026,
+    2027,
+    2028,
+    2029
+  ],
+  "test_mapping_seeds": [
+    26092501,
+    26092502,
+    26092503,
+    26092504,
+    26092505
+  ],
+  "seed": 17,
+  "initialization_seeds": [
+    17,
+    29,
+    43
+  ],
+  "steps": 5000,
+  "batch_size": 16,
+  "learning_rate": 0.0001,
+  "perceptual_weight": 0.75,
+  "schedule_row_seed": 26092511,
+  "schedule_point_seed": 26092512,
+  "train_view_seed": 26092513,
+  "test_view_seed": 26092514,
+  "jobs": [
+    {
+      "name": "ideal_seed17",
+      "condition": "ideal",
+      "seed": 17
+    },
+    {
+      "name": "ideal_seed29",
+      "condition": "ideal",
+      "seed": 29
+    },
+    {
+      "name": "ideal_seed43",
+      "condition": "ideal",
+      "seed": 43
+    },
+    {
+      "name": "multi_seed17",
+      "condition": "multi",
+      "seed": 17
+    },
+    {
+      "name": "multi_seed29",
+      "condition": "multi",
+      "seed": 29
+    },
+    {
+      "name": "multi_seed43",
+      "condition": "multi",
+      "seed": 43
+    }
+  ],
+  "scope": "Four new font files x five new realizations from the same moderate mapping generator x 180 familiar classes, one common view per glyph. Not unseen generator families, arbitrary fonts, or new character recognition.",
+  "seed_scope": "Initialization-only replicates; one common fixed crop schedule across all six jobs and HOG. No prediction ensemble.",
+  "selection": "No further selection. Evaluate final step5000 only, all six jobs. Test scoring allowed only after every Point checkpoint and both HOG prototype files are frozen.",
+  "hog": "Use all 80000 crop events; ideal uses ideal mapping each event; MMA uses the same five-way per-step mapping routing as Point multi. Mean within font/class/map, equally mean fonts, then mean maps. No five-fold augmentation of mapping exposures. Cache only identical row/point/mapping with exact multiplicities.",
+  "statistics": {
+    "primary": "window Skeleton-MMA-HOG minus mean-of-three Point-multi accuracies",
+    "bootstrap_unit": "character; keep fonts, mappings and all seeds together",
+    "replicates": 100000,
+    "seed": 26092515,
+    "ci": "percentile95; conditional on fixed fonts/maps/initializations; not seed-population uncertainty",
+    "secondary": "Point multi-minus-ideal paired by seed; Skeleton and Canny MMA gains; report secondary intervals as exploratory",
+    "aggregation": "macro-average all four fonts/five maps; average scalar Point accuracies over seeds, never logits/votes",
+    "seed_report": "each seed and sample SD across three initializations"
+  },
+  "font_distribution": "Private research artifact. Font binaries omitted; public release needs a separate rights check or new preregistered open fonts."
+}

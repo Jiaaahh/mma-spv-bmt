@@ -1,0 +1,11 @@
+{
+  "experiment": "Post-hoc 60-class input screen, training/development only",
+  "protocol": "protocol.json; subset.json; implementation_manifest.json",
+  "raw": "features/; *_scores.npz; predictions.csv",
+  "selection": "selection_search.json; selection_decision.json",
+  "verification": "independent_audit.json",
+  "summary": "result.json; metrics.csv; 输入适配筛查结论.md",
+  "manuscript_status": "No manuscript changes; diagnostic only, not 180-class main comparison",
+  "prior_results": "Preserve original full Proto-Adapter SPV run, natural-image sanity check, mapping diagnostics, MMA, Point-SPV, XDomainMix, RanDumb and PA-HOG unchanged",
+  "reporting_rule": "Retain all three candidates and historical development status; no E1/C1 rescoring"
+}

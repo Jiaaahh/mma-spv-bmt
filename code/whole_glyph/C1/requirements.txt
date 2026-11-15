@@ -1,0 +1,12 @@
+# Reproducible CPU-only environment (CPython 3.11 recommended).
+numpy==2.2.6
+scipy==1.15.3
+scikit-image==0.25.2
+scikit-learn==1.6.1
+Pillow==11.2.1
+PyYAML==6.0.2
+matplotlib==3.10.3
+pandas==2.2.3
+joblib==1.5.1
+threadpoolctl==3.6.0
+pytest==8.3.5

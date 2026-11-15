@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "Point-SPV-Apache-2.0.txt",
+    "sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c",
+    "source": "https://github.com/arnejad/E2E-Point-SPV/blob/752af482dd6104d14bd61e794a15738271640c88/LICENSE",
+    "retrieved": "2026-11-15"
+  },
+  {
+    "filename": "torchvision-BSD-3-Clause.txt",
+    "sha256": "6efe05cff209c333eb55dbfc3df6d3894d565435ea03a8af0ab3b22b7b102b8c",
+    "source": "https://github.com/pytorch/vision/blob/v0.21.0/LICENSE",
+    "retrieved": "2026-11-15"
+  },
+  {
+    "filename": "CLIP-MIT.txt",
+    "sha256": "3d52f51b391de534b68d889e748d4761b6424c3ed6aa21f6f47108717d203a80",
+    "source": "https://github.com/openai/CLIP/blob/d05afc436d78f1c48dc0dbf8e5980a9d471f35f6/LICENSE",
+    "retrieved": "2026-11-15"
+  }
+]

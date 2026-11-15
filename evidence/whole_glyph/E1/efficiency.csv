@@ -1,0 +1,10 @@
+method,selector,classifier,training_mapping_ids,training_sample_count,fit_seconds,model_size_bytes,n_iter,predict_seconds,predicted_sample_count
+proto_skeleton_ideal_only,skeleton,prototype,ideal,1080,0.053060500002175104,6272640,,0.8780049999986659,18000
+proto_skeleton_ideal_plus_moderate1,skeleton,prototype,ideal|moderate_seed2026,2160,0.04433370000333525,6272640,,0.1916672999941511,3600
+proto_skeleton_ideal_plus_moderate2,skeleton,prototype,ideal|moderate_seed2026|moderate_seed2027,3240,0.06261610000365181,6272640,,0.1925312000021222,3600
+proto_skeleton_ideal_plus_multi4,skeleton,prototype,ideal|moderate_seed2026|moderate_seed2027|moderate_seed2028|moderate_seed2029,5400,0.1368824000019231,6272640,,0.9327744000038365,18000
+proto_skeleton_multi4_no_ideal,skeleton,prototype,moderate_seed2026|moderate_seed2027|moderate_seed2028|moderate_seed2029,4320,0.09613189999799943,6272640,,0.1998987999977544,3600
+svc_skeleton_ideal_only,skeleton,svc,ideal,1080,7.252708100000746,6276076,26,0.5223561000020709,18000
+svc_skeleton_ideal_plus_multi4,skeleton,svc,ideal|moderate_seed2026|moderate_seed2027|moderate_seed2028|moderate_seed2029,5400,94.92735800000082,6276076,9,0.5268596000241814,18000
+proto_scialom_contour_ideal_only,scialom_contour,prototype,ideal,1080,0.036835400002019014,6272640,,0.9566014999727486,18000
+proto_scialom_contour_ideal_plus_multi4,scialom_contour,prototype,ideal|moderate_seed2026|moderate_seed2027|moderate_seed2028|moderate_seed2029,5400,0.15763500000321073,6272640,,0.9558488999973633,18000

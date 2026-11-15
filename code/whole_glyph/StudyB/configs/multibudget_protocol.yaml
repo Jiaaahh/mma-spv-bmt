@@ -1,0 +1,77 @@
+schema: mma-multibudget-v1-protocol
+schema_version: 1
+study_id: mma_multibudget_v1
+
+design:
+  condition: moderate
+  methods:
+    - ideal_only
+    - ideal_plus_multi4
+  budgets: [32, 48, 64, 96, 128]
+  mapping_seeds: [4101, 4102, 4103, 4104, 4105]
+  run_order: budget_seed_method
+  class_count: 180
+  confirmation_font_family_count: 4
+  expected_conditions: 50
+  method_training_mappings:
+    ideal_only: [ideal]
+    ideal_plus_multi4:
+      - ideal
+      - moderate_seed2026
+      - moderate_seed2027
+      - moderate_seed2028
+      - moderate_seed2029
+
+encoder:
+  name: skeleton_topk
+  selection_mapping: ideal
+  budget_contract: common_deterministic_ranking_prefix
+  tie_break: candidate_index_ascending
+  exact_unique_positions_per_budget: true
+
+feature:
+  name: hog
+  orientations: 9
+  pixels_per_cell: [8, 8]
+  cells_per_block: [2, 2]
+  block_norm: L2-Hys
+
+classifier:
+  name: multimapping_cosine_prototype
+  parameter_search: false
+  refit_separately_at_each_budget: true
+
+confirmation_assets:
+  status: PENDING_BLINDED_GENERATION
+  future_manifest_path: data/multibudget_confirmation/assets_manifest.json
+  required_font_family_count: 4
+  font_family_ids: []
+  required_mapping_condition: moderate
+  required_mapping_seeds: [4101, 4102, 4103, 4104, 4105]
+  require_disjoint_font_families_from_training_c1_e1: true
+  require_disjoint_font_file_sha256_from_training_c1_e1: true
+  require_unique_mapping_geometry_sha256: true
+  prediction_executed: false
+  accuracy_read: false
+
+analysis:
+  release_status_required: ANALYSIS_RELEASED
+  release_completed_conditions: 50
+  release_unexpected_conditions: 0
+  primary_endpoint: delta_normalized_area_under_accuracy_budget_curve
+  integration: trapezoidal_over_budgets_32_to_128_divided_by_96
+  primary_comparison: ideal_plus_multi4_minus_ideal_only
+  bootstrap_unit: character_cluster_retaining_all_paired_cells
+  bootstrap_iterations: 100000
+  bootstrap_seed: 20260829
+  success_rule: ci95_lower_bound_strictly_greater_than_zero
+  per_budget_differences: secondary
+  b_eq64: descriptive_only
+  forbid_per_condition_aggregation_before_release: true
+
+outputs:
+  run_plan: plans/multibudget_run_plan.json
+  run_plan_sha256: plans/multibudget_run_plan.sha256
+  preflight_report: outputs/multibudget_preflight/preflight_report.json
+  preflight_report_sha256: outputs/multibudget_preflight/preflight_report.sha256
+  formal_runs_root: outputs/multibudget_formal/formal_runs

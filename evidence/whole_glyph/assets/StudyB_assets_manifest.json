@@ -1,0 +1,465 @@
+{
+  "accuracy_generated": false,
+  "accuracy_read": false,
+  "contact_sheets": [
+    {
+      "file": "contact_sheet_MB_F01.png",
+      "file_sha256": "bf4203440a560475e39e1ea968bdc2eca998ae8dab3c2f03d5eb8683eca713d7",
+      "font_id": "MB_F01"
+    },
+    {
+      "file": "contact_sheet_MB_F02.png",
+      "file_sha256": "3977a8b684a778b187ccecf274e808b1b4bd7be70a646daca18e9774487f86c7",
+      "font_id": "MB_F02"
+    },
+    {
+      "file": "contact_sheet_MB_F03.png",
+      "file_sha256": "5a51f7e49d4d02a57b73a113fd756a08ad6e03bfc4a726f29e34277dcd2f79c4",
+      "font_id": "MB_F03"
+    },
+    {
+      "file": "contact_sheet_MB_F04.png",
+      "file_sha256": "53d5371c89d7dd496163a1c2af2dce40e3ca72eaec4f015304ecc1662d0febc3",
+      "font_id": "MB_F04"
+    }
+  ],
+  "exclusions": {
+    "all_selected_fonts_disjoint": true,
+    "family_ids_casefold": [
+      "dengxian",
+      "dengxian_regular",
+      "e1_f01",
+      "e1_f02",
+      "e1_f03",
+      "e1_f04",
+      "fangsong",
+      "fzshuti",
+      "fzshuti_regular",
+      "kaiti",
+      "liu jian mao cao",
+      "liu_jian_mao_cao",
+      "long cang",
+      "long_cang",
+      "ma shan zheng",
+      "ma_shan_zheng",
+      "noto sans sc",
+      "noto sans sc thin",
+      "noto serif sc",
+      "noto serif sc extralight",
+      "noto_sans_sc_thin",
+      "noto_serif_sc_extralight",
+      "simhei",
+      "youyuan",
+      "zcool kuaile",
+      "zcool qingke huangyou",
+      "zcool_kuaile",
+      "zcool_qingke_huangyou",
+      "zhi mang xing",
+      "zhi_mang_xing"
+    ],
+    "file_sha256": [
+      "0b5a903376fe4d97306c943b690b04a5080889b4f87f8d704962939d3ceef1c4",
+      "0f4c9c5bb1a887840c4de396279bdb5059bd20b5f58341a08542f18868aa1b1e",
+      "54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136",
+      "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+      "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+      "95b3e69321f4e55f6ecf36b29d1e31a0c1205acfde0117df6472a17494c3cbd2",
+      "9b1959db3b3abeb7efdaec26edf7dfe871a6039de8d614af7248575207be629e",
+      "cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033",
+      "de14e4adfc94592e7858170cad44171f4b44a7c46479ecbba013046f6fb038e1",
+      "e051009b42b454352a90ae0c9b8adb58bbdbcd168768750b35bc3357510de141",
+      "e4440e07e02fa6b5a8f497da52fcab0aa711b399d43ff28a2ba246c603363930",
+      "e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc",
+      "fb8fd25dd5ffb09951f54d2038b7a44405659dcf7db059f502a34d62e4d689ee"
+    ],
+    "path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\configs\\multibudget_font_exclusions.yaml",
+    "required_sources": [
+      "training",
+      "c1",
+      "e1"
+    ],
+    "sha256": "098f3d5c58d0a77a82bfada0441f57cc49e3441a00f03c1fed7280da16cebeb5",
+    "sources": {
+      "c1": {
+        "family_ids_casefold": [
+          "dengxian",
+          "dengxian_regular",
+          "fzshuti",
+          "fzshuti_regular"
+        ],
+        "file_sha256": [
+          "0b5a903376fe4d97306c943b690b04a5080889b4f87f8d704962939d3ceef1c4",
+          "e051009b42b454352a90ae0c9b8adb58bbdbcd168768750b35bc3357510de141"
+        ]
+      },
+      "e1": {
+        "family_ids_casefold": [
+          "e1_f01",
+          "e1_f02",
+          "e1_f03",
+          "e1_f04",
+          "fangsong",
+          "kaiti",
+          "simhei",
+          "youyuan"
+        ],
+        "file_sha256": [
+          "95b3e69321f4e55f6ecf36b29d1e31a0c1205acfde0117df6472a17494c3cbd2",
+          "9b1959db3b3abeb7efdaec26edf7dfe871a6039de8d614af7248575207be629e",
+          "e4440e07e02fa6b5a8f497da52fcab0aa711b399d43ff28a2ba246c603363930",
+          "fb8fd25dd5ffb09951f54d2038b7a44405659dcf7db059f502a34d62e4d689ee"
+        ]
+      },
+      "training": {
+        "family_ids_casefold": [
+          "liu jian mao cao",
+          "liu_jian_mao_cao",
+          "long cang",
+          "long_cang",
+          "ma shan zheng",
+          "ma_shan_zheng",
+          "noto sans sc",
+          "noto sans sc thin",
+          "noto serif sc",
+          "noto serif sc extralight",
+          "noto_sans_sc_thin",
+          "noto_serif_sc_extralight",
+          "zcool kuaile",
+          "zcool qingke huangyou",
+          "zcool_kuaile",
+          "zcool_qingke_huangyou",
+          "zhi mang xing",
+          "zhi_mang_xing"
+        ],
+        "file_sha256": [
+          "0f4c9c5bb1a887840c4de396279bdb5059bd20b5f58341a08542f18868aa1b1e",
+          "54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136",
+          "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+          "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+          "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+          "cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033",
+          "de14e4adfc94592e7858170cad44171f4b44a7c46479ecbba013046f6fb038e1",
+          "e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc"
+        ]
+      }
+    }
+  },
+  "font_spec": {
+    "path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\configs\\multibudget_font_spec.yaml",
+    "sha256": "64eb54645db3c1c0db526efce35f295c434a0b5ade9618fae37c560b670fbc2d"
+  },
+  "fonts": [
+    {
+      "analyst_blinded_id": "MB_F01",
+      "derived_asset_distribution": "LOCAL_RESEARCH_ONLY_PENDING_SEPARATE_RIGHTS_REVIEW",
+      "face_index": 0,
+      "family_id": "STCaiyun",
+      "family_id_casefold": "stcaiyun",
+      "file_sha256": "13b3f397619a1bd2a3dc56b09007114645a3103a171949e36c0f4603c7c44136",
+      "file_size_bytes": 5673836,
+      "font_id": "MB_F01",
+      "fonttools_cmap_covered_characters": 180,
+      "fonttools_cmap_missing_characters": 0,
+      "license_scope": "local_system_font_not_cleared_for_redistribution",
+      "missing_character_count": 0,
+      "performance_selection": false,
+      "pillow_family_id": "STCaiyun",
+      "postscript_name": "STCaiyun",
+      "redistribution_permitted": false,
+      "required_character_count": 180,
+      "source_path": "/historical/Windows\\Fonts\\STCAIYUN.TTF",
+      "subfamily_id": "Regular",
+      "unique_normalized_glyphs": 180,
+      "unique_raw_glyph_fingerprints": 180
+    },
+    {
+      "analyst_blinded_id": "MB_F02",
+      "derived_asset_distribution": "LOCAL_RESEARCH_ONLY_PENDING_SEPARATE_RIGHTS_REVIEW",
+      "face_index": 0,
+      "family_id": "SimSun",
+      "family_id_casefold": "simsun",
+      "file_sha256": "1526ac24375f51f6eb73bc2d3f8072dbe4a80a3a65217677c9d9a84f67dab2ab",
+      "file_size_bytes": 18316748,
+      "font_id": "MB_F02",
+      "fonttools_cmap_covered_characters": 180,
+      "fonttools_cmap_missing_characters": 0,
+      "license_scope": "local_system_font_not_cleared_for_redistribution",
+      "missing_character_count": 0,
+      "performance_selection": false,
+      "pillow_family_id": "SimSun",
+      "postscript_name": "SimSun",
+      "redistribution_permitted": false,
+      "required_character_count": 180,
+      "source_path": "/historical/Windows\\Fonts\\simsun.ttc",
+      "subfamily_id": "Regular",
+      "unique_normalized_glyphs": 180,
+      "unique_raw_glyph_fingerprints": 180
+    },
+    {
+      "analyst_blinded_id": "MB_F03",
+      "derived_asset_distribution": "LOCAL_RESEARCH_ONLY_PENDING_SEPARATE_RIGHTS_REVIEW",
+      "face_index": 0,
+      "family_id": "Microsoft JhengHei",
+      "family_id_casefold": "microsoft jhenghei",
+      "file_sha256": "1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac",
+      "file_size_bytes": 21404172,
+      "font_id": "MB_F03",
+      "fonttools_cmap_covered_characters": 180,
+      "fonttools_cmap_missing_characters": 0,
+      "license_scope": "local_system_font_not_cleared_for_redistribution",
+      "missing_character_count": 0,
+      "performance_selection": false,
+      "pillow_family_id": "Microsoft JhengHei",
+      "postscript_name": "MicrosoftJhengHeiRegular",
+      "redistribution_permitted": false,
+      "required_character_count": 180,
+      "source_path": "/historical/Windows\\Fonts\\msjh.ttc",
+      "subfamily_id": "Regular",
+      "unique_normalized_glyphs": 180,
+      "unique_raw_glyph_fingerprints": 180
+    },
+    {
+      "analyst_blinded_id": "MB_F04",
+      "derived_asset_distribution": "LOCAL_RESEARCH_ONLY_PENDING_SEPARATE_RIGHTS_REVIEW",
+      "face_index": 0,
+      "family_id": "FZYaoTi",
+      "family_id_casefold": "fzyaoti",
+      "file_sha256": "4065a23df6823c8e2b69a0e76d02f02a6470b8774a5e91086609701ad95cc33f",
+      "file_size_bytes": 3241748,
+      "font_id": "MB_F04",
+      "fonttools_cmap_covered_characters": 180,
+      "fonttools_cmap_missing_characters": 0,
+      "license_scope": "local_system_font_not_cleared_for_redistribution",
+      "missing_character_count": 0,
+      "performance_selection": false,
+      "pillow_family_id": "FZYaoTi",
+      "postscript_name": "FZYTK--GBK1-0",
+      "redistribution_permitted": false,
+      "required_character_count": 180,
+      "source_path": "/historical/Windows\\Fonts\\FZYTK.TTF",
+      "subfamily_id": "Regular",
+      "unique_normalized_glyphs": 180,
+      "unique_raw_glyph_fingerprints": 180
+    }
+  ],
+  "glyph_archive": {
+    "class_count": 180,
+    "file": "glyphs_confirmation.npz",
+    "file_sha256": "e799efb025d8df2424e471acab37c5c30a9f20821ed8e0e5ce64cc817d50a29f",
+    "font_count": 4,
+    "images_sha256": "b4082bcb2ff6f4954ab3f81c0f624cd0cf8d74355eb5d8874eac86b46c4eb5c0",
+    "sample_count": 720
+  },
+  "historical_mapping_exclusions": {
+    "centers_sha256": [
+      "0626758746a9434e0b6315805de761141e161c4535c405922a9ff1d438e8b306",
+      "0db6df54dc69f9f13b4646ee933923f4e56a2556bd1851788fd7d2bca2524337",
+      "189d501a2e6f87e641bf7215800ded202a9eedacc3063b8d3b52e2d64e14dfd5",
+      "1c0dcb150e8fc7e96013b9cad6ab38907421828d80d1413553bfab3df4f8e27d",
+      "287b52f3c2eefd98b2a1b5af7cc4adafd1f3e74cf135f6c9301bd59cc8a6763e",
+      "3fb3b36ccd7e74439c70cffe3230e501d18f0b1b34a1e60ee34a0ac3bf9e0c50",
+      "6c871e80681a68bfd8667e65a71cc6ad76cb7a4ac6a90e670d067191d4e84f90",
+      "786b0d925a8f19f8f7cfe42b162ca1bddb844b424e3fbb53a5bc0541a89b511e",
+      "ab330d683fffd68d016c35fdc2610b435ab9844d0f685839fa18c81d2c855da4",
+      "c1269ee6e6aa9bfec5f7648e88b370cbd1824558fea8a0579f55725e3e5b33a5",
+      "d238c7f6e2735eb8772d3bd0cc8762b8948952e37eb021697c5615256d6f00e7",
+      "da0f872b2f6547a6b97f33945d6b7a4593e3e78fffdeb0c31753b1e11a283fc7",
+      "ddf7b95562e2af356a5ec0ca7b6fd8229bdf9562342f1c5b326d2eab442dcb91",
+      "e53547c0782e8bb7b954431c6c74b4519399042c047814bb86e38a6c14905a46",
+      "ef1054a0d39f42c4c5360f2995efa952f1f5d5138aeba5572f2cdd00315fd5f4"
+    ],
+    "file_sha256": [
+      "0dd89d73c1e80df9aaff1b5f5e40981c88f8c11f45493597b0f6f1ece3d05f51",
+      "21b64f2e8e65045a652951a05d9825592af2892b60c4ad64acf98868c36b2f92",
+      "30a076f1a70044bd3fc93f5bae13108b93db074372bb3661cd72d433936b1d92",
+      "42245b59c59ddca76c4a6e135c0741266179bde5229e0779e16a947c763c7384",
+      "4448dca4eb15848124f30398f855d75a0f9dae202e0a7cc115411dfac91d1925",
+      "46b543400ff709568e462c61003c57b6fc29f39ddccbc2030df7ef0464079b62",
+      "51b70c8df2bccac8e434b6e22d4ab1bd3376e65c308634ae1fc18db53cfcd1aa",
+      "76d7032860c22d85dbcfeb3354295a883733c760e7620bb2583ec667730b07ca",
+      "7a83b396d7e86625f53e62fb3d3373f3bacc915804c1039549851fd49ef6f1a2",
+      "83c3564c955e70b8733f761a137809fa9d105e5a40af60c42d746eb85098376b",
+      "ac2194973f6fabecedfbfcf6e35d81b80f19791e0bce02d81e263a45a5916773",
+      "b9d11eb0b9ba96b02f1caca911f80f66430296c5a3a12c2b371ade53c7b74ddd",
+      "c238605b79e5f25b02374db8169c2a93b73c0738d557f7fa931fb6dbbad452fe",
+      "e4e0b9e244cef6afbe3206656cf93fbe8437e8ef90c65c531ca2b804ace299bd",
+      "f3c9330b31d973680c099cd0f46675b56c8009b0e6781e3a039b4cdc79be9a99"
+    ],
+    "geometry_sha256": [
+      "0a6274b07b01c9ef6cf38e942444b2a40c5c9b7d3bba779cba9c70cdf6224875",
+      "3bf67e2dc1cbcc06d1f565a9e5f077a84aad1f0c9835bb7abce5158ce9028500",
+      "4c9862326ab03a1ef3c86b0bdc56b5e3d6e77f29d767515a7f4dc7295ae3e5fc",
+      "658ba37924e0880998aa205f41d51b3b3039cae8368ba5c46a1f22df65c9eb60",
+      "7b213bb918f8829a99a23adcceb1053a1338e367852cff7a8c2d8b64dbc439cc",
+      "90c1b9d0310ad416052a72c16f97bde0d347ead8ae66327e14a669f8ebb007af",
+      "94e4b5e3c845d6402478a77e38fbd297d0d24408e285c10aedc734a8e83703ab",
+      "adb4f28e9d4582ad2888602abec501ecdf48e5c64249873b6514af193173ebff",
+      "b25ee6c102a3ebce0e0985604d5bd72c922bee39f912c485d19bde7ca7379613",
+      "b4793fc1981a1f3ee315a74ef6096a7a2bb99ef9d5f85e6e31ec1321091bf9f7",
+      "c1f8fc7019d8557fee5f0b8d2b836647bf1e8b10a0ae30ec0129c503b873e7d1",
+      "ddc85df36437d4334854cdb4a12ffd959072f95ff79e4f831f1f47157d8e99b9",
+      "ef32cad90e29bfbb1a21158d3feaff31b33f1e1e8a381150ecf16abd488085c7",
+      "f52d2870d586784a193da170baf4b0f268a5d0954182d2a8b570e2225fe38ae1",
+      "fa616bc7df4c4f991fa329977b6dd5c3e150d1f054aff3b7dfc0fc19b8cee4fd"
+    ],
+    "manifests": [
+      {
+        "path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\configs\\multibudget_historical_mappings.yaml",
+        "sha256": "8b18910238422b04891cf696c543c7ba5da8e9ddcf6165e7aa15bf0b4ef00196"
+      }
+    ],
+    "sigma_sha256": [
+      "1e63629c8f985b815df2ce26286bc383e63173855198f11ded7e3106c2f3703b",
+      "285fbce559d527c2cfdaacdbb5b8c64ce337ef5d2d4ae1b81223ed12982aaa1d",
+      "2ef253a0fec7dd5f3a288a4b72b2f77f3174a1a2e63d5a46154c8ffaed6bdeb0",
+      "31d9a6b1f09c2a09e3e3616cbbc6197d8408326f895eb8102e0a6f7cc5233740",
+      "387b6fe21e8542392d202740e5091540896e1347dcb10eeb78fe429c3ed87257",
+      "3ff1deabb47cec059c9a16f72edc65492675588d2330e183e1d873dffc7eab89",
+      "48228c59a3b084ba78a04991d00eb40baa6abd3483c0efbcf74bcd56c4fa935e",
+      "617d1a8e60b8707e0c520c1e288a5dd8d3d4662ab9948018706c9659d90e955a",
+      "6284d08f3bb68d682fce96204781fa7adee77e473311d98331c90bf29a1172e7",
+      "7a50d8875b3db30181b65469a036dff98ea3f60da9883794762ff2014eabfbd8",
+      "7d6852a15b5de5a76e30ae2bfe75ea0442ec061a18326e1cf74b37a66ae1bd63",
+      "98099496adb717f574859e285ee50567884f8b45a6a65e79e37fd7f714e24d0c",
+      "e598412d06e438ae5e8ad85417f41c2016ae83fd85bbf9355dd2815099dbd8db",
+      "f22a34e641764c5ab24668e2bf5635586bf10ca973ade920297e70fb067ae292",
+      "fa76bc5779a334230c61edf97ed654bd23735a7a503066e180293c05cf9a1cc8"
+    ]
+  },
+  "mapping_parameters": {
+    "base_sigma_grid": 0.45,
+    "condition": "moderate",
+    "grid": [
+      16,
+      16
+    ],
+    "image_shape": [
+      96,
+      96
+    ],
+    "kernel_normalization": "l1_after_canvas_boundary",
+    "position_jitter_std_grid": 0.3,
+    "seeds": [
+      4101,
+      4102,
+      4103,
+      4104,
+      4105
+    ],
+    "sigma_scale_clip": [
+      0.6,
+      1.6
+    ],
+    "sigma_scale_std": 0.2
+  },
+  "mappings": [
+    {
+      "centers_sha256": "e689eddafcbb3b4decd88333486d843ee176f849998fa0e9c17b0e5e7e26db52",
+      "file": "mappings/moderate_seed_4101.npz",
+      "file_sha256": "c2d0c697a354ebf4002fe424313a8e05549c6199ca0c2dcc35cfeefe512361c0",
+      "geometry_sha256": "a50e6b7a11dea361512fb720bf0a1eb226ece3d7526d1c1e174685c9410b0a66",
+      "geometry_statistics": {
+        "max_displacement_px": 5.988398270535659,
+        "max_sigma_px": 4.320000171661377,
+        "mean_displacement_px": 2.230301779488011,
+        "mean_sigma_px": 2.7073840401135385,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed4101",
+      "seed": 4101,
+      "sigma_sha256": "144d5a8ed3078bc98b9739e425cf8615cc05fc8fce759ea568268c81589101fe"
+    },
+    {
+      "centers_sha256": "93183985f8bde23d57544c85e9c62e655285de0122c72fa7f14fe37a00a671b1",
+      "file": "mappings/moderate_seed_4102.npz",
+      "file_sha256": "a702508dc9e9adc5fd6e0e0ccbec9cd49ba05d0c7af3cc415148ddd45c18b60b",
+      "geometry_sha256": "f72666c1c44f226328f420381397877d15134903e5de8fc50339f58dd1c6fa79",
+      "geometry_statistics": {
+        "max_displacement_px": 6.139256827604702,
+        "max_sigma_px": 4.320000171661377,
+        "mean_displacement_px": 2.1660326778579257,
+        "mean_sigma_px": 2.7124752323143184,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed4102",
+      "seed": 4102,
+      "sigma_sha256": "5c91a258f2cc371caaeccbe7c59ae88fada7f6dce78bc48485a2c5af75605d24"
+    },
+    {
+      "centers_sha256": "865b688094488c4f16b6cd0212aee0208612d52f82baece5e7606488931de4a8",
+      "file": "mappings/moderate_seed_4103.npz",
+      "file_sha256": "f5dd335968a25350aaab69979abb7e72d0cf61a1bc6dcf1821dba8c29c3b455c",
+      "geometry_sha256": "fa2b46f3a037ba9b65361111ff2f4614542e4b79a99468768c5424dc8cb510ee",
+      "geometry_statistics": {
+        "max_displacement_px": 7.5253027489535,
+        "max_sigma_px": 4.216160774230957,
+        "mean_displacement_px": 2.181174851054223,
+        "mean_sigma_px": 2.6595691284164786,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed4103",
+      "seed": 4103,
+      "sigma_sha256": "ef8128f20a1676a81816f800a814a09ded5793d21895a040c3e75823b82a4975"
+    },
+    {
+      "centers_sha256": "1c81dba23ff28ff60bfda7284e980b6acc38b5e9d90bed8caf8ffe5c5536a32a",
+      "file": "mappings/moderate_seed_4104.npz",
+      "file_sha256": "67ae5c12298d5c857a381c6057a2fe2eabcea6ed137d32e2fa59e5107517e079",
+      "geometry_sha256": "78009b49826708af6681b7f5fec721f20356a5970058ea135a4c8d34163c6bf1",
+      "geometry_statistics": {
+        "max_displacement_px": 6.053800794561003,
+        "max_sigma_px": 4.320000171661377,
+        "mean_displacement_px": 2.265179267560889,
+        "mean_sigma_px": 2.6766648101620376,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed4104",
+      "seed": 4104,
+      "sigma_sha256": "e3509fb2c2e98fdd91ae33c3cafe72d688843bb81793251fdb2503fc5a448932"
+    },
+    {
+      "centers_sha256": "211df35e6cc0d73dfae2d279f8313a45885a0722f6daf80b15759274d0721ee1",
+      "file": "mappings/moderate_seed_4105.npz",
+      "file_sha256": "ed58df5390dba834531b222d436df9f13d5d9949104e8ef06c2c4f62f514fe65",
+      "geometry_sha256": "2ee75e3ec8e2aae436c3c5af07dc0282960870048d002a72d0534ac5682ddf31",
+      "geometry_statistics": {
+        "max_displacement_px": 6.0908129664894926,
+        "max_sigma_px": 4.320000171661377,
+        "mean_displacement_px": 2.3846968600826206,
+        "mean_sigma_px": 2.7060088659636676,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed4105",
+      "seed": 4105,
+      "sigma_sha256": "a2dc35a2fa0032e63e26d137b95eb194c1d0e3e4a70cfdd4339a5e2e8aa21928"
+    }
+  ],
+  "prediction_executed": false,
+  "protocol_config": {
+    "path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\configs\\multibudget_protocol.yaml",
+    "sha256": "27e4bef857b75b606eeabc40790a5a197ed91260dbd17dbb1da47cc1eeb71e2d"
+  },
+  "rights_boundary": {
+    "font_binaries_copied": false,
+    "font_redistribution_permitted": false,
+    "glyph_archive_distribution": "LOCAL_RESEARCH_ONLY_PENDING_SEPARATE_RIGHTS_REVIEW",
+    "public_reproduction_requirement": "separately_preregister_four_new_redistributable_fonts"
+  },
+  "schema": "mma-multibudget-assets-v1",
+  "schema_version": 1,
+  "selection_governance": {
+    "font_binary_copied_into_project": false,
+    "font_ids_are_analyst_blinded": true,
+    "font_order_rule": "eligible_font_file_sha256_ascending_then_lowest_face_index",
+    "performance_selection": false
+  },
+  "source_character_archive": {
+    "character_sequence_sha256": "570f754fc4182ef4010472c7ac13867db86a058ce031f3c6fbad7a393a294936",
+    "class_count": 180,
+    "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\processed\\benchmark\\glyphs.npz",
+    "sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582"
+  },
+  "status": "FROZEN_INPUTS_ONLY_NO_PERFORMANCE_READ",
+  "study_id": "mma_multibudget_v1"
+}

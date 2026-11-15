@@ -1,0 +1,93 @@
+{
+  "status": "PRIMARY_ENDPOINTS_RECOMPUTED_MATCH_MANUSCRIPT",
+  "results": {
+    "C1": {
+      "correct": [
+        892,
+        1165
+      ],
+      "total_per_method": 1800,
+      "difference_pp": 15.16666666666667,
+      "ci95_pp": [
+        11.833333333333332,
+        18.555555555555557
+      ],
+      "macro_f1": {
+        "ideal_only": 0.526580369705649,
+        "ideal_plus_multi4": 0.6524306557639891
+      },
+      "all_prediction_rows_validated": 9000
+    },
+    "E1": {
+      "correct": [
+        2304,
+        2846
+      ],
+      "total_per_method": 3600,
+      "difference_pp": 15.055555555555555,
+      "ci95_pp": [
+        12.055555555555555,
+        18.194444444444443
+      ],
+      "macro_f1": {
+        "proto_skeleton_ideal_only": 0.6451781707606801,
+        "proto_skeleton_ideal_plus_multi4": 0.784098648265315
+      },
+      "all_prediction_rows_validated": 118800
+    },
+    "StudyB": {
+      "rows": 36000,
+      "conditions": 50,
+      "accuracy_percent": [
+        [
+          39.52777777777778,
+          45.27777777777778,
+          46.36111111111111,
+          48.638888888888886,
+          38.638888888888886
+        ],
+        [
+          42.916666666666664,
+          52.27777777777778,
+          56.49999999999999,
+          58.86111111111111,
+          54.888888888888886
+        ]
+      ],
+      "naubc": [
+        0.4508333333333333,
+        0.5518287037037036
+      ],
+      "delta_naubc": 0.10099537037037032,
+      "ci95_delta_naubc": [
+        0.08175925925925927,
+        0.12064814814814813
+      ],
+      "all_50_run_hashes_verified": true
+    }
+  },
+  "sources": {
+    "C1": {
+      "path": "/historical/user\\Documents\\Codex\\2026-08-25\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\hanzi-spv-calibrated-v2\\outputs\\c1_mma_confirmation_windows_r3\\predictions.csv",
+      "sha256": "01460997e7cc3b898241486d6881137e19225ea9f38f3fc9c027577be312f3d3",
+      "rows": 9000,
+      "lock_sha256": "c2b4cb4676ed4f67d185b633518278b2a886adc7c431dfd378f6d38301fdcf4d"
+    },
+    "E1": {
+      "path": "/historical/user\\Documents\\Codex\\2026-08-25\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\hanzi-spv-mma-extension-e1\\outputs\\e1_confirmation\\predictions.csv",
+      "sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8",
+      "rows": 118800,
+      "lock_sha256": "9f9ea4f66c49f7afaf95010095d29897e7e03b659a5bb42464057160759744c2"
+    },
+    "StudyB": {
+      "path": "/historical/user\\Documents\\Codex\\2026-08-29\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\outputs\\mma-multibudget-v1\\outputs\\multibudget_analysis_release\\merged_predictions_with_truth.csv",
+      "sha256": "65a07e70c520d7651b18faf5bdf997974e0326c400140878e492c1ee4dabd0f3",
+      "lock_sha256": "603507d35cc412f65a0871bb9f495ebf78659b58ea766370b4852bafa4360ebb"
+    }
+  },
+  "limitations": [
+    "Prediction-level statistical reproduction, not rerunning SPV rendering or model fitting.",
+    "Local lock/manifest consistency is not proof of historical first access or external preregistration.",
+    "Secondary mechanism analyses and posthoc multiaxis confidence intervals not exhaustively rerun in this pass."
+  ]
+}

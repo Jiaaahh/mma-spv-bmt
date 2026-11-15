@@ -1,0 +1,12 @@
+{
+  "csv_rows": 21600,
+  "duplicate_keys": false,
+  "csv_npz_summary_counts_match": true,
+  "historical_predictions_exact_match": true,
+  "empty_edge_samples": 0,
+  "samples_with_zero_score_fill": 0,
+  "edge_pixel_range": [
+    169,
+    1065
+  ]
+}

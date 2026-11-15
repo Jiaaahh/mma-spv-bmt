@@ -1,0 +1,84 @@
+{
+  "status": "development_only",
+  "audit": {
+    "skeleton_reference_predictions_exact_match": true
+  },
+  "n_predictions_per_cell": 5400,
+  "cells": {
+    "skeleton_ideal": {
+      "accuracy_percent": 37.333333333333336,
+      "correct": 2016,
+      "ci95_percent": [
+        34.87037037037037,
+        39.83333333333332
+      ]
+    },
+    "skeleton_mma": {
+      "accuracy_percent": 48.24074074074074,
+      "correct": 2605,
+      "ci95_percent": [
+        45.94444444444444,
+        50.57407407407407
+      ]
+    },
+    "edge_ideal": {
+      "accuracy_percent": 27.38888888888889,
+      "correct": 1479,
+      "ci95_percent": [
+        24.9074074074074,
+        29.96296296296296
+      ]
+    },
+    "edge_mma": {
+      "accuracy_percent": 38.777777777777786,
+      "correct": 2094,
+      "ci95_percent": [
+        36.12962962962962,
+        41.481481481481474
+      ]
+    }
+  },
+  "contrasts": {
+    "skeleton_mma_gain": {
+      "difference_pp": 10.907407407407407,
+      "ci95_pp": [
+        8.814814814814815,
+        13.055555555555557
+      ]
+    },
+    "edge_mma_gain": {
+      "difference_pp": 11.388888888888888,
+      "ci95_pp": [
+        9.444444444444446,
+        13.370370370370372
+      ]
+    },
+    "skeleton_minus_edge_ideal": {
+      "difference_pp": 9.944444444444443,
+      "ci95_pp": [
+        8.111111111111114,
+        11.796296296296298
+      ]
+    },
+    "skeleton_minus_edge_mma": {
+      "difference_pp": 9.462962962962962,
+      "ci95_pp": [
+        7.555555555555557,
+        11.407407407407408
+      ]
+    },
+    "interaction_skeleton_gain_minus_edge_gain": {
+      "difference_pp": -0.4814814814814815,
+      "ci95_pp": [
+        -2.425925925925925,
+        1.4629629629629628
+      ]
+    }
+  },
+  "statistics": {
+    "unit": "character cluster; all six fonts and five mappings retained together",
+    "replicates": 100000,
+    "seed": 20260909,
+    "CI": "percentile 95%, conditional on fixed fonts/maps; unadjusted exploratory"
+  }
+}

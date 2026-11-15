@@ -1,0 +1,50 @@
+{
+  "dim": 10000,
+  "multipliers": [
+    0.25,
+    1.0,
+    4.0
+  ],
+  "rhos": [
+    1e-05,
+    0.0001,
+    0.001
+  ],
+  "stage1_seed": 17,
+  "stage2_seeds": [
+    29,
+    43
+  ],
+  "final_seeds": [
+    101,
+    211,
+    307,
+    401,
+    503
+  ],
+  "fold_order": [
+    "liu_jian_mao_cao",
+    "ma_shan_zheng",
+    "noto_sans_sc_thin",
+    "noto_serif_sc_extralight",
+    "zcool_kuaile",
+    "zcool_qingke_huangyou"
+  ],
+  "core_hash": "f3264f0488a6903662269df7f051378c1af181908ee166c80d1c96f4af79cf10",
+  "runner_hash": "11b697a43dfd7c74e7e66a4b096f71e3017d86d35ad572b80c4298dca3cb791c",
+  "bank_hashes": {
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\ideal_images.npy": "f285b9e7d79bcb753525d335668cd1048eb91bfe9ac1ae34e3f8808052284df1",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2026_images.npy": "4685ff88fc85d557933062d5afd01986612451d3afc348e9f84822d14c808959",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2027_images.npy": "a0cc845eca4358515f4eec84800dc7c3af630cd101e9bd4e9bdb60785f2bee29",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2028_images.npy": "223b28f6ff6606c5ee09eec5a8c4bb607162282cfc924366d9818cd0fde903d7",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed2029_images.npy": "4e07866f9d452367fab741c00dbe8271986a1ffca89ffe419324c19a1470c4b0",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5301_images.npy": "1d8544e21afabd666228708290c548d848d6e32b2b6f074f5f439cea36b55529",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5302_images.npy": "37ef0c6d06621a97b9aa9b5ce6b6e7cc823f8a7117cf66468b0557132c6c6b1d",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5303_images.npy": "1117322d421b76e07092cf8a3782339eaebb06bda5063b0319f793c5ac14bac4",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5304_images.npy": "105f1d6e5da7b7490107f39cdfccc1b3685b6502acadf05000b0a2c141a9f403",
+    "/historical/user\\Documents\\Codex\\2026-09-08\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\mma_supplement_cache\\moderate_seed5305_images.npy": "f308fe961c6ef529ca856ef2a0bec618c5a82b42bc04e35e94552e00153c3a4f"
+  },
+  "precision": "float64",
+  "classifier": "pooled residual OAS + legacy regularized linear scores; exact dual solve",
+  "upstream_commit": "UNRESOLVED; web source inspected, local implementation hashes frozen; not claimed verbatim reproduction"
+}

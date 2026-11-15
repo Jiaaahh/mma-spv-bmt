@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "files": {
+    "clip\\bpe_simple_vocab_16e6.txt.gz": true,
+    "clip\\clip.py": true,
+    "clip\\model.py": true,
+    "clip\\simple_tokenizer.py": true,
+    "clip\\__init__.py": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "edge_diagnostics.json": "c69cd5c6d8c1282a77a9ced6d0ae8801d814c91ec6358609ecf69fd254e4a21a",
+  "edge_selections.npy": "1af9d2ea7b44dd552f4890ff7fa93b7254dd440e5f2e422c0b8feaa03eecedbe",
+  "execution_manifest.json": "734d46bb206576be845b4baae32afd6bc360cffd8d8fc350c20b84175c8fba37",
+  "per_font_mapping.csv": "ce120fcdd10f7495c797e7082014f504fdc9878ce63ba8caf0c7ad8530337968",
+  "predictions.csv": "afca401e44d12abb477cc61edebd49b76910e0e0a9a5e3f7fa37be9fda6a9350",
+  "predictions.npz": "a01a6934f5e535d7dbda4fdf59d28f7a6683a22ee3d5ee8e306ccfc2d1e3d96d",
+  "skeleton_selections.npy": "6adf3fcf39f2b39b923d05b6b0f37bbc4bbb93e63f4bfb7db8d954b4acb6308c",
+  "summary.json": "9a23a78e47fdf45d66b7dea4198499d31688a35c66a4406f7d7f273b52748e62"
+}

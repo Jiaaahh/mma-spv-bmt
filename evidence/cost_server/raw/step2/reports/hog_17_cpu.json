@@ -1,0 +1,1122 @@
+{
+  "mode": "hog",
+  "seed": 17,
+  "device": "cpu",
+  "status": "PASS",
+  "threads": 2,
+  "interop": 1,
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so",
+      "version": "0.3.23.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 2,
+      "prefix": "libgomp",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/torch/lib/libgomp-a34b3233.so.1",
+      "version": null
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/scipy.libs/libopenblasp-r0-01191904.3.27.so",
+      "version": "0.3.27",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    }
+  ],
+  "checks": [
+    {
+      "kind": "ideal",
+      "row": 900,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 900,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 900,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 900,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 900,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 990,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 990,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 990,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 990,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 990,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 360,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 360,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 360,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 360,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 360,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 450,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 450,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 450,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 450,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 450,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 0,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 0,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 0,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 0,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 0,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 90,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 90,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 90,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 90,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 90,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 180,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 180,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 180,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 180,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 180,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 270,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 270,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 270,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 270,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 270,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 720,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 720,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 720,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 720,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 720,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 810,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 810,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 810,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 810,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 810,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 540,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 540,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 540,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 540,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 540,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 630,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 630,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 630,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 630,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "ideal",
+      "row": 630,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 900,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 900,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 900,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 900,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 900,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 990,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 990,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 990,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 990,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 990,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 360,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 360,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 360,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 360,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 360,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 450,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 450,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 450,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 450,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 450,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 0,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 0,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 0,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 0,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 0,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 90,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 90,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 90,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 90,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 90,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 180,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 180,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 180,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 180,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 180,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 270,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 270,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 270,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 270,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 270,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 720,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 720,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 720,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 720,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 720,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 810,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 810,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 810,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 810,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 810,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 540,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 540,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 540,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 540,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 540,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 630,
+      "mapping": 0,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 630,
+      "mapping": 1,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 630,
+      "mapping": 2,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 630,
+      "mapping": 3,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    },
+    {
+      "kind": "mma",
+      "row": 630,
+      "mapping": 4,
+      "stim_exact": true,
+      "feature_exact": true,
+      "scores_exact": true,
+      "prediction_exact": true
+    }
+  ],
+  "torch_threads": 2,
+  "torch_interop": 1
+}

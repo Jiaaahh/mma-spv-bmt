@@ -1,0 +1,239 @@
+{
+  "sha256": "f090918d6fbe36a1ab679bff5baed643d8990a1590961f38c33168d84446c62b",
+  "members": 838,
+  "report": {
+    "status": "PASS",
+    "stage": "G09_SELECT_OUTER",
+    "new_training_updates": 0,
+    "selections_frozen_before_outer": true,
+    "outer_directories": [
+      "runs_g09_v1/f0_s17_k8_erm_C06/evaluations/outer_step5000_20260922T014240_218693Z",
+      "runs_g09_v1/f1_s17_k8_erm_C05/evaluations/outer_step5000_20260922T014316_743347Z",
+      "runs_g09_v1/f0_s17_k8_xdm_C05/evaluations/outer_step5000_20260922T014354_085441Z",
+      "runs_g09_v1/f1_s17_k8_xdm_C05/evaluations/outer_step5000_20260922T014430_795939Z"
+    ],
+    "comparisons": {
+      "0": {
+        "status": "COMPLETE_MATCHED_SINGLE_FOLD_DEVELOPMENT_COMPARISON",
+        "utc": "2026-09-22T01:45:12.805529+00:00",
+        "argv": [
+          "g09_v1/g09_runner.py",
+          "compare",
+          "--fold",
+          "0",
+          "--out",
+          "/historical/root/autodl-tmp/mma_pkg/project/engineering_g09_v1/G09_SELECT_OUTER_20260922T014139_000189Z/comparison_f0"
+        ],
+        "protocol_id": "G09_SYMMETRIC_DEV_V1",
+        "selection_rule_id": "G09_SELECT_V1__CORRECT_DESC__CE_FLOAT64_RHE8_ASC__CANDIDATE_ID_ASC",
+        "fold": 0,
+        "seed": 17,
+        "k": 8,
+        "step": 5000,
+        "font": "liu_jian_mao_cao",
+        "methods": {
+          "ERM": {
+            "correct": 55,
+            "total": 900,
+            "accuracy_percent": 6.111111111111111
+          },
+          "XDM": {
+            "correct": 46,
+            "total": 900,
+            "accuracy_percent": 5.111111111111112
+          },
+          "MMA": {
+            "correct": 64,
+            "total": 900,
+            "accuracy_percent": 7.111111111111111
+          }
+        },
+        "paired_comparisons": {
+          "MMA_minus_ERM": {
+            "difference_pp": 1.0,
+            "conditional_character_95ci_pp": [
+              -1.8888888888888888,
+              3.8888888888888893
+            ]
+          },
+          "MMA_minus_XDM": {
+            "difference_pp": 2.0,
+            "conditional_character_95ci_pp": [
+              -0.44444444444444453,
+              4.555555555555555
+            ]
+          },
+          "XDM_minus_ERM": {
+            "difference_pp": -1.0,
+            "conditional_character_95ci_pp": [
+              -3.4444444444444446,
+              1.3333333333333335
+            ]
+          }
+        },
+        "candidate_ids": {
+          "ERM": "C06",
+          "XDM": "C05"
+        },
+        "declared_candidate_differences": {
+          "same_candidate": false,
+          "validated_against_frozen_contracts": true,
+          "observed_differing_keys": [
+            "candidate",
+            "candidate_id",
+            "method",
+            "optimizer",
+            "xdm_hparams"
+          ]
+        },
+        "selection_manifests": {
+          "ERM": "/historical/root/autodl-tmp/mma_pkg/project/selections_g09_v1/erm_f0.json",
+          "XDM": "/historical/root/autodl-tmp/mma_pkg/project/selections_g09_v1/xdm_f0.json"
+        },
+        "bootstrap": {
+          "unit": "character, retaining all five maps together",
+          "replicates": 20000,
+          "seed": 90917
+        },
+        "verified": {
+          "equal_shared_contract": true,
+          "equal_rows_labels_maps_font_ids": true,
+          "equal_mma_scores_and_prototypes": true,
+          "finite_scores_and_prediction_argmax": true,
+          "evaluation_hashes": true,
+          "erm_checkpoint_file_sha256": true,
+          "xdm_checkpoint_file_sha256": true,
+          "g09_all_selections_frozen": true,
+          "g09_selected_models_only": true,
+          "g09_declared_differences_only": true
+        },
+        "input_artifact_hashes": {
+          "ERM": {
+            "results.json": "95acb73f0a7716415007af769919c9a9888bc1acb297258949286b24b9f13077",
+            "predictions.npz": "36e9ae65b0186805275379a73c4c10848fe18af97ff1855f2ad8ebdce2e905c1",
+            "contract.json": "1df945d18b3db4db5e8a82de81e552c70ef2d0c5d1e71466dc437c89503b8c3d"
+          },
+          "XDM": {
+            "results.json": "9a88bce6097d7e2bbbcf8d180d480be7c77cd1de099ad963f28d87c91fcd1408",
+            "predictions.npz": "25d2e8fcfcca23952d92829dd00250064f6ba1f2ac9aed7a795845a5fc6f4e55",
+            "contract.json": "c0ef4840db8c1302b2f5d5c450c7261073b2653674a57c478e65456b89153af6"
+          }
+        },
+        "evaluated_checkpoint_sha256": {
+          "ERM": "8cf8dc3bfb19aeb6e092005578fba4d4abc55d40d85c7cb4447b263a8eceec08",
+          "XDM": "407fb6e7e214c283068e5646c1afd2b901c3f13842dd4f09cb945b2687740b35"
+        },
+        "limitation": "G09 development comparison after a finite per-fold hyper-parameter search. The winner was chosen on the 5000-step inner font only; outer scores were read once, after all four selection manifests were frozen. CIs condition on this font, these mappings and the two selected models; they do not account for search selection, seed or unseen-font uncertainty."
+      },
+      "1": {
+        "status": "COMPLETE_MATCHED_SINGLE_FOLD_DEVELOPMENT_COMPARISON",
+        "utc": "2026-09-22T01:45:32.120464+00:00",
+        "argv": [
+          "g09_v1/g09_runner.py",
+          "compare",
+          "--fold",
+          "1",
+          "--out",
+          "/historical/root/autodl-tmp/mma_pkg/project/engineering_g09_v1/G09_SELECT_OUTER_20260922T014139_000189Z/comparison_f1"
+        ],
+        "protocol_id": "G09_SYMMETRIC_DEV_V1",
+        "selection_rule_id": "G09_SELECT_V1__CORRECT_DESC__CE_FLOAT64_RHE8_ASC__CANDIDATE_ID_ASC",
+        "fold": 1,
+        "seed": 17,
+        "k": 8,
+        "step": 5000,
+        "font": "ma_shan_zheng",
+        "methods": {
+          "ERM": {
+            "correct": 189,
+            "total": 900,
+            "accuracy_percent": 21.0
+          },
+          "XDM": {
+            "correct": 201,
+            "total": 900,
+            "accuracy_percent": 22.333333333333332
+          },
+          "MMA": {
+            "correct": 197,
+            "total": 900,
+            "accuracy_percent": 21.88888888888889
+          }
+        },
+        "paired_comparisons": {
+          "MMA_minus_ERM": {
+            "difference_pp": 0.8888888888888888,
+            "conditional_character_95ci_pp": [
+              -3.7777777777777777,
+              5.555555555555555
+            ]
+          },
+          "MMA_minus_XDM": {
+            "difference_pp": -0.4444444444444444,
+            "conditional_character_95ci_pp": [
+              -5.444444444444445,
+              4.4444444444444455
+            ]
+          },
+          "XDM_minus_ERM": {
+            "difference_pp": 1.3333333333333333,
+            "conditional_character_95ci_pp": [
+              -2.2222222222222223,
+              4.888888888888889
+            ]
+          }
+        },
+        "candidate_ids": {
+          "ERM": "C05",
+          "XDM": "C05"
+        },
+        "declared_candidate_differences": {
+          "same_candidate": true,
+          "validated_against_frozen_contracts": true,
+          "observed_differing_keys": [
+            "method"
+          ]
+        },
+        "selection_manifests": {
+          "ERM": "/historical/root/autodl-tmp/mma_pkg/project/selections_g09_v1/erm_f1.json",
+          "XDM": "/historical/root/autodl-tmp/mma_pkg/project/selections_g09_v1/xdm_f1.json"
+        },
+        "bootstrap": {
+          "unit": "character, retaining all five maps together",
+          "replicates": 20000,
+          "seed": 90917
+        },
+        "verified": {
+          "equal_shared_contract": true,
+          "equal_rows_labels_maps_font_ids": true,
+          "equal_mma_scores_and_prototypes": true,
+          "finite_scores_and_prediction_argmax": true,
+          "evaluation_hashes": true,
+          "erm_checkpoint_file_sha256": true,
+          "xdm_checkpoint_file_sha256": true,
+          "g09_all_selections_frozen": true,
+          "g09_selected_models_only": true,
+          "g09_declared_differences_only": true
+        },
+        "input_artifact_hashes": {
+          "ERM": {
+            "results.json": "86ff7136384bddb3d52a1faec3ce00deb2d3f8e9dffcdf33a7eaa1e34f5fc269",
+            "predictions.npz": "ab40a46dacaf489a3fc2df84878dec8650de1eec18f8e5bf32ae2f2c6c593e01",
+            "contract.json": "0745a96e1a78457ba24b4475d175a98d706676ab5fc3594384e5819f8d1079ee"
+          },
+          "XDM": {
+            "results.json": "7f010fd2170c082f99e17a3ff9de2a6891f0d76a60f543a76a60d8dbf92cfad2",
+            "predictions.npz": "f8b4b83afbfb2f8a66ac88730ed95b9040b6facfdb5241b08a97dd4539901eac",
+            "contract.json": "238596f4d2854e80204f1f1679913d1142d44447fdc59a0ef8a8b8d60b8f340b"
+          }
+        },
+        "evaluated_checkpoint_sha256": {
+          "ERM": "13df1061895f0e27b88a1ec85e150e1270f23707bc11ac050aa5ee38046365e7",
+          "XDM": "b1309950650d43ad12cdb6e26617a3674da6f8f4cdc15290c27542f108e4a701"
+        },
+        "limitation": "G09 development comparison after a finite per-fold hyper-parameter search. The winner was chosen on the 5000-step inner font only; outer scores were read once, after all four selection manifests were frozen. CIs condition on this font, these mappings and the two selected models; they do not account for search selection, seed or unseen-font uncertainty."
+      }
+    },
+    "preservation_verified": true
+  }
+}

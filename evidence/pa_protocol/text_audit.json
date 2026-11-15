@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "classes": 180,
+  "templates": 7,
+  "token_collisions": 0,
+  "truncated": false,
+  "shape": [
+    180,
+    1024
+  ],
+  "seconds": 55.56742410000879,
+  "note": "Token and embedding uniqueness does not establish semantic understanding of Chinese characters."
+}

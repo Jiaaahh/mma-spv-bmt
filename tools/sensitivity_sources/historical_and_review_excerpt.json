@@ -1,0 +1,58 @@
+{
+  "historical_reported_interval_source": {
+    "path_for_provenance_only": "/historical/user\\Documents\\Codex\\2026-09-22\\thread-01a03819-f724-7393-a6a0-29efdf40b24e-2\\work\\revision_20261004\\supp_source.json",
+    "sha256": "512c35d24957ab8daa8b2f0241d32e5e2c780d857f8463d3119e6996c138294e",
+    "verbatim_excerpt": "事后多轴自助重采样同时重采样字符、字体和映射随机种子。基础识别实验的准确率差仍为+15.17个百分点，名义95%置信区间为[9.83, 21.00]个百分点；扩展验证实验仍为+15.06个百分点，[9.94, 20.19]个百分点；多预算实验的ΔnAUBC仍为0.1010，[0.0274, 0.1693]。三个区间均保持正向，但基础识别实验仅含2种字体，扩展验证实验和多预算实验各含4种字体，且每个面板仅含5个映射随机种子。因此，该分析仅用于检查方差处理方式，不构成对任意字体、其他生成器或患者总体的推断。"
+  },
+  "independent_review_result": {
+    "path_for_provenance_only": "/historical/user\\Documents\\Codex\\2026-10-12\\dia\\work\\experiment_audit\\recomputed.json",
+    "sha256": "63b0c0f72ed53e73f5874b29302a6ab9b39bb64f8929f56671650c2515c2fb16",
+    "multiaxis": {
+      "C1": {
+        "point": 0.15166666666666667,
+        "ci95": [
+          0.09888888888888889,
+          0.21
+        ],
+        "n_fonts": 2,
+        "n_maps": 5,
+        "n_characters": 180,
+        "n_replicates": 100000,
+        "note": "Independent product empirical bootstrap implementation; not claimed as exact historical RNG replay."
+      },
+      "E1": {
+        "point": 0.15055555555555555,
+        "ci95": [
+          0.09972222222222223,
+          0.20194444444444445
+        ],
+        "n_fonts": 4,
+        "n_maps": 5,
+        "n_characters": 180,
+        "n_replicates": 100000,
+        "note": "Independent product empirical bootstrap implementation; not claimed as exact historical RNG replay."
+      },
+      "StudyB": {
+        "point": 0.10099537037037036,
+        "ci95": [
+          0.027407407407407405,
+          0.16932870370370368
+        ],
+        "n_fonts": 4,
+        "n_maps": 5,
+        "n_characters": 180,
+        "n_replicates": 100000,
+        "note": "Independent product empirical bootstrap implementation; not claimed as exact historical RNG replay."
+      },
+      "E1_exact_historical_sampler": {
+        "ci95": [
+          0.09944444444444445,
+          0.20194444444444445
+        ],
+        "seed": 20260829,
+        "iterations": 100000
+      }
+    }
+  },
+  "historical_source_lookup_boundary": "E1 historical source recovered and archived. A bounded search of C1 publication material and the current manuscript workspace did not recover the original C1 multi-axis invocation; no seed or sampler search was performed to fit the historical endpoint."
+}

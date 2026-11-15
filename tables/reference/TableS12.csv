@@ -1,0 +1,6 @@
+﻿Training configuration,Correct/total,"Accuracy, %",Mean macro-F1
+Ideal-only,892/1800,49.56,0.5266
+1 mismatch map only,990/1800,55.00,0.5527
+4 mismatch maps only,1141/1800,63.39,0.6367
+Ideal + 4 mismatch maps (MMA),1165/1800,64.72,0.6524
+Target-map oracle,1191/1800,66.17,0.6682

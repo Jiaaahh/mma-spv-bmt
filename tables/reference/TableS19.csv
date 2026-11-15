@@ -1,0 +1,4 @@
+﻿Statistic,Estimate,Conditional 95 % CI
+Ideal nAUBC,0.4508,"[0.4228, 0.4784]"
+MMA nAUBC,0.5518,"[0.5309, 0.5726]"
+Primary ΔnAUBC,0.1010,"[0.0818, 0.1206]"

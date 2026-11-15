@@ -1,0 +1,30 @@
+{
+  "suite": "G09_A2_REGRESSION",
+  "tests_run": 21,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "notice": "Synthetic fixtures only; no model training or real outer evaluation.",
+  "source_hashes": {
+    "g09_v1/g09_audit.py": "4322880df757d91b9cc21a138ad4fa211e8ec9ac87ba8ff65bbe390f0e0b47b3",
+    "g09_v1/g09_compare.py": "d773b74f9fc7f081fdf3e6412272288363d86582e5029e0bfc346ee1c7d30b11",
+    "g09_v1/g09_config.py": "0be551d86a72033a4579a3fc5ed9c4b1f798fcc849504862772ed6f0ef75dde1",
+    "g09_v1/g09_core.py": "e682e82e847993b23c220ca1d405b5c6e738d8fa7bf0574b2f4dff9a48b7ddc3",
+    "g09_v1/g09_evaluate.py": "60ff09f44c21b0dfa0d7339998bf8db4e332be2db81f2ca3dbbf9b137f0160ea",
+    "g09_v1/g09_gate.py": "37af1038b1c895ff04cbe78774580a24d09bf0b62662426e1ca907ef866a9421",
+    "g09_v1/g09_make_manifest.py": "346039c1d6b8fdc7de0cc088184d324388e2fd6fc7a826341bab2f20c96457da",
+    "g09_v1/g09_old_asset_guard.py": "608ccd910e39aaab610cef02275e1eb18bc220510e114ace9dda77c7565ad495",
+    "g09_v1/g09_runner.py": "3d8518d45435ab3ddb80c16f788dadac4e95e09dabfede77f157d02eeffd3918",
+    "g09_v1/g09_select.py": "cf9aaaad8f11239f60003609d89b0fa5d482d88fbdc2f6fe933afdb7731ab9d6",
+    "g09_v1/g09_static_precheck.py": "d0fd844b3d211613f6c8ec39a7831f967bf46b5d24ab9a31b82ae3c79139a781",
+    "g09_v1/g09_validation.py": "2beba9540866bea246622f5018bc454e3b95d20732776a55b003a4fdad6e4e5e",
+    "g09_v1/make_g09_a_package.py": "9a531fd362c5bf16c22f4c0ad7163659d676b498dbb3fec09cde5a5392bdbecd",
+    "g09_v1/tests/capture_cli_evidence.py": "f5bf47a001370f5c3bae5acb74af7c7d4ccf848413970ccef13c17ca8fa750a9",
+    "g09_v1/tests/engineering_kit.py": "c1bcde5e218d7928ef957dd02230f3338d79e60f71e53f4b0848239e2121576e",
+    "g09_v1/tests/fixtures.py": "12b73727dcfedc255e5fd5d5d05bc4cb339bc360b09722e67384e50ec2f3cb11",
+    "g09_v1/tests/run_all_tests.py": "c8280dcd0c095f6119263efac5c26fdb3cac48ac32b651f3d1c2643727a6901b",
+    "g09_v1/tests/test_a2_regression.py": "64ecf901e512b208b4e81ff33318217525dd2b0b798e0e8875d845e498f7c386",
+    "g09_v1/tests/test_selector_gate_compare.py": "0ab4a2d7e1451bc68158fdb3ea06e8a52d38fd10cdd141dcb563d5cba70ff27c",
+    "g09_v1/tests/test_unit.py": "e81769c3a01780f0e9ffae075dad2f00f018f078b93ad4b95dfe5a0a2b2dd3fa"
+  }
+}

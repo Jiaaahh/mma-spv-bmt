@@ -1,0 +1,156 @@
+{
+  "accuracy_read": false,
+  "created_utc": "2026-08-25T12:09:37.669460+00:00",
+  "fonts": [
+    {
+      "face_index": 0,
+      "file_sha256": "e051009b42b454352a90ae0c9b8adb58bbdbcd168768750b35bc3357510de141",
+      "file_size_bytes": 16324168,
+      "font_id": "dengxian_regular",
+      "missing_character_count": 0,
+      "required_character_count": 180,
+      "source_path": "/historical/Windows\\Fonts\\Deng.ttf",
+      "unique_normalized_glyphs": 180,
+      "unique_raw_glyph_fingerprints": 180
+    },
+    {
+      "face_index": 0,
+      "file_sha256": "0b5a903376fe4d97306c943b690b04a5080889b4f87f8d704962939d3ceef1c4",
+      "file_size_bytes": 7574196,
+      "font_id": "fzshuti_regular",
+      "missing_character_count": 0,
+      "required_character_count": 180,
+      "source_path": "/historical/Windows\\Fonts\\FZSTK.TTF",
+      "unique_normalized_glyphs": 180,
+      "unique_raw_glyph_fingerprints": 180
+    }
+  ],
+  "glyph_archive": {
+    "class_count": 180,
+    "file": "glyphs_confirmation.npz",
+    "file_sha256": "7919f63ee4c9b17d627eac6ffdfa009d73c18a1a7c53dc88f26a29f2c9e6d01c",
+    "font_count": 2,
+    "images_sha256": "ae020d132ef4ea2cdb0bbe9db4087eb01dadeae5a546220bf965a56f2558f587",
+    "sample_count": 360
+  },
+  "mapping_parameters": {
+    "base_sigma_grid": 0.45,
+    "grid": [
+      16,
+      16
+    ],
+    "image_shape": [
+      96,
+      96
+    ],
+    "kernel_normalization": "l1_after_canvas_boundary",
+    "position_jitter_std_grid": 0.3,
+    "sigma_scale_clip": [
+      0.6,
+      1.6
+    ],
+    "sigma_scale_std": 0.2
+  },
+  "mappings": [
+    {
+      "centers_sha256": "c1269ee6e6aa9bfec5f7648e88b370cbd1824558fea8a0579f55725e3e5b33a5",
+      "file": "mappings/moderate_seed_2031.npz",
+      "file_sha256": "0dd89d73c1e80df9aaff1b5f5e40981c88f8c11f45493597b0f6f1ece3d05f51",
+      "geometry_statistics": {
+        "max_displacement_px": 7.995653602389013,
+        "max_sigma_px": 4.283278465270996,
+        "mean_displacement_px": 2.266818164323699,
+        "mean_sigma_px": 2.761821448802948,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed2031",
+      "seed": 2031,
+      "sigma_sha256": "f22a34e641764c5ab24668e2bf5635586bf10ca973ade920297e70fb067ae292"
+    },
+    {
+      "centers_sha256": "6c871e80681a68bfd8667e65a71cc6ad76cb7a4ac6a90e670d067191d4e84f90",
+      "file": "mappings/moderate_seed_2032.npz",
+      "file_sha256": "e4e0b9e244cef6afbe3206656cf93fbe8437e8ef90c65c531ca2b804ace299bd",
+      "geometry_statistics": {
+        "max_displacement_px": 6.575291765869183,
+        "max_sigma_px": 4.174037933349609,
+        "mean_displacement_px": 2.167471640328681,
+        "mean_sigma_px": 2.7297726082615554,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed2032",
+      "seed": 2032,
+      "sigma_sha256": "3ff1deabb47cec059c9a16f72edc65492675588d2330e183e1d873dffc7eab89"
+    },
+    {
+      "centers_sha256": "ab330d683fffd68d016c35fdc2610b435ab9844d0f685839fa18c81d2c855da4",
+      "file": "mappings/moderate_seed_2033.npz",
+      "file_sha256": "7a83b396d7e86625f53e62fb3d3373f3bacc915804c1039549851fd49ef6f1a2",
+      "geometry_statistics": {
+        "max_displacement_px": 6.5076413162500995,
+        "max_sigma_px": 4.320000171661377,
+        "mean_displacement_px": 2.295012735488064,
+        "mean_sigma_px": 2.737499342299998,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed2033",
+      "seed": 2033,
+      "sigma_sha256": "2ef253a0fec7dd5f3a288a4b72b2f77f3174a1a2e63d5a46154c8ffaed6bdeb0"
+    },
+    {
+      "centers_sha256": "ddf7b95562e2af356a5ec0ca7b6fd8229bdf9562342f1c5b326d2eab442dcb91",
+      "file": "mappings/moderate_seed_2034.npz",
+      "file_sha256": "76d7032860c22d85dbcfeb3354295a883733c760e7620bb2583ec667730b07ca",
+      "geometry_statistics": {
+        "max_displacement_px": 5.321009162337231,
+        "max_sigma_px": 4.21523904800415,
+        "mean_displacement_px": 2.2630275679381615,
+        "mean_sigma_px": 2.76480194600299,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed2034",
+      "seed": 2034,
+      "sigma_sha256": "31d9a6b1f09c2a09e3e3616cbbc6197d8408326f895eb8102e0a6f7cc5233740"
+    },
+    {
+      "centers_sha256": "ef1054a0d39f42c4c5360f2995efa952f1f5d5138aeba5572f2cdd00315fd5f4",
+      "file": "mappings/moderate_seed_2035.npz",
+      "file_sha256": "51b70c8df2bccac8e434b6e22d4ab1bd3376e65c308634ae1fc18db53cfcd1aa",
+      "geometry_statistics": {
+        "max_displacement_px": 5.922792384197841,
+        "max_sigma_px": 4.165835380554199,
+        "mean_displacement_px": 2.2923079210698987,
+        "mean_sigma_px": 2.7143245739862323,
+        "min_sigma_px": 1.6200000047683716
+      },
+      "mapping_id": "moderate_seed2035",
+      "seed": 2035,
+      "sigma_sha256": "617d1a8e60b8707e0c520c1e288a5dd8d3d4662ab9948018706c9659d90e955a"
+    }
+  ],
+  "prediction_executed": false,
+  "rendering": {
+    "content_margin": 8,
+    "font_size": 144,
+    "image_size": [
+      96,
+      96
+    ],
+    "normalization": "aspect_fit_center_lanczos",
+    "render_canvas_size": [
+      192,
+      192
+    ]
+  },
+  "runtime": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.12.7"
+  },
+  "schema_version": 1,
+  "source_character_archive": {
+    "character_sequence_sha256": "570f754fc4182ef4010472c7ac13867db86a058ce031f3c6fbad7a393a294936",
+    "path": "/historical/deepseek\\hanzi-spv-benchmark\\data\\processed\\benchmark\\glyphs.npz",
+    "sha256": "8427140836b2358aa48ff9c7bfc07cfdbe0f02ee166fb8b2e671ff7cb8a8d582"
+  },
+  "status": "FROZEN_INPUTS_ONLY_NO_PERFORMANCE_READ"
+}

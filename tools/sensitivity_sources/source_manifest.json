@@ -1,0 +1,35 @@
+{
+  "archived_files": [
+    {
+      "archive_name": "generate_e1_posthoc_sensitivity.py",
+      "source_path_for_provenance_only": "/historical/user\\Documents\\Codex\\2026-08-25\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\hanzi-spv-mma-extension-e1\\publication_materials\\scripts\\generate_e1_posthoc_sensitivity.py",
+      "sha256": "ee0c254143d29d05edcee11e349c6d165fa811ad152d23cf19e7f6eb24a498ff",
+      "candidate_sha256": "ee0c254143d29d05edcee11e349c6d165fa811ad152d23cf19e7f6eb24a498ff"
+    },
+    {
+      "archive_name": "e1_posthoc_sensitivity.json",
+      "source_path_for_provenance_only": "/historical/user\\Documents\\Codex\\2026-08-25\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\hanzi-spv-mma-extension-e1\\publication_materials\\supplements\\e1_posthoc_sensitivity.json",
+      "sha256": "95f04b6dd9460bf1fb0481e591544fc73e668992efeec38b9bfb8a3dc0168bba",
+      "candidate_sha256": "95f04b6dd9460bf1fb0481e591544fc73e668992efeec38b9bfb8a3dc0168bba"
+    },
+    {
+      "archive_name": "e1_statistics.py",
+      "source_path_for_provenance_only": "/historical/user\\Documents\\Codex\\2026-08-25\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\hanzi-spv-mma-extension-e1\\src\\e1\\statistics.py",
+      "sha256": "c291aa9d037fc766023deff0a46590ea6166bd5f75faedd6a460ee28f9e595ac",
+      "candidate_sha256": "c291aa9d037fc766023deff0a46590ea6166bd5f75faedd6a460ee28f9e595ac"
+    },
+    {
+      "archive_name": "review_recompute_20261013.py",
+      "source_path_for_provenance_only": "/historical/user\\Documents\\Codex\\2026-10-12\\dia\\work\\experiment_audit\\recompute.py",
+      "sha256": "b2c0038311ffc362aeaa0909ae86764661863e8db52d824163ea501b740e86e0",
+      "candidate_sha256": "9815db3353d100d6c2aa781628b1e35e81644e7c74e9314cc6989a6ee59aa068"
+    },
+    {
+      "archive_name": "historical_and_review_excerpt.json",
+      "source_path_for_provenance_only": "Derived excerpt; source file hashes embedded in the JSON",
+      "sha256": "0ca200ec033d814273104ecea5eadf9c13e3605caedf7477791383687b7d44be",
+      "candidate_sha256": "20816c3201b042a510ad2a87587baf082ce7f8d03eb05081c88c45375afb8c41"
+    }
+  ],
+  "archival_note": "sha256 retains the original archived-byte digest. candidate_sha256 binds the redacted public copy used by this public wrapper. Source paths are redacted historical labels. Numerical calculations are unchanged."
+}

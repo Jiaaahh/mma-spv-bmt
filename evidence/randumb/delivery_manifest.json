@@ -1,0 +1,38 @@
+{
+  "结果解读与论文建议.md": {
+    "sha256": "31280449a6f19fd2676aaebb69bec407040d65605b2a853df2dc0ff78f8e72cd",
+    "bytes": 5559
+  },
+  "实验结果.md": {
+    "sha256": "08a49e6cb05b89144ced9bd6d88077bdbefe7b139c24878bbd66b65703624dc9",
+    "bytes": 1980
+  },
+  "results_summary.json": {
+    "sha256": "97ce22da9731c17da3bc8372ec6c02fa2cfe7af9b256b88f79084b0418909f90",
+    "bytes": 7541
+  },
+  "costs.json": {
+    "sha256": "c183e4f3ce28040f9399bae7b11e3b25558d4ac2e6c30d3979bd8c39c2deea95",
+    "bytes": 32187
+  },
+  "predictions.csv": {
+    "sha256": "06d872c96f93533ae823c0c415cfced803cd1aab6174655353527ab073233324",
+    "bytes": 30008519
+  },
+  "metrics.csv": {
+    "sha256": "220916d265bb354670e1acbe9275977faaa5ee0c28da2d4f9e129236ecac390e",
+    "bytes": 757
+  },
+  "font_mapping_metrics.csv": {
+    "sha256": "0d366e1f8c7d67638e453247093c9b8458c7eb49b412b7930e3fe2dbdb421588",
+    "bytes": 7424
+  },
+  "completion_audit.json": {
+    "sha256": "a2279987e0ad7e5713bf669115c462ac8866bad25ae91956aacbf9d69b199192",
+    "bytes": 5468
+  },
+  "selected_config.json": {
+    "sha256": "8578989ff86167dd1f5a49e226f2278f04aa82d6935762e47d488eed80b6aa37",
+    "bytes": 686
+  }
+}

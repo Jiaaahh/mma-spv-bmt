@@ -1,0 +1,1744 @@
+[
+  {
+    "path": "assets/core_mma/mappings/ideal_mapping.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "benchmark_id",
+      "center_clip_xy",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_l1_sum_min_max",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "assets/core_mma/mappings/moderate_seed_2026.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "benchmark_id",
+      "center_clip_xy",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_l1_sum_min_max",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "assets/core_mma/mappings/moderate_seed_2027.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "benchmark_id",
+      "center_clip_xy",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_l1_sum_min_max",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "assets/core_mma/mappings/moderate_seed_2028.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "benchmark_id",
+      "center_clip_xy",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_l1_sum_min_max",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "assets/core_mma/mappings/moderate_seed_2029.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "benchmark_id",
+      "center_clip_xy",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_l1_sum_min_max",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step2/reports/point_17_cpu_outputs.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step2/reports/point_17_cuda_outputs.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step2/reports/point_29_cpu_outputs.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step2/reports/point_29_cuda_outputs.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step2/reports/point_43_cpu_outputs.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step2/reports/point_43_cuda_outputs.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/point_17_cpu.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/point_17_cuda.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/point_29_cpu.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/point_29_cuda.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/point_43_cpu.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/point_43_cuda.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/skeleton_ideal_cpu.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step3/reports/skeleton_mma_cpu.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_point_17_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_point_17_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_point_29_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_point_29_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_point_43_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_point_43_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_skeleton_ideal_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/components_r0_skeleton_mma_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "component_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_point_17_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_point_17_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_point_29_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_point_29_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_point_43_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_point_43_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_skeleton_ideal_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r0_skeleton_mma_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_point_17_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_point_17_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_point_29_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_point_29_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_point_43_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_point_43_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_skeleton_ideal_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r1_skeleton_mma_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_point_17_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_point_17_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_point_29_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_point_29_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_point_43_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_point_43_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_skeleton_ideal_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/latency_r2_skeleton_mma_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions",
+      "latency_ns"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_point_17_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_point_17_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_point_29_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_point_29_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_point_43_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_point_43_cuda.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_skeleton_ideal_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/cost_server/raw/step4/reports/memory_r0_skeleton_mma_cpu.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "order",
+      "predictions"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/canny_ideal.npz",
+    "removed_keys": [
+      "selected"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/canny_mma.npz",
+    "removed_keys": [
+      "selected"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/ideal_seed17.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/ideal_seed29.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/ideal_seed43.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/multi_seed17.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/multi_seed29.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/multi_seed43.npz",
+    "removed_keys": [
+      "stimulation"
+    ],
+    "retained_keys": [
+      "logits",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/skeleton_ideal.npz",
+    "removed_keys": [
+      "selected"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/results/skeleton_mma.npz",
+    "removed_keys": [
+      "selected"
+    ],
+    "retained_keys": [
+      "scores",
+      "predictions",
+      "labels",
+      "fonts",
+      "rows",
+      "points",
+      "mapping_seeds"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/source/data/test/metadata.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "labels",
+      "fonts",
+      "characters",
+      "sample_ids"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/source/data/test/views.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "rows",
+      "points"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/point/source/data/train/metadata.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "labels",
+      "fonts",
+      "characters",
+      "sample_ids"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/C1/mappings/moderate_seed_2031.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/C1/mappings/moderate_seed_2032.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/C1/mappings/moderate_seed_2033.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/C1/mappings/moderate_seed_2034.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/C1/mappings/moderate_seed_2035.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/latents/seed3101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "format_version",
+      "position_z",
+      "prediction_executed",
+      "seed",
+      "sigma_z"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/latents/seed3102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "format_version",
+      "position_z",
+      "prediction_executed",
+      "seed",
+      "sigma_z"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/latents/seed3103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "format_version",
+      "position_z",
+      "prediction_executed",
+      "seed",
+      "sigma_z"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/latents/seed3104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "format_version",
+      "position_z",
+      "prediction_executed",
+      "seed",
+      "sigma_z"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/latents/seed3105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "format_version",
+      "position_z",
+      "prediction_executed",
+      "seed",
+      "sigma_z"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_mild_seed3101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_mild_seed3102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_mild_seed3103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_mild_seed3104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_mild_seed3105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_moderate_seed3101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_moderate_seed3102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_moderate_seed3103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_moderate_seed3104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_moderate_seed3105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_position_only_seed3101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_position_only_seed3102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_position_only_seed3103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_position_only_seed3104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_position_only_seed3105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_scale_only_seed3101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_scale_only_seed3102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_scale_only_seed3103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_scale_only_seed3104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_scale_only_seed3105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_severe_seed3101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_severe_seed3102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_severe_seed3103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_severe_seed3104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/E1/mappings/e1_severe_seed3105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "accuracy_read",
+      "base_sigma_grid",
+      "centers_xy",
+      "condition",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "position_jitter_std_grid",
+      "position_latent_sha256",
+      "prediction_executed",
+      "seed",
+      "sigma_latent_sha256",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/StudyB/mappings/moderate_seed_4101.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/StudyB/mappings/moderate_seed_4102.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/StudyB/mappings/moderate_seed_4103.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/StudyB/mappings/moderate_seed_4104.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  },
+  {
+    "path": "evidence/whole_glyph/assets/StudyB/mappings/moderate_seed_4105.npz",
+    "removed_keys": [],
+    "retained_keys": [
+      "base_sigma_grid",
+      "centers_xy",
+      "format_version",
+      "image_shape",
+      "kernel_bank_sha256",
+      "kernel_normalization",
+      "mapping_id",
+      "mapping_role",
+      "position_jitter_std_grid",
+      "seed",
+      "sigma_px",
+      "sigma_scale_clip",
+      "sigma_scale_std",
+      "used_for_accuracy"
+    ],
+    "retained_arrays_identical": true
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "manual_prototype_error": 0.0,
+  "column_axis": true,
+  "class_permutation": true,
+  "zero_column": true,
+  "selection_ties": true,
+  "edge_expansion": true
+}

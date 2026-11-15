@@ -1,0 +1,3 @@
+﻿experiment,raw_evidence,summary,manuscript_role,supplement_role,status
+PA-HOG B,prototypes/; checkpoints/; predictions.csv,metrics.csv; paired_comparisons.json; stratified_metrics.csv,原型构建机制对照；正文待整合,全部六组与分层结果；待整合,新证据完整保存，未修改Word
+既有MMA/Point-SPV/XDomainMix/RanDumb及旧控制,既有输出目录及全实验核对版论文,本轮不重算或筛除,保留正负结果及协议差异,后续修改Word时逐项交叉核对,本轮未修改旧文件，未宣称完成全稿审查

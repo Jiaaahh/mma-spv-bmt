@@ -1,0 +1,6 @@
+﻿Test condition,Ideal accuracy,MMA accuracy,"Difference, pp",Direction
+Mild,87.00 %,85.67 %,−1.33,Negative
+Moderate (primary),64.00 %,79.06 %,+15.06,Positive
+Severe,35.14 %,65.14 %,+30.00,Positive
+Position only,69.64 %,80.28 %,+10.64,Positive
+Scale only,90.25 %,86.31 %,−3.94,Negative

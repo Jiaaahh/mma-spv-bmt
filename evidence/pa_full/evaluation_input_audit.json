@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "baseline_predictions_verified": 21600,
+  "input_metadata_and_old_HOG_hashes_verified": true,
+  "label_character_order": true,
+  "features_required": true
+}

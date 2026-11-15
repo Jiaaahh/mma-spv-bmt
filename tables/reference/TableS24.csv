@@ -1,0 +1,13 @@
+﻿Panel,Contrast,"Difference, pp",Conditional 95 % CI
+Extended,MMA − RanDumb Multi-map,-0.18,"[-2.91, 2.49]"
+Extended,MMA − HOG Ideal,15.06,"[12.03, 18.19]"
+Extended,RanDumb Multi-map − RanDumb Ideal,1.08,"[0.36, 1.82]"
+Extended,"RanDumb Multi-map − RanDumb ideal, shared parameters",1.08,"[0.36, 1.82]"
+Extended,RanDumb ideal repeated 5 times − RanDumb Ideal,0.00,"[-0.11, 0.11]"
+Extended,HOG Ideal − RanDumb Ideal,-14.16,"[-17.73, -10.62]"
+Basic,MMA − RanDumb Multi-map,0.46,"[-2.27, 3.23]"
+Basic,MMA − HOG Ideal,15.17,"[11.83, 18.61]"
+Basic,RanDumb Multi-map − RanDumb Ideal,1.16,"[0.47, 1.88]"
+Basic,"RanDumb Multi-map − RanDumb ideal, shared parameters",1.16,"[0.47, 1.88]"
+Basic,RanDumb ideal repeated 5 times − RanDumb Ideal,-0.04,"[-0.21, 0.12]"
+Basic,HOG Ideal − RanDumb Ideal,-13.56,"[-16.91, -10.21]"

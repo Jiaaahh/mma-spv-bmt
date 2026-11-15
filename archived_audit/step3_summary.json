@@ -1,0 +1,248 @@
+{
+  "version": "step3-verified-local-20261115",
+  "checked_at": "2026-11-15T16:45:23.208637+08:00",
+  "passed_executed_scope": true,
+  "failures": [],
+  "original_manifest_entries": 1109,
+  "original_files_unchanged": 1105,
+  "updated_documentation": [
+    "PROVENANCE.md",
+    "README.md",
+    "REPRODUCIBILITY.md",
+    "RIGHTS_AND_RELEASE.md"
+  ],
+  "original_experiment_index_preserved": true,
+  "experiment_coverage": 32,
+  "core_inference": {
+    "C1": {
+      "passed": true,
+      "predictions_compared": 9000,
+      "mismatches": 0,
+      "methods": [
+        "ideal_only",
+        "ideal_plus_multi4",
+        "multi4",
+        "oracle_matched",
+        "single_moderate"
+      ]
+    },
+    "E1": {
+      "passed": true,
+      "predictions_compared": 46800,
+      "mismatches": 0,
+      "methods": [
+        "proto_skeleton_ideal_only",
+        "proto_skeleton_ideal_plus_moderate1",
+        "proto_skeleton_ideal_plus_moderate2",
+        "proto_skeleton_ideal_plus_multi4",
+        "proto_skeleton_multi4_no_ideal"
+      ]
+    },
+    "StudyB": {
+      "passed": true,
+      "predictions_compared": 36000,
+      "mismatches": 0,
+      "methods": [
+        "ideal_only",
+        "ideal_plus_multi4"
+      ]
+    }
+  },
+  "total_replayed_predictions": 91800,
+  "primary_statistics_passed": {
+    "C1": true,
+    "E1": true,
+    "StudyB": true
+  },
+  "saved_prediction_checks": {
+    "manifest_entries": 647,
+    "hashes_passed": 647,
+    "independent_label_csv_files": 110,
+    "independent_prediction_streams": 114,
+    "correct_flag_only_csv_files": 0,
+    "hash_only_files": 537,
+    "skipped_files": 0,
+    "failure_count": 0,
+    "passed": true
+  },
+  "raw_cost_arrays_checked": 40,
+  "regenerated_figures": 10,
+  "pixel_identical_figures": 10,
+  "main_table_4_checks": [
+    {
+      "row": 1,
+      "column": "Accuracy, %",
+      "recomputed": "20.47",
+      "archived_table": "20.47",
+      "passed": true
+    },
+    {
+      "row": 1,
+      "column": "Latency, ms",
+      "recomputed": "7.50",
+      "archived_table": "7.50",
+      "passed": true
+    },
+    {
+      "row": 1,
+      "column": "Peak RSS, MiB",
+      "recomputed": "455.2",
+      "archived_table": "455.2",
+      "passed": true
+    },
+    {
+      "row": 1,
+      "column": "Model file, MiB",
+      "recomputed": "5.98",
+      "archived_table": "5.98",
+      "passed": true
+    },
+    {
+      "row": 2,
+      "column": "Accuracy, %",
+      "recomputed": "38.11",
+      "archived_table": "38.11",
+      "passed": true
+    },
+    {
+      "row": 2,
+      "column": "Latency, ms",
+      "recomputed": "7.52",
+      "archived_table": "7.52",
+      "passed": true
+    },
+    {
+      "row": 2,
+      "column": "Peak RSS, MiB",
+      "recomputed": "455.4",
+      "archived_table": "455.4",
+      "passed": true
+    },
+    {
+      "row": 2,
+      "column": "Model file, MiB",
+      "recomputed": "5.98",
+      "archived_table": "5.98",
+      "passed": true
+    },
+    {
+      "row": 3,
+      "column": "Accuracy, %",
+      "recomputed": "14.00",
+      "archived_table": "14.00",
+      "passed": true
+    },
+    {
+      "row": 4,
+      "column": "Accuracy, %",
+      "recomputed": "22.44",
+      "archived_table": "22.44",
+      "passed": true
+    },
+    {
+      "row": 5,
+      "column": "Accuracy, %",
+      "recomputed": "34.94 ± 6.05",
+      "archived_table": "34.94 ± 6.05",
+      "passed": true
+    },
+    {
+      "row": 6,
+      "column": "Accuracy, %",
+      "recomputed": "49.58 ± 5.94",
+      "archived_table": "49.58 ± 5.94",
+      "passed": true
+    },
+    {
+      "row": 7,
+      "column": "Accuracy, %",
+      "recomputed": "50.94",
+      "archived_table": "50.94",
+      "passed": true
+    },
+    {
+      "row": 7,
+      "column": "Latency, ms",
+      "recomputed": "77.68",
+      "archived_table": "77.68",
+      "passed": true
+    },
+    {
+      "row": 7,
+      "column": "Peak RSS, MiB",
+      "recomputed": "898.4",
+      "archived_table": "898.4",
+      "passed": true
+    },
+    {
+      "row": 7,
+      "column": "Model file, MiB",
+      "recomputed": "232.52",
+      "archived_table": "232.52",
+      "passed": true
+    },
+    {
+      "row": 8,
+      "column": "Accuracy, %",
+      "recomputed": "54.72",
+      "archived_table": "54.72",
+      "passed": true
+    },
+    {
+      "row": 8,
+      "column": "Latency, ms",
+      "recomputed": "78.29",
+      "archived_table": "78.29",
+      "passed": true
+    },
+    {
+      "row": 8,
+      "column": "Peak RSS, MiB",
+      "recomputed": "898.7",
+      "archived_table": "898.7",
+      "passed": true
+    },
+    {
+      "row": 8,
+      "column": "Model file, MiB",
+      "recomputed": "232.52",
+      "archived_table": "232.52",
+      "passed": true
+    },
+    {
+      "row": 9,
+      "column": "Accuracy, %",
+      "recomputed": "43.08",
+      "archived_table": "43.08",
+      "passed": true
+    },
+    {
+      "row": 9,
+      "column": "Latency, ms",
+      "recomputed": "78.05",
+      "archived_table": "78.05",
+      "passed": true
+    },
+    {
+      "row": 9,
+      "column": "Peak RSS, MiB",
+      "recomputed": "898.5",
+      "archived_table": "898.5",
+      "passed": true
+    },
+    {
+      "row": 9,
+      "column": "Model file, MiB",
+      "recomputed": "232.52",
+      "archived_table": "232.52",
+      "passed": true
+    }
+  ],
+  "model_inference_limits": [
+    "Point six original neural checkpoints not obtained",
+    "G09 selected checkpoints availability not verified",
+    "RanDumb, CLIP/PA, SVC and contour inference not rerun"
+  ],
+  "training_and_hardware": "No from-scratch neural training, new GPU inference, hardware benchmark or new independent test panel.",
+  "script_sha256": "d191c298c0afe381496180e7018e8a3668eb1a03862a8e0818d94cbfc1511356"
+}

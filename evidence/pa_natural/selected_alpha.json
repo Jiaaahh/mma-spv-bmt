@@ -1,0 +1,8 @@
+{
+  "alpha": 0.31622776601683794,
+  "correct": 79,
+  "n": 80,
+  "boundary_expanded": false,
+  "selection": "validation only",
+  "test_scoring_not_started": true
+}

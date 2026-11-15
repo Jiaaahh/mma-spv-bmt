@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["tests_v2", "tests_e1"]
+addopts = "-p no:cacheprovider"
+

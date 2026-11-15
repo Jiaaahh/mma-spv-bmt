@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hanzi-spv-calibrated-v2"
+version = "0.2.0"
+description = "CPU-only multi-mapping prototype decoding for irregular simulated prosthetic vision"
+requires-python = ">=3.11,<3.13"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests_v2"]
+addopts = "-q"

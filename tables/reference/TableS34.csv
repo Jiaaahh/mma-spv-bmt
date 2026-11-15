@@ -1,0 +1,5 @@
+﻿Encoding and training,Correct/total,"Accuracy, %","Individual 95 % CI, %"
+Skeleton + Ideal-only,2016/5400,37.33,"[34.87, 39.83]"
+Skeleton + MMA,2605/5400,48.24,"[45.94, 50.57]"
+Canny edges + Ideal-only,1479/5400,27.39,"[24.91, 29.96]"
+Canny edges + Multi-map,2094/5400,38.78,"[36.13, 41.48]"

@@ -1,0 +1,5 @@
+﻿Method,"Single median, ms","Single P95, ms","Batch-32 median, ms","Batch-32 P95, ms","Expanded arrays, MiB"
+HOG ideal prototype,2.82,3.07,85.31,88.10,5.98
+MMA-HOG,3.03,4.50,85.53,87.85,5.98
+RanDumb-SPV Ideal,28.39,29.50,121.83,135.71,716.94
+RanDumb-SPV Multi-map,28.60,29.39,121.71,127.37,716.94

@@ -1,0 +1,91 @@
+{
+  "config": "point_29_cpu",
+  "mode": "latency",
+  "round": 0,
+  "affinity": [
+    0,
+    1
+  ],
+  "device": "cpu",
+  "batch": 1,
+  "n": 3600,
+  "thread_limit": 2,
+  "interop": 1,
+  "input_buffer": "one CPU glyph and one current test mapping; no per-glyph feature cache",
+  "model_file": "point_multi_seed29.pt",
+  "shared_static_assets": {
+    "current_kernel_float32_bytes": 9437184,
+    "one_glyph_float32_bytes": 36864,
+    "test_kernel_file_bytes": 47186048,
+    "evaluation_contract_file_bytes": 33030,
+    "note": "Kernel/input file reads and mapping transfer occur outside request latency; process RSS includes transient streaming buffers."
+  },
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so",
+      "version": "0.3.23.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 2,
+      "prefix": "libgomp",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/torch/lib/libgomp-a34b3233.so.1",
+      "version": null
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/scipy.libs/libopenblasp-r0-01191904.3.27.so",
+      "version": "0.3.27",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    }
+  ],
+  "memory_before_model": {
+    "rss_bytes": 425725952,
+    "hwm_bytes": 425725952
+  },
+  "model_state_bytes": 243487924,
+  "model_parameters": 60718841,
+  "model_file_bytes": 243814472,
+  "memory_after_model": {
+    "rss_bytes": 922308608,
+    "hwm_bytes": 922308608
+  },
+  "warmup": {
+    "requests": 26,
+    "elapsed_seconds": 2.071271724998951,
+    "row": 859,
+    "point": [
+      42,
+      47
+    ]
+  },
+  "memory_after_warmup_current_kernel": {
+    "rss_bytes": 942026752,
+    "hwm_bytes": 942026752
+  },
+  "prediction_mismatches": [],
+  "status": "PASS",
+  "accuracy": 0.5472222222222223,
+  "memory_at_end": {
+    "rss_bytes": 942092288,
+    "hwm_bytes": 942092288
+  },
+  "process_lifetime_peak_rss_bytes": 942092288,
+  "median_ms": 78.2949755,
+  "p95_ms": 82.9686996,
+  "final_affinity": [
+    0,
+    1
+  ]
+}

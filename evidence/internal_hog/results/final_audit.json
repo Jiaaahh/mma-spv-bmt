@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "original_files_unchanged": 165,
+  "author_files_unchanged": 6,
+  "hog_predictions_checked": 199800,
+  "neural_runs_checked": 18,
+  "plan_sha256": "e2ae506d56db4f9d2e210a01b6639b2ec1d2966644e224f165b32de69f760f7a",
+  "neural_source_sha256": "35d82b59ebf5c2c4155d3661752a51f3beba62814e324c9cdbbe495aac200a23"
+}

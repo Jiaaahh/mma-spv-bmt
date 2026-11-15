@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "trials": [
+    {
+      "dim": 10000,
+      "feature_seconds": 13.893859200004954,
+      "fit_seconds": 4.029759700002614,
+      "total_seconds": 17.924098200019216,
+      "peak_rss": 1920360448,
+      "oas_shrinkage": 0.05848670486314974,
+      "n": 4500,
+      "heldout_font": "liu_jian_mao_cao",
+      "accuracy_not_used": true,
+      "projected_development_hours": 0.7767109220008327,
+      "pass": true
+    }
+  ]
+}

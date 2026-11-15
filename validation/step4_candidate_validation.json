@@ -1,0 +1,101 @@
+{
+  "passed": true,
+  "version": "1.0.0-rc1",
+  "published": false,
+  "doi": null,
+  "final_manifest_sha256": "24c5d3e0bd2f3ca8c47228f8a6000046416255e6f1b3824f0e5c1532cb68d148",
+  "manifest_entries": 980,
+  "archive_total_files": 981,
+  "tasks": [
+    {
+      "command": "python -X utf8 -B tools/check_public_release.py --output-dir checks/public_integrity",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/verify_results.py --bundle-root evidence --output-dir checks/public_predictions",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/export_main_results.py --output-dir checks/public_main_results",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/recompute_primary_statistics.py --panel C1 --output-dir checks/public_primary_C1",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/recompute_primary_statistics.py --panel E1 --output-dir checks/public_primary_E1",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/recompute_primary_statistics.py --panel StudyB --output-dir checks/public_primary_StudyB",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/recompute_comparators.py --output-dir checks/public_comparators",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/recompute_point_and_costs.py --output-dir checks/public_point_and_costs",
+      "returncode": 0,
+      "passed": true
+    },
+    {
+      "command": "python -X utf8 -B tools/recompute_sensitivity.py --bundle-root evidence --output-dir checks/final_sensitivity",
+      "returncode": 0,
+      "passed": true
+    }
+  ],
+  "final_static_integrity": {
+    "passed": true,
+    "manifest_entries": 980,
+    "experiments": 32,
+    "python_sources_parsed": 326,
+    "text_files_scanned": 866,
+    "failures": [],
+    "scope": "Candidate bytes, syntax, selected private-path/secret patterns and experiment identifiers only; not a legal or complete privacy certification."
+  },
+  "initial_execution_manifest_sha256": "df14e17c3d4daf5b49e2918c26c2323fc977e275c86d094ccbf36b32541cc9d7",
+  "validation_sequence": "Eight commands passed from the initial extracted candidate. Only sensitivity source binding, its wrapper, license source records and documentation changed afterward. The affected sensitivity command and complete final static integrity check passed from the final output archives. Other computation and numerical inputs were unchanged.",
+  "fixed_scope": "Original sensitivity-source digests retained; separately bound public-copy digests checked. No statistical formula, seed, sample unit or input prediction changed.",
+  "archives": [
+    {
+      "filename": "MMA_BMT_code_v1.0.0-rc1.zip",
+      "bytes": 1334713,
+      "sha256": "0da3a45543b9060dcd6bcb0f810b128ed6456fc703fca988aec0b3581efae29d",
+      "files": 435,
+      "all_member_hashes_and_crc_passed": true
+    },
+    {
+      "filename": "MMA_BMT_data_v1.0.0-rc1.zip",
+      "bytes": 65610145,
+      "sha256": "b56447cadd3f628c81a57fcd202ed9fa5bc2c38269db0f736cf34c6962f8891b",
+      "files": 546,
+      "all_member_hashes_and_crc_passed": true
+    }
+  ],
+  "numerical_preservation": {
+    "passed": true,
+    "json_numerical_leaves_identical": 39780,
+    "csv_files_checked": 179,
+    "csv_rows_checked": 799396,
+    "csv_truth_predictions_correctness_unchanged": true,
+    "npz_retained_arrays_identical": true,
+    "npz_details": "code package provenance/array_transformations.json",
+    "scope": "Compared numerical JSON leaves and CSV label/correctness fields with controlled originals; NPZ retained arrays compared during build."
+  },
+  "source_integrity": {
+    "passed": true,
+    "manifest_records_verified": 1229,
+    "source_manifest_sha256": "c8b3821627b09265a82a99188b2d9deec1df87b2c4882274bce323c197c26e73",
+    "source_zip_sha256_expected": "13f5945cf2e32f087a029531d983c57d1d35fd59f615cf61fd3c19cc636a103f",
+    "source_files_modified": false
+  }
+}

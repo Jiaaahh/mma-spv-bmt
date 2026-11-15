@@ -1,0 +1,109 @@
+{
+  "version": "1.0.0",
+  "original_candidate_version": "1.0.0-rc1",
+  "changes": [
+    {
+      "path": "LICENSE.md",
+      "candidate_sha256": "63ba9733f26c050a0d25532bf8409119a03f52da2dd61fb15bc0edbbab8f54db",
+      "public_sha256": "62e991323540e9c215bafb95288f23e6ace98f904ae9ecff4eb7c9085d19863f",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "candidate_sha256": "80c0af1bbc6dcf14d1a240fc0fc9a0da0c332dc6ac2c86d6ddf333ce29b794e9",
+      "public_sha256": "b2a119fed2e2c23635da555c7abc33e430e9ec3759c17d6e02e73c3adfb50ddb",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    },
+    {
+      "path": "README.md",
+      "candidate_sha256": "57b64bed2798d7bed5a7b71e076c3f5c1ee650096c07bc14caadf6f05a5359d2",
+      "public_sha256": "c96bb82ee3a2de1f388bb1fdcd42e065b2e0a89cf7aa3269d1ed1ca1748c1922",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "candidate_sha256": "04036c302d515fac483a3e08b531484cdc5667a6dbb4cb99e9bdf1c1d66362f0",
+      "public_sha256": "ce453f87d14a619193ca6ed732491fedae9e74cd1dc1ef4e25039b36ebf0141e",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    },
+    {
+      "path": "RUN_PUBLIC.md",
+      "candidate_sha256": "9d379918cb22583013153278019474b9d684cbe78dd5b3d4c25710983b65bbb2",
+      "public_sha256": "a728092adb81cc1ddd96cfacf0040854bfeb8066572a37ac7829fb76ca29a2a2",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "candidate_sha256": "492efadabf3be8235a82f2f0e43dfce874c2004eb7f335c5fcfd5fee0d5f4219",
+      "public_sha256": "c98ead57437f78634b4b1e3088f13f52e690299f8deb6cff216ee32423aef3bd",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    },
+    {
+      "path": "tools/check_public_release.py",
+      "candidate_sha256": "97f382761bd1fde87d57b13db6ba470dc3a32852ee4964d75b9d64be8382f20d",
+      "public_sha256": "8706a63978a55e06941b70822df51b9db7b7311291c6cd8102f758503b665471",
+      "reason": "license_documentation_or_git_metadata_exclusion"
+    }
+  ],
+  "numerical_data_changed": false,
+  "manuscript_changed": false,
+  "transport_compression": {
+    "files": [
+      {
+        "path": "evidence/randumb/predictions.csv",
+        "bytes": 30008519,
+        "sha256": "06d872c96f93533ae823c0c415cfced803cd1aab6174655353527ab073233324",
+        "archive": "evidence/randumb/predictions.csv.gz",
+        "archive_sha256": "052f7b148538deeb8a001ab0ab36a1965fbe1090c59ae30da4d25692b7a3dff4",
+        "compression": "gzip",
+        "reason": "Lossless transport of the largest CSV through the GitHub connector"
+      },
+      {
+        "path": "evidence/internal_hog/results/hog/predictions.csv",
+        "bytes": 9367783,
+        "sha256": "5a781f5e5296dadffcfe2b0cf1b3d7d6cd2e64479392f0eedb4626d04b56bf71",
+        "archive": "evidence/internal_hog/results/hog/predictions.csv.gz",
+        "archive_sha256": "6a7ecb17a5e9a7677d61288519d353b151e3a3c9f5d09ae3069c03dfb4d3a822",
+        "compression": "gzip",
+        "reason": "Lossless transport of large numerical prediction CSVs"
+      },
+      {
+        "path": "evidence/pa_full/predictions.csv",
+        "bytes": 6041377,
+        "sha256": "c7b29dfafa566b3527989abc8e8a2a44611c1d756d42a378250c87da5832fc96",
+        "archive": "evidence/pa_full/predictions.csv.gz",
+        "archive_sha256": "4a50ae849934f06ff6a0ff699d1a38b402a10e957c330f8dd8f049e44c1e9d85",
+        "compression": "gzip",
+        "reason": "Lossless transport of large numerical prediction CSVs"
+      },
+      {
+        "path": "evidence/pa_hog/predictions.csv",
+        "bytes": 3905104,
+        "sha256": "5106e35f5c67f141ac6cc2e6aeba8d7db8cab601e3ff0351406e002f13b5d2db",
+        "archive": "evidence/pa_hog/predictions.csv.gz",
+        "archive_sha256": "a757591f01dc27a8e8bb6c9aa7cbaa8195c2362636393465916e7395eb0bf3c5",
+        "compression": "gzip",
+        "reason": "Lossless transport of large numerical prediction CSVs"
+      },
+      {
+        "path": "evidence/pa_input/predictions.csv",
+        "bytes": 3934200,
+        "sha256": "268f231c2e8aec97e5c31d0f1257c53a5a557aab17c9b6bc9d22d43dfccbebb6",
+        "archive": "evidence/pa_input/predictions.csv.gz",
+        "archive_sha256": "ff2bb2d37919eabedfe22821fcbcd9c73a7aeaa596b98825655c93dd94c33ec1",
+        "compression": "gzip",
+        "reason": "Lossless transport of large numerical prediction CSVs"
+      },
+      {
+        "path": "evidence/whole_glyph/E1/predictions.csv",
+        "bytes": 11831893,
+        "sha256": "87ce2ec00a86a373237abb305a7a1ab7931b9fda58bda5cdaff69aa1d5dbbde8",
+        "archive": "evidence/whole_glyph/E1/predictions.csv.gz",
+        "archive_sha256": "b144862db83bb35948eba85922a7a9771c4e018904f39ea474d8fe28330c9c56",
+        "compression": "gzip",
+        "reason": "Lossless transport of large numerical prediction CSVs"
+      }
+    ],
+    "numerical_values_changed": false
+  }
+}

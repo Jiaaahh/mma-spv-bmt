@@ -1,0 +1,20 @@
+{
+  "node": "G09_A2",
+  "status": "PASS",
+  "commands": [
+    {
+      "script": "g09_v1/g09_make_manifest.py",
+      "exit_code": 0
+    },
+    {
+      "script": "g09_v1/tests/test_a2_regression.py",
+      "exit_code": 0
+    }
+  ],
+  "protected_assets_unchanged": true,
+  "backup": "/historical/root/autodl-tmp/mma_pkg/project/backups/G09_A2_20260919T134619_428744Z/g09_v1",
+  "python": "3.10.8 (main, Nov 24 2022, 14:13:03) [GCC 11.2.0]",
+  "utc": "20260919T134619_428744Z",
+  "scope": "CPU regression only; zero formal training; zero real outer evaluation",
+  "next_action": "Return ZIP and SHA to reviewer. Do not start G09-B or formal runs."
+}

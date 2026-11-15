@@ -1,0 +1,78 @@
+{
+  "decision": "ACCEPT_STEP3_PROCEED_STEP4_PACKAGE",
+  "outer_sha256": "81320228898c3c1dbb2c1b5054c71dda3fcbd8d70ee5bad079fa16fa9a22e215",
+  "inner_sha256": "7a1462b914403dd1e9737e5c1538fb158d924816a354d744becadf5c6c1c6bce",
+  "configuration_requests": 28800,
+  "metrics": {
+    "skeleton_ideal_cpu": {
+      "accuracy": 0.20472222222222222,
+      "max_historical_score_abs": 9.992007221626409e-16,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "skeleton_mma_cpu": {
+      "accuracy": 0.3811111111111111,
+      "max_historical_score_abs": 1.1102230246251565e-15,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "point_17_cpu": {
+      "accuracy": 0.5094444444444445,
+      "max_historical_score_abs": 4.38690185546875e-05,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "point_17_cuda": {
+      "accuracy": 0.5094444444444445,
+      "max_historical_score_abs": 7.62939453125e-06,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "point_29_cpu": {
+      "accuracy": 0.5472222222222223,
+      "max_historical_score_abs": 7.82012939453125e-05,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "point_29_cuda": {
+      "accuracy": 0.5472222222222223,
+      "max_historical_score_abs": 1.0013580322265625e-05,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "point_43_cpu": {
+      "accuracy": 0.43083333333333335,
+      "max_historical_score_abs": 4.2438507080078125e-05,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    },
+    "point_43_cuda": {
+      "accuracy": 0.43083333333333335,
+      "max_historical_score_abs": 9.5367431640625e-06,
+      "same_device_max_logit_abs": 0.0,
+      "same_device_max_spv_abs": 0.0
+    }
+  },
+  "cross_device": [
+    {
+      "seed": 17,
+      "prediction_mismatches": 0,
+      "stimulus_instance_mismatches": 0,
+      "max_logit_abs": 4.76837158203125e-05
+    },
+    {
+      "seed": 29,
+      "prediction_mismatches": 0,
+      "stimulus_instance_mismatches": 0,
+      "max_logit_abs": 7.724761962890625e-05
+    },
+    {
+      "seed": 43,
+      "prediction_mismatches": 0,
+      "stimulus_instance_mismatches": 0,
+      "max_logit_abs": 4.2438507080078125e-05
+    }
+  ],
+  "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05",
+  "note": "GPU UUID differs from step2; all step4 methods must be remeasured together on the same current host. No prior step duration is a benchmark."
+}

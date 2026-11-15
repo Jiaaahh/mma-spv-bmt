@@ -1,0 +1,46 @@
+[
+  {
+    "font_id": "STHupo",
+    "source_path": "/historical/Windows\\Fonts\\STHUPO.TTF",
+    "face_index": 0,
+    "file_sha256": "7426907130588efde1b8c5037f1e245c2a23ee30f9a2d60f863c4264d5a06890",
+    "file_size_bytes": 3714568,
+    "required_character_count": 180,
+    "missing_character_count": 0,
+    "unique_raw_glyph_fingerprints": 180,
+    "unique_normalized_glyphs": 180
+  },
+  {
+    "font_id": "STXinwei",
+    "source_path": "/historical/Windows\\Fonts\\STXINWEI.TTF",
+    "face_index": 0,
+    "file_sha256": "7f2fb3442bec38afecc78e1548a9d154cc225d4cfd9cbc0f8c469311ab43e36a",
+    "file_size_bytes": 4051204,
+    "required_character_count": 180,
+    "missing_character_count": 0,
+    "unique_raw_glyph_fingerprints": 180,
+    "unique_normalized_glyphs": 180
+  },
+  {
+    "font_id": "STXingkai",
+    "source_path": "/historical/Windows\\Fonts\\STXINGKA.TTF",
+    "face_index": 0,
+    "file_sha256": "7f901dfb0526d542740264fb5ba8dfe483293ad060270d273593e2f04a69d080",
+    "file_size_bytes": 4016288,
+    "required_character_count": 180,
+    "missing_character_count": 0,
+    "unique_raw_glyph_fingerprints": 180,
+    "unique_normalized_glyphs": 180
+  },
+  {
+    "font_id": "STKaiti",
+    "source_path": "/historical/Windows\\Fonts\\STKAITI.TTF",
+    "face_index": 0,
+    "file_sha256": "a29c99c161fc43ce6aba2d7c152065359c2cb3019be4ae6248171178cb7d04d5",
+    "file_size_bytes": 12736196,
+    "required_character_count": 180,
+    "missing_character_count": 0,
+    "unique_raw_glyph_fingerprints": 180,
+    "unique_normalized_glyphs": 180
+  }
+]

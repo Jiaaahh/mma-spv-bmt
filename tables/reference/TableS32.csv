@@ -1,0 +1,5 @@
+﻿Paired contrast,"Difference, pp",Conditional 95 % CI
+Primary: skeleton MMA − Point multi-map,−11.47,"[−14.94, −7.98]"
+Secondary: Point multi-map − Point ideal,+14.64,"[+11.71, +17.56]"
+Secondary: skeleton MMA − skeleton ideal,+17.64,"[+14.56, +20.72]"
+Secondary: Canny MMA − Canny ideal,+8.44,"[+5.94, +11.00]"

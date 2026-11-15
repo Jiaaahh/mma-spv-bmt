@@ -1,0 +1,13 @@
+﻿Ablation and configuration,"Ideal training, %","Multi-map training, %","Gain, pp"
+Extended panel: mapping composition,,,
+Ideal + 1 mismatch map,64.00,76.69,+12.69
+Ideal + 2 mismatch maps,64.00,78.14,+14.14
+Ideal + 4 mismatch maps,64.00,79.06,+15.06
+4 mismatch maps only,64.00,76.83,+12.83
+Six-fold development: encoding,,,
+Skeleton,37.33,48.24,+10.91
+Canny edges,27.39,38.78,+11.39
+Extended panel: prototype normalization,,,
+Raw HOG mean → prototype L2,64.00,79.06,+15.06
+Sample L2 → mean → prototype L2,64.06,79.06,+15.00
+Sample L2 → mean → column L2 → prototype L2,48.08,54.75,+6.67

@@ -1,0 +1,22 @@
+clip @ fil/historical/historical/user/Documents/Codex/2026-09-08/thread-01a03819-f724-7393-a6a0-29efdf40b24e-2/work/proto_adapter_clip_source
+colorama==0.4.6
+filelock==4.0.6
+fsspec==2026.9.0
+ftfy==6.3.1
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+mpmath==1.3.0
+networkx==3.7
+numpy==2.5.3
+packaging==26.3
+pillow==12.3.0
+psutil==7.2.2
+regex==2026.9.29
+setuptools==84.0.0
+sympy @ fil/historical/historical/user/Documents/Codex/2026-09-08/thread-01a03819-f724-7393-a6a0-29efdf40b24e-2/work/resnet50_wheels/sympy-1.13.1-py3-none-any.whl#sha256=db36cdc64bf61b9b24578b6f7bab1ecdd2452cf008f34faa33776680c26d66f8
+torch @ fil/historical/historical/user/Documents/Codex/2026-09-08/thread-01a03819-f724-7393-a6a0-29efdf40b24e-2/work/resnet50_wheels/torch-2.6.0%2Bcpu-cp312-cp312-win_amd64.whl#sha256=4027d982eb2781c93825ab9527f17fbbb12dbabf422298e4b954be60016f87d8
+torchvision @ fil/historical/historical/user/Documents/Codex/2026-09-08/thread-01a03819-f724-7393-a6a0-29efdf40b24e-2/work/resnet50_wheels/torchvision-0.21.0%2Bcpu-cp312-cp312-win_amd64.whl#sha256=667f3d983240f41eaff5a3f78bdcbc144473978a37cd15a4db6dad92b1e8b6f0
+tqdm==4.70.1
+typing_extensions==4.16.0
+wcwidth==0.9.1
+wheel==0.48.0

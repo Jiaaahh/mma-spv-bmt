@@ -1,0 +1,46 @@
+{
+  "name": "point_17_cuda",
+  "n": 3600,
+  "status": "PASS",
+  "same_device_failures": [],
+  "historical_pred_mismatches": [],
+  "historical_stim_mismatches": [],
+  "mapping_blind_failures": [],
+  "max_same_device_logit_abs": 0.0,
+  "max_same_device_spv_abs": 0.0,
+  "max_historical_score_abs": 7.62939453125e-06,
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/numpy.libs/libopenblas64_p-r0-0cf96a72.3.23.dev.so",
+      "version": "0.3.23.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 2,
+      "prefix": "libgomp",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/torch/lib/libgomp-a34b3233.so.1",
+      "version": null
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 2,
+      "prefix": "libopenblas",
+      "filepath": "/historical/root/autodl-tmp/mma_pkg/project/.venv/lib/python3.10/site-packages/scipy.libs/libopenblasp-r0-01191904.3.27.so",
+      "version": "0.3.27",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    }
+  ],
+  "threads": 2,
+  "interop": 1,
+  "historical_accuracy": 0.5094444444444445,
+  "replay_accuracy": 0.5094444444444445
+}

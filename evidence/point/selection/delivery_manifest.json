@@ -1,0 +1,12 @@
+{
+  "\u7edf\u4e00\u6bd4\u8f83\u534f\u8bae\u4e0e\u6267\u884c\u8bf4\u660e.md": "f185c4fbdd13396460a101ad3af54032437f34812a33a622e7bd5d29c6fdb30c",
+  "selection_protocol.json": "cc18d3695bdaf721fc3c9e6d154ea44eea5c5744e9734c216f4af142d39ce696",
+  "run_remote.sh": "a24f8731c3bb62edfca19b87d7da8f45c5fc7cbc48aa51805cca344679269f5f",
+  "select.py": "1db7d45e63ee278afdec24a74455a8e67a076e1c14d278e6aebb616df8fa6383",
+  "package_return.py": "99559e9d547ed8dcec57c21f5f7d91944a22a58575954b810bad7d4583f13d00",
+  "verify_delivery.py": "7a5808aa17ca01c3f5cb968ad10d02d2deabc5a65e7dc3d9f362f4b20c2f226c",
+  "ideal_lr1e4/manifest.json": "f594cdb364da6cf95cf4bea321eac21429501f711ab8c0458f9422dd7f4134d0",
+  "ideal_lr3e5/manifest.json": "f5d7bb051a7271548b54e0ed4d6ccf77570151cd7bcd62b54c26d5931003501f",
+  "multi_lr1e4/manifest.json": "7976f37ff571a3800ca1e3bf928a3e6577b1c1c0f00719f9e40a6b7c5310dcd7",
+  "multi_lr3e5/manifest.json": "e11b89c1c8e0e326624d24e490063f7cd8a995b54a2073f23e7deb8dab2e592a"
+}

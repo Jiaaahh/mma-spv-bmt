@@ -1,0 +1,165 @@
+{
+  "status": "COMPLETED_DEVELOPMENT_ONLY",
+  "plan_sha256": "e2ae506d56db4f9d2e210a01b6639b2ec1d2966644e224f165b32de69f760f7a",
+  "methods": 37,
+  "folds_per_method": 30,
+  "predictions_per_method": 5400,
+  "elapsed_seconds": 30.813286200049333,
+  "accuracies": {
+    "ideal_only": 37.333333333333336,
+    "ordinary_affine4": 35.25925925925926,
+    "mma_g0": 48.24074074074074,
+    "ensemble_mean_g0": 45.59259259259259,
+    "ensemble_max_g0": 42.31481481481482,
+    "ideal_single_2026": 46.33333333333333,
+    "ideal_single_2027": 46.833333333333336,
+    "ideal_single_2028": 45.351851851851855,
+    "ideal_single_2029": 46.370370370370374,
+    "mma_g1": 49.01851851851852,
+    "ensemble_mean_g1": 47.01851851851852,
+    "ensemble_max_g1": 43.129629629629626,
+    "ideal_single_5201": 46.7962962962963,
+    "ideal_single_5202": 47.24074074074074,
+    "ideal_single_5203": 46.90740740740741,
+    "ideal_single_5204": 45.94444444444444,
+    "mma_g2": 49.166666666666664,
+    "ensemble_mean_g2": 47.0,
+    "ensemble_max_g2": 43.96296296296296,
+    "ideal_single_5205": 46.72222222222222,
+    "ideal_single_5206": 46.48148148148148,
+    "ideal_single_5207": 46.370370370370374,
+    "ideal_single_5208": 47.09259259259259,
+    "mma_g3": 49.092592592592595,
+    "ensemble_mean_g3": 46.85185185185185,
+    "ensemble_max_g3": 43.37037037037037,
+    "ideal_single_5209": 46.62962962962963,
+    "ideal_single_5210": 47.05555555555556,
+    "ideal_single_5211": 46.18518518518518,
+    "ideal_single_5212": 47.129629629629626,
+    "mma_g4": 49.72222222222222,
+    "ensemble_mean_g4": 47.5,
+    "ensemble_max_g4": 44.7962962962963,
+    "ideal_single_5213": 47.05555555555556,
+    "ideal_single_5214": 46.90740740740741,
+    "ideal_single_5215": 47.03703703703704,
+    "ideal_single_5216": 46.35185185185185
+  },
+  "comparisons": [
+    {
+      "a": "mma_g0",
+      "b": "ideal_only",
+      "difference_pp": 10.907407407407407,
+      "character_conditional_95ci_pp": [
+        8.814814814814813,
+        13.055555555555554
+      ]
+    },
+    {
+      "a": "mma_g0",
+      "b": "ordinary_affine4",
+      "difference_pp": 12.981481481481483,
+      "character_conditional_95ci_pp": [
+        10.611111111111112,
+        15.388888888888891
+      ]
+    },
+    {
+      "a": "ensemble_mean_g0",
+      "b": "mma_g0",
+      "difference_pp": -2.648148148148148,
+      "character_conditional_95ci_pp": [
+        -3.5555555555555562,
+        -1.7777777777777786
+      ]
+    },
+    {
+      "a": "ensemble_max_g0",
+      "b": "mma_g0",
+      "difference_pp": -5.925925925925925,
+      "character_conditional_95ci_pp": [
+        -6.888888888888889,
+        -4.981481481481483
+      ]
+    },
+    {
+      "a": "mma_g0",
+      "b": "ideal_single_2026",
+      "difference_pp": 1.9074074074074077,
+      "character_conditional_95ci_pp": [
+        0.7962962962962965,
+        3.037037037037037
+      ]
+    },
+    {
+      "a": "mma_g0",
+      "b": "ideal_single_2027",
+      "difference_pp": 1.4074074074074074,
+      "character_conditional_95ci_pp": [
+        0.49999999999999983,
+        2.333333333333334
+      ]
+    },
+    {
+      "a": "mma_g0",
+      "b": "ideal_single_2028",
+      "difference_pp": 2.8888888888888884,
+      "character_conditional_95ci_pp": [
+        1.925925925925926,
+        3.88888888888889
+      ]
+    },
+    {
+      "a": "mma_g0",
+      "b": "ideal_single_2029",
+      "difference_pp": 1.8703703703703705,
+      "character_conditional_95ci_pp": [
+        0.9259259259259258,
+        2.833333333333333
+      ]
+    },
+    {
+      "a": "mma_g1",
+      "b": "ideal_only",
+      "difference_pp": 11.685185185185185,
+      "character_conditional_95ci_pp": [
+        9.555555555555554,
+        13.870370370370367
+      ]
+    },
+    {
+      "a": "mma_g2",
+      "b": "ideal_only",
+      "difference_pp": 11.833333333333332,
+      "character_conditional_95ci_pp": [
+        9.833333333333332,
+        13.888888888888884
+      ]
+    },
+    {
+      "a": "mma_g3",
+      "b": "ideal_only",
+      "difference_pp": 11.75925925925926,
+      "character_conditional_95ci_pp": [
+        9.685185185185183,
+        13.888888888888884
+      ]
+    },
+    {
+      "a": "mma_g4",
+      "b": "ideal_only",
+      "difference_pp": 12.38888888888889,
+      "character_conditional_95ci_pp": [
+        10.369907407407409,
+        14.46296296296296
+      ]
+    }
+  ],
+  "training_group_mma_accuracy": [
+    48.24074074074074,
+    49.01851851851852,
+    49.166666666666664,
+    49.092592592592595,
+    49.72222222222222
+  ],
+  "caution": "Development LOFO; fixed finite panel; CIs unadjusted and exploratory. No best-group selection. Generic affine is image-level, not physical mapping randomization."
+}

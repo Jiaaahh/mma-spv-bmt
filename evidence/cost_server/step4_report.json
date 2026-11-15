@@ -1,0 +1,2089 @@
+{
+  "stage": 4,
+  "status": "COMPLETE_PENDING_LOCAL_REVIEW",
+  "root": "/historical/root/autodl-tmp/point_spv_formal_v1",
+  "artifacts": "/historical/root/autodl-tmp/mma_cost_step2_run01/artifacts",
+  "package_manifest_sha256": "b8cf04984814b9612500579c79f1251f62f31503c0143046e613d86a08280c37",
+  "protocol_sha256": "966f62962f9c454e835ff648db9d223cc4b7bc6eabfe4c448cac1c8ac0e16c23",
+  "started_utc": "2026-09-30T14:13:46.080190+00:00",
+  "jobs": [
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "point_17_cpu",
+      "before": {
+        "utc": "2026-09-30T14:13:48.816639+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 5667312679\nuser_usec 5366761798\nsystem_usec 300550881\nnr_periods 43705\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.82 10.20 10.04 20/5230 3698",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.90 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:18:45.064776+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 6268746067\nuser_usec 5955497379\nsystem_usec 313248688\nnr_periods 46667\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.85 9.70 9.82 3/5195 3857",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 18.92 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "point_29_cpu",
+      "before": {
+        "utc": "2026-09-30T14:18:45.342755+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 6268888237\nuser_usec 5955507966\nsystem_usec 313380270\nnr_periods 46670\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.85 9.70 9.82 3/5195 3865",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 18.92 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:23:43.585846+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 6874026072\nuser_usec 6548740488\nsystem_usec 325285584\nnr_periods 49653\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "13.68 10.77 10.22 4/5263 4024",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.47 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "point_43_cuda",
+      "before": {
+        "utc": "2026-09-30T14:23:43.910416+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 6874176475\nuser_usec 6548766145\nsystem_usec 325410330\nnr_periods 49656\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "13.68 10.77 10.22 4/5263 4032",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.47 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:24:58.685096+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 6997538373\nuser_usec 6665421979\nsystem_usec 332116394\nnr_periods 50404\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.94 11.29 10.46 5/5231 4083",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 71.16 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "skeleton_ideal_cpu",
+      "before": {
+        "utc": "2026-09-30T14:24:59.003784+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 6997684852\nuser_usec 6665471004\nsystem_usec 332213847\nnr_periods 50407\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.94 11.29 10.46 6/5232 4091",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 67.71 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:26:11.304859+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7143118299\nuser_usec 6731946793\nsystem_usec 411171506\nnr_periods 51130\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "14.71 11.65 10.62 3/5229 4138",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.33 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "point_43_cpu",
+      "before": {
+        "utc": "2026-09-30T14:26:11.618840+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7143266124\nuser_usec 6731997977\nsystem_usec 411268147\nnr_periods 51133\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "14.71 11.65 10.62 18/5229 4146",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.55 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:31:08.762231+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7746665616\nuser_usec 7323417362\nsystem_usec 423248254\nnr_periods 54105\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "6.21 9.05 9.83 4/5197 4306",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 18.53 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "point_17_cuda",
+      "before": {
+        "utc": "2026-09-30T14:31:09.092482+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7746820066\nuser_usec 7323458584\nsystem_usec 423361482\nnr_periods 54108\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "6.21 9.05 9.83 4/5197 4314",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 18.53 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:32:23.196209+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7869219957\nuser_usec 7439406401\nsystem_usec 429813555\nnr_periods 54849\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.46 10.11 10.17 18/5229 4365",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "15 %, 1 MiB, 36, 2520 MHz, 73.39 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "point_29_cuda",
+      "before": {
+        "utc": "2026-09-30T14:32:23.508097+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7869365198\nuser_usec 7439450279\nsystem_usec 429914919\nnr_periods 54852\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.46 10.11 10.17 12/5229 4373",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 67.97 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:33:38.041846+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7992683923\nuser_usec 7556568182\nsystem_usec 436115741\nnr_periods 55597\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.62 9.42 9.91 9/5226 4424",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 72.43 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 0,
+      "config": "skeleton_mma_cpu",
+      "before": {
+        "utc": "2026-09-30T14:33:38.358960+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 7992833481\nuser_usec 7556597631\nsystem_usec 436235850\nnr_periods 55601\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.62 9.42 9.91 4/5226 4432",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 65.53 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:34:38.488755+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8113247691\nuser_usec 7608514179\nsystem_usec 504733512\nnr_periods 56202\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.64 9.80 10.00 2/5231 4472",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 20.11 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "point_43_cpu",
+      "before": {
+        "utc": "2026-09-30T14:34:38.683178+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8113384941\nuser_usec 7608546898\nsystem_usec 504838042\nnr_periods 56203\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.64 9.80 10.00 2/5230 4480",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 20.11 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:39:35.704821+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8717162587\nuser_usec 8200160244\nsystem_usec 517002343\nnr_periods 59174\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "5.94 8.92 9.72 3/5203 4638",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.67 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "point_29_cuda",
+      "before": {
+        "utc": "2026-09-30T14:39:35.988670+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8717308927\nuser_usec 8200182674\nsystem_usec 517126253\nnr_periods 59176\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "5.70 8.82 9.68 4/5205 4646",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.67 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:40:51.066218+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8841443565\nuser_usec 8317958241\nsystem_usec 523485323\nnr_periods 59928\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.49 9.46 9.81 19/5232 4697",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "15 %, 1 MiB, 36, 2520 MHz, 72.21 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "skeleton_mma_cpu",
+      "before": {
+        "utc": "2026-09-30T14:40:51.309020+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8841580954\nuser_usec 8318010199\nsystem_usec 523570754\nnr_periods 59930\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.49 9.46 9.81 10/5235 4705",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 68.78 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:41:54.519225+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8968900918\nuser_usec 8374631361\nsystem_usec 594269557\nnr_periods 60562\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.44 9.27 9.72 21/5259 4746",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.60 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "point_17_cpu",
+      "before": {
+        "utc": "2026-09-30T14:41:54.807785+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 8969047277\nuser_usec 8374657061\nsystem_usec 594390216\nnr_periods 60565\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.44 9.27 9.72 4/5259 4754",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.60 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:46:52.866822+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 9574361507\nuser_usec 8968392050\nsystem_usec 605969456\nnr_periods 63546\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "13.98 12.84 11.11 4/5258 4913",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.57 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "point_43_cuda",
+      "before": {
+        "utc": "2026-09-30T14:46:53.187365+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 9574499599\nuser_usec 8968425296\nsystem_usec 606074303\nnr_periods 63549\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "13.98 12.84 11.11 4/5258 4921",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.57 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:48:07.992084+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 9697627936\nuser_usec 9084852108\nsystem_usec 612775827\nnr_periods 64297\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.15 12.12 10.98 3/5260 4973",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 73.73 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "point_29_cpu",
+      "before": {
+        "utc": "2026-09-30T14:48:08.252904+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 9697763387\nuser_usec 9084878113\nsystem_usec 612885273\nnr_periods 64299\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.15 12.12 10.98 12/5262 4981",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 69.99 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:53:04.043713+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 10297832095\nuser_usec 9673458331\nsystem_usec 624373763\nnr_periods 67257\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "14.32 13.12 11.70 4/5231 5139",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.79 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "point_17_cuda",
+      "before": {
+        "utc": "2026-09-30T14:53:04.233628+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 10297973013\nuser_usec 9673486735\nsystem_usec 624486278\nnr_periods 67259\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "14.32 13.12 11.70 3/5230 5147",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.79 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:54:17.126063+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 10419335453\nuser_usec 9788769686\nsystem_usec 630565766\nnr_periods 67988\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.49 12.38 11.55 4/5229 5198",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 72.11 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 1,
+      "config": "skeleton_ideal_cpu",
+      "before": {
+        "utc": "2026-09-30T14:54:17.517957+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 10419491106\nuser_usec 9788811683\nsystem_usec 630679423\nnr_periods 67992\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.49 12.38 11.55 6/5229 5206",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 66.78 W"
+      },
+      "after": {
+        "utc": "2026-09-30T14:55:20.539157+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 10546116752\nuser_usec 9845255005\nsystem_usec 700861746\nnr_periods 68622\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.75 12.10 11.50 3/5229 5248",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.00 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "point_43_cpu",
+      "before": {
+        "utc": "2026-09-30T14:55:20.829057+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 10546269848\nuser_usec 9845294479\nsystem_usec 700975368\nnr_periods 68625\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.75 12.10 11.50 8/5229 5256",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.00 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:00:16.581205+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 11146931323\nuser_usec 10434164588\nsystem_usec 712766735\nnr_periods 71583\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.30 10.77 11.15 5/5812 5413",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.67 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "point_43_cuda",
+      "before": {
+        "utc": "2026-09-30T15:00:16.858909+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 11147078942\nuser_usec 10434222531\nsystem_usec 712856411\nnr_periods 71585\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.30 10.77 11.15 6/5812 5421",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.67 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:01:30.843522+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 11269178163\nuser_usec 10549705348\nsystem_usec 719472815\nnr_periods 72325\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.80 10.44 11.00 16/5817 5473",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 72.96 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "point_29_cpu",
+      "before": {
+        "utc": "2026-09-30T15:01:31.110857+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 11269335269\nuser_usec 10549748893\nsystem_usec 719586375\nnr_periods 72328\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "8.80 10.44 11.00 5/5813 5481",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 67.61 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:06:30.795810+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 11877975865\nuser_usec 11146434993\nsystem_usec 731540872\nnr_periods 75325\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.10 11.22 11.17 22/5785 5640",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.15 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "point_29_cuda",
+      "before": {
+        "utc": "2026-09-30T15:06:31.106623+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 11878149438\nuser_usec 11146490774\nsystem_usec 731658663\nnr_periods 75328\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.10 11.22 11.17 13/5789 5648",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.15 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:07:45.573858+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12000940693\nuser_usec 11262442601\nsystem_usec 738498092\nnr_periods 76073\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "17.39 12.52 11.59 4/6031 5700",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "15 %, 1 MiB, 37, 2520 MHz, 74.66 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "skeleton_ideal_cpu",
+      "before": {
+        "utc": "2026-09-30T15:07:45.801061+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12001096993\nuser_usec 11262501229\nsystem_usec 738595764\nnr_periods 76075\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "17.39 12.52 11.59 5/6030 5709",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 69.11 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:08:46.856945+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12123770641\nuser_usec 11315305238\nsystem_usec 808465403\nnr_periods 76686\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "20.25 14.01 12.15 8/6167 5749",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 21.71 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "point_17_cpu",
+      "before": {
+        "utc": "2026-09-30T15:08:47.146293+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12123920993\nuser_usec 11315334678\nsystem_usec 808586314\nnr_periods 76688\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "20.25 14.01 12.15 9/6167 5757",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 21.71 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:13:43.169681+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12724812063\nuser_usec 11904141130\nsystem_usec 820670933\nnr_periods 79649\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.22 12.29 12.06 4/6142 5914",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.95 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "skeleton_mma_cpu",
+      "before": {
+        "utc": "2026-09-30T15:13:43.476366+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12724950266\nuser_usec 11904174746\nsystem_usec 820775519\nnr_periods 79651\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "10.22 12.29 12.06 4/6142 5922",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.45 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:14:46.689285+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12852025962\nuser_usec 11960421565\nsystem_usec 891604396\nnr_periods 80284\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.14 12.35 12.09 3/6150 5964",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.97 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "latency",
+      "round": 2,
+      "config": "point_17_cuda",
+      "before": {
+        "utc": "2026-09-30T15:14:47.020242+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12852159924\nuser_usec 11960462118\nsystem_usec 891697805\nnr_periods 80287\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.14 12.35 12.09 5/6150 5972",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.97 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:16:01.191211+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12974978621\nuser_usec 12076449838\nsystem_usec 898528783\nnr_periods 81029\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.47 11.95 11.96 8/6147 6023",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 72.79 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "point_29_cuda",
+      "before": {
+        "utc": "2026-09-30T15:16:01.540251+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 12975135258\nuser_usec 12076496853\nsystem_usec 898638404\nnr_periods 81032\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.47 11.95 11.96 4/6147 6031",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 67.22 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:17:15.214456+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 13097423819\nuser_usec 12192567083\nsystem_usec 904856736\nnr_periods 81769\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.49 11.48 11.80 3/6147 6083",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "14 %, 1 MiB, 37, 2520 MHz, 73.62 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "skeleton_mma_cpu",
+      "before": {
+        "utc": "2026-09-30T15:17:15.513932+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 13097565422\nuser_usec 12192606737\nsystem_usec 904958684\nnr_periods 81772\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.49 11.48 11.80 5/6149 6091",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 68.22 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:18:17.267341+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 13221735987\nuser_usec 12246463627\nsystem_usec 975272360\nnr_periods 82390\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "7.70 10.60 11.48 9/6111 6131",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 19.00 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "point_43_cpu",
+      "before": {
+        "utc": "2026-09-30T15:18:17.579353+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 13221889782\nuser_usec 12246516822\nsystem_usec 975372960\nnr_periods 82393\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "7.70 10.60 11.48 5/6111 6139",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 19.00 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:23:14.852566+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 13825215826\nuser_usec 12838054798\nsystem_usec 987161028\nnr_periods 85365\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.51 11.43 11.64 6/6114 6290",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 18.33 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "point_29_cpu",
+      "before": {
+        "utc": "2026-09-30T15:23:15.115629+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 13825399288\nuser_usec 12838097198\nsystem_usec 987302089\nnr_periods 85368\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.51 11.43 11.64 3/6114 6300",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 19.00 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:28:09.587242+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 14422357086\nuser_usec 13423598044\nsystem_usec 998759042\nnr_periods 88313\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "16.64 11.75 11.45 5/6117 6440",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.55 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "point_43_cuda",
+      "before": {
+        "utc": "2026-09-30T15:28:09.901150+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 14422504812\nuser_usec 13423641058\nsystem_usec 998863753\nnr_periods 88316\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "16.64 11.75 11.45 3/6115 6448",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.32 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:29:23.346055+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 14544457644\nuser_usec 13539341852\nsystem_usec 1005115792\nnr_periods 89050\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.81 10.62 11.08 20/6152 6500",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "15 %, 1 MiB, 36, 2520 MHz, 74.45 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "skeleton_ideal_cpu",
+      "before": {
+        "utc": "2026-09-30T15:29:23.668341+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 14544606651\nuser_usec 13539389514\nsystem_usec 1005217137\nnr_periods 89054\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.27 10.50 11.03 4/6150 6508",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 68.93 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:30:26.529504+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 14671029652\nuser_usec 13594853907\nsystem_usec 1076175745\nnr_periods 89682\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "7.93 9.96 10.82 3/6149 6550",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.72 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "point_17_cpu",
+      "before": {
+        "utc": "2026-09-30T15:30:26.807264+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 14671177535\nuser_usec 13594900456\nsystem_usec 1076277079\nnr_periods 89685\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "7.93 9.96 10.82 3/6147 6558",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.72 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:35:22.062026+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15270719554\nuser_usec 14182525413\nsystem_usec 1088194141\nnr_periods 92637\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "15.80 11.91 11.30 3/6185 6715",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.62 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "components",
+      "round": 0,
+      "config": "point_17_cuda",
+      "before": {
+        "utc": "2026-09-30T15:35:22.320667+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15270855266\nuser_usec 14182540373\nsystem_usec 1088314893\nnr_periods 92640\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "15.80 11.91 11.30 3/6184 6723",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.47 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:36:35.816970+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15392672354\nuser_usec 14297868710\nsystem_usec 1094803643\nnr_periods 93375\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.64 11.57 11.21 3/6181 6774",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "10 %, 1 MiB, 37, 2520 MHz, 73.00 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "skeleton_ideal_cpu",
+      "before": {
+        "utc": "2026-09-30T15:36:36.024235+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15392815185\nuser_usec 14297914900\nsystem_usec 1094900284\nnr_periods 93377\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.64 11.57 11.21 3/6181 6782",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 69.32 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:37:39.944188+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15521161948\nuser_usec 14354428270\nsystem_usec 1166733677\nnr_periods 94016\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "18.95 13.81 12.02 6/6152 6824",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 19.63 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "point_43_cuda",
+      "before": {
+        "utc": "2026-09-30T15:37:40.134981+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15521339379\nuser_usec 14354476787\nsystem_usec 1166862592\nnr_periods 94018\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "18.95 13.81 12.02 22/6149 6833",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 32, 210 MHz, 19.63 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:38:53.829457+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15643686892\nuser_usec 14470587488\nsystem_usec 1173099404\nnr_periods 94755\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.35 12.12 11.57 3/6149 6882",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 72.34 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "point_17_cpu",
+      "before": {
+        "utc": "2026-09-30T15:38:54.144670+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 15643830973\nuser_usec 14470607663\nsystem_usec 1173223309\nnr_periods 94758\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.35 12.12 11.57 3/6149 6890",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 68.81 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:43:51.599008+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16248021655\nuser_usec 15062798301\nsystem_usec 1185223353\nnr_periods 97733\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "5.18 8.66 10.34 3/6124 7050",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.48 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "point_17_cuda",
+      "before": {
+        "utc": "2026-09-30T15:43:51.838752+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16248169568\nuser_usec 15062825739\nsystem_usec 1185343829\nnr_periods 97735\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "5.18 8.66 10.34 3/6124 7058",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 30, 210 MHz, 20.48 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:45:06.371414+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16371853160\nuser_usec 15179814156\nsystem_usec 1192039004\nnr_periods 98481\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "7.13 8.60 10.19 6/6132 7110",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 71.37 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "skeleton_mma_cpu",
+      "before": {
+        "utc": "2026-09-30T15:45:06.714502+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16372004655\nuser_usec 15179855478\nsystem_usec 1192149176\nnr_periods 98484\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "7.13 8.60 10.19 4/6132 7118",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 36, 2520 MHz, 65.96 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:46:05.879567+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16490743770\nuser_usec 15231303197\nsystem_usec 1259440572\nnr_periods 99076\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.46 8.89 10.18 5/6190 7158",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.22 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "point_29_cuda",
+      "before": {
+        "utc": "2026-09-30T15:46:06.163655+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16490895017\nuser_usec 15231348200\nsystem_usec 1259546817\nnr_periods 99079\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "9.46 8.89 10.18 5/6191 7166",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.41 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:47:20.822354+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16613832701\nuser_usec 15347507650\nsystem_usec 1266325051\nnr_periods 99825\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.73 10.36 10.63 7/6191 7217",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2550 MHz, 73.25 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "point_43_cpu",
+      "before": {
+        "utc": "2026-09-30T15:47:21.182433+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 16613985864\nuser_usec 15347551029\nsystem_usec 1266434834\nnr_periods 99829\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.73 10.36 10.63 4/6191 7225",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 37, 2520 MHz, 67.49 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:52:17.329526+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 17215414500\nuser_usec 15937594059\nsystem_usec 1277820440\nnr_periods 102790\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.02 10.95 10.76 4/6199 7382",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 21.11 W"
+      },
+      "returncode": 0
+    },
+    {
+      "mode": "memory",
+      "round": 0,
+      "config": "point_29_cpu",
+      "before": {
+        "utc": "2026-09-30T15:52:17.662836+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 17215566065\nuser_usec 15937639418\nsystem_usec 1277926647\nnr_periods 102793\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "12.02 10.95 10.76 3/6199 7390",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.76 W"
+      },
+      "after": {
+        "utc": "2026-09-30T15:57:15.664032+00:00",
+        "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+        "cpu_quota": "1600000 100000",
+        "memory_limit": "128849018880",
+        "cpu_stat": "usage_usec 17821203323\nuser_usec 16531554919\nsystem_usec 1289648403\nnr_periods 105774\nnr_throttled 1\nthrottled_usec 82162",
+        "loadavg": "11.64 11.70 11.18 4/6156 7549",
+        "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+        "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 20.45 W"
+      },
+      "returncode": 0
+    }
+  ],
+  "assets_before": {
+    "budget_adapter.py": "fd258cbdecc40fa6ce8799813c4673be5388d01b07e219f8ed566076d78368c4",
+    "core.py": "bdf7781475f9b92fafdd3691f221f26674b895ab8a06a8ce9e110b395d2bd1a6",
+    "evaluate_final.py": "ce74429dd0fd1e22507fc3893d5f8e67a4fcf0ed5df6baf92793d734f02afd5f",
+    "freeze_models.py": "7013797712e3ca9544bf39df67bc4ac1aa25da8b8d56bfd43a3213c6eb886383",
+    "hog_pipeline.py": "b1d93f47eb4642a66a029b8e8050a368ba962062cd283d34fe73b308bfe43fc4",
+    "package_return.py": "d6c110d348878a9cfb6ed8463423dda29ddabeaf1f4600c2b387c765fc5e5231",
+    "protocol.json": "95bce86ef34e617cb0a4c9aa4f73cdc1cea4411871e653bdb39858e8d7f53e34",
+    "README_正式比较说明.md": "9ac83d242c5221339c241fcb5bbe29fa99c53b97cc624257c1b7a14652f7c782",
+    "requirements.txt": "1b8e38ebb929e0d2808d602bbd99df831bd09fcd4de6e058de7cbed009a72fcc",
+    "run_remote.sh": "2cb7dd93e6655ab1fe817d6bcda7599e0692ed64da2d39c392975af8d71ac87a",
+    "summarize_final.py": "3a46186f201828577c659dd2ebe7b6768244583f7aea60638b6a625da2fa9510",
+    "test_contracts.py": "7c310019d38413bf3e2ea21688238388da2b9f557155d96229ed1659cc9c236b",
+    "train_point.py": "e56260536a3b4daa9d413f688de14d68a75c2b2eeeaa6c3c00f9bc1892a56a02",
+    "audit/asset_build.json": "1926db2be58298200ca631cb3a6bf4a08556880b81bd6c2fb0822209335d359b",
+    "audit/font_qc.json": "27d1bcc4177b50759db424b3012d539d46d15125733bde1d36917650fbc72e88",
+    "audit/font_selection_rule.json": "d6fc6f80ebaf3ee1fad3cd41ef45f002ef572d04a03a47d53275ace28b2bd20b",
+    "audit/glyph_qc_STHupo.png": "d6466ef039ace012bc4692ba14a07c37ceb44fc43da5f90b73745b09209d5324",
+    "audit/glyph_qc_STKaiti.png": "b1b3795fa2524f1d301a8e02e11a174a8ae3140fbd0acfa4b6f4e160a459595e",
+    "audit/glyph_qc_STXingkai.png": "88b1dda9efff0393c764879dd108585d6dbe23f48d55d01d85196c65b55e49f8",
+    "audit/glyph_qc_STXinwei.png": "403fc392ad2a90bac263953cf0778fb9788f9923134fa6a8f003dccfa2bf0e47",
+    "audit/historical_font_inventory.json": "5c664baecca2ee3ee585009f80b54dda0c8cff2130ed2cea7e29beb8fc857bf1",
+    "audit/history_scan.json": "3b35c8a655e8e6ce7208da597ec5f7db50ae5c1e3b7cade5658185613f9f530c",
+    "audit/multi_training_group_counts.npy": "d3e0eb4437239ec7922357b98264f391040874229d022cde6754496aeb4398ba",
+    "audit/render_parity.json": "20c589bb5b0d5c437d478ab04db9bb556c43acf71051a96251fefefae1ba896d",
+    "src/classifier.py": "72ff957ec90e55da914e7577c01fbda20dcea3ec2c80bcee8ba11f92d8b2301f",
+    "src/config.py": "42763690d8cddf5b94b175e94eac7e0a9940f2378105df2ad56834362ddc83c2",
+    "src/contracts.py": "52d12850ae62177be51f33bc9f78089cea812b6fef778c2d0094126dd2e185a3",
+    "src/coverage.py": "026b1c22c5d8a9b8bb26b05418c5199e29f2a34540a8348ae32d085056f79bf7",
+    "src/deterministic_io.py": "29857c548e5e182f462fb4bcc9c6ae55e51f9c4ea3ed11a120b015807876013f",
+    "src/eb_drive.py": "25e7a4be78ffcd3b23b3b18eaad93c29f71e61db439880f9920cb078fbaeffd0",
+    "src/eb_representation.py": "d674530c688de976cdbe05ed8cddb5f5fdf48a228f4a44be3fff3bcd79ef9131",
+    "src/features.py": "9fa4c66d419e2e7dcec5d2840fc09ca56b69ca0bc4b7ec1585b9eaba650270a1",
+    "src/formal_benchmark.py": "1e086a93216a6da273770b9e858c663be8dee6cbefb3ea519876f0a67f03f547",
+    "src/grid.py": "b3ebe8f0c5676186c93540a3083e90ae75306761ffc0cea40c83d18d8e45fdd7",
+    "src/locked_test_guard.py": "a96da8373a181d2ff18a431124708bb366eeb3d97b231c5f67c279192f52b608",
+    "src/mapping.py": "c003c6d049e117d5e9c3a50ff571a3d6364ef06eda0b61d2959a5199db69b09a",
+    "src/normalization.py": "2550973330180b45174da1d9b96baeb903402fa33d23f8eec1be693244595794",
+    "src/protocol.py": "8043292077c6cda110ec8e30806f8c7022f8c486597c9d0766e9ab9e34598140",
+    "src/registry.py": "afeb8b18712575cf41aaaf49fd210c99c5b0472590400ad4e18a4e243ba61b4e",
+    "src/rendering.py": "cd27768a28e4e76fc5e00dc870a705c1a8653b404efe9fa918231c7a5f819b57",
+    "src/spv_forward.py": "7dd1acd1a1889817a4eaf6267e5986eec6168a99d2af6aef7916d4e6e29718bb",
+    "src/stage10a_preflight.py": "7548d3f9708c2bd042d7bf803966ce70556aac02468e863ac766958122889d4e",
+    "src/stage10b_runner.py": "2c93748f3e5448f7be4fe2393411c886736eb48d7cd2e76727e8b86fd250a58b",
+    "src/stage10b_session.py": "eebf1500872e5e03ee83080090aebb843e42a1a543c51883c6ee0a54775b35fe",
+    "src/stage9_development.py": "0c7d2ec3a420c40430a0e966fe0657f004219386e1553951cbccc2eac0903fbd",
+    "src/topology.py": "dd081ac7f3fe2dcd3aa3d0909f96cc52d9d80f921fd87166f9e1678e2d5ea5d1",
+    "vendor/Point-SPV-LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "vendor/point_models.py": "7c43fe08095f706c030534724fc78725f3662198fe989a2c57687338b322cc0c",
+    "vendor/provenance.json": "86b66b69fc14cec76c9c1ccab00915609a69334fbb7d8bdba1b748ad57c177f0",
+    "vendor/resnet_arch.py": "b9dfa02e32ed3b86559e3acc71019c450a167c79d16a15d237db08c71e0606d9",
+    "vendor/torchvision-LICENSE": "c06363f9d33627dc5173b13522444cc85fbb4739f63e16d4587d5c0a165b5b1e",
+    "data/test/geometry_26092501.npz": "578d562573ad1b2aa3b7c7463742b2f0b5cf0ec2499479ebd887e92062b3b5bd",
+    "data/test/geometry_26092502.npz": "b276bf0a99baea44d9dfe2ccd113c4c829c14519ac9f3ecb4b893fdaf8f14f61",
+    "data/test/geometry_26092503.npz": "4ed6eb614efca0f00b96adea8cb9830994c09b3c91146f5f0b2ea81fbba0d43e",
+    "data/test/geometry_26092504.npz": "72ba88f313defe6b1d6a74eb4bf454db1f7de527e25cb96e38faaef67e70b19e",
+    "data/test/geometry_26092505.npz": "00a46c95bd401428b2630019ccd8e378aa01621fc89c852ba657bb27c152a99f",
+    "data/test/glyphs.npy": "c9919ad6fafb24bb5f866c7ce78af4d1bf12e539d041d3df7ff8e1a946f9caea",
+    "data/test/kernels.npy": "f585ea24e4f696116201c27c53f7f2572c1ba6105dfa3b3d1e430aa323a70641",
+    "data/test/metadata.npz": "08daf3237b9573cbb04b96806d644866d4335a4f8ae9f31a6cb8a5cf94018f94",
+    "data/test/views.npz": "9fbc70b56c485988b887b85451980c4a5d39cfdabb16179a88a9462dd503e88b",
+    "data/train/geometry_0.npz": "41edcecbba2c7d876a464384404f3cdd1a11b001fa9aeadd7161fdcdc2309d0e",
+    "data/train/geometry_2026.npz": "d167c3e10065ed3c562500b6fbd2bcb893f1c56ff17cc82706b4a498a34e1b57",
+    "data/train/geometry_2027.npz": "ef092b25d0bc78152735f3f0d36d856488ea777d35b378ab891459e4ee2284fa",
+    "data/train/geometry_2028.npz": "66be862ce81fb61eb9ab26081e0f9ba9f4d015cdf4943f6d529347e4427a7981",
+    "data/train/geometry_2029.npz": "39ed4fdd67836a8dd67673d196a88c1f716780b7d4202ec6ea5df6e6e1f93afa",
+    "data/train/glyphs.npy": "009d79ed60e5e0cd8471ff50852059c1fa3104554a57292ec40fe530051ed39e",
+    "data/train/kernels.npy": "3e697753cdbae0f90c738e8478db5d28b1f72b661775a0ed7cdfc475bf5312b9",
+    "data/train/metadata.npz": "911582931170fcd9e1cb4ce128e446b167ebdf71e3f1ef528f35b6b471382d71",
+    "data/train/patch_reference.npz": "77875163c91e4c4f83da15d492312223dd223a16babfead9ee2f9744286d231c",
+    "data/train/schedule.npz": "c3745564730cc2db5917d2ffafe168dfe4672507d6f486b261435069dd52b274",
+    "data/train/views.npz": "9870855ee6748c59bf13f1d85daf371ddb9f1d7edcbab8ea302cdb2d69776e44",
+    "src/encoders/base.py": "cdad99ee7014e98c862a0251ad22a7355c475b4575c1a5b8c3f6c52c5cd9c2b5",
+    "src/encoders/eb_sse.py": "001c6a351e5edc6d0103eaaaa1ce6ce447a2db00f4652895b50faa64358f13a5",
+    "src/encoders/eb_topk.py": "b73d19d3c3932af6741835dd999f982886f9c8cfea3fe1c2af37fc031bfd8c81",
+    "src/encoders/edge_topk.py": "00b06a0adc7120e46cc92c6b2ddb3e9dea8a9040f81bdde04395f7943edc5e17",
+    "src/encoders/raw_topk.py": "58dc59acf173417977c5e575be605bc1d8fb776629aad102d7ddf23988efd9f3",
+    "src/encoders/skeleton_topk.py": "678002ad38986a4d7c69c9294b1830e4d118570bb4dab91db04b85cd59418b59",
+    "src/encoders/__init__.py": "ae64380bc2ef2dbfd07f29a46445f6635ffb25ceb2e1d95393b9d4bf50b2880b",
+    "src/v2/audit.py": "ee7b51e35a97ed769c8de5f7d6185950ed97b9ca421f8bca938c951d6a65540d",
+    "src/v2/calibrated_skeleton_coverage.py": "e189035f8ebf20d31ade67a15c1c194bff6c56ff5a572d378933bb1155097edf",
+    "src/v2/calibrated_skeleton_topk.py": "5484ff8685d983554f3a45e09d63e6ba4af5248f7555b40789d6da7faa13f211",
+    "src/v2/experiment.py": "c7984e353756e02b56db8280d711e0210bfb17d0bfc338bc4c2279e9292323a0",
+    "src/v2/mapped_coverage.py": "799df5501c848244f53d41b754d7cd2bacf38ce6689eff2d4eab54df77096da9",
+    "src/v2/mapped_projector.py": "77a17c5e337cfc333371c27c08bb6933911be6173aee20ae5064ca1ccd67b647",
+    "src/v2/mma_assets.py": "257ee083b81ed719ae454a455254a7899c04b3ce2b6efd626adbaff9ea7fcec2",
+    "src/v2/mma_confirmation.py": "3b4193eac66bf7b85965fb4fb85a841c985982fc2e7ff12ae7443ac3996465cb",
+    "src/v2/mma_development.py": "bb66dd653b7c6152e15e4dfa66e238aae413d776d58681f9e5adb2be47bc82f3",
+    "src/v2/multimapping_prototypes.py": "65af235f1935e44018bfeb6006c1a67fb62072642643fbe7647d8da5cf1b7df4",
+    "src/v2/__init__.py": "3b8983cc57cb81cc2b508a66ffee0741b47e3493db6db51a4df75cfbd8a85c78",
+    "runs/ideal_seed17/final_weights.pt": "084c73af6fe34bdf910046e41ecfa0f47066d43e87a93bc2576a28ea300046b7",
+    "runs/ideal_seed29/final_weights.pt": "83abdfcf1be3cd62e4d03b0e703392f92b98274f8bef12897ca97f045247382c",
+    "runs/ideal_seed43/final_weights.pt": "201253675e9023dbd583410f54d37456e4dc5e4fb2df1aee5647b5d7e0641c1f",
+    "runs/multi_seed17/final_weights.pt": "e4abb3a0abcea1ea898c0ab83a1f9c740cbf04bd3b956ab9691eba1fe6343913",
+    "runs/multi_seed29/final_weights.pt": "8c2a9fd6aa0159efd95d8d86882bcfda12ef4a340b60b701c64480e27b1d3fe8",
+    "runs/multi_seed43/final_weights.pt": "c06fa64a2547c8222e479ba24bc789ffe88c1d82f83264c890fdf5c464765921",
+    "hog_models/skeleton.npz": "fa3cc7c78d0041837bee97ba6f39efae275c678a4549f18bb15cc2389452ee18",
+    "hog_models/canny.npz": "4137a683e659adbdae2d96df43f53e56e3b754edfeee80426eb61589a44d38ce",
+    "manifest.json": "41b8217127c7ff00e8969cce866f49ef7ed3538bed7d2dc22bf3a9441c1baa1e",
+    "models_frozen.json": "af96e6ea0fd9432936d1765f87c2ac865bf6e434c317c1a2aa9a64d247a07722",
+    "runs/multi_seed17/execution.json": "7593e61147ea39093bf27025c611d67dcb39eb8533b05228e236fe4ae371bfbb",
+    "runs/multi_seed17/completion.json": "5de5ed96f2cb384fd42ef5088b51f6e9b706b77987f213e66f8fb66bb1514f28",
+    "runs/multi_seed29/execution.json": "660f9c212d9c120de7798609e94117f9f640e29cd95ecf152ed7c7caf50d4429",
+    "runs/multi_seed29/completion.json": "7000e1207e8b9256cb745054892e305fc9c6d73e271fb81e5eb8057bd7e37c9a",
+    "runs/multi_seed43/execution.json": "35dbf7a54b4bbe46ca8091450fd2e3af699b49a8c3cbfc977ddc8ac424b31142",
+    "runs/multi_seed43/completion.json": "63a35e8eaad073fc8acb3593ea4e52f1809f2ebfde57eadb7d51d490256162bc",
+    "final_results/multi_seed17.npz": "7833fb2976b37b52e10b1e38757cd339c6d86eb5bd1b15bd6dc01f3985711225",
+    "final_results/multi_seed29.npz": "1bb6981a63c97b1d772cfabba96238be99f8ac51b21626aef804b7c0a3d48e98",
+    "final_results/multi_seed43.npz": "dd34e72e938ce3114309832755875edd217563b4618efe7e7d48908fbb1c47bf",
+    "final_results/skeleton_ideal.npz": "288bb0357fc9bd1b78aa1509f5eacc2ffa9309536535f3274148f43d02531c81",
+    "final_results/skeleton_mma.npz": "f72b353b15bf411914653dee73e7530c764d49d9b934b63d607eb781dd2fd009",
+    "final_results/completion.json": "cf780b962e656dbdfdded6a5dbc6a7bd6ae3cbe03f358311a0a236ff8413c270"
+  },
+  "exports_before": {
+    "point_multi_seed17.pt": "6eb579bb5186808d1b6b64b68de70810e41165bdf1512d2f4e5f305d4246095a",
+    "point_multi_seed29.pt": "bce4d0982f741f8303c7c116df3faf0ac1343a6b47560986a777a149695c6996",
+    "point_multi_seed43.pt": "ce7a25050fcbec746f750218c3e84dad6978d6ae7e12061611e5f09531edeb78",
+    "skeleton_ideal.npy": "709fc1bdbe8ddc9e4cbb498696179ff597f4a98750e14517a4fce46d478bacac",
+    "skeleton_mma.npy": "4eac405c2065ddde043afe68d2024f89a3d898e0f1e8922ffaf084bef40a9b8b"
+  },
+  "python": "3.10.8",
+  "versions": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit-image": "0.25.0",
+    "threadpoolctl": "3.5.0",
+    "PyYAML": "6.0.2",
+    "scikit-learn": "1.5.2",
+    "torch": "2.6.0+cu124",
+    "torchvision": "0.21.0+cu124"
+  },
+  "initial_environment": {
+    "utc": "2026-09-30T14:13:48.439388+00:00",
+    "gpu": "NVIDIA GeForce RTX 4090, GPU-1f52c128-d62c-9d5d-f8fb-e0191ba6b8f7, 595.71.05, 24564 MiB",
+    "cpu_quota": "1600000 100000",
+    "memory_limit": "128849018880",
+    "cpu_stat": "usage_usec 5667109846\nuser_usec 5366692040\nsystem_usec 300417805\nnr_periods 43701\nnr_throttled 1\nthrottled_usec 82162",
+    "loadavg": "8.82 10.20 10.04 6/5230 3690",
+    "boot_id": "30bc25cb-70d3-40f8-bdef-7ffc7d2d584d",
+    "gpu_telemetry": "0 %, 1 MiB, 31, 210 MHz, 19.90 W"
+  },
+  "platform": "Linux-5.15.0-78-generic-x86_64-with-glibc2.35",
+  "lscpu": "Architecture:                    x86_64\nCPU op-mode(s):                  32-bit, 64-bit\nAddress sizes:                   52 bits physical, 57 bits virtual\nByte Order:                      Little Endian\nCPU(s):                          128\nOn-line CPU(s) list:             0-127\nVendor ID:                       GenuineIntel\nModel name:                      Intel(R) Xeon(R) Platinum 8352V CPU @ 2.10GHz\nCPU family:                      6\nModel:                           106\nThread(s) per core:              2\nCore(s) per socket:              32\nSocket(s):                       2\nStepping:                        6\nCPU max MHz:                     3500.0000\nCPU min MHz:                     800.0000\nBogoMIPS:                        4000.00\nFlags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                  VT-x\nL1d cache:                       3 MiB (64 instances)\nL1i cache:                       2 MiB (64 instances)\nL2 cache:                        80 MiB (64 instances)\nL3 cache:                        108 MiB (2 instances)\nNUMA node(s):                    2\nNUMA node0 CPU(s):               0-31,64-95\nNUMA node1 CPU(s):               32-63,96-127\nVulnerability Itlb multihit:     Not affected\nVulnerability L1tf:              Not affected\nVulnerability Mds:               Not affected\nVulnerability Meltdown:          Not affected\nVulnerability Mmio stale data:   Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Retbleed:          Not affected\nVulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl and seccomp\nVulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:        Mitigation; Enhanced IBRS, IBPB conditional, RSB filling, PBRSB-eIBRS SW sequence\nVulnerability Srbds:             Not affected\nVulnerability Tsx async abort:   Not affected\n",
+  "selected_cpus": [
+    0,
+    1
+  ],
+  "allowed_cpu_topology": [
+    {
+      "cpu": 0,
+      "socket": 0,
+      "core": 0,
+      "numa": 0
+    },
+    {
+      "cpu": 1,
+      "socket": 0,
+      "core": 2,
+      "numa": 0
+    },
+    {
+      "cpu": 2,
+      "socket": 0,
+      "core": 3,
+      "numa": 0
+    },
+    {
+      "cpu": 3,
+      "socket": 0,
+      "core": 4,
+      "numa": 0
+    },
+    {
+      "cpu": 4,
+      "socket": 0,
+      "core": 5,
+      "numa": 0
+    },
+    {
+      "cpu": 5,
+      "socket": 0,
+      "core": 6,
+      "numa": 0
+    },
+    {
+      "cpu": 6,
+      "socket": 0,
+      "core": 7,
+      "numa": 0
+    },
+    {
+      "cpu": 7,
+      "socket": 0,
+      "core": 8,
+      "numa": 0
+    },
+    {
+      "cpu": 8,
+      "socket": 0,
+      "core": 9,
+      "numa": 0
+    },
+    {
+      "cpu": 9,
+      "socket": 0,
+      "core": 10,
+      "numa": 0
+    },
+    {
+      "cpu": 10,
+      "socket": 0,
+      "core": 11,
+      "numa": 0
+    },
+    {
+      "cpu": 11,
+      "socket": 0,
+      "core": 12,
+      "numa": 0
+    },
+    {
+      "cpu": 12,
+      "socket": 0,
+      "core": 13,
+      "numa": 0
+    },
+    {
+      "cpu": 13,
+      "socket": 0,
+      "core": 15,
+      "numa": 0
+    },
+    {
+      "cpu": 14,
+      "socket": 0,
+      "core": 16,
+      "numa": 0
+    },
+    {
+      "cpu": 15,
+      "socket": 0,
+      "core": 17,
+      "numa": 0
+    },
+    {
+      "cpu": 16,
+      "socket": 0,
+      "core": 18,
+      "numa": 0
+    },
+    {
+      "cpu": 17,
+      "socket": 0,
+      "core": 19,
+      "numa": 0
+    },
+    {
+      "cpu": 18,
+      "socket": 0,
+      "core": 21,
+      "numa": 0
+    },
+    {
+      "cpu": 19,
+      "socket": 0,
+      "core": 22,
+      "numa": 0
+    },
+    {
+      "cpu": 20,
+      "socket": 0,
+      "core": 23,
+      "numa": 0
+    },
+    {
+      "cpu": 21,
+      "socket": 0,
+      "core": 24,
+      "numa": 0
+    },
+    {
+      "cpu": 22,
+      "socket": 0,
+      "core": 25,
+      "numa": 0
+    },
+    {
+      "cpu": 23,
+      "socket": 0,
+      "core": 26,
+      "numa": 0
+    },
+    {
+      "cpu": 24,
+      "socket": 0,
+      "core": 27,
+      "numa": 0
+    },
+    {
+      "cpu": 25,
+      "socket": 0,
+      "core": 28,
+      "numa": 0
+    },
+    {
+      "cpu": 26,
+      "socket": 0,
+      "core": 29,
+      "numa": 0
+    },
+    {
+      "cpu": 27,
+      "socket": 0,
+      "core": 30,
+      "numa": 0
+    },
+    {
+      "cpu": 28,
+      "socket": 0,
+      "core": 31,
+      "numa": 0
+    },
+    {
+      "cpu": 29,
+      "socket": 0,
+      "core": 33,
+      "numa": 0
+    },
+    {
+      "cpu": 30,
+      "socket": 0,
+      "core": 34,
+      "numa": 0
+    },
+    {
+      "cpu": 31,
+      "socket": 0,
+      "core": 35,
+      "numa": 0
+    },
+    {
+      "cpu": 32,
+      "socket": 1,
+      "core": 0,
+      "numa": 1
+    },
+    {
+      "cpu": 33,
+      "socket": 1,
+      "core": 1,
+      "numa": 1
+    },
+    {
+      "cpu": 34,
+      "socket": 1,
+      "core": 2,
+      "numa": 1
+    },
+    {
+      "cpu": 35,
+      "socket": 1,
+      "core": 3,
+      "numa": 1
+    },
+    {
+      "cpu": 36,
+      "socket": 1,
+      "core": 4,
+      "numa": 1
+    },
+    {
+      "cpu": 37,
+      "socket": 1,
+      "core": 5,
+      "numa": 1
+    },
+    {
+      "cpu": 38,
+      "socket": 1,
+      "core": 6,
+      "numa": 1
+    },
+    {
+      "cpu": 39,
+      "socket": 1,
+      "core": 7,
+      "numa": 1
+    },
+    {
+      "cpu": 40,
+      "socket": 1,
+      "core": 8,
+      "numa": 1
+    },
+    {
+      "cpu": 41,
+      "socket": 1,
+      "core": 9,
+      "numa": 1
+    },
+    {
+      "cpu": 42,
+      "socket": 1,
+      "core": 10,
+      "numa": 1
+    },
+    {
+      "cpu": 43,
+      "socket": 1,
+      "core": 11,
+      "numa": 1
+    },
+    {
+      "cpu": 44,
+      "socket": 1,
+      "core": 12,
+      "numa": 1
+    },
+    {
+      "cpu": 45,
+      "socket": 1,
+      "core": 13,
+      "numa": 1
+    },
+    {
+      "cpu": 46,
+      "socket": 1,
+      "core": 14,
+      "numa": 1
+    },
+    {
+      "cpu": 47,
+      "socket": 1,
+      "core": 17,
+      "numa": 1
+    },
+    {
+      "cpu": 48,
+      "socket": 1,
+      "core": 18,
+      "numa": 1
+    },
+    {
+      "cpu": 49,
+      "socket": 1,
+      "core": 19,
+      "numa": 1
+    },
+    {
+      "cpu": 50,
+      "socket": 1,
+      "core": 20,
+      "numa": 1
+    },
+    {
+      "cpu": 51,
+      "socket": 1,
+      "core": 21,
+      "numa": 1
+    },
+    {
+      "cpu": 52,
+      "socket": 1,
+      "core": 23,
+      "numa": 1
+    },
+    {
+      "cpu": 53,
+      "socket": 1,
+      "core": 25,
+      "numa": 1
+    },
+    {
+      "cpu": 54,
+      "socket": 1,
+      "core": 26,
+      "numa": 1
+    },
+    {
+      "cpu": 55,
+      "socket": 1,
+      "core": 27,
+      "numa": 1
+    },
+    {
+      "cpu": 56,
+      "socket": 1,
+      "core": 28,
+      "numa": 1
+    },
+    {
+      "cpu": 57,
+      "socket": 1,
+      "core": 29,
+      "numa": 1
+    },
+    {
+      "cpu": 58,
+      "socket": 1,
+      "core": 30,
+      "numa": 1
+    },
+    {
+      "cpu": 59,
+      "socket": 1,
+      "core": 31,
+      "numa": 1
+    },
+    {
+      "cpu": 60,
+      "socket": 1,
+      "core": 32,
+      "numa": 1
+    },
+    {
+      "cpu": 61,
+      "socket": 1,
+      "core": 33,
+      "numa": 1
+    },
+    {
+      "cpu": 62,
+      "socket": 1,
+      "core": 34,
+      "numa": 1
+    },
+    {
+      "cpu": 63,
+      "socket": 1,
+      "core": 35,
+      "numa": 1
+    },
+    {
+      "cpu": 64,
+      "socket": 0,
+      "core": 0,
+      "numa": 0
+    },
+    {
+      "cpu": 65,
+      "socket": 0,
+      "core": 2,
+      "numa": 0
+    },
+    {
+      "cpu": 66,
+      "socket": 0,
+      "core": 3,
+      "numa": 0
+    },
+    {
+      "cpu": 67,
+      "socket": 0,
+      "core": 4,
+      "numa": 0
+    },
+    {
+      "cpu": 68,
+      "socket": 0,
+      "core": 5,
+      "numa": 0
+    },
+    {
+      "cpu": 69,
+      "socket": 0,
+      "core": 6,
+      "numa": 0
+    },
+    {
+      "cpu": 70,
+      "socket": 0,
+      "core": 7,
+      "numa": 0
+    },
+    {
+      "cpu": 71,
+      "socket": 0,
+      "core": 8,
+      "numa": 0
+    },
+    {
+      "cpu": 72,
+      "socket": 0,
+      "core": 9,
+      "numa": 0
+    },
+    {
+      "cpu": 73,
+      "socket": 0,
+      "core": 10,
+      "numa": 0
+    },
+    {
+      "cpu": 74,
+      "socket": 0,
+      "core": 11,
+      "numa": 0
+    },
+    {
+      "cpu": 75,
+      "socket": 0,
+      "core": 12,
+      "numa": 0
+    },
+    {
+      "cpu": 76,
+      "socket": 0,
+      "core": 13,
+      "numa": 0
+    },
+    {
+      "cpu": 77,
+      "socket": 0,
+      "core": 15,
+      "numa": 0
+    },
+    {
+      "cpu": 78,
+      "socket": 0,
+      "core": 16,
+      "numa": 0
+    },
+    {
+      "cpu": 79,
+      "socket": 0,
+      "core": 17,
+      "numa": 0
+    },
+    {
+      "cpu": 80,
+      "socket": 0,
+      "core": 18,
+      "numa": 0
+    },
+    {
+      "cpu": 81,
+      "socket": 0,
+      "core": 19,
+      "numa": 0
+    },
+    {
+      "cpu": 82,
+      "socket": 0,
+      "core": 21,
+      "numa": 0
+    },
+    {
+      "cpu": 83,
+      "socket": 0,
+      "core": 22,
+      "numa": 0
+    },
+    {
+      "cpu": 84,
+      "socket": 0,
+      "core": 23,
+      "numa": 0
+    },
+    {
+      "cpu": 85,
+      "socket": 0,
+      "core": 24,
+      "numa": 0
+    },
+    {
+      "cpu": 86,
+      "socket": 0,
+      "core": 25,
+      "numa": 0
+    },
+    {
+      "cpu": 87,
+      "socket": 0,
+      "core": 26,
+      "numa": 0
+    },
+    {
+      "cpu": 88,
+      "socket": 0,
+      "core": 27,
+      "numa": 0
+    },
+    {
+      "cpu": 89,
+      "socket": 0,
+      "core": 28,
+      "numa": 0
+    },
+    {
+      "cpu": 90,
+      "socket": 0,
+      "core": 29,
+      "numa": 0
+    },
+    {
+      "cpu": 91,
+      "socket": 0,
+      "core": 30,
+      "numa": 0
+    },
+    {
+      "cpu": 92,
+      "socket": 0,
+      "core": 31,
+      "numa": 0
+    },
+    {
+      "cpu": 93,
+      "socket": 0,
+      "core": 33,
+      "numa": 0
+    },
+    {
+      "cpu": 94,
+      "socket": 0,
+      "core": 34,
+      "numa": 0
+    },
+    {
+      "cpu": 95,
+      "socket": 0,
+      "core": 35,
+      "numa": 0
+    },
+    {
+      "cpu": 96,
+      "socket": 1,
+      "core": 0,
+      "numa": 1
+    },
+    {
+      "cpu": 97,
+      "socket": 1,
+      "core": 1,
+      "numa": 1
+    },
+    {
+      "cpu": 98,
+      "socket": 1,
+      "core": 2,
+      "numa": 1
+    },
+    {
+      "cpu": 99,
+      "socket": 1,
+      "core": 3,
+      "numa": 1
+    },
+    {
+      "cpu": 100,
+      "socket": 1,
+      "core": 4,
+      "numa": 1
+    },
+    {
+      "cpu": 101,
+      "socket": 1,
+      "core": 5,
+      "numa": 1
+    },
+    {
+      "cpu": 102,
+      "socket": 1,
+      "core": 6,
+      "numa": 1
+    },
+    {
+      "cpu": 103,
+      "socket": 1,
+      "core": 7,
+      "numa": 1
+    },
+    {
+      "cpu": 104,
+      "socket": 1,
+      "core": 8,
+      "numa": 1
+    },
+    {
+      "cpu": 105,
+      "socket": 1,
+      "core": 9,
+      "numa": 1
+    },
+    {
+      "cpu": 106,
+      "socket": 1,
+      "core": 10,
+      "numa": 1
+    },
+    {
+      "cpu": 107,
+      "socket": 1,
+      "core": 11,
+      "numa": 1
+    },
+    {
+      "cpu": 108,
+      "socket": 1,
+      "core": 12,
+      "numa": 1
+    },
+    {
+      "cpu": 109,
+      "socket": 1,
+      "core": 13,
+      "numa": 1
+    },
+    {
+      "cpu": 110,
+      "socket": 1,
+      "core": 14,
+      "numa": 1
+    },
+    {
+      "cpu": 111,
+      "socket": 1,
+      "core": 17,
+      "numa": 1
+    },
+    {
+      "cpu": 112,
+      "socket": 1,
+      "core": 18,
+      "numa": 1
+    },
+    {
+      "cpu": 113,
+      "socket": 1,
+      "core": 19,
+      "numa": 1
+    },
+    {
+      "cpu": 114,
+      "socket": 1,
+      "core": 20,
+      "numa": 1
+    },
+    {
+      "cpu": 115,
+      "socket": 1,
+      "core": 21,
+      "numa": 1
+    },
+    {
+      "cpu": 116,
+      "socket": 1,
+      "core": 23,
+      "numa": 1
+    },
+    {
+      "cpu": 117,
+      "socket": 1,
+      "core": 25,
+      "numa": 1
+    },
+    {
+      "cpu": 118,
+      "socket": 1,
+      "core": 26,
+      "numa": 1
+    },
+    {
+      "cpu": 119,
+      "socket": 1,
+      "core": 27,
+      "numa": 1
+    },
+    {
+      "cpu": 120,
+      "socket": 1,
+      "core": 28,
+      "numa": 1
+    },
+    {
+      "cpu": 121,
+      "socket": 1,
+      "core": 29,
+      "numa": 1
+    },
+    {
+      "cpu": 122,
+      "socket": 1,
+      "core": 30,
+      "numa": 1
+    },
+    {
+      "cpu": 123,
+      "socket": 1,
+      "core": 31,
+      "numa": 1
+    },
+    {
+      "cpu": 124,
+      "socket": 1,
+      "core": 32,
+      "numa": 1
+    },
+    {
+      "cpu": 125,
+      "socket": 1,
+      "core": 33,
+      "numa": 1
+    },
+    {
+      "cpu": 126,
+      "socket": 1,
+      "core": 34,
+      "numa": 1
+    },
+    {
+      "cpu": 127,
+      "socket": 1,
+      "core": 35,
+      "numa": 1
+    }
+  ],
+  "assets_after": {
+    "budget_adapter.py": "fd258cbdecc40fa6ce8799813c4673be5388d01b07e219f8ed566076d78368c4",
+    "core.py": "bdf7781475f9b92fafdd3691f221f26674b895ab8a06a8ce9e110b395d2bd1a6",
+    "evaluate_final.py": "ce74429dd0fd1e22507fc3893d5f8e67a4fcf0ed5df6baf92793d734f02afd5f",
+    "freeze_models.py": "7013797712e3ca9544bf39df67bc4ac1aa25da8b8d56bfd43a3213c6eb886383",
+    "hog_pipeline.py": "b1d93f47eb4642a66a029b8e8050a368ba962062cd283d34fe73b308bfe43fc4",
+    "package_return.py": "d6c110d348878a9cfb6ed8463423dda29ddabeaf1f4600c2b387c765fc5e5231",
+    "protocol.json": "95bce86ef34e617cb0a4c9aa4f73cdc1cea4411871e653bdb39858e8d7f53e34",
+    "README_正式比较说明.md": "9ac83d242c5221339c241fcb5bbe29fa99c53b97cc624257c1b7a14652f7c782",
+    "requirements.txt": "1b8e38ebb929e0d2808d602bbd99df831bd09fcd4de6e058de7cbed009a72fcc",
+    "run_remote.sh": "2cb7dd93e6655ab1fe817d6bcda7599e0692ed64da2d39c392975af8d71ac87a",
+    "summarize_final.py": "3a46186f201828577c659dd2ebe7b6768244583f7aea60638b6a625da2fa9510",
+    "test_contracts.py": "7c310019d38413bf3e2ea21688238388da2b9f557155d96229ed1659cc9c236b",
+    "train_point.py": "e56260536a3b4daa9d413f688de14d68a75c2b2eeeaa6c3c00f9bc1892a56a02",
+    "audit/asset_build.json": "1926db2be58298200ca631cb3a6bf4a08556880b81bd6c2fb0822209335d359b",
+    "audit/font_qc.json": "27d1bcc4177b50759db424b3012d539d46d15125733bde1d36917650fbc72e88",
+    "audit/font_selection_rule.json": "d6fc6f80ebaf3ee1fad3cd41ef45f002ef572d04a03a47d53275ace28b2bd20b",
+    "audit/glyph_qc_STHupo.png": "d6466ef039ace012bc4692ba14a07c37ceb44fc43da5f90b73745b09209d5324",
+    "audit/glyph_qc_STKaiti.png": "b1b3795fa2524f1d301a8e02e11a174a8ae3140fbd0acfa4b6f4e160a459595e",
+    "audit/glyph_qc_STXingkai.png": "88b1dda9efff0393c764879dd108585d6dbe23f48d55d01d85196c65b55e49f8",
+    "audit/glyph_qc_STXinwei.png": "403fc392ad2a90bac263953cf0778fb9788f9923134fa6a8f003dccfa2bf0e47",
+    "audit/historical_font_inventory.json": "5c664baecca2ee3ee585009f80b54dda0c8cff2130ed2cea7e29beb8fc857bf1",
+    "audit/history_scan.json": "3b35c8a655e8e6ce7208da597ec5f7db50ae5c1e3b7cade5658185613f9f530c",
+    "audit/multi_training_group_counts.npy": "d3e0eb4437239ec7922357b98264f391040874229d022cde6754496aeb4398ba",
+    "audit/render_parity.json": "20c589bb5b0d5c437d478ab04db9bb556c43acf71051a96251fefefae1ba896d",
+    "src/classifier.py": "72ff957ec90e55da914e7577c01fbda20dcea3ec2c80bcee8ba11f92d8b2301f",
+    "src/config.py": "42763690d8cddf5b94b175e94eac7e0a9940f2378105df2ad56834362ddc83c2",
+    "src/contracts.py": "52d12850ae62177be51f33bc9f78089cea812b6fef778c2d0094126dd2e185a3",
+    "src/coverage.py": "026b1c22c5d8a9b8bb26b05418c5199e29f2a34540a8348ae32d085056f79bf7",
+    "src/deterministic_io.py": "29857c548e5e182f462fb4bcc9c6ae55e51f9c4ea3ed11a120b015807876013f",
+    "src/eb_drive.py": "25e7a4be78ffcd3b23b3b18eaad93c29f71e61db439880f9920cb078fbaeffd0",
+    "src/eb_representation.py": "d674530c688de976cdbe05ed8cddb5f5fdf48a228f4a44be3fff3bcd79ef9131",
+    "src/features.py": "9fa4c66d419e2e7dcec5d2840fc09ca56b69ca0bc4b7ec1585b9eaba650270a1",
+    "src/formal_benchmark.py": "1e086a93216a6da273770b9e858c663be8dee6cbefb3ea519876f0a67f03f547",
+    "src/grid.py": "b3ebe8f0c5676186c93540a3083e90ae75306761ffc0cea40c83d18d8e45fdd7",
+    "src/locked_test_guard.py": "a96da8373a181d2ff18a431124708bb366eeb3d97b231c5f67c279192f52b608",
+    "src/mapping.py": "c003c6d049e117d5e9c3a50ff571a3d6364ef06eda0b61d2959a5199db69b09a",
+    "src/normalization.py": "2550973330180b45174da1d9b96baeb903402fa33d23f8eec1be693244595794",
+    "src/protocol.py": "8043292077c6cda110ec8e30806f8c7022f8c486597c9d0766e9ab9e34598140",
+    "src/registry.py": "afeb8b18712575cf41aaaf49fd210c99c5b0472590400ad4e18a4e243ba61b4e",
+    "src/rendering.py": "cd27768a28e4e76fc5e00dc870a705c1a8653b404efe9fa918231c7a5f819b57",
+    "src/spv_forward.py": "7dd1acd1a1889817a4eaf6267e5986eec6168a99d2af6aef7916d4e6e29718bb",
+    "src/stage10a_preflight.py": "7548d3f9708c2bd042d7bf803966ce70556aac02468e863ac766958122889d4e",
+    "src/stage10b_runner.py": "2c93748f3e5448f7be4fe2393411c886736eb48d7cd2e76727e8b86fd250a58b",
+    "src/stage10b_session.py": "eebf1500872e5e03ee83080090aebb843e42a1a543c51883c6ee0a54775b35fe",
+    "src/stage9_development.py": "0c7d2ec3a420c40430a0e966fe0657f004219386e1553951cbccc2eac0903fbd",
+    "src/topology.py": "dd081ac7f3fe2dcd3aa3d0909f96cc52d9d80f921fd87166f9e1678e2d5ea5d1",
+    "vendor/Point-SPV-LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "vendor/point_models.py": "7c43fe08095f706c030534724fc78725f3662198fe989a2c57687338b322cc0c",
+    "vendor/provenance.json": "86b66b69fc14cec76c9c1ccab00915609a69334fbb7d8bdba1b748ad57c177f0",
+    "vendor/resnet_arch.py": "b9dfa02e32ed3b86559e3acc71019c450a167c79d16a15d237db08c71e0606d9",
+    "vendor/torchvision-LICENSE": "c06363f9d33627dc5173b13522444cc85fbb4739f63e16d4587d5c0a165b5b1e",
+    "data/test/geometry_26092501.npz": "578d562573ad1b2aa3b7c7463742b2f0b5cf0ec2499479ebd887e92062b3b5bd",
+    "data/test/geometry_26092502.npz": "b276bf0a99baea44d9dfe2ccd113c4c829c14519ac9f3ecb4b893fdaf8f14f61",
+    "data/test/geometry_26092503.npz": "4ed6eb614efca0f00b96adea8cb9830994c09b3c91146f5f0b2ea81fbba0d43e",
+    "data/test/geometry_26092504.npz": "72ba88f313defe6b1d6a74eb4bf454db1f7de527e25cb96e38faaef67e70b19e",
+    "data/test/geometry_26092505.npz": "00a46c95bd401428b2630019ccd8e378aa01621fc89c852ba657bb27c152a99f",
+    "data/test/glyphs.npy": "c9919ad6fafb24bb5f866c7ce78af4d1bf12e539d041d3df7ff8e1a946f9caea",
+    "data/test/kernels.npy": "f585ea24e4f696116201c27c53f7f2572c1ba6105dfa3b3d1e430aa323a70641",
+    "data/test/metadata.npz": "08daf3237b9573cbb04b96806d644866d4335a4f8ae9f31a6cb8a5cf94018f94",
+    "data/test/views.npz": "9fbc70b56c485988b887b85451980c4a5d39cfdabb16179a88a9462dd503e88b",
+    "data/train/geometry_0.npz": "41edcecbba2c7d876a464384404f3cdd1a11b001fa9aeadd7161fdcdc2309d0e",
+    "data/train/geometry_2026.npz": "d167c3e10065ed3c562500b6fbd2bcb893f1c56ff17cc82706b4a498a34e1b57",
+    "data/train/geometry_2027.npz": "ef092b25d0bc78152735f3f0d36d856488ea777d35b378ab891459e4ee2284fa",
+    "data/train/geometry_2028.npz": "66be862ce81fb61eb9ab26081e0f9ba9f4d015cdf4943f6d529347e4427a7981",
+    "data/train/geometry_2029.npz": "39ed4fdd67836a8dd67673d196a88c1f716780b7d4202ec6ea5df6e6e1f93afa",
+    "data/train/glyphs.npy": "009d79ed60e5e0cd8471ff50852059c1fa3104554a57292ec40fe530051ed39e",
+    "data/train/kernels.npy": "3e697753cdbae0f90c738e8478db5d28b1f72b661775a0ed7cdfc475bf5312b9",
+    "data/train/metadata.npz": "911582931170fcd9e1cb4ce128e446b167ebdf71e3f1ef528f35b6b471382d71",
+    "data/train/patch_reference.npz": "77875163c91e4c4f83da15d492312223dd223a16babfead9ee2f9744286d231c",
+    "data/train/schedule.npz": "c3745564730cc2db5917d2ffafe168dfe4672507d6f486b261435069dd52b274",
+    "data/train/views.npz": "9870855ee6748c59bf13f1d85daf371ddb9f1d7edcbab8ea302cdb2d69776e44",
+    "src/encoders/base.py": "cdad99ee7014e98c862a0251ad22a7355c475b4575c1a5b8c3f6c52c5cd9c2b5",
+    "src/encoders/eb_sse.py": "001c6a351e5edc6d0103eaaaa1ce6ce447a2db00f4652895b50faa64358f13a5",
+    "src/encoders/eb_topk.py": "b73d19d3c3932af6741835dd999f982886f9c8cfea3fe1c2af37fc031bfd8c81",
+    "src/encoders/edge_topk.py": "00b06a0adc7120e46cc92c6b2ddb3e9dea8a9040f81bdde04395f7943edc5e17",
+    "src/encoders/raw_topk.py": "58dc59acf173417977c5e575be605bc1d8fb776629aad102d7ddf23988efd9f3",
+    "src/encoders/skeleton_topk.py": "678002ad38986a4d7c69c9294b1830e4d118570bb4dab91db04b85cd59418b59",
+    "src/encoders/__init__.py": "ae64380bc2ef2dbfd07f29a46445f6635ffb25ceb2e1d95393b9d4bf50b2880b",
+    "src/v2/audit.py": "ee7b51e35a97ed769c8de5f7d6185950ed97b9ca421f8bca938c951d6a65540d",
+    "src/v2/calibrated_skeleton_coverage.py": "e189035f8ebf20d31ade67a15c1c194bff6c56ff5a572d378933bb1155097edf",
+    "src/v2/calibrated_skeleton_topk.py": "5484ff8685d983554f3a45e09d63e6ba4af5248f7555b40789d6da7faa13f211",
+    "src/v2/experiment.py": "c7984e353756e02b56db8280d711e0210bfb17d0bfc338bc4c2279e9292323a0",
+    "src/v2/mapped_coverage.py": "799df5501c848244f53d41b754d7cd2bacf38ce6689eff2d4eab54df77096da9",
+    "src/v2/mapped_projector.py": "77a17c5e337cfc333371c27c08bb6933911be6173aee20ae5064ca1ccd67b647",
+    "src/v2/mma_assets.py": "257ee083b81ed719ae454a455254a7899c04b3ce2b6efd626adbaff9ea7fcec2",
+    "src/v2/mma_confirmation.py": "3b4193eac66bf7b85965fb4fb85a841c985982fc2e7ff12ae7443ac3996465cb",
+    "src/v2/mma_development.py": "bb66dd653b7c6152e15e4dfa66e238aae413d776d58681f9e5adb2be47bc82f3",
+    "src/v2/multimapping_prototypes.py": "65af235f1935e44018bfeb6006c1a67fb62072642643fbe7647d8da5cf1b7df4",
+    "src/v2/__init__.py": "3b8983cc57cb81cc2b508a66ffee0741b47e3493db6db51a4df75cfbd8a85c78",
+    "runs/ideal_seed17/final_weights.pt": "084c73af6fe34bdf910046e41ecfa0f47066d43e87a93bc2576a28ea300046b7",
+    "runs/ideal_seed29/final_weights.pt": "83abdfcf1be3cd62e4d03b0e703392f92b98274f8bef12897ca97f045247382c",
+    "runs/ideal_seed43/final_weights.pt": "201253675e9023dbd583410f54d37456e4dc5e4fb2df1aee5647b5d7e0641c1f",
+    "runs/multi_seed17/final_weights.pt": "e4abb3a0abcea1ea898c0ab83a1f9c740cbf04bd3b956ab9691eba1fe6343913",
+    "runs/multi_seed29/final_weights.pt": "8c2a9fd6aa0159efd95d8d86882bcfda12ef4a340b60b701c64480e27b1d3fe8",
+    "runs/multi_seed43/final_weights.pt": "c06fa64a2547c8222e479ba24bc789ffe88c1d82f83264c890fdf5c464765921",
+    "hog_models/skeleton.npz": "fa3cc7c78d0041837bee97ba6f39efae275c678a4549f18bb15cc2389452ee18",
+    "hog_models/canny.npz": "4137a683e659adbdae2d96df43f53e56e3b754edfeee80426eb61589a44d38ce",
+    "manifest.json": "41b8217127c7ff00e8969cce866f49ef7ed3538bed7d2dc22bf3a9441c1baa1e",
+    "models_frozen.json": "af96e6ea0fd9432936d1765f87c2ac865bf6e434c317c1a2aa9a64d247a07722",
+    "runs/multi_seed17/execution.json": "7593e61147ea39093bf27025c611d67dcb39eb8533b05228e236fe4ae371bfbb",
+    "runs/multi_seed17/completion.json": "5de5ed96f2cb384fd42ef5088b51f6e9b706b77987f213e66f8fb66bb1514f28",
+    "runs/multi_seed29/execution.json": "660f9c212d9c120de7798609e94117f9f640e29cd95ecf152ed7c7caf50d4429",
+    "runs/multi_seed29/completion.json": "7000e1207e8b9256cb745054892e305fc9c6d73e271fb81e5eb8057bd7e37c9a",
+    "runs/multi_seed43/execution.json": "35dbf7a54b4bbe46ca8091450fd2e3af699b49a8c3cbfc977ddc8ac424b31142",
+    "runs/multi_seed43/completion.json": "63a35e8eaad073fc8acb3593ea4e52f1809f2ebfde57eadb7d51d490256162bc",
+    "final_results/multi_seed17.npz": "7833fb2976b37b52e10b1e38757cd339c6d86eb5bd1b15bd6dc01f3985711225",
+    "final_results/multi_seed29.npz": "1bb6981a63c97b1d772cfabba96238be99f8ac51b21626aef804b7c0a3d48e98",
+    "final_results/multi_seed43.npz": "dd34e72e938ce3114309832755875edd217563b4618efe7e7d48908fbb1c47bf",
+    "final_results/skeleton_ideal.npz": "288bb0357fc9bd1b78aa1509f5eacc2ffa9309536535f3274148f43d02531c81",
+    "final_results/skeleton_mma.npz": "f72b353b15bf411914653dee73e7530c764d49d9b934b63d607eb781dd2fd009",
+    "final_results/completion.json": "cf780b962e656dbdfdded6a5dbc6a7bd6ae3cbe03f358311a0a236ff8413c270"
+  },
+  "exports_after": {
+    "point_multi_seed17.pt": "6eb579bb5186808d1b6b64b68de70810e41165bdf1512d2f4e5f305d4246095a",
+    "point_multi_seed29.pt": "bce4d0982f741f8303c7c116df3faf0ac1343a6b47560986a777a149695c6996",
+    "point_multi_seed43.pt": "ce7a25050fcbec746f750218c3e84dad6978d6ae7e12061611e5f09531edeb78",
+    "skeleton_ideal.npy": "709fc1bdbe8ddc9e4cbb498696179ff597f4a98750e14517a4fce46d478bacac",
+    "skeleton_mma.npy": "4eac405c2065ddde043afe68d2024f89a3d898e0f1e8922ffaf084bef40a9b8b"
+  },
+  "ended_utc": "2026-09-30T15:57:18.288832+00:00"
+}
