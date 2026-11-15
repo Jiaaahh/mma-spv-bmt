@@ -25,7 +25,7 @@ The complete controlled Step 3 package replayed **91,800 MMA predictions** and *
 
 The E01–E32 maps retain negative results and the distinctions between development, formal confirmation, post-hoc work, whole-glyph and common-window protocols. Original computational and scientific conclusions are not expanded by this release. Other models and all 36 supplementary tables have not been comprehensively rerun, and historical runtime-array checks are not new hardware measurements.
 
-Public paths are redacted. Retained NPZ arrays match the controlled originals; excluded keys are recorded in `provenance/array_transformations.json`. Source-to-candidate hashes, candidate-to-public changes and the final distribution manifest record which bytes were retained or changed. Embedded historical locks/manifests retain their original meaning; `manifest.json` binds the actual public distribution.
+Git attributes preserve exact file bytes on all platforms, including Windows. Public paths are redacted. Retained NPZ arrays match the controlled originals; excluded keys are recorded in `provenance/array_transformations.json`. Source-to-candidate hashes, candidate-to-public changes and the final distribution manifest record which bytes were retained or changed. Embedded historical locks/manifests retain their original meaning; `manifest.json` binds the actual public distribution.
 
 ## License and attribution
 
